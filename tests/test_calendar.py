@@ -10,7 +10,7 @@ from drop_sentinel.models import Platform, ReleaseInfo
 def _make_release(title: str, hours_from_now: int = 24) -> ReleaseInfo:
     return ReleaseInfo(
         title=title,
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         release_time=datetime.now(UTC) + timedelta(hours=hours_from_now),
         url="https://example.com",
         source="test",

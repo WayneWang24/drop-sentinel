@@ -33,7 +33,7 @@ class ShopifyScraper(BaseScraper):
         self.rate_limiter = rate_limiter or RateLimiter()
 
     def get_platform(self) -> Platform:
-        return Platform.SHOPIFY_POPMART
+        return Platform.POPMART
 
     async def fetch_products(self, **kwargs) -> list[Product]:
         """Fetch all products from the Shopify store via public /products.json."""
@@ -142,7 +142,7 @@ class ShopifyScraper(BaseScraper):
 
             return Product(
                 id=str(data.get("id", "")),
-                platform=Platform.SHOPIFY_POPMART,
+                platform=Platform.POPMART,
                 title=data.get("title", ""),
                 url=product_url,
                 image_url=image_url,

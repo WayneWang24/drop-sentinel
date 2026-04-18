@@ -12,7 +12,7 @@ from drop_sentinel.store.diff import DiffEngine
 def _make_product(id: str, title: str, available: bool, price: float = 10.0) -> Product:
     return Product(
         id=id,
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         title=title,
         url=f"https://example.com/products/{id}",
         variants=[Variant(id="v1", title="Default", price=price, available=available)],
@@ -20,7 +20,7 @@ def _make_product(id: str, title: str, available: bool, price: float = 10.0) -> 
 
 
 def _make_snapshot(products: list[Product]) -> Snapshot:
-    return Snapshot(platform=Platform.SHOPIFY_POPMART, products=products)
+    return Snapshot(platform=Platform.POPMART, products=products)
 
 
 def test_first_run_new_products():

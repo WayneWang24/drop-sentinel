@@ -25,3 +25,4 @@ config/config.yml
 config/watchlist.yml
 
 .DS_Store
+data/

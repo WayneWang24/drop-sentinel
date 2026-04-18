@@ -10,11 +10,11 @@ def test_save_and_load_snapshot():
     with tempfile.TemporaryDirectory() as tmpdir:
         store = JsonStore(tmpdir)
         snapshot = Snapshot(
-            platform=Platform.SHOPIFY_POPMART,
+            platform=Platform.POPMART,
             products=[
                 Product(
                     id="1",
-                    platform=Platform.SHOPIFY_POPMART,
+                    platform=Platform.POPMART,
                     title="Test Product",
                     url="https://example.com",
                     variants=[Variant(id="v1", title="Default", price=9.99, available=True)],
@@ -23,7 +23,7 @@ def test_save_and_load_snapshot():
         )
 
         store.save_snapshot(snapshot)
-        loaded = store.load_snapshot(Platform.SHOPIFY_POPMART)
+        loaded = store.load_snapshot(Platform.POPMART)
 
         assert loaded is not None
         assert len(loaded.products) == 1
