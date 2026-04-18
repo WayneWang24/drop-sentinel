@@ -1,0 +1,35 @@
+shopify_stores:
+  - name: popmart_global
+    base_url: https://www.popmart.com
+    enabled: true
+  - name: popmart_sg
+    base_url: https://www.popmart.com/sg
+    enabled: true
+  - name: popmart_jp
+    base_url: https://www.popmart.com/jp
+    enabled: true
+
+damai:
+  enabled: true
+  cities:
+    - 上海
+    - 北京
+    - 广州
+    - 深圳
+
+notifiers:
+  telegram:
+    bot_token: ""  # or set TELEGRAM_BOT_TOKEN env var
+    chat_id: ""    # or set TELEGRAM_CHAT_ID env var
+    enabled: false
+  bark:
+    device_key: ""  # or set BARK_DEVICE_KEY env var
+    enabled: false
+  webhook:
+    url: ""  # or set WEBHOOK_URL env var
+    enabled: false
+
+monitor:
+  interval_seconds: 300
+  rush_interval_seconds: 30
+  max_requests_per_minute: 12
