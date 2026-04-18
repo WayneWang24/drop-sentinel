@@ -72,6 +72,11 @@ class MultiDeviceController:
         options.app_package = app_package
         options.app_activity = app_activity
         options.new_command_timeout = 300
+        # Performance: disable animations, reduce overhead
+        options.set_capability("disableWindowAnimation", True)
+        options.set_capability("shouldTerminateApp", False)
+        options.set_capability("ignoreHiddenApiPolicyError", True)
+        options.set_capability("adbExecTimeout", 20000)
 
         appium_url = f"http://127.0.0.1:{device.appium_port}"
 
