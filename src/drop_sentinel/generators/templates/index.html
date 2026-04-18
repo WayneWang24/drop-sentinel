@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drop Sentinel - Release Monitor</title>
+    <style>
+        :root {
+            --bg: #0d1117;
+            --surface: #161b22;
+            --border: #30363d;
+            --text: #e6edf3;
+            --text-muted: #8b949e;
+            --accent: #58a6ff;
+            --green: #3fb950;
+            --red: #f85149;
+            --yellow: #d29922;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 0;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 24px;
+        }
+        header h1 { font-size: 24px; font-weight: 600; }
+        header h1 span { color: var(--accent); }
+        .updated { color: var(--text-muted); font-size: 14px; }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+        .stat-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 16px;
+        }
+        .stat-card .label { color: var(--text-muted); font-size: 12px; text-transform: uppercase; }
+        .stat-card .value { font-size: 32px; font-weight: 700; margin-top: 4px; }
+        .stat-card .value.green { color: var(--green); }
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border);
+        }
+        .events { margin-bottom: 32px; }
+        .event-list { list-style: none; }
+        .event-item {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px 16px;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .event-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+        .badge-restock { background: rgba(63, 185, 80, 0.2); color: var(--green); }
+        .badge-new { background: rgba(88, 166, 255, 0.2); color: var(--accent); }
+        .badge-oos { background: rgba(248, 81, 73, 0.2); color: var(--red); }
+        .badge-price { background: rgba(210, 153, 34, 0.2); color: var(--yellow); }
+        .event-info { flex: 1; }
+        .event-title { font-weight: 600; }
+        .event-meta { color: var(--text-muted); font-size: 13px; }
+        .event-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .event-link:hover { text-decoration: underline; }
+        .products {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+        }
+        .product-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            overflow: hidden;
+            transition: border-color 0.2s;
+        }
+        .product-card:hover { border-color: var(--accent); }
+        .product-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            background: var(--border);
+        }
+        .product-body { padding: 12px; }
+        .product-title { font-weight: 600; font-size: 14px; margin-bottom: 4px; }
+        .product-price { color: var(--green); font-weight: 700; }
+        .product-status {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-top: 8px;
+        }
+        .status-available { background: rgba(63, 185, 80, 0.2); color: var(--green); }
+        .status-unavailable { background: rgba(248, 81, 73, 0.2); color: var(--red); }
+        footer {
+            text-align: center;
+            padding: 24px;
+            color: var(--text-muted);
+            font-size: 13px;
+            border-top: 1px solid var(--border);
+            margin-top: 32px;
+        }
+        footer a { color: var(--accent); text-decoration: none; }
+        .empty { color: var(--text-muted); text-align: center; padding: 48px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><span>Drop</span> Sentinel</h1>
+            <span class="updated">Updated: {{ updated_at }}</span>
+        </header>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="label">Total Products</div>
+                <div class="value">{{ total_products }}</div>
+            </div>
+            <div class="stat-card">
+                <div class="label">Available</div>
+                <div class="value green">{{ available_products }}</div>
+            </div>
+            <div class="stat-card">
+                <div class="label">Platforms</div>
+                <div class="value">{{ platform_count }}</div>
+            </div>
+            <div class="stat-card">
+                <div class="label">Recent Events</div>
+                <div class="value">{{ recent_events_count }}</div>
+            </div>
+        </div>
+
+        {% if recent_events %}
+        <div class="events">
+            <h2 class="section-title">Recent Events</h2>
+            <ul class="event-list">
+                {% for event in recent_events %}
+                <li class="event-item">
+                    <span class="event-badge badge-{{ event.badge_class }}">{{ event.type_label }}</span>
+                    <div class="event-info">
+                        <div class="event-title">{{ event.product.title }}</div>
+                        <div class="event-meta">{{ event.details }} &middot; {{ event.timestamp }}</div>
+                    </div>
+                    {% if event.product.url %}
+                    <a class="event-link" href="{{ event.product.url }}" target="_blank" rel="noopener">Buy &rarr;</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        <h2 class="section-title">Available Products</h2>
+        {% if available_list %}
+        <div class="products">
+            {% for product in available_list %}
+            <div class="product-card">
+                {% if product.image_url %}
+                <img class="product-img" src="{{ product.image_url }}" alt="{{ product.title }}" loading="lazy">
+                {% else %}
+                <div class="product-img"></div>
+                {% endif %}
+                <div class="product-body">
+                    <div class="product-title">{{ product.title }}</div>
+                    {% if product.min_price is not none %}
+                    <div class="product-price">{{ product.min_price }} {{ product.variants[0].currency if product.variants else "USD" }}</div>
+                    {% endif %}
+                    <span class="product-status status-available">In Stock</span>
+                    {% if product.url %}
+                    <a class="event-link" href="{{ product.url }}" target="_blank" rel="noopener" style="display:block;margin-top:8px;">View &rarr;</a>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="empty">No products being monitored yet. Run <code>drop-sentinel monitor</code> to start.</div>
+        {% endif %}
+    </div>
+
+    <footer>
+        <p>Drop Sentinel &mdash; Release monitoring tool. Not affiliated with any retailer.</p>
+        <p>Data updates every 15 minutes via GitHub Actions. <a href="https://github.com/">View on GitHub</a></p>
+    </footer>
+
+    <script>
+        // Auto-refresh every 5 minutes
+        setTimeout(() => location.reload(), 5 * 60 * 1000);
+    </script>
+</body>
+</html>

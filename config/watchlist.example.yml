@@ -1,0 +1,17 @@
+# Products to monitor for restocks/price changes
+# Add Shopify product handles or URLs
+shopify:
+  - handle: labubu-the-monsters
+    store: popmart_global
+  - handle: dimoo-world
+    store: popmart_global
+
+# Damai keywords to watch
+damai:
+  keywords:
+    - 周杰伦
+    - 五月天
+    - 演唱会
+  cities:
+    - 上海
+    - 北京
