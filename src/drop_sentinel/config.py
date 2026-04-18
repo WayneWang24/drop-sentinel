@@ -14,6 +14,14 @@ class ShopifyStoreConfig(BaseModel):
     enabled: bool = True
 
 
+class PopMartConfig(BaseModel):
+    """Config for Pop Mart CDN scraper."""
+    enabled: bool = True
+    countries: list[str] = Field(default_factory=lambda: ["us"])
+    collection_ids: list[int] = Field(default_factory=lambda: [329, 330, 331])
+    include_new_arrivals: bool = True
+
+
 class DamaiConfig(BaseModel):
     """Config for Damai scraper."""
     enabled: bool = True
@@ -89,11 +97,8 @@ class MonitorConfig(BaseModel):
 
 class Config(BaseModel):
     """Root configuration."""
-    shopify_stores: list[ShopifyStoreConfig] = Field(default_factory=lambda: [
-        ShopifyStoreConfig(name="popmart_global", base_url="https://www.popmart.com"),
-        ShopifyStoreConfig(name="popmart_sg", base_url="https://www.popmart.com/sg"),
-        ShopifyStoreConfig(name="popmart_jp", base_url="https://www.popmart.com/jp"),
-    ])
+    shopify_stores: list[ShopifyStoreConfig] = Field(default_factory=list)
+    popmart: PopMartConfig = Field(default_factory=PopMartConfig)
     damai: DamaiConfig = Field(default_factory=DamaiConfig)
     lazada: LazadaConfig = Field(default_factory=LazadaConfig)
     shopee: ShopeeConfig = Field(default_factory=ShopeeConfig)

@@ -82,6 +82,16 @@ async def _run_monitor(
 
     # Build scrapers based on platform filter
     scrapers = []
+    if platform in ("all", "popmart") and config.popmart.enabled:
+        from drop_sentinel.scrapers.popmart import PopMartScraper
+        scrapers.append(PopMartScraper(
+            countries=config.popmart.countries,
+            collection_ids=config.popmart.collection_ids,
+            include_new_arrivals=config.popmart.include_new_arrivals,
+            user_agent=config.monitor.user_agent,
+            rate_limiter=rate_limiter,
+        ))
+
     if platform in ("all", "shopify"):
         for store_cfg in config.shopify_stores:
             if store_cfg.enabled:
@@ -169,7 +179,7 @@ async def _run_monitor(
 
 @app.command()
 def monitor(
-    platform: str = typer.Option("all", help="Platform: all, shopify, damai, lazada, shopee, social"),
+    platform: str = typer.Option("all", help="Platform: all, popmart, shopify, damai, lazada, shopee, social"),
     config_path: Optional[str] = typer.Option(None, "--config", "-c", help="Path to config.yml"),
     verbose: bool = typer.Option(False, "--verbose", "-v", help="Enable debug logging"),
 ) -> None:
@@ -179,7 +189,7 @@ def monitor(
 
 @app.command()
 def watch(
-    platform: str = typer.Option("all", help="Platform: all, shopify, damai, lazada, shopee, social"),
+    platform: str = typer.Option("all", help="Platform: all, popmart, shopify, damai, lazada, shopee, social"),
     config_path: Optional[str] = typer.Option(None, "--config", "-c"),
     interval: int = typer.Option(0, "--interval", "-i", help="Override interval in seconds (0=use config)"),
     rush: bool = typer.Option(False, "--rush", "-r", help="Rush mode: 30-second intervals"),

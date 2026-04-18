@@ -10,7 +10,8 @@ from drop_sentinel.config import load_config
 
 def test_default_config():
     config = load_config()
-    assert len(config.shopify_stores) == 3
+    assert config.popmart.enabled is True
+    assert "us" in config.popmart.countries
     assert config.monitor.interval_seconds == 300
     assert config.monitor.max_requests_per_minute == 12
 
@@ -48,4 +49,5 @@ def test_env_var_override(monkeypatch):
 def test_missing_config_file():
     config = load_config("/nonexistent/path.yml")
     # Should fall back to defaults
-    assert len(config.shopify_stores) == 3
+    assert config.popmart.enabled is True
+    assert len(config.shopify_stores) == 0
