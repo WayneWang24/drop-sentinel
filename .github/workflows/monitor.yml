@@ -29,9 +29,13 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          DAMAI_APP_KEY: ${{ secrets.DAMAI_APP_KEY }}
+          DAMAI_APP_SECRET: ${{ secrets.DAMAI_APP_SECRET }}
 
-      - name: Generate dashboard
-        run: drop-sentinel dashboard
+      - name: Generate dashboard and calendar
+        run: |
+          drop-sentinel dashboard
+          drop-sentinel calendar
 
       - name: Commit updated data
         run: |

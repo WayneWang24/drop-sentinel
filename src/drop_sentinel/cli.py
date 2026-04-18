@@ -59,6 +59,9 @@ async def _run_monitor(
             chat_id=config.notifiers.telegram.chat_id,
         ))
 
+    from drop_sentinel.scrapers.damai import DamaiScraper
+    from drop_sentinel.scrapers.social import SocialScraper
+
     # Build scrapers based on platform filter
     scrapers = []
     if platform in ("all", "shopify"):
@@ -71,6 +74,23 @@ async def _run_monitor(
                     rate_limiter=rate_limiter,
                 ))
 
+    if platform in ("all", "damai") and config.damai.enabled:
+        scrapers.append(DamaiScraper(
+            cities=config.damai.cities,
+            keywords=config.damai.keywords,
+            app_key=config.damai.app_key,
+            app_secret=config.damai.app_secret,
+            user_agent=config.monitor.user_agent,
+            rate_limiter=rate_limiter,
+        ))
+
+    if platform in ("all", "social") and config.social.enabled:
+        scrapers.append(SocialScraper(
+            feeds=config.social.feeds or None,
+            user_agent=config.monitor.user_agent,
+            rate_limiter=rate_limiter,
+        ))
+
     if not scrapers:
         console.print("[yellow]No scrapers enabled for the selected platform.[/yellow]")
         return
@@ -78,13 +98,14 @@ async def _run_monitor(
     total_events = 0
 
     for scraper in scrapers:
-        console.print(f"[blue]Scanning {scraper.store_name}...[/blue]")
+        name = getattr(scraper, "store_name", scraper.get_platform().value)
+        console.print(f"[blue]Scanning {name}...[/blue]")
 
         try:
             new_snapshot = await scraper.take_snapshot()
         except Exception as e:
-            console.print(f"[red]Error scanning {scraper.store_name}: {e}[/red]")
-            logger.exception(f"Scraper error: {scraper.store_name}")
+            console.print(f"[red]Error scanning {name}: {e}[/red]")
+            logger.exception(f"Scraper error: {name}")
             continue
 
         old_snapshot = store.load_snapshot(scraper.get_platform())
@@ -114,7 +135,7 @@ async def _run_monitor(
 
 @app.command()
 def monitor(
-    platform: str = typer.Option("all", help="Platform to monitor: all, shopify"),
+    platform: str = typer.Option("all", help="Platform: all, shopify, damai, social"),
     config_path: Optional[str] = typer.Option(None, "--config", "-c", help="Path to config.yml"),
     verbose: bool = typer.Option(False, "--verbose", "-v", help="Enable debug logging"),
 ) -> None:
@@ -195,6 +216,21 @@ def status(
             )
 
     console.print(table)
+
+
+@app.command()
+def calendar(
+    config_path: Optional[str] = typer.Option(None, "--config", "-c"),
+    output_dir: str = typer.Option("docs", "--output", "-o", help="Output directory"),
+) -> None:
+    """Generate release calendar (iCal + HTML)."""
+    config = load_config(config_path)
+
+    from drop_sentinel.generators.calendar import CalendarGenerator
+
+    gen = CalendarGenerator(data_dir=config.data_dir, output_dir=output_dir)
+    gen.generate()
+    console.print(f"[green]Calendar generated in {output_dir}/calendar/[/green]")
 
 
 @app.command()

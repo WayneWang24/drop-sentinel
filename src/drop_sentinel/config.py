@@ -18,6 +18,15 @@ class DamaiConfig(BaseModel):
     """Config for Damai scraper."""
     enabled: bool = True
     cities: list[str] = Field(default_factory=lambda: ["上海", "北京", "广州", "深圳"])
+    keywords: list[str] = Field(default_factory=list)
+    app_key: str = ""      # Alibaba TOP API app_key
+    app_secret: str = ""   # Alibaba TOP API app_secret
+
+
+class SocialConfig(BaseModel):
+    """Config for social media monitor."""
+    enabled: bool = True
+    feeds: list[dict] = Field(default_factory=list)  # Custom RSS feeds
 
 
 class TelegramConfig(BaseModel):
@@ -74,6 +83,7 @@ class Config(BaseModel):
         ShopifyStoreConfig(name="popmart_jp", base_url="https://www.popmart.com/jp"),
     ])
     damai: DamaiConfig = Field(default_factory=DamaiConfig)
+    social: SocialConfig = Field(default_factory=SocialConfig)
     notifiers: NotifierConfig = Field(default_factory=NotifierConfig)
     monitor: MonitorConfig = Field(default_factory=MonitorConfig)
     data_dir: str = "data"
@@ -104,5 +114,9 @@ def load_config(config_path: str | Path | None = None) -> Config:
     if webhook_url := os.getenv("WEBHOOK_URL"):
         config.notifiers.webhook.url = webhook_url
         config.notifiers.webhook.enabled = True
+    if damai_key := os.getenv("DAMAI_APP_KEY"):
+        config.damai.app_key = damai_key
+    if damai_secret := os.getenv("DAMAI_APP_SECRET"):
+        config.damai.app_secret = damai_secret
 
     return config
