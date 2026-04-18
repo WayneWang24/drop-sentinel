@@ -1,0 +1,39 @@
+# Automated purchase configuration
+# Copy to config/auto.yml and edit
+
+# Android devices / emulators
+devices:
+  - name: "emulator-1"
+    udid: "emulator-5554"
+    appium_port: 4723
+    system_port: 8200
+    platform_version: "12"
+  # - name: "emulator-2"
+  #   udid: "emulator-5556"
+  #   appium_port: 4724
+  #   system_port: 8201
+
+# Damai ticket targets
+damai_targets:
+  - keyword: ""               # Show name to search
+    show_url: ""               # Or direct URL
+    ticket_tier: 0             # 0 = first tier
+    num_tickets: 1
+    attendee_names:            # Names to select for purchase
+      - "张三"
+      - "李四"
+    max_price: 0               # 0 = any price
+
+# Pop Mart targets
+popmart_targets:
+  - product_name: "LABUBU"
+    action: "lottery"          # lottery (抽签) or flash_sale (定时抢购)
+
+# Timing
+countdown_start_seconds: 60
+click_interval_ms: 100
+
+# Safety
+max_retry: 30
+screenshot_on_error: true
+screenshot_dir: "data/screenshots"
