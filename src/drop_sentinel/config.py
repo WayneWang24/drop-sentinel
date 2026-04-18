@@ -23,6 +23,18 @@ class DamaiConfig(BaseModel):
     app_secret: str = ""   # Alibaba TOP API app_secret
 
 
+class LazadaConfig(BaseModel):
+    """Config for Lazada scraper."""
+    enabled: bool = False
+    stores: dict[str, str] = Field(default_factory=dict)  # country -> store URL overrides
+
+
+class ShopeeConfig(BaseModel):
+    """Config for Shopee scraper."""
+    enabled: bool = False
+    stores: dict[str, str] = Field(default_factory=dict)  # country -> store URL overrides
+
+
 class SocialConfig(BaseModel):
     """Config for social media monitor."""
     enabled: bool = True
@@ -83,6 +95,8 @@ class Config(BaseModel):
         ShopifyStoreConfig(name="popmart_jp", base_url="https://www.popmart.com/jp"),
     ])
     damai: DamaiConfig = Field(default_factory=DamaiConfig)
+    lazada: LazadaConfig = Field(default_factory=LazadaConfig)
+    shopee: ShopeeConfig = Field(default_factory=ShopeeConfig)
     social: SocialConfig = Field(default_factory=SocialConfig)
     notifiers: NotifierConfig = Field(default_factory=NotifierConfig)
     monitor: MonitorConfig = Field(default_factory=MonitorConfig)

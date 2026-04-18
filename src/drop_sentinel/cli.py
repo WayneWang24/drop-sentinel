@@ -102,6 +102,22 @@ async def _run_monitor(
             rate_limiter=rate_limiter,
         ))
 
+    if platform in ("all", "lazada") and config.lazada.enabled:
+        from drop_sentinel.scrapers.lazada import LazadaScraper
+        scrapers.append(LazadaScraper(
+            stores=config.lazada.stores or None,
+            user_agent=config.monitor.user_agent,
+            rate_limiter=rate_limiter,
+        ))
+
+    if platform in ("all", "shopee") and config.shopee.enabled:
+        from drop_sentinel.scrapers.shopee import ShopeeScraper
+        scrapers.append(ShopeeScraper(
+            stores=config.shopee.stores or None,
+            user_agent=config.monitor.user_agent,
+            rate_limiter=rate_limiter,
+        ))
+
     if platform in ("all", "social") and config.social.enabled:
         scrapers.append(SocialScraper(
             feeds=config.social.feeds or None,
@@ -153,7 +169,7 @@ async def _run_monitor(
 
 @app.command()
 def monitor(
-    platform: str = typer.Option("all", help="Platform: all, shopify, damai, social"),
+    platform: str = typer.Option("all", help="Platform: all, shopify, damai, lazada, shopee, social"),
     config_path: Optional[str] = typer.Option(None, "--config", "-c", help="Path to config.yml"),
     verbose: bool = typer.Option(False, "--verbose", "-v", help="Enable debug logging"),
 ) -> None:
@@ -163,7 +179,7 @@ def monitor(
 
 @app.command()
 def watch(
-    platform: str = typer.Option("all", help="Platform: all, shopify, damai, social"),
+    platform: str = typer.Option("all", help="Platform: all, shopify, damai, lazada, shopee, social"),
     config_path: Optional[str] = typer.Option(None, "--config", "-c"),
     interval: int = typer.Option(0, "--interval", "-i", help="Override interval in seconds (0=use config)"),
     rush: bool = typer.Option(False, "--rush", "-r", help="Rush mode: 30-second intervals"),
@@ -296,6 +312,51 @@ def calendar(
     gen = CalendarGenerator(data_dir=config.data_dir, output_dir=output_dir)
     gen.generate()
     console.print(f"[green]Calendar generated in {output_dir}/calendar/[/green]")
+
+
+@app.command()
+def compare(
+    keyword: str = typer.Argument("", help="Filter products by keyword"),
+    config_path: Optional[str] = typer.Option(None, "--config", "-c"),
+) -> None:
+    """Compare prices across all platforms for a product."""
+    config = load_config(config_path)
+
+    from drop_sentinel.helpers.price_compare import compare_prices, format_comparison
+    from drop_sentinel.store.json_store import JsonStore
+
+    store = JsonStore(config.data_dir)
+    all_products = []
+    for plat in Platform:
+        snapshot = store.load_snapshot(plat)
+        if snapshot:
+            all_products.extend(snapshot.products)
+
+    if keyword:
+        all_products = [p for p in all_products if keyword.lower() in p.title.lower()]
+
+    if not all_products:
+        console.print("[yellow]No products found. Run 'monitor' first.[/yellow]")
+        return
+
+    entries = compare_prices(all_products)
+    console.print(format_comparison(entries))
+
+
+@app.command()
+def deeplink(
+    url: str = typer.Argument(..., help="Product URL to generate deep links for"),
+    title: str = typer.Option("", "--title", "-t", help="Product title (for search links)"),
+) -> None:
+    """Generate platform deep links for quick purchase access."""
+    from drop_sentinel.helpers.deeplink import format_deeplinks, generate_deeplinks
+
+    links = generate_deeplinks(url, title)
+    if links:
+        console.print("[blue]Deep Links:[/blue]")
+        console.print(format_deeplinks(links))
+    else:
+        console.print("[yellow]No deep links generated.[/yellow]")
 
 
 @app.command()
