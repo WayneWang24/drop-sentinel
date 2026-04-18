@@ -384,5 +384,140 @@ def dashboard(
     console.print(f"[green]Dashboard generated in {output_dir}/[/green]")
 
 
+@app.command()
+def grab(
+    platform: str = typer.Argument(..., help="Platform: damai, popmart"),
+    sale_time: str = typer.Option("", "--time", "-t", help="Sale time, e.g. '2026-04-20 10:00:00'"),
+    keyword: str = typer.Option("", "--keyword", "-k", help="Show/product keyword to search"),
+    tier: int = typer.Option(0, "--tier", help="Ticket tier index (damai only)"),
+    action: str = typer.Option("lottery", "--action", "-a", help="popmart: lottery or flash_sale"),
+    config_path: Optional[str] = typer.Option(None, "--config", "-c"),
+) -> None:
+    """Automated purchase via Appium + ADB.
+
+    Prerequisites:
+      1. Appium server running (one per device)
+      2. Android device/emulator connected via ADB
+      3. App already open and logged in
+      4. pip install drop-sentinel[auto]
+
+    Examples:
+      drop-sentinel grab damai --keyword "周杰伦" --time "2026-04-20 10:00:00"
+      drop-sentinel grab popmart --keyword "LABUBU" --action lottery
+    """
+    try:
+        from drop_sentinel.auto.controller import MultiDeviceController
+    except ImportError:
+        console.print("[red]Appium not installed. Run: pip install drop-sentinel[auto][/red]")
+        raise typer.Exit(1)
+
+    import yaml
+    from drop_sentinel.auto.config import AutoConfig, DamaiTarget, DeviceConfig, PopMartTarget
+
+    # Load auto config
+    auto_config = AutoConfig()
+    auto_config_path = Path("config/auto.yml")
+    if config_path:
+        auto_config_path = Path(config_path)
+    if auto_config_path.exists():
+        with open(auto_config_path) as f:
+            data = yaml.safe_load(f) or {}
+            auto_config = AutoConfig(**data)
+
+    if not auto_config.devices:
+        console.print("[yellow]No devices configured. Discovering via ADB...[/yellow]")
+        ctrl = MultiDeviceController(auto_config)
+        found = ctrl.discover_devices()
+        if not found:
+            console.print("[red]No devices found. Connect a device or start an emulator.[/red]")
+            raise typer.Exit(1)
+        for i, udid in enumerate(found):
+            auto_config.devices.append(DeviceConfig(
+                name=f"device-{i}",
+                udid=udid,
+                appium_port=4723 + i,
+                system_port=8200 + i,
+            ))
+        console.print(f"[green]Found {len(found)} device(s): {found}[/green]")
+
+    ctrl = MultiDeviceController(auto_config)
+
+    if platform == "damai":
+        from drop_sentinel.auto.damai import DAMAI_ACTIVITY, DAMAI_PACKAGE, purchase_ticket, wait_and_buy
+
+        target = DamaiTarget(keyword=keyword, ticket_tier=tier)
+        if auto_config.damai_targets:
+            target = auto_config.damai_targets[0]
+            if keyword:
+                target.keyword = keyword
+
+        sessions = ctrl.connect_all(DAMAI_PACKAGE, DAMAI_ACTIVITY)
+        if not sessions:
+            console.print("[red]Failed to connect to any device.[/red]")
+            raise typer.Exit(1)
+
+        console.print(f"[blue]Connected to {len(sessions)} device(s). Target: {target.keyword}[/blue]")
+
+        if sale_time:
+            from datetime import datetime
+            ts = datetime.strptime(sale_time, "%Y-%m-%d %H:%M:%S").timestamp()
+            console.print(f"[blue]Waiting for sale at {sale_time}...[/blue]")
+
+            def _task(session):
+                return wait_and_buy(session, target, ts)
+
+            results = ctrl.synchronized_start(_task, ts - 3)
+        else:
+            console.print("[blue]Attempting purchase now...[/blue]")
+            results = ctrl.run_parallel(lambda s: purchase_ticket(s, target))
+
+        for r in results:
+            status = "[green]✅" if r.get("success") else "[red]❌"
+            console.print(f"  {status} {r.get('device', '?')}: {r.get('message', '')}[/]")
+
+        ctrl.disconnect_all()
+
+    elif platform == "popmart":
+        from drop_sentinel.auto.popmart_wx import (
+            WECHAT_ACTIVITY,
+            WECHAT_PACKAGE,
+            flash_purchase,
+            signup_lottery,
+        )
+
+        target = PopMartTarget(product_name=keyword, action=action)
+        if auto_config.popmart_targets:
+            target = auto_config.popmart_targets[0]
+            if keyword:
+                target.product_name = keyword
+
+        sessions = ctrl.connect_all(WECHAT_PACKAGE, WECHAT_ACTIVITY)
+        if not sessions:
+            console.print("[red]Failed to connect to any device.[/red]")
+            raise typer.Exit(1)
+
+        console.print(f"[blue]Connected to {len(sessions)} device(s). Action: {action}[/blue]")
+
+        if action == "lottery":
+            results = ctrl.run_parallel(lambda s: signup_lottery(s, target))
+        else:
+            if sale_time:
+                from datetime import datetime
+                ts = datetime.strptime(sale_time, "%Y-%m-%d %H:%M:%S").timestamp()
+                console.print(f"[blue]Waiting for flash sale at {sale_time}...[/blue]")
+                results = ctrl.synchronized_start(lambda s: flash_purchase(s, target), ts - 3)
+            else:
+                results = ctrl.run_parallel(lambda s: flash_purchase(s, target))
+
+        for r in results:
+            status = "[green]✅" if r.get("success") else "[red]❌"
+            console.print(f"  {status} {r.get('device', '?')}: {r.get('message', '')}[/]")
+
+        ctrl.disconnect_all()
+
+    else:
+        console.print(f"[red]Unsupported platform: {platform}. Use 'damai' or 'popmart'.[/red]")
+
+
 if __name__ == "__main__":
     app()
