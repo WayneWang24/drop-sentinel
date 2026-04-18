@@ -15,7 +15,7 @@ def _make_product(platform: Platform, title: str, price: float, currency: str, a
 
 def test_compare_sorts_by_usd_price():
     products = [
-        _make_product(Platform.SHOPIFY_POPMART, "LABUBU", 12.99, "USD"),
+        _make_product(Platform.POPMART, "LABUBU", 12.99, "USD"),
         _make_product(Platform.LAZADA, "LABUBU", 299.0, "THB"),  # ~$8.37
         _make_product(Platform.SHOPEE, "LABUBU", 16.50, "SGD"),  # ~$12.21
     ]
@@ -23,7 +23,7 @@ def test_compare_sorts_by_usd_price():
     assert len(entries) == 3
     assert entries[0].platform == "lazada"  # cheapest in USD
     assert entries[1].platform == "shopee"
-    assert entries[2].platform == "shopify_popmart"
+    assert entries[2].platform == "popmart"
 
 
 def test_out_of_stock_sorted_last():
@@ -51,9 +51,9 @@ def test_format_comparison_empty():
 
 
 def test_format_comparison_has_content():
-    products = [_make_product(Platform.SHOPIFY_POPMART, "LABUBU", 12.99, "USD")]
+    products = [_make_product(Platform.POPMART, "LABUBU", 12.99, "USD")]
     entries = compare_prices(products)
     text = format_comparison(entries)
-    assert "shopify_popmart" in text
+    assert "popmart" in text
     assert "12.99" in text
     assert "In Stock" in text

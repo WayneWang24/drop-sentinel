@@ -18,7 +18,7 @@ def test_variant_creation():
 def test_product_available_property():
     p = Product(
         id="1",
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         title="Test",
         url="https://example.com",
         variants=[
@@ -33,7 +33,7 @@ def test_product_available_property():
 def test_product_unavailable():
     p = Product(
         id="1",
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         title="Test",
         url="https://example.com",
         variants=[
@@ -47,7 +47,7 @@ def test_product_unavailable():
 def test_product_no_variants():
     p = Product(
         id="1",
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         title="Test",
         url="https://example.com",
     )
@@ -57,11 +57,11 @@ def test_product_no_variants():
 
 def test_snapshot_serialization():
     s = Snapshot(
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         products=[
             Product(
                 id="1",
-                platform=Platform.SHOPIFY_POPMART,
+                platform=Platform.POPMART,
                 title="Test",
                 url="https://example.com",
             ),
@@ -69,14 +69,14 @@ def test_snapshot_serialization():
     )
     json_str = s.model_dump_json()
     loaded = Snapshot.model_validate_json(json_str)
-    assert loaded.platform == Platform.SHOPIFY_POPMART
+    assert loaded.platform == Platform.POPMART
     assert len(loaded.products) == 1
 
 
 def test_event_creation():
     p = Product(
         id="1",
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         title="Test",
         url="https://example.com",
     )

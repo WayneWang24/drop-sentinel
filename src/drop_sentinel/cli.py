@@ -246,7 +246,7 @@ def notify_test(
 
     test_product = Product(
         id="test-001",
-        platform=Platform.SHOPIFY_POPMART,
+        platform=Platform.POPMART,
         title="Test Product - Drop Sentinel",
         url="https://www.popmart.com",
         variants=[Variant(id="1", title="Default", price=9.99, available=True)],

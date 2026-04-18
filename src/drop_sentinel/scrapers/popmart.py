@@ -48,7 +48,7 @@ class PopMartScraper(BaseScraper):
         self.store_name = "popmart_global"
 
     def get_platform(self) -> Platform:
-        return Platform.SHOPIFY_POPMART  # Reuse existing platform enum
+        return Platform.POPMART  # Reuse existing platform enum
 
     async def fetch_products(self, **kwargs) -> list[Product]:
         """Fetch products from Pop Mart CDN endpoints."""
@@ -198,7 +198,7 @@ class PopMartScraper(BaseScraper):
 
             return Product(
                 id=f"popmart_{country}_{spu_id}",
-                platform=Platform.SHOPIFY_POPMART,
+                platform=Platform.POPMART,
                 title=title,
                 url=product_url,
                 image_url=image_url,

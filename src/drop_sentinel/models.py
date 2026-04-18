@@ -8,7 +8,7 @@ from pydantic import BaseModel, Field
 
 class Platform(str, Enum):
     """Supported platforms."""
-    SHOPIFY_POPMART = "shopify_popmart"
+    POPMART = "popmart"
     DAMAI = "damai"
     LAZADA = "lazada"
     SHOPEE = "shopee"
