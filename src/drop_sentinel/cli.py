@@ -58,6 +58,24 @@ async def _run_monitor(
             bot_token=config.notifiers.telegram.bot_token,
             chat_id=config.notifiers.telegram.chat_id,
         ))
+    if config.notifiers.bark.enabled:
+        from drop_sentinel.notifiers.bark import BarkNotifier
+        notifiers.append(BarkNotifier(
+            server_url=config.notifiers.bark.server_url,
+            device_key=config.notifiers.bark.device_key,
+        ))
+    if config.notifiers.email.enabled:
+        from drop_sentinel.notifiers.email import EmailNotifier
+        notifiers.append(EmailNotifier(
+            smtp_host=config.notifiers.email.smtp_host,
+            smtp_port=config.notifiers.email.smtp_port,
+            username=config.notifiers.email.username,
+            password=config.notifiers.email.password,
+            to_addresses=config.notifiers.email.to_addresses,
+        ))
+    if config.notifiers.webhook.enabled:
+        from drop_sentinel.notifiers.webhook import WebhookNotifier
+        notifiers.append(WebhookNotifier(url=config.notifiers.webhook.url))
 
     from drop_sentinel.scrapers.damai import DamaiScraper
     from drop_sentinel.scrapers.social import SocialScraper
@@ -141,6 +159,53 @@ def monitor(
 ) -> None:
     """Run a single monitoring cycle across configured platforms."""
     asyncio.run(_run_monitor(platform, config_path, verbose))
+
+
+@app.command()
+def watch(
+    platform: str = typer.Option("all", help="Platform: all, shopify, damai, social"),
+    config_path: Optional[str] = typer.Option(None, "--config", "-c"),
+    interval: int = typer.Option(0, "--interval", "-i", help="Override interval in seconds (0=use config)"),
+    rush: bool = typer.Option(False, "--rush", "-r", help="Rush mode: 30-second intervals"),
+    verbose: bool = typer.Option(False, "--verbose", "-v"),
+) -> None:
+    """Start continuous monitoring daemon with APScheduler."""
+    setup_logging(verbose)
+
+    try:
+        from apscheduler.schedulers.blocking import BlockingScheduler
+    except ImportError:
+        console.print("[red]APScheduler not installed. Run: pip install drop-sentinel[watch][/red]")
+        raise typer.Exit(1)
+
+    config = load_config(config_path)
+
+    if interval > 0:
+        seconds = interval
+    elif rush:
+        seconds = config.monitor.rush_interval_seconds
+    else:
+        seconds = config.monitor.interval_seconds
+
+    console.print(f"[blue]Starting watch mode (interval: {seconds}s, platform: {platform})[/blue]")
+    console.print("[dim]Press Ctrl+C to stop[/dim]")
+
+    scheduler = BlockingScheduler()
+
+    def _job():
+        try:
+            asyncio.run(_run_monitor(platform, config_path, verbose))
+        except Exception as e:
+            logging.getLogger("drop_sentinel").error(f"Monitor cycle failed: {e}")
+
+    # Run immediately, then on schedule
+    _job()
+    scheduler.add_job(_job, "interval", seconds=seconds, id="monitor")
+
+    try:
+        scheduler.start()
+    except (KeyboardInterrupt, SystemExit):
+        console.print("\n[yellow]Watch mode stopped.[/yellow]")
 
 
 @app.command()
