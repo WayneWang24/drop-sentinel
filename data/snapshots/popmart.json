@@ -1,0 +1,4502 @@
+{
+  "platform": "popmart",
+  "timestamp": "2026-04-20T09:00:16.753708Z",
+  "products": [
+    {
+      "id": "popmart_us_2155",
+      "platform": "popmart",
+      "title": "THE MONSTERS Big into Energy Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2155/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_180558_231663____themonsters_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3334",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3335",
+          "title": "THE MONSTERS",
+          "price": 167.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_675",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
+      "url": "https://www.popmart.com/us/products/675/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_180653_825678____themonsters_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "1044",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "1085",
+          "title": "THE MONSTERS",
+          "price": 167.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3022",
+      "platform": "popmart",
+      "title": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box (A-M)",
+      "url": "https://www.popmart.com/us/products/3022/THE-MONSTERS-Pin-for-Love-Series-Vinyl-Plush-Pendant-Blind-Box-(A-M)",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_181057_151030____themonsters-a-m-1_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "4488",
+          "title": "THE MONSTERS",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "4489",
+          "title": "THE MONSTERS",
+          "price": 321.86,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3023",
+      "platform": "popmart",
+      "title": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box (N-Z)",
+      "url": "https://www.popmart.com/us/products/3023/THE-MONSTERS-Pin-for-Love-Series-Vinyl-Plush-Pendant-Blind-Box-(N-Z)",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_181038_452224____themonsters-n-z-2_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "4490",
+          "title": "THE MONSTERS",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "4491",
+          "title": "THE MONSTERS",
+          "price": 321.86,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2766",
+      "platform": "popmart",
+      "title": "θSKULLPANDA L'impressionnisme Series Plush Doll",
+      "url": "https://www.popmart.com/us/products/2766/θSKULLPANDA-L'impressionnisme-Series-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20250530_163455_830917____1_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "4126",
+          "title": "SKULLPANDA",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "4125",
+          "title": "SKULLPANDA",
+          "price": 296.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1981",
+      "platform": "popmart",
+      "title": "THE MONSTERS COCA-COLA SERIES-Vinyl Face Blind Box",
+      "url": "https://www.popmart.com/us/products/1981/THE-MONSTERS-COCA-COLA-SERIES-Vinyl-Face-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260326_152136_878991____local-warehouse-the-monsters_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3119",
+          "title": "THE MONSTERS",
+          "price": 46.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3120",
+          "title": "THE MONSTERS",
+          "price": 281.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2186",
+      "platform": "popmart",
+      "title": "Mickey Family Cute Together Keychain Series Figures",
+      "url": "https://www.popmart.com/us/products/2186/Mickey-Family-Cute-Together-Keychain-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_182512_841710_________1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3387",
+          "title": "Disney",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3386",
+          "title": "Disney",
+          "price": 223.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2052",
+      "platform": "popmart",
+      "title": "THE MONSTERS × One Piece Series Figures",
+      "url": "https://www.popmart.com/us/products/2052/THE-MONSTERS-×-One-Piece-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250320_140441_305459____1_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3201",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3202",
+          "title": "THE MONSTERS",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3676",
+      "platform": "popmart",
+      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/3676/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_182414_903596____skullpanda_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5480",
+          "title": "SKULLPANDA",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5481",
+          "title": "SKULLPANDA",
+          "price": 359.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2233",
+      "platform": "popmart",
+      "title": "CRYBABY Wild but Cutie Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2233/CRYBABY-Wild-but-Cutie-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250509_181125_584946____1_crybaby-wild-but-cutie-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3445",
+          "title": "CRYBABY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3446",
+          "title": "CRYBABY",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1809",
+      "platform": "popmart",
+      "title": "SKULLPANDA Winter Symphony Series Plush",
+      "url": "https://www.popmart.com/us/products/1809/SKULLPANDA-Winter-Symphony-Series-Plush",
+      "image_url": "https://prod-america-res.popmart.com/default/20241129_141930_639083____6_skullpanda-winter-symphony-series-plush_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2883",
+          "title": "SKULLPANDA",
+          "price": 30.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2882",
+          "title": "SKULLPANDA",
+          "price": 185.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1681",
+      "platform": "popmart",
+      "title": "CRYBABY Crying Again Series-Vinyl Face Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1681/CRYBABY-Crying-Again-Series-Vinyl-Face-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20241106_153507_005765____crybaby-crying-again-series-vinyl-face-plush-blind-box-accessories-pop-mart-us-1_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2719",
+          "title": "CRYBABY",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2718",
+          "title": "CRYBABY",
+          "price": 197.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3866",
+      "platform": "popmart",
+      "title": "WHY SO SERIOUS Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/3866/WHY-SO-SERIOUS-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_182355_172106____why-so-serious_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5752",
+          "title": "WHY SO SERIOUS",
+          "price": 42.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5753",
+          "title": "WHY SO SERIOUS",
+          "price": 343.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "why_so_serious"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1436",
+      "platform": "popmart",
+      "title": "THE MONSTERS Lazy Yoga Series Figures",
+      "url": "https://www.popmart.com/us/products/1436/THE-MONSTERS-Lazy-Yoga-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20240801_111752_972104____the-monsters-lazy-yoga-series-figures-blind-boxes-pop-mart-us-1_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2387",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2386",
+          "title": "THE MONSTERS",
+          "price": 199.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1079",
+      "platform": "popmart",
+      "title": "CRYBABY × Powerpuff Girls Series-Vinyl Face Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1079/CRYBABY-×-Powerpuff-Girls-Series-Vinyl-Face-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240423_155140_785761__1200x1200.jpg",
+      "variants": [
+        {
+          "id": "1623",
+          "title": "CRYBABY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "1624",
+          "title": "CRYBABY",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1897",
+      "platform": "popmart",
+      "title": "THE MONSTERS Let's Checkmate Series-Vinyl Plush Hanging Card",
+      "url": "https://www.popmart.com/us/products/1897/THE-MONSTERS-Let's-Checkmate-Series-Vinyl-Plush-Hanging-Card",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_180847_517669____themonsters_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2998",
+          "title": "THE MONSTERS",
+          "price": 46.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2780",
+      "platform": "popmart",
+      "title": "HACIPUPU Gummy Bear Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2780/HACIPUPU-Gummy-Bear-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250613_171533_811560____1_hacipupu-gummy-bear-series-vinyl-plush-pendant-blind-box_plush-toys-_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "4145",
+          "title": "HACIPUPU",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "4144",
+          "title": "HACIPUPU",
+          "price": 167.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3460",
+      "platform": "popmart",
+      "title": "THE MONSTERS Pin for Love Series- Letter Pendant Blind Box (N-Z)",
+      "url": "https://www.popmart.com/us/products/3460/THE-MONSTERS-Pin-for-Love-Series--Letter-Pendant-Blind-Box-(N-Z)",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_173521_201741____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "5125",
+          "title": "THE MONSTERS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5126",
+          "title": "THE MONSTERS",
+          "price": 265.86,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2235",
+      "platform": "popmart",
+      "title": "Baby Molly Pocket Friends Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2235/Baby-Molly-Pocket-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250516_153004_957792____1_baby-molly-pocket-friends-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3450",
+          "title": "MOLLY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3537",
+          "title": "MOLLY",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2064",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
+      "url": "https://www.popmart.com/us/products/2064/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3220",
+          "title": "DIMOO",
+          "price": 50.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3219",
+          "title": "DIMOO",
+          "price": 305.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1683",
+      "platform": "popmart",
+      "title": "THE MONSTERS COCA-COLA Series Figures",
+      "url": "https://www.popmart.com/us/products/1683/THE-MONSTERS-COCA-COLA-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20241112_154521_706444____1_the-monsters-coca-colaseries-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2722",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2721",
+          "title": "THE MONSTERS",
+          "price": 199.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_210",
+      "platform": "popmart",
+      "title": "THE MONSTERS × Kow Yokoyama Ma.k. Series",
+      "url": "https://www.popmart.com/us/products/210/THE-MONSTERS-×-Kow-Yokoyama-Ma.k.-Series",
+      "image_url": "https://prod-america-res.popmart.com/default/02_L4FAbq3jeS_1200x1200.jpg",
+      "variants": [
+        {
+          "id": "348",
+          "title": "THE MONSTERS",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2579",
+          "title": "THE MONSTERS",
+          "price": 275.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1584",
+      "platform": "popmart",
+      "title": "LABUBU × PRONOUNCE - WINGS OF FORTUNE Vinyl Plush Hanging Card",
+      "url": "https://www.popmart.com/us/products/1584/LABUBU-×-PRONOUNCE---WINGS-OF-FORTUNE-Vinyl-Plush-Hanging-Card",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_181231_966734____labubuxpronounce-wings-of-fortune_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2587",
+          "title": "THE MOSNTERS",
+          "price": 54.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_mosnters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1598",
+      "platform": "popmart",
+      "title": "HACIPUPU The Constellation Series-Vinyl Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1598/HACIPUPU-The-Constellation-Series-Vinyl-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240929_180836_425482____1_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2607",
+          "title": "HACIPUPU",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2608",
+          "title": "HACIPUPU",
+          "price": 251.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2090",
+      "platform": "popmart",
+      "title": "Bikini Bottom Buddies - Whimsical Plush",
+      "url": "https://www.popmart.com/us/products/2090/Bikini-Bottom-Buddies---Whimsical-Plush",
+      "image_url": "https://prod-america-res.popmart.com/default/20260127_182534_130883_________1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3255",
+          "title": "SpongeBob",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3254",
+          "title": "SpongeBob",
+          "price": 113.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "spongebob"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2211",
+      "platform": "popmart",
+      "title": "THE MONSTERS Big into Energy Series-Phone Charm Blind Box",
+      "url": "https://www.popmart.com/us/products/2211/THE-MONSTERS-Big-into-Energy-Series-Phone-Charm-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250418_172858_115976____1_the-monsters-big-into-energy-series-phone-charm-blind-box_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3417",
+          "title": "THE MONSTERS",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3418",
+          "title": "THE MONSTERS",
+          "price": 107.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1870",
+      "platform": "popmart",
+      "title": "CRYBABY Crying For Love Series Figures",
+      "url": "https://www.popmart.com/us/products/1870/CRYBABY-Crying-For-Love-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250115_111921_963207____1_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2968",
+          "title": "CRYBABY",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2967",
+          "title": "CRYBABY",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1317",
+      "platform": "popmart",
+      "title": "SKULLPANDA The Sound Series Figures",
+      "url": "https://www.popmart.com/us/products/1317/SKULLPANDA-The-Sound-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20240619_183041_658908____skullpanda-the-sound-series-figures-blind-boxes-pop-mart-us-6_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2220",
+          "title": "SKULLPANDA",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2219",
+          "title": "SKULLPANDA",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1604",
+      "platform": "popmart",
+      "title": "Hirono × Le Petit Prince Series Figures",
+      "url": "https://www.popmart.com/us/products/1604/Hirono-×-Le-Petit-Prince-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20241012_170523_285993____hirono-x-le-petit-prince-series-figures-blind-boxes-pop-mart-us-1_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2617",
+          "title": "HIRONO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2618",
+          "title": "HIRONO",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2092",
+      "platform": "popmart",
+      "title": "Teletubbies Vibrancy Series Figures",
+      "url": "https://www.popmart.com/us/products/2092/Teletubbies-Vibrancy-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250307_144249_535005____1_teletubbies-vibrancy-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3257",
+          "title": "Teletubbies ",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3258",
+          "title": "Teletubbies ",
+          "price": 167.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "teletubbies_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3944",
+      "platform": "popmart",
+      "title": "Hirono Monsters' Carnival Series Figures",
+      "url": "https://www.popmart.com/us/products/3944/Hirono-Monsters'-Carnival-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20251020_152755_184300____1_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5858",
+          "title": "HIRONO",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5859",
+          "title": "HIRONO",
+          "price": 125.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1172",
+      "platform": "popmart",
+      "title": "THE MONSTERS Almost Hidden Series Figures",
+      "url": "https://www.popmart.com/us/products/1172/THE-MONSTERS-Almost-Hidden-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20240408_153752_028213__1200x1200.jpg",
+      "variants": [
+        {
+          "id": "1987",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "1986",
+          "title": "THE MONSTERS",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3779",
+      "platform": "popmart",
+      "title": "Teletubbies \"Say Hello\" Series Figures",
+      "url": "https://www.popmart.com/us/products/3779/Teletubbies-\"Say-Hello\"-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_326419____1_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5630",
+          "title": "Teletubbies ",
+          "price": 23.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5631",
+          "title": "Teletubbies ",
+          "price": 191.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "teletubbies_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3461",
+      "platform": "popmart",
+      "title": "THE MONSTERS Pin for Love Series- Letter Pendant Blind Box (A-M)",
+      "url": "https://www.popmart.com/us/products/3461/THE-MONSTERS-Pin-for-Love-Series--Letter-Pendant-Blind-Box-(A-M)",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_173124_472536____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "5127",
+          "title": "THE MONSTERS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5128",
+          "title": "THE MONSTERS",
+          "price": 265.86,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1937",
+      "platform": "popmart",
+      "title": "Peach Riot Rush Hour Series Figures",
+      "url": "https://www.popmart.com/us/products/1937/Peach-Riot-Rush-Hour-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250213_092255_274037____1_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3046",
+          "title": "Peach Riot ",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3045",
+          "title": "Peach Riot ",
+          "price": 251.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "peach_riot_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1971",
+      "platform": "popmart",
+      "title": "Demon Slayer: Kimetsu no Yaiba Birth Flower Series Figures",
+      "url": "https://www.popmart.com/us/products/1971/Demon-Slayer:-Kimetsu-no-Yaiba-Birth-Flower-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250107_153946_357001____1_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3104",
+          "title": "POP MART",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3105",
+          "title": "POP MART",
+          "price": 251.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2156",
+      "platform": "popmart",
+      "title": "THE MONSTERS Big into Energy Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2156/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250423_185140_272493____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3336",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1398",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
+      "url": "https://www.popmart.com/us/products/1398/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240801_171550_964930____the-monsters_____800x800.jpg",
+      "variants": [
+        {
+          "id": "2335",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1419",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1419/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240801_174852_583167____the-monsters_____800x800.jpg",
+      "variants": [
+        {
+          "id": "2364",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1372",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1372/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240710_102728_867680____the-monsters-have-a-seat-vinyl-plush-blind-box-blind-boxes-pop-mart-us-6_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2294",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "2295",
+          "title": "THE MONSTERS",
+          "price": 167.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3033",
+      "platform": "popmart",
+      "title": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box (A-M)",
+      "url": "https://www.popmart.com/us/products/3033/THE-MONSTERS-Pin-for-Love-Series-Vinyl-Plush-Pendant-Blind-Box-(A-M)",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_170941_903605____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "4504",
+          "title": "THE MONSTERS",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3034",
+      "platform": "popmart",
+      "title": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box (N-Z)",
+      "url": "https://www.popmart.com/us/products/3034/THE-MONSTERS-Pin-for-Love-Series-Vinyl-Plush-Pendant-Blind-Box-(N-Z)",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_170547_876499____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "4505",
+          "title": "THE MONSTERS",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2790",
+      "platform": "popmart",
+      "title": "θSKULLPANDA L'impressionnisme Series Plush Doll",
+      "url": "https://www.popmart.com/us/products/2790/θSKULLPANDA-L'impressionnisme-Series-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20250530_164745_752183____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "4156",
+          "title": "SKULLPANDA",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3689",
+      "platform": "popmart",
+      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/3689/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20250905_173651_186201____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "5498",
+          "title": "SKULLPANDA",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1470",
+      "platform": "popmart",
+      "title": "THE MONSTERS Lazy Yoga Series Figures",
+      "url": "https://www.popmart.com/us/products/1470/THE-MONSTERS-Lazy-Yoga-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20240802_162812_662934____list_pic1_____800x800.png",
+      "variants": [
+        {
+          "id": "2432",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2244",
+      "platform": "popmart",
+      "title": "CRYBABY Wild but Cutie Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2244/CRYBABY-Wild-but-Cutie-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250512_110125_052925____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3462",
+          "title": "CRYBABY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3910",
+      "platform": "popmart",
+      "title": "WHY SO SERIOUS Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/3910/WHY-SO-SERIOUS-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250929_103451_260485____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "5812",
+          "title": "WHY SO SERIOUS",
+          "price": 42.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "why_so_serious"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1982",
+      "platform": "popmart",
+      "title": "THE MONSTERS COCA-COLA SERIES-Vinyl Face Blind Box",
+      "url": "https://www.popmart.com/us/products/1982/THE-MONSTERS-COCA-COLA-SERIES-Vinyl-Face-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250109_185422_784639____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3121",
+          "title": "THE MONSTERS",
+          "price": 46.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2187",
+      "platform": "popmart",
+      "title": "Mickey Family Cute Together Keychain Series Figures",
+      "url": "https://www.popmart.com/us/products/2187/Mickey-Family-Cute-Together-Keychain-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250226_111524_764862____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3388",
+          "title": "Disney",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2053",
+      "platform": "popmart",
+      "title": "THE MONSTERS × One Piece Series Figures",
+      "url": "https://www.popmart.com/us/products/2053/THE-MONSTERS-×-One-Piece-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250324_104933_871076____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3203",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1397",
+      "platform": "popmart",
+      "title": "CRYBABY × Powerpuff Girls Series-Vinyl Face Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1397/CRYBABY-×-Powerpuff-Girls-Series-Vinyl-Face-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240801_171426_672350____crybaby_____800x800.jpg",
+      "variants": [
+        {
+          "id": "2334",
+          "title": "CRYBABY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1713",
+      "platform": "popmart",
+      "title": "CRYBABY Crying Again Series-Vinyl Face Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1713/CRYBABY-Crying-Again-Series-Vinyl-Face-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20241108_112054_010932____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "2760",
+          "title": "CRYBABY",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1810",
+      "platform": "popmart",
+      "title": "SKULLPANDA Winter Symphony Series Plush",
+      "url": "https://www.popmart.com/us/products/1810/SKULLPANDA-Winter-Symphony-Series-Plush",
+      "image_url": "https://prod-america-res.popmart.com/default/20241129_180106_370555____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "2884",
+          "title": "SKULLPANDA",
+          "price": 30.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3508",
+      "platform": "popmart",
+      "title": "THE MONSTERS Pin for Love Series- Letter Pendant Blind Box (A-M)",
+      "url": "https://www.popmart.com/us/products/3508/THE-MONSTERS-Pin-for-Love-Series--Letter-Pendant-Blind-Box-(A-M)",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_165312_602322____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "5224",
+          "title": "THE MONSTERS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2299",
+      "platform": "popmart",
+      "title": "Baby Molly Pocket Friends Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2299/Baby-Molly-Pocket-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250516_102832_306052____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3532",
+          "title": "MOLLY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2795",
+      "platform": "popmart",
+      "title": "HACIPUPU Gummy Bear Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2795/HACIPUPU-Gummy-Bear-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250613_171449_392498____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "4161",
+          "title": "HACIPUPU",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1620",
+      "platform": "popmart",
+      "title": "Hirono × Le Petit Prince Series Figures",
+      "url": "https://www.popmart.com/us/products/1620/Hirono-×-Le-Petit-Prince-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20241018_182046_333623____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "2638",
+          "title": "HIRONO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2065",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
+      "url": "https://www.popmart.com/us/products/2065/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250317_162236_762009____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3221",
+          "title": "DIMOO",
+          "price": 50.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1724",
+      "platform": "popmart",
+      "title": "THE MONSTERS COCA-COLA Series Figures",
+      "url": "https://www.popmart.com/us/products/1724/THE-MONSTERS-COCA-COLA-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20241115_115423_639153____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "2774",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1578",
+      "platform": "popmart",
+      "title": "THE MONSTERS × Kow Yokoyama Ma.k. Series",
+      "url": "https://www.popmart.com/us/products/1578/THE-MONSTERS-×-Kow-Yokoyama-Ma.k.-Series",
+      "image_url": "https://prod-america-res.popmart.com/default/20240905_112133_178408____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "2578",
+          "title": "THE MONSTERS",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5991",
+      "platform": "popmart",
+      "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5991/THE-MONSTERS-×-Hello-Kitty-and-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260306_171734_298785____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "8428",
+          "title": "THE MONSTERS",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8427",
+          "title": "THE MONSTERS",
+          "price": 239.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5812",
+      "platform": "popmart",
+      "title": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/5812/SKULLPANDA-×-My-Little-Pony-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260130_184415_047786____local-warehouse_skullpanda-my-little-pony-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8193",
+          "title": "SKULLPANDA",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8194",
+          "title": "SKULLPANDA",
+          "price": 239.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5819",
+      "platform": "popmart",
+      "title": "Stitch Adventure Series Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/5819/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260309_155303_694989____local-warehouse_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8204",
+          "title": "Stitch",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8205",
+          "title": "Stitch",
+          "price": 251.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "stitch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5674",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendent Blind Box",
+      "url": "https://www.popmart.com/us/products/5674/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendent-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8013",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8012",
+          "title": "Twinkle Twinkle",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5663",
+      "platform": "popmart",
+      "title": "Pucky Tap Tap Babies Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5663/Pucky-Tap-Tap-Babies-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260309_153902_500667____pucky-local-warehouse_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "7997",
+          "title": "PUCKY",
+          "price": 24.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "7996",
+          "title": "PUCKY",
+          "price": 149.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "pucky"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5691",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series Figures",
+      "url": "https://www.popmart.com/us/products/5691/Twinkle-Twinkle-Crush-On-You-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_175325_098201____1_twinkle-twinkle-crush-on-you-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8032",
+          "title": "Twinkle Twinkle",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8033",
+          "title": "Twinkle Twinkle",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5696",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Series Figures",
+      "url": "https://www.popmart.com/us/products/5696/THE-MONSTERS-10th-Anniversary-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260123_180420_273444____1_the-monsters-10th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8038",
+          "title": "THE MONSTERS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8039",
+          "title": "THE MONSTERS",
+          "price": 170.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5990",
+      "platform": "popmart",
+      "title": "THE MONSTERS × HELLO KITTY - Vinyl Plush Doll",
+      "url": "https://www.popmart.com/us/products/5990/THE-MONSTERS-×-HELLO-KITTY---Vinyl-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260306_171132_186800____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "8426",
+          "title": "THE MONSTERS",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5824",
+      "platform": "popmart",
+      "title": "Angry Molly - Angry Energy Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/5824/Angry-Molly---Angry-Energy-Series-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260220_163856_444820____1_angry-molly-angry-energy-series-plush-pendant_plush-toys-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8211",
+          "title": "MOLLY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8212",
+          "title": "MOLLY",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6090",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES - Football-shaped Mini Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/6090/THE-MONSTERS-×-FIFA-SERIES---Football-shaped-Mini-Bag-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_175319_733053____1_the-monsters-fifa-series-football-shaped-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8562",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8563",
+          "title": "THE MONSTERS",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6071",
+      "platform": "popmart",
+      "title": "Hirono Tamed Wildgrass Series Figures",
+      "url": "https://www.popmart.com/us/products/6071/Hirono-Tamed-Wildgrass-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260402_095527_620724____2_hirono-tamed-wildgrass-series-figures_blind-box-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8532",
+          "title": "Hirono",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8533",
+          "title": "Hirono",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6093",
+      "platform": "popmart",
+      "title": "DIMOO The Secret Theatre Club Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6093/DIMOO-The-Secret-Theatre-Club-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260409_161403_083028____2_dimoo-the-secret-theatre-club-series-vinyl-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8569",
+          "title": "DIMOO",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8568",
+          "title": "DIMOO",
+          "price": 197.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6070",
+      "platform": "popmart",
+      "title": "Hirono Little Hare Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/6070/Hirono-Little-Hare-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260414_162201_853221____local-warehouse_hirono-little-hare-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8531",
+          "title": "Hirono",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5701",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Series-ZIMOMO Vinyl Plush Doll",
+      "url": "https://www.popmart.com/us/products/5701/THE-MONSTERS-10th-Anniversary-Series-ZIMOMO-Vinyl-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260123_175742_965080____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "8046",
+          "title": "THE MONSTERS",
+          "price": 299.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6083",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Catch the Win Vinyl Plush Doll",
+      "url": "https://www.popmart.com/us/products/6083/THE-MONSTERS-×-FIFA-SERIES-Catch-the-Win-Vinyl-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180238_489694____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "8550",
+          "title": "THE MONSTERS",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5827",
+      "platform": "popmart",
+      "title": "NARUTO SHIPPUDEN Childhood Series Figures",
+      "url": "https://www.popmart.com/us/products/5827/NARUTO-SHIPPUDEN-Childhood-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260320_171833_982938____1_naruto-shippuden-childhood-series-figures_blind-boxes-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8216",
+          "title": "NARUTO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8217",
+          "title": "NARUTO",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "naruto"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5668",
+      "platform": "popmart",
+      "title": "Hello Kitty and Friends Sweet Dream Bubble House Series Scene Sets",
+      "url": "https://www.popmart.com/us/products/5668/Hello-Kitty-and-Friends-Sweet-Dream-Bubble-House-Series-Scene-Sets",
+      "image_url": "https://prod-america-res.popmart.com/default/20260109_173643_829566____1_hello-kitty-and-friends-sweet-dream-bubble-house-series-scene-sets_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8004",
+          "title": "POP MART",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8005",
+          "title": "POP MART",
+          "price": 151.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5992",
+      "platform": "popmart",
+      "title": "Star Wars Grogu Tiny But Mighty Series Figures",
+      "url": "https://www.popmart.com/us/products/5992/Star-Wars-Grogu-Tiny-But-Mighty-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_102622_103625____1_star-wars-grogu-tiny-but-mighty-series-figures_blind-boxes-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8429",
+          "title": "Star Wars",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8430",
+          "title": "Star Wars",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "star_wars"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5755",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Series-Phone Charm",
+      "url": "https://www.popmart.com/us/products/5755/THE-MONSTERS-10th-Anniversary-Series-Phone-Charm",
+      "image_url": "https://prod-america-res.popmart.com/default/20260123_181323_418504____1_the-monsters-10th-anniversary-series-phone-charm_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8121",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8250",
+          "title": "THE MONSTERS",
+          "price": 179.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5699",
+      "platform": "popmart",
+      "title": "MEGA LABUBU 400% Tenth Anniversary",
+      "url": "https://www.popmart.com/us/products/5699/MEGA-LABUBU-400%-Tenth-Anniversary",
+      "image_url": "https://prod-america-res.popmart.com/default/20260126_155319_116342____1_mega-labubu-400-tenth-anniversary_mega_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8044",
+          "title": "MEGA",
+          "price": 314.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "mega"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5998",
+      "platform": "popmart",
+      "title": "HELLO KITTY AND FRIENDS Pink Party Series Figures",
+      "url": "https://www.popmart.com/us/products/5998/HELLO-KITTY-AND-FRIENDS-Pink-Party-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260313_173335_679646____1_hello-kitty-and-friends-pink-party-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8439",
+          "title": "HELLO KITTY AND FRIENDS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8440",
+          "title": "HELLO KITTY AND FRIENDS",
+          "price": 113.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hello_kitty_and_friends"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6086",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES - Bottle Opener Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/6086/THE-MONSTERS-×-FIFA-SERIES---Bottle-Opener-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_174712_077102____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "8556",
+          "title": "THE MONSTERS",
+          "price": 15.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8555",
+          "title": "THE MONSTERS",
+          "price": 95.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5820",
+      "platform": "popmart",
+      "title": "CRYBABY Tears Launch Project Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5820/CRYBABY-Tears-Launch-Project-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260213_103425_583170____1_crybaby-tears-launch-project-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8206",
+          "title": "CRYBABY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8207",
+          "title": "CRYBABY",
+          "price": 125.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5817",
+      "platform": "popmart",
+      "title": "Zsiga Under the Sun Series Figures",
+      "url": "https://www.popmart.com/us/products/5817/Zsiga-Under-the-Sun-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260206_102347_550837____1_zsiga-under-the-sun-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8200",
+          "title": "Zsiga",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8201",
+          "title": "Zsiga",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "zsiga"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5786",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Wonderful Journey Series-Card Holder",
+      "url": "https://www.popmart.com/us/products/5786/Twinkle-Twinkle-Wonderful-Journey-Series-Card-Holder",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_173527_914032____1_twinkle-twinkle-wonderful-journey-series-card-holder_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8161",
+          "title": "Twinkle Twinkle",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5826",
+      "platform": "popmart",
+      "title": "Chapter 1 – Merodi After School Series Figures",
+      "url": "https://www.popmart.com/us/products/5826/Chapter-1-–-Merodi-After-School-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260220_172721_846711____1_chapter-1-merodi-after-school-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8214",
+          "title": "Merodi",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8215",
+          "title": "Merodi",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "merodi"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6084",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
+      "url": "https://www.popmart.com/us/products/6084/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8551",
+          "title": "THE MONSTERS",
+          "price": 12.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8552",
+          "title": "THE MONSTERS",
+          "price": 77.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5753",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Series-Mini Cup",
+      "url": "https://www.popmart.com/us/products/5753/THE-MONSTERS-10th-Anniversary-Series-Mini-Cup",
+      "image_url": "https://prod-america-res.popmart.com/default/20260123_180657_196168____1_the-monsters-10th-anniversary-series-mini-cup_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8116",
+          "title": "THE MONSTERS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8117",
+          "title": "THE MONSTERS",
+          "price": 170.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2886",
+      "platform": "popmart",
+      "title": "MEGA CRYBABY 400% Crying in Pink",
+      "url": "https://www.popmart.com/us/products/2886/MEGA-CRYBABY-400%-Crying-in-Pink",
+      "image_url": "https://prod-america-res.popmart.com/default/20251225_110504_886574____1_mega-crybaby-400-crying-in-pink_mega-mega_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "4299",
+          "title": "CRYBABY",
+          "price": 359.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5672",
+      "platform": "popmart",
+      "title": "Peach Riot À La Mode Figures",
+      "url": "https://www.popmart.com/us/products/5672/Peach-Riot-À-La-Mode-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_183021_714677____1_peach-riot-la-mode-figures_figurine_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8010",
+          "title": "Peach Riot",
+          "price": 129.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "peach_riot"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5835",
+      "platform": "popmart",
+      "title": "Chapter 1 – Merodi After School Series Figures",
+      "url": "https://www.popmart.com/us/products/5835/Chapter-1-–-Merodi-After-School-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260220_173111_344871____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8225",
+          "title": "Merodi",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "merodi"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6042",
+      "platform": "popmart",
+      "title": "HELLO KITTY AND FRIENDS Pink Party Series Figures",
+      "url": "https://www.popmart.com/us/products/6042/HELLO-KITTY-AND-FRIENDS-Pink-Party-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260313_174315_493299____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8494",
+          "title": "Hello Kitty and Friends",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hello_kitty_and_friends"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5830",
+      "platform": "popmart",
+      "title": "Zsiga Under the Sun Series Figures",
+      "url": "https://www.popmart.com/us/products/5830/Zsiga-Under-the-Sun-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260206_102818_622210____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8220",
+          "title": "Zsiga",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "zsiga"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5833",
+      "platform": "popmart",
+      "title": "CRYBABY Tears Launch Project Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5833/CRYBABY-Tears-Launch-Project-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260213_103542_505330____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8223",
+          "title": "CRYBABY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6124",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES - Bottle Opener Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/6124/THE-MONSTERS-×-FIFA-SERIES---Bottle-Opener-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_181330_281561____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8607",
+          "title": "THE MONSTERS",
+          "price": 15.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6122",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
+      "url": "https://www.popmart.com/us/products/6122/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_181056_845536____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8605",
+          "title": "THE MONSTERS",
+          "price": 12.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5778",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Series-Mini Cup",
+      "url": "https://www.popmart.com/us/products/5778/THE-MONSTERS-10th-Anniversary-Series-Mini-Cup",
+      "image_url": "https://prod-america-res.popmart.com/default/20260130_191424_385815____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8153",
+          "title": "THE MONSTERS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5776",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Series-Phone Charm",
+      "url": "https://www.popmart.com/us/products/5776/THE-MONSTERS-10th-Anniversary-Series-Phone-Charm",
+      "image_url": "https://prod-america-res.popmart.com/default/20260123_182805_560697____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8151",
+          "title": "THE MONSTERS",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6017",
+      "platform": "popmart",
+      "title": "Star Wars Grogu Tiny But Mighty Series Figures",
+      "url": "https://www.popmart.com/us/products/6017/Star-Wars-Grogu-Tiny-But-Mighty-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260306_172531_924465____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8462",
+          "title": "Star Wars",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "star_wars"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5690",
+      "platform": "popmart",
+      "title": "Hello Kitty and Friends Sweet Dream Bubble House Series Scene Sets",
+      "url": "https://www.popmart.com/us/products/5690/Hello-Kitty-and-Friends-Sweet-Dream-Bubble-House-Series-Scene-Sets",
+      "image_url": "https://prod-america-res.popmart.com/default/20260109_160145_597738____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8031",
+          "title": "POP MART",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5836",
+      "platform": "popmart",
+      "title": "NARUTO SHIPPUDEN Childhood Series Figures",
+      "url": "https://www.popmart.com/us/products/5836/NARUTO-SHIPPUDEN-Childhood-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260320_172726_728273____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8226",
+          "title": "NARUTO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "naruto"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6214",
+      "platform": "popmart",
+      "title": "DIMOO The Secret Theatre Club Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6214/DIMOO-The-Secret-Theatre-Club-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260403_173034_540434____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8730",
+          "title": "DIMOO",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6116",
+      "platform": "popmart",
+      "title": "Hirono Tamed Wildgrass Series Figures",
+      "url": "https://www.popmart.com/us/products/6116/Hirono-Tamed-Wildgrass-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180842_997336____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8599",
+          "title": "Hirono",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6126",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES - Football-shaped Mini Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/6126/THE-MONSTERS-×-FIFA-SERIES---Football-shaped-Mini-Bag-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_181531_745211____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8609",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5834",
+      "platform": "popmart",
+      "title": "Angry Molly - Angry Energy Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/5834/Angry-Molly---Angry-Energy-Series-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260220_164852_597678____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8224",
+          "title": "MOLLY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5775",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Series Figures",
+      "url": "https://www.popmart.com/us/products/5775/THE-MONSTERS-10th-Anniversary-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260123_182525_191355____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8150",
+          "title": "THE MONSTERS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5759",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series Figures",
+      "url": "https://www.popmart.com/us/products/5759/Twinkle-Twinkle-Crush-On-You-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_175610_700384____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8126",
+          "title": "Twinkle Twinkle",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5697",
+      "platform": "popmart",
+      "title": "Frieren: Beyond Journey's End Series Figures",
+      "url": "https://www.popmart.com/us/products/5697/Frieren:-Beyond-Journey's-End-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260119_164823_460260_____frieren-beyond-joumey-s-end-series-figures_bjd_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8040",
+          "title": "Frieren",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8041",
+          "title": "Frieren",
+          "price": 119.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "frieren"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5761",
+      "platform": "popmart",
+      "title": "Frieren: Beyond Journey's End Series Figures",
+      "url": "https://www.popmart.com/us/products/5761/Frieren:-Beyond-Journey's-End-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_180411_624595____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8128",
+          "title": "Frieren",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "frieren"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5688",
+      "platform": "popmart",
+      "title": "Pucky Tap Tap Babies Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5688/Pucky-Tap-Tap-Babies-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260109_160303_640292____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8029",
+          "title": "PUCKY",
+          "price": 24.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "pucky"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5758",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendent Blind Box",
+      "url": "https://www.popmart.com/us/products/5758/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendent-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_174205_151274____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8125",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5832",
+      "platform": "popmart",
+      "title": "Stitch Adventure Series Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/5832/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260206_103818_788120____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8222",
+          "title": "Stitch",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "stitch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5828",
+      "platform": "popmart",
+      "title": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/5828/SKULLPANDA-×-My-Little-Pony-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260130_175028_940964____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8218",
+          "title": "SKULLPANDA",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6016",
+      "platform": "popmart",
+      "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6016/THE-MONSTERS-×-Hello-Kitty-and-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260306_172716_652280____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8461",
+          "title": "THE MONSTERS",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6202",
+      "platform": "popmart",
+      "title": "SKULLPANDA Amid Flowers Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/6202/SKULLPANDA-Amid-Flowers-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_173245_881985____1_skullpanda-amid-flowers-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8718",
+          "title": "SKULLPANDA",
+          "price": 49.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6201",
+      "platform": "popmart",
+      "title": "SKULLPANDA Petals in Four Acts Series Figures",
+      "url": "https://www.popmart.com/us/products/6201/SKULLPANDA-Petals-in-Four-Acts-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_172918_968935____1_skullpanda-petals-in-four-acts-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8716",
+          "title": "SKULLPANDA",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8717",
+          "title": "SKULLPANDA",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6308",
+      "platform": "popmart",
+      "title": "SKULLPANDA Petals in Four Acts Series Figures",
+      "url": "https://www.popmart.com/us/products/6308/SKULLPANDA-Petals-in-Four-Acts-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_175423_539619____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8866",
+          "title": "SKULLPANDA",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6199",
+      "platform": "popmart",
+      "title": "SKULLPANDA Petals in Four Acts Series Earphone Bag",
+      "url": "https://www.popmart.com/us/products/6199/SKULLPANDA-Petals-in-Four-Acts-Series-Earphone-Bag",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_172652_294223____1_skullpanda-petals-in-four-acts-series-earphone-bag_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8714",
+          "title": "SKULLPANDA",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6198",
+      "platform": "popmart",
+      "title": "SKULLPANDA Petals in Four Acts Series Fridge Magnet",
+      "url": "https://www.popmart.com/us/products/6198/SKULLPANDA-Petals-in-Four-Acts-Series-Fridge-Magnet",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_172425_055615____1_skullpanda-petals-in-four-acts-series-fridge-magnet_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8713",
+          "title": "SKULLPANDA",
+          "price": 13.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8712",
+          "title": "SKULLPANDA",
+          "price": 83.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6307",
+      "platform": "popmart",
+      "title": "SKULLPANDA Petals in Four Acts Series Fridge Magnet",
+      "url": "https://www.popmart.com/us/products/6307/SKULLPANDA-Petals-in-Four-Acts-Series-Fridge-Magnet",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_180056_139914____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8865",
+          "title": "SKULLPANDA",
+          "price": 13.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6197",
+      "platform": "popmart",
+      "title": "PUCKY FLYING BABIES SERIES - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6197/PUCKY-FLYING-BABIES-SERIES---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_171414_156315____1_pucky-flying-babies-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8711",
+          "title": "PUCKY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8710",
+          "title": "PUCKY",
+          "price": 125.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pucky"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6298",
+      "platform": "popmart",
+      "title": "PUCKY FLYING BABIES SERIES - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6298/PUCKY-FLYING-BABIES-SERIES---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_174006_211343____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8856",
+          "title": "PUCKY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pucky"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6097",
+      "platform": "popmart",
+      "title": "PUCKY Dreamy Wishes Series Figures",
+      "url": "https://www.popmart.com/us/products/6097/PUCKY-Dreamy-Wishes-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_171749_413305____1_pucky-dreamy-wishes-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8574",
+          "title": "PUCKY",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8575",
+          "title": "PUCKY",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pucky"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6306",
+      "platform": "popmart",
+      "title": "PUCKY Dreamy Wishes Series Figures",
+      "url": "https://www.popmart.com/us/products/6306/PUCKY-Dreamy-Wishes-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_174359_161089____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8864",
+          "title": "PUCKY",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pucky"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6195",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × VANS Ride The Dream Figure",
+      "url": "https://www.popmart.com/us/products/6195/DIMOO-WORLD-×-VANS-Ride-The-Dream-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_171037_441270____1_dimoo-world-vans-ride-the-dream-figure_figurine-_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8708",
+          "title": "DIMOO",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6194",
+      "platform": "popmart",
+      "title": "CHAKA Candlelit Wander Series Figures",
+      "url": "https://www.popmart.com/us/products/6194/CHAKA-Candlelit-Wander-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_170741_459078____1_chaka-candlelit-wander-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8706",
+          "title": "CHAKA",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8707",
+          "title": "CHAKA",
+          "price": 167.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "chaka"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6297",
+      "platform": "popmart",
+      "title": "CHAKA Candlelit Wander Series Figures",
+      "url": "https://www.popmart.com/us/products/6297/CHAKA-Candlelit-Wander-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_173702_823081____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8855",
+          "title": "CHAKA",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "chaka"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6098",
+      "platform": "popmart",
+      "title": "Residents of Bikini Bottom-Whimsical Plush Part 2",
+      "url": "https://www.popmart.com/us/products/6098/Residents-of-Bikini-Bottom-Whimsical-Plush-Part-2",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_172558_414526____1_residents-of-bikini-bottom-whimsical-plush-part-2_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8577",
+          "title": "SpongeBob",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8576",
+          "title": "SpongeBob",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "spongebob"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6100",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Ice Cream Plush Pendant Blind Box (Overseas Ver.)",
+      "url": "https://www.popmart.com/us/products/6100/MOON-GELATO-Series-Ice-Cream-Plush-Pendant-Blind-Box-(Overseas-Ver.)",
+      "image_url": "https://prod-america-res.popmart.com/default/20260416_092652_801467____2_moon-gelato-series-ice-cream-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8580",
+          "title": "Twinkle Twinkle",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8579",
+          "title": "Twinkle Twinkle",
+          "price": 83.96,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6102",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Honey Plush Pendant",
+      "url": "https://www.popmart.com/us/products/6102/MOON-GELATO-Series-Honey-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260416_093118_226880____2_moon-gelato-series-honey-plush-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8583",
+          "title": "Twinkle Twinkle",
+          "price": 24.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6105",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Milk Pudding Plush Blister Pack",
+      "url": "https://www.popmart.com/us/products/6105/MOON-GELATO-Series-Milk-Pudding-Plush-Blister-Pack",
+      "image_url": "https://prod-america-res.popmart.com/default/20260416_093019_520227____2_moon-gelato-series-milk-pudding-plush-blister-pack_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8586",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6106",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Gelato Pendant",
+      "url": "https://www.popmart.com/us/products/6106/MOON-GELATO-Series-Gelato-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260416_092844_834762____2_moon-gelato-series-double-scoop-gelato-pendant_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8587",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8760",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6103",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Baker Plush Doll",
+      "url": "https://www.popmart.com/us/products/6103/MOON-GELATO-Series-Baker-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260416_093155_120129____2_moon-gelato-series-baker-plush-doll_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8584",
+          "title": "Twinkle Twinkle",
+          "price": 44.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6232",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Create Your Taste Series-Tumbler Blind Box",
+      "url": "https://www.popmart.com/us/products/6232/Twinkle-Twinkle-Create-Your-Taste-Series-Tumbler-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_175706_871570____1_twinkle-twinkle-create-your-taste-series-tumbler-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8754",
+          "title": "Twinkle Twinkle",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8755",
+          "title": "Twinkle Twinkle",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6101",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Hand Towel Blind Box",
+      "url": "https://www.popmart.com/us/products/6101/MOON-GELATO-Series-Hand-Towel-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_173831_289962____1_moon-gelato-series-hand-towel-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8582",
+          "title": "Twinkle Twinkle",
+          "price": 10.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8581",
+          "title": "Twinkle Twinkle",
+          "price": 65.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6099",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Affogato Crossbody Bag",
+      "url": "https://www.popmart.com/us/products/6099/MOON-GELATO-Series-Affogato-Crossbody-Bag",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_172856_605329____1_moon-gelato-series-affogato-crossbody-bag_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8578",
+          "title": "Twinkle Twinkle",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6104",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Plush Baguette Bag",
+      "url": "https://www.popmart.com/us/products/6104/MOON-GELATO-Series-Plush-Baguette-Bag",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_174705_023127____1_moon-gelato-series-plush-baguette-bag_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8585",
+          "title": "Twinkle Twinkle",
+          "price": 36.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6229",
+      "platform": "popmart",
+      "title": "Residents of Bikini Bottom-Whimsical Plush Part 2",
+      "url": "https://www.popmart.com/us/products/6229/Residents-of-Bikini-Bottom-Whimsical-Plush-Part-2",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_180417_527130____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8751",
+          "title": "SpongeBob",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "spongebob"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6230",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Ice Cream Plush Pendant Blind Box (Overseas Ver.)",
+      "url": "https://www.popmart.com/us/products/6230/MOON-GELATO-Series-Ice-Cream-Plush-Pendant-Blind-Box-(Overseas-Ver.)",
+      "image_url": "https://prod-america-res.popmart.com/default/20260417_161837_497304____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8752",
+          "title": "Twinkle Twinkle",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6231",
+      "platform": "popmart",
+      "title": "MOON GELATO Series-Hand Towel Blind Box",
+      "url": "https://www.popmart.com/us/products/6231/MOON-GELATO-Series-Hand-Towel-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_180817_002949____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8753",
+          "title": "Twinkle Twinkle",
+          "price": 10.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6233",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Create Your Taste Series-Tumbler Blind Box",
+      "url": "https://www.popmart.com/us/products/6233/Twinkle-Twinkle-Create-Your-Taste-Series-Tumbler-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260410_180955_757028____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8756",
+          "title": "Twinkle Twinkle",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6092",
+      "platform": "popmart",
+      "title": "DIMOO The Secret Theatre Club Series - Earphone Case Blind Box",
+      "url": "https://www.popmart.com/us/products/6092/DIMOO-The-Secret-Theatre-Club-Series---Earphone-Case-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260403_172349_575347____1_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8567",
+          "title": "DIMOO",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8566",
+          "title": "DIMOO",
+          "price": 131.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6213",
+      "platform": "popmart",
+      "title": "DIMOO The Secret Theatre Club Series - Earphone Case Blind Box",
+      "url": "https://www.popmart.com/us/products/6213/DIMOO-The-Secret-Theatre-Club-Series---Earphone-Case-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260403_172643_993947____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8729",
+          "title": "DIMOO",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6215",
+      "platform": "popmart",
+      "title": "Marvel Iron Man: A Journey Through Armors Series Figures",
+      "url": "https://www.popmart.com/us/products/6215/Marvel-Iron-Man:-A-Journey-Through-Armors-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260403_173354_861804____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8731",
+          "title": "Marvel Iron Man",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "marvel_iron_man"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6095",
+      "platform": "popmart",
+      "title": "Marvel Iron Man: A Journey Through Armors Series Figures",
+      "url": "https://www.popmart.com/us/products/6095/Marvel-Iron-Man:-A-Journey-Through-Armors-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260403_173152_009926____1_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8571",
+          "title": "Marvel",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8572",
+          "title": "Marvel",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "marvel"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6088",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/6088/THE-MONSTERS-×-FIFA-SERIES-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260402_095754_498927____2_the-monsters-fifa-series-vinyl-plush-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8559",
+          "title": "THE MONSTERS",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6069",
+      "platform": "popmart",
+      "title": "Baby Molly 20th Anniversary Vinyl Plush Blister Pack",
+      "url": "https://www.popmart.com/us/products/6069/Baby-Molly-20th-Anniversary-Vinyl-Plush-Blister-Pack",
+      "image_url": "https://prod-america-res.popmart.com/default/20260402_095852_044848____local-warehouse_baby-molly-20th-anniversary-vinyl-plush-blister-pack_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8530",
+          "title": "Baby Molly",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "baby_molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6078",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way 20th Anniversary Series Figures",
+      "url": "https://www.popmart.com/us/products/6078/MOLLY-Scenery-Along-the-Way-20th-Anniversary-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260402_100004_009778____local-warehouse_molly-scenery-along-the-way-20th-anniversary-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8541",
+          "title": "MOLLY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8542",
+          "title": "MOLLY",
+          "price": 188.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6072",
+      "platform": "popmart",
+      "title": "LABUBU Jazz Figure",
+      "url": "https://www.popmart.com/us/products/6072/LABUBU-Jazz-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_175209_889874____1_labubu-jazz-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8534",
+          "title": "LABUBU",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "labubu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6087",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Mini Pendant Light Blind Box",
+      "url": "https://www.popmart.com/us/products/6087/THE-MONSTERS-×-FIFA-SERIES-Mini-Pendant-Light-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_174953_601286____1_the-monsters-fifa-series-mini-pendant-light-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8558",
+          "title": "THE MONSTERS",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8557",
+          "title": "THE MONSTERS",
+          "price": 125.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6085",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Long Lanyard Blind Box",
+      "url": "https://www.popmart.com/us/products/6085/THE-MONSTERS-×-FIFA-SERIES-Long-Lanyard-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_174410_849781____1_the-monsters-x-fifa-series-long-lanyard-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8554",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8553",
+          "title": "THE MONSTERS",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6076",
+      "platform": "popmart",
+      "title": "MOLLY 20th Anniversary Series 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/6076/MOLLY-20th-Anniversary-Series-1-8-Action-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_171757_887409____1_molly-20th-anniversary-series-1-8-action-figure_bjd_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8538",
+          "title": "MOLLY",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8539",
+          "title": "MOLLY",
+          "price": 159.98,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6077",
+      "platform": "popmart",
+      "title": "MOLLY Lost Triceratops Building Block Art",
+      "url": "https://www.popmart.com/us/products/6077/MOLLY-Lost-Triceratops-Building-Block-Art",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_172144_587208____1_molly-lost-triceratops-building-block-art_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8540",
+          "title": "MOLLY",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6081",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way Series-Mini Memory Album Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/6081/MOLLY-Scenery-Along-the-Way-Series-Mini-Memory-Album-Bag-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173942_254944____1_molly-scenery-along-the-way-series-mini-memory-album-bag-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8547",
+          "title": "MOLLY",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8548",
+          "title": "MOLLY",
+          "price": 131.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6080",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way Series - Decorative Charm Blind Box",
+      "url": "https://www.popmart.com/us/products/6080/MOLLY-Scenery-Along-the-Way-Series---Decorative-Charm-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173522_435471____1_molly-scenery-along-the-way-series-decorative-charm-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8545",
+          "title": "MOLLY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8546",
+          "title": "MOLLY",
+          "price": 125.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6074",
+      "platform": "popmart",
+      "title": "MOLLY 20th Anniversary Memorial Album",
+      "url": "https://www.popmart.com/us/products/6074/MOLLY-20th-Anniversary-Memorial-Album",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_171354_947934____1_molly-20th-anniversary-memorial-album_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8536",
+          "title": "MOLLY",
+          "price": 112.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6125",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Mini Pendant Light Blind Box",
+      "url": "https://www.popmart.com/us/products/6125/THE-MONSTERS-×-FIFA-SERIES-Mini-Pendant-Light-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_181429_647997____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8608",
+          "title": "THE MONSTERS",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6123",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Long Lanyard Blind Box",
+      "url": "https://www.popmart.com/us/products/6123/THE-MONSTERS-×-FIFA-SERIES-Long-Lanyard-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_181218_638714____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8606",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6121",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way Series-Mini Memory Album Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/6121/MOLLY-Scenery-Along-the-Way-Series-Mini-Memory-Album-Bag-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_174344_537914____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8604",
+          "title": "MOLLY",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6120",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way Series - Decorative Charm  Blind Box",
+      "url": "https://www.popmart.com/us/products/6120/MOLLY-Scenery-Along-the-Way-Series---Decorative-Charm--Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173729_713355____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8603",
+          "title": "MOLLY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6119",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way Series - Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/6119/MOLLY-Scenery-Along-the-Way-Series---Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173314_412848____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8602",
+          "title": "MOLLY",
+          "price": 14.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6118",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way 20th Anniversary Series Figures",
+      "url": "https://www.popmart.com/us/products/6118/MOLLY-Scenery-Along-the-Way-20th-Anniversary-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_172920_309031____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8601",
+          "title": "MOLLY",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6079",
+      "platform": "popmart",
+      "title": "MOLLY Scenery Along the Way Series - Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/6079/MOLLY-Scenery-Along-the-Way-Series---Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173110_092707____1_molly-scenery-along-the-way-series-fridge-magnet-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8544",
+          "title": "MOLLY",
+          "price": 14.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8543",
+          "title": "MOLLY",
+          "price": 89.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6117",
+      "platform": "popmart",
+      "title": "MOLLY 20th Anniversary Series 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/6117/MOLLY-20th-Anniversary-Series-1-8-Action-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_172020_070674____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8600",
+          "title": "MOLLY",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6114",
+      "platform": "popmart",
+      "title": "Crayon Shinchan POP CUBE-3 Series Figures",
+      "url": "https://www.popmart.com/us/products/6114/Crayon-Shinchan-POP-CUBE-3-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180657_725956____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8597",
+          "title": "Crayon Shinchan",
+          "price": 13.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crayon_shinchan"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6113",
+      "platform": "popmart",
+      "title": "Crayon Shinchan POP CUBE-2 Series Figures",
+      "url": "https://www.popmart.com/us/products/6113/Crayon-Shinchan-POP-CUBE-2-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180204_442084____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8596",
+          "title": "Crayon Shinchan",
+          "price": 13.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crayon_shinchan"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6112",
+      "platform": "popmart",
+      "title": "Crayon Shinchan POP CUBE-1 Series Figures",
+      "url": "https://www.popmart.com/us/products/6112/Crayon-Shinchan-POP-CUBE-1-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180031_959008____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8595",
+          "title": "Crayon Shinchan",
+          "price": 13.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crayon_shinchan"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6009",
+      "platform": "popmart",
+      "title": "Crayon Shinchan POP CUBE-3 Series Figures",
+      "url": "https://www.popmart.com/us/products/6009/Crayon-Shinchan-POP-CUBE-3-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_174857_233565____1_crayon-shinchan-pop-cube-3-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8453",
+          "title": "Crayon Shinchan",
+          "price": 13.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8454",
+          "title": "Crayon Shinchan",
+          "price": 125.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crayon_shinchan"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6008",
+      "platform": "popmart",
+      "title": "Crayon Shinchan POP CUBE-2 Series Figures",
+      "url": "https://www.popmart.com/us/products/6008/Crayon-Shinchan-POP-CUBE-2-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_174606_280512____1_crayon-shinchan-pop-cube-2-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8451",
+          "title": "Crayon Shinchan",
+          "price": 13.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8452",
+          "title": "Crayon Shinchan",
+          "price": 125.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crayon_shinchan"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6007",
+      "platform": "popmart",
+      "title": "Crayon Shinchan POP CUBE-1 Series Figures",
+      "url": "https://www.popmart.com/us/products/6007/Crayon-Shinchan-POP-CUBE-1-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_174222_492918____1_crayon-shinchan-pop-cube-1-series-figures_-blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8449",
+          "title": "Crayon Shinchan",
+          "price": 13.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8450",
+          "title": "Crayon Shinchan",
+          "price": 125.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crayon_shinchan"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6006",
+      "platform": "popmart",
+      "title": "POLAR – Just One Bite! Magic Beanling Figure",
+      "url": "https://www.popmart.com/us/products/6006/POLAR-–-Just-One-Bite!-Magic-Beanling-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260320_172200_269782____1_polar-just-one-bite-magic-beanling-figure_figurine-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8448",
+          "title": "POLAR",
+          "price": 43.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "polar"
+      ],
+      "created_at": null,
+      "updated_at": null
+    }
+  ]
+}
