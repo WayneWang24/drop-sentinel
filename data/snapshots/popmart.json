@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-21T02:03:47.753808Z",
+  "timestamp": "2026-04-21T05:09:04.669345Z",
   "products": [
     {
       "id": "popmart_us_2155",
@@ -3370,7 +3370,7 @@
           "title": "SpongeBob",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
