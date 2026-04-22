@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-22T07:04:04.273927Z",
+  "timestamp": "2026-04-22T08:56:12.615464Z",
   "products": [
     {
       "id": "popmart_us_2155",
@@ -1936,7 +1936,6 @@
         }
       ],
       "tags": [
-        "new",
         "hirono"
       ],
       "created_at": null,
@@ -3862,37 +3861,6 @@
       "tags": [
         "new",
         "baby_molly"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6078",
-      "platform": "popmart",
-      "title": "MOLLY Scenery Along the Way 20th Anniversary Series Figures",
-      "url": "https://www.popmart.com/us/products/6078/MOLLY-Scenery-Along-the-Way-20th-Anniversary-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260422_094820_791365____molly_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8541",
-          "title": "MOLLY",
-          "price": 20.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8542",
-          "title": "MOLLY",
-          "price": 188.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "molly"
       ],
       "created_at": null,
       "updated_at": null
