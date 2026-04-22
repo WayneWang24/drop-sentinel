@@ -1,7 +1,60 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-22T10:13:38.995985Z",
+  "timestamp": "2026-04-22T11:32:17.034219Z",
   "products": [
+    {
+      "id": "popmart_us_675",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
+      "url": "https://www.popmart.com/us/products/675/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250722_141315_691269____1_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "1044",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "1085",
+          "title": "THE MONSTERS",
+          "price": 167.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1419",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1419/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240801_174852_583167____the-monsters_____800x800.jpg",
+      "variants": [
+        {
+          "id": "2364",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
     {
       "id": "popmart_us_2155",
       "platform": "popmart",
@@ -34,31 +87,47 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_675",
+      "id": "popmart_us_3910",
       "platform": "popmart",
-      "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
-      "url": "https://www.popmart.com/us/products/675/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250722_141315_691269____1_the-monsters-exciting-macaron-vinyl-face-blind-box_plush-toys_details_popmart-us_____1200x1200.jpg",
+      "title": "WHY SO SERIOUS Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/3910/WHY-SO-SERIOUS-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250929_103451_260485____list_pic_____800x800.png",
       "variants": [
         {
-          "id": "1044",
-          "title": "THE MONSTERS",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "1085",
-          "title": "THE MONSTERS",
-          "price": 167.94,
+          "id": "5812",
+          "title": "WHY SO SERIOUS",
+          "price": 42.99,
           "currency": "USD",
           "available": true,
           "sku": ""
         }
       ],
       "tags": [
-        "the_monsters"
+        "hot",
+        "why_so_serious"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3689",
+      "platform": "popmart",
+      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/3689/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20250905_173651_186201____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "5498",
+          "title": "SKULLPANDA",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "skullpanda"
       ],
       "created_at": null,
       "updated_at": null
@@ -118,6 +187,29 @@
         }
       ],
       "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1398",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
+      "url": "https://www.popmart.com/us/products/1398/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240801_171550_964930____the-monsters_____800x800.jpg",
+      "variants": [
+        {
+          "id": "2335",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
         "the_monsters"
       ],
       "created_at": null,
@@ -184,6 +276,89 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_3676",
+      "platform": "popmart",
+      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/3676/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20250905_171941_658721____1_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5480",
+          "title": "SKULLPANDA",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5481",
+          "title": "SKULLPANDA",
+          "price": 359.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2156",
+      "platform": "popmart",
+      "title": "THE MONSTERS Big into Energy Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2156/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250423_185140_272493____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "3336",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1681",
+      "platform": "popmart",
+      "title": "CRYBABY Crying Again Series-Vinyl Face Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1681/CRYBABY-Crying-Again-Series-Vinyl-Face-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20241106_153507_005765____crybaby-crying-again-series-vinyl-face-plush-blind-box-accessories-pop-mart-us-1_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "2719",
+          "title": "CRYBABY",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2718",
+          "title": "CRYBABY",
+          "price": 197.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_2186",
       "platform": "popmart",
       "title": "Mickey Family Cute Together Keychain Series Figures",
@@ -245,36 +420,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_3676",
-      "platform": "popmart",
-      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/3676/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20250905_171941_658721____1_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "5480",
-          "title": "SKULLPANDA",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "5481",
-          "title": "SKULLPANDA",
-          "price": 359.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "skullpanda"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_2233",
       "platform": "popmart",
       "title": "CRYBABY Wild but Cutie Series - Vinyl Plush Pendant Blind Box",
@@ -330,36 +475,6 @@
       ],
       "tags": [
         "skullpanda"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_1681",
-      "platform": "popmart",
-      "title": "CRYBABY Crying Again Series-Vinyl Face Plush Blind Box",
-      "url": "https://www.popmart.com/us/products/1681/CRYBABY-Crying-Again-Series-Vinyl-Face-Plush-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20241106_153507_005765____crybaby-crying-again-series-vinyl-face-plush-blind-box-accessories-pop-mart-us-1_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "2719",
-          "title": "CRYBABY",
-          "price": 32.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "2718",
-          "title": "CRYBABY",
-          "price": 197.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "crybaby"
       ],
       "created_at": null,
       "updated_at": null
@@ -1069,75 +1184,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_2156",
-      "platform": "popmart",
-      "title": "THE MONSTERS Big into Energy Series-Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/2156/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250423_185140_272493____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "3336",
-          "title": "THE MONSTERS",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_1398",
-      "platform": "popmart",
-      "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
-      "url": "https://www.popmart.com/us/products/1398/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20240801_171550_964930____the-monsters_____800x800.jpg",
-      "variants": [
-        {
-          "id": "2335",
-          "title": "THE MONSTERS",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_1419",
-      "platform": "popmart",
-      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
-      "url": "https://www.popmart.com/us/products/1419/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20240801_174852_583167____the-monsters_____800x800.jpg",
-      "variants": [
-        {
-          "id": "2364",
-          "title": "THE MONSTERS",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_1372",
       "platform": "popmart",
       "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
@@ -1236,29 +1282,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_3689",
-      "platform": "popmart",
-      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/3689/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20250905_173651_186201____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "5498",
-          "title": "SKULLPANDA",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "skullpanda"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_1470",
       "platform": "popmart",
       "title": "THE MONSTERS Lazy Yoga Series Figures",
@@ -1298,29 +1321,6 @@
       ],
       "tags": [
         "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_3910",
-      "platform": "popmart",
-      "title": "WHY SO SERIOUS Series-Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/3910/WHY-SO-SERIOUS-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250929_103451_260485____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "5812",
-          "title": "WHY SO SERIOUS",
-          "price": 42.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "why_so_serious"
       ],
       "created_at": null,
       "updated_at": null
@@ -3015,7 +3015,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA Amid Flowers Plush Doll Pendant",
       "url": "https://www.popmart.com/us/products/6202/SKULLPANDA-Amid-Flowers-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20260417_173245_881985____1_skullpanda-amid-flowers-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260422_180144_833062____skullpanda_____1200x1200.jpg",
       "variants": [
         {
           "id": "8718",
@@ -3038,7 +3038,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA Petals in Four Acts Series Figures",
       "url": "https://www.popmart.com/us/products/6201/SKULLPANDA-Petals-in-Four-Acts-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260417_172918_968935____1_skullpanda-petals-in-four-acts-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260422_182100_539271____skullpanda_____1200x1200.jpg",
       "variants": [
         {
           "id": "8716",
@@ -3092,7 +3092,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA Petals in Four Acts Series Earphone Bag",
       "url": "https://www.popmart.com/us/products/6199/SKULLPANDA-Petals-in-Four-Acts-Series-Earphone-Bag",
-      "image_url": "https://prod-america-res.popmart.com/default/20260417_172652_294223____1_skullpanda-petals-in-four-acts-series-earphone-bag_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260422_180401_999636____skullpanda_____1200x1200.jpg",
       "variants": [
         {
           "id": "8714",
@@ -3277,7 +3277,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × VANS Ride The Dream Figure",
       "url": "https://www.popmart.com/us/products/6195/DIMOO-WORLD-×-VANS-Ride-The-Dream-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20260417_171037_441270____1_dimoo-world-vans-ride-the-dream-figure_figurine-_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260422_180909_192365____dimoo-world-vans_____1200x1200.jpg",
       "variants": [
         {
           "id": "8708",
@@ -3631,7 +3631,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3654,7 +3654,7 @@
           "title": "Twinkle Twinkle",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3677,7 +3677,7 @@
           "title": "Twinkle Twinkle",
           "price": 10.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3700,7 +3700,7 @@
           "title": "Twinkle Twinkle",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3754,7 +3754,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3777,7 +3777,7 @@
           "title": "Marvel Iron Man",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4101,7 +4101,7 @@
           "title": "THE MONSTERS",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4124,7 +4124,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4147,7 +4147,7 @@
           "title": "MOLLY",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4170,7 +4170,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4193,7 +4193,7 @@
           "title": "MOLLY",
           "price": 14.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4216,7 +4216,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4270,7 +4270,7 @@
           "title": "MOLLY",
           "price": 79.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4293,7 +4293,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4316,7 +4316,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4339,7 +4339,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
