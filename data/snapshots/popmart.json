@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-23T02:38:12.800544Z",
+  "timestamp": "2026-04-23T05:17:43.892008Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3076,7 +3076,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3153,7 +3153,7 @@
           "title": "SKULLPANDA",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3207,7 +3207,7 @@
           "title": "PUCKY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3338,7 +3338,7 @@
           "title": "CHAKA",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
