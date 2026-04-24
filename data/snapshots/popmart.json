@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-24T16:44:46.042565Z",
+  "timestamp": "2026-04-24T17:38:36.810135Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3115,6 +3115,115 @@
       "tags": [
         "new",
         "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6271",
+      "platform": "popmart",
+      "title": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/6271/aespa-Fluffy-Club-Series-Vinyl-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_180758_088465____1_aespa-fluffy-club-series-vinyl-plush-doll-pendant_plush-toys-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8812",
+          "title": "aespa",
+          "price": 32.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8813",
+          "title": "aespa",
+          "price": 131.96,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "aespa"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6272",
+      "platform": "popmart",
+      "title": "aespa Fluffy Club Series Card Holder",
+      "url": "https://www.popmart.com/us/products/6272/aespa-Fluffy-Club-Series-Card-Holder",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_181324_417520____1_aespa-fluffy-club-series-card-holder_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8974",
+          "title": "aespa",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8975",
+          "title": "aespa",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8976",
+          "title": "aespa",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8814",
+          "title": "aespa",
+          "price": 20.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "aespa"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6273",
+      "platform": "popmart",
+      "title": "aespa Fluffy Club Series Phone Lanyard",
+      "url": "https://www.popmart.com/us/products/6273/aespa-Fluffy-Club-Series-Phone-Lanyard",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_180954_799097____1_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8819",
+          "title": "aespa",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8818",
+          "title": "aespa",
+          "price": 79.96,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "aespa"
       ],
       "created_at": null,
       "updated_at": null
