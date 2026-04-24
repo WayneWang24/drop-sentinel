@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-24T10:45:07.732570Z",
+  "timestamp": "2026-04-24T11:45:52.987085Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3011,6 +3011,192 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_6348",
+      "platform": "popmart",
+      "title": "Disney/Pixar Toy Story 5 Series Figures",
+      "url": "https://www.popmart.com/us/products/6348/Disney-Pixar-Toy-Story-5-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_181942_104839____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8916",
+          "title": "Disney",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6345",
+      "platform": "popmart",
+      "title": "Nyota Where Moments Meet Series Plush Doll",
+      "url": "https://www.popmart.com/us/products/6345/Nyota-Where-Moments-Meet-Series-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_181632_044167____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8913",
+          "title": "Nyota",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6275",
+      "platform": "popmart",
+      "title": "Disney/Pixar Toy Story 5 Series Figures",
+      "url": "https://www.popmart.com/us/products/6275/Disney-Pixar-Toy-Story-5-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_175900_738751____1_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8822",
+          "title": "Disney",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8823",
+          "title": "Disney",
+          "price": 170.91,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6270",
+      "platform": "popmart",
+      "title": "THE MONSTERS Chasing Mermaids Series Blocks",
+      "url": "https://www.popmart.com/us/products/6270/THE-MONSTERS-Chasing-Mermaids-Series-Blocks",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_175431_175684____1_the-monsters-chasing-mermaids-series-blocks_blocks-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8809",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8807",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8808",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8810",
+          "title": "THE MONSTERS",
+          "price": 179.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8811",
+          "title": "THE MONSTERS",
+          "price": 268.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6268",
+      "platform": "popmart",
+      "title": "Nyota Where Moments Meet Series Plush Doll",
+      "url": "https://www.popmart.com/us/products/6268/Nyota-Where-Moments-Meet-Series-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_175048_814474____1_-nyota-where-moments-meet-series-plush-doll_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8803",
+          "title": "Nyota",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8804",
+          "title": "Nyota",
+          "price": 223.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6267",
+      "platform": "popmart",
+      "title": "Hirono Behind Time Figure",
+      "url": "https://www.popmart.com/us/products/6267/Hirono-Behind-Time-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_174821_582979____1_hirono-behind-time-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8802",
+          "title": "Hirono",
+          "price": 49.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_6202",
       "platform": "popmart",
       "title": "SKULLPANDA Amid Flowers Plush Doll Pendant",
@@ -3076,7 +3262,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3153,7 +3339,7 @@
           "title": "SKULLPANDA",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3207,7 +3393,7 @@
           "title": "PUCKY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3261,7 +3447,7 @@
           "title": "PUCKY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3338,7 +3524,7 @@
           "title": "CHAKA",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3631,7 +3817,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3654,7 +3840,7 @@
           "title": "Twinkle Twinkle",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3677,7 +3863,7 @@
           "title": "Twinkle Twinkle",
           "price": 10.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3700,7 +3886,7 @@
           "title": "Twinkle Twinkle",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3754,7 +3940,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3777,7 +3963,7 @@
           "title": "Marvel Iron Man",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4101,7 +4287,7 @@
           "title": "THE MONSTERS",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4124,7 +4310,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4147,7 +4333,7 @@
           "title": "MOLLY",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4170,7 +4356,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4193,7 +4379,7 @@
           "title": "MOLLY",
           "price": 14.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4216,7 +4402,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4270,7 +4456,7 @@
           "title": "MOLLY",
           "price": 79.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4293,7 +4479,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4316,7 +4502,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4339,7 +4525,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
