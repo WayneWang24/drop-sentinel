@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-24T11:45:52.987085Z",
+  "timestamp": "2026-04-24T12:58:49.314478Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3011,16 +3011,24 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6348",
+      "id": "popmart_us_6268",
       "platform": "popmart",
-      "title": "Disney/Pixar Toy Story 5 Series Figures",
-      "url": "https://www.popmart.com/us/products/6348/Disney-Pixar-Toy-Story-5-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_181942_104839____list_pic_____800x800.png",
+      "title": "Nyota Where Moments Meet Series Plush Doll",
+      "url": "https://www.popmart.com/us/products/6268/Nyota-Where-Moments-Meet-Series-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_175048_814474____1_-nyota-where-moments-meet-series-plush-doll_plush-toys_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
-          "id": "8916",
-          "title": "Disney",
-          "price": 18.99,
+          "id": "8803",
+          "title": "Nyota",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8804",
+          "title": "Nyota",
+          "price": 223.92,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -3028,7 +3036,7 @@
       ],
       "tags": [
         "new",
-        "disney"
+        "nyota"
       ],
       "created_at": null,
       "updated_at": null
@@ -3052,37 +3060,6 @@
       "tags": [
         "new",
         "nyota"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6275",
-      "platform": "popmart",
-      "title": "Disney/Pixar Toy Story 5 Series Figures",
-      "url": "https://www.popmart.com/us/products/6275/Disney-Pixar-Toy-Story-5-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_175900_738751____1_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8822",
-          "title": "Disney",
-          "price": 18.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8823",
-          "title": "Disney",
-          "price": 170.91,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "disney"
       ],
       "created_at": null,
       "updated_at": null
@@ -3143,37 +3120,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6268",
-      "platform": "popmart",
-      "title": "Nyota Where Moments Meet Series Plush Doll",
-      "url": "https://www.popmart.com/us/products/6268/Nyota-Where-Moments-Meet-Series-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_175048_814474____1_-nyota-where-moments-meet-series-plush-doll_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8803",
-          "title": "Nyota",
-          "price": 27.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8804",
-          "title": "Nyota",
-          "price": 223.92,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "nyota"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_6267",
       "platform": "popmart",
       "title": "Hirono Behind Time Figure",
@@ -3192,6 +3138,60 @@
       "tags": [
         "new",
         "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6275",
+      "platform": "popmart",
+      "title": "Disney/Pixar Toy Story 5 Series Figures",
+      "url": "https://www.popmart.com/us/products/6275/Disney-Pixar-Toy-Story-5-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_175900_738751____1_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8822",
+          "title": "Disney",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8823",
+          "title": "Disney",
+          "price": 170.91,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6348",
+      "platform": "popmart",
+      "title": "Disney/Pixar Toy Story 5 Series Figures",
+      "url": "https://www.popmart.com/us/products/6348/Disney-Pixar-Toy-Story-5-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_181942_104839____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "8916",
+          "title": "Disney",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "disney"
       ],
       "created_at": null,
       "updated_at": null
