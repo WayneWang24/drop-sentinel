@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-25T14:36:05.300425Z",
+  "timestamp": "2026-04-25T15:25:44.365062Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3065,61 +3065,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6270",
-      "platform": "popmart",
-      "title": "THE MONSTERS Chasing Mermaids Series Blocks",
-      "url": "https://www.popmart.com/us/products/6270/THE-MONSTERS-Chasing-Mermaids-Series-Blocks",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_175431_175684____1_the-monsters-chasing-mermaids-series-blocks_blocks-_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8809",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8807",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8808",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8810",
-          "title": "THE MONSTERS",
-          "price": 179.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8811",
-          "title": "THE MONSTERS",
-          "price": 268.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_6271",
       "platform": "popmart",
       "title": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
@@ -3224,6 +3169,61 @@
       "tags": [
         "new",
         "aespa"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6270",
+      "platform": "popmart",
+      "title": "THE MONSTERS Chasing Mermaids Series Blocks",
+      "url": "https://www.popmart.com/us/products/6270/THE-MONSTERS-Chasing-Mermaids-Series-Blocks",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_175431_175684____1_the-monsters-chasing-mermaids-series-blocks_blocks-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8809",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8807",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8808",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8810",
+          "title": "THE MONSTERS",
+          "price": 179.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8811",
+          "title": "THE MONSTERS",
+          "price": 268.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
