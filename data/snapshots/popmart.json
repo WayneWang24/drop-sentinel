@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-25T09:35:50.854928Z",
+  "timestamp": "2026-04-25T10:28:11.784659Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3371,7 +3371,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3448,7 +3448,7 @@
           "title": "SKULLPANDA",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3502,7 +3502,7 @@
           "title": "PUCKY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3556,7 +3556,7 @@
           "title": "PUCKY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3633,7 +3633,7 @@
           "title": "CHAKA",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3926,7 +3926,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3949,7 +3949,7 @@
           "title": "Twinkle Twinkle",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3972,7 +3972,7 @@
           "title": "Twinkle Twinkle",
           "price": 10.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3995,7 +3995,7 @@
           "title": "Twinkle Twinkle",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4049,7 +4049,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4072,7 +4072,7 @@
           "title": "Marvel Iron Man",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4396,7 +4396,7 @@
           "title": "THE MONSTERS",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4419,7 +4419,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4442,7 +4442,7 @@
           "title": "MOLLY",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4465,7 +4465,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4488,7 +4488,7 @@
           "title": "MOLLY",
           "price": 14.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4511,7 +4511,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4565,7 +4565,7 @@
           "title": "MOLLY",
           "price": 79.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4588,7 +4588,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4611,7 +4611,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4634,7 +4634,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
