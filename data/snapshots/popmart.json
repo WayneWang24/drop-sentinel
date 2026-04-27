@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-27T05:00:19.942107Z",
+  "timestamp": "2026-04-27T07:35:49.403183Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3227,14 +3227,6 @@
       "image_url": "https://prod-america-res.popmart.com/default/20260424_175431_175684____1_the-monsters-chasing-mermaids-series-blocks_blocks-_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
-          "id": "8809",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
           "id": "8807",
           "title": "THE MONSTERS",
           "price": 29.99,
@@ -3244,6 +3236,14 @@
         },
         {
           "id": "8808",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8809",
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
@@ -4215,7 +4215,7 @@
       "variants": [
         {
           "id": "8534",
-          "title": "LABUBU",
+          "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
           "available": true,
@@ -4224,7 +4224,7 @@
       ],
       "tags": [
         "new",
-        "labubu"
+        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
