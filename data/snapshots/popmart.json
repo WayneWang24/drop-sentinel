@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-26T23:54:48.211947Z",
+  "timestamp": "2026-04-27T01:48:40.864370Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -4734,29 +4734,6 @@
       "tags": [
         "new",
         "crayon_shinchan"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6006",
-      "platform": "popmart",
-      "title": "POLAR – Just One Bite! Magic Beanling Figure",
-      "url": "https://www.popmart.com/us/products/6006/POLAR-–-Just-One-Bite!-Magic-Beanling-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20260320_172200_269782____1_polar-just-one-bite-magic-beanling-figure_figurine-_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8448",
-          "title": "POLAR",
-          "price": 43.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "polar"
       ],
       "created_at": null,
       "updated_at": null
