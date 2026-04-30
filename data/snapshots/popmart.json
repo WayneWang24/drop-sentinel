@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-30T13:01:50.881660Z",
+  "timestamp": "2026-04-30T15:21:18.485402Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2859,7 +2859,7 @@
           "title": "Frieren",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
