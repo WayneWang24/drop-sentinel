@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-30T01:23:04.564166Z",
+  "timestamp": "2026-04-30T04:49:39.754386Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2700,7 +2700,7 @@
           "title": "NARUTO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3053,7 +3053,7 @@
           "title": "Nyota",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3107,7 +3107,7 @@
           "title": "aespa",
           "price": 32.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3161,7 +3161,7 @@
           "title": "aespa",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3340,7 +3340,7 @@
           "title": "Disney",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
