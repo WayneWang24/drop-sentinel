@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-04-30T04:49:39.754386Z",
+  "timestamp": "2026-04-30T07:24:07.557524Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3022,7 +3022,7 @@
           "title": "Nyota",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3030,7 +3030,7 @@
           "title": "Nyota",
           "price": 223.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3076,7 +3076,7 @@
           "title": "aespa",
           "price": 32.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3084,7 +3084,7 @@
           "title": "aespa",
           "price": 131.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3130,7 +3130,7 @@
           "title": "aespa",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3138,7 +3138,7 @@
           "title": "aespa",
           "price": 79.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3184,7 +3184,7 @@
           "title": "aespa",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3192,7 +3192,7 @@
           "title": "aespa",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3200,7 +3200,7 @@
           "title": "aespa",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3208,7 +3208,7 @@
           "title": "aespa",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3231,7 +3231,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3239,7 +3239,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3247,7 +3247,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3255,7 +3255,7 @@
           "title": "THE MONSTERS",
           "price": 179.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3263,7 +3263,7 @@
           "title": "THE MONSTERS",
           "price": 268.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3309,7 +3309,7 @@
           "title": "Disney",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3317,7 +3317,7 @@
           "title": "Disney",
           "price": 170.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
