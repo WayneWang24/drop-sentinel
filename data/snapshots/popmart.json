@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-01T05:03:18.170633Z",
+  "timestamp": "2026-05-01T07:36:06.839830Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3084,7 +3084,7 @@
           "title": "aespa",
           "price": 131.96,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4288,7 +4288,7 @@
           "title": "MOLLY",
           "price": 159.98,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
