@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-01T10:50:40.111199Z",
+  "timestamp": "2026-05-01T11:50:59.435891Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3011,6 +3011,37 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_6269",
+      "platform": "popmart",
+      "title": "POLAR-Season 3 < Polar In Monster Village > Series Figures",
+      "url": "https://www.popmart.com/us/products/6269/POLAR-Season-3-<-Polar-In-Monster-Village->-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20260501_170424_487739____1_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8805",
+          "title": "POLAR",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8806",
+          "title": "POLAR",
+          "price": 227.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "polar"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_6391",
       "platform": "popmart",
       "title": "POLAR-Season 3 <Polar In Monster Village> Series Figures",
@@ -3029,29 +3060,6 @@
       "tags": [
         "new",
         "polar"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6277",
-      "platform": "popmart",
-      "title": "Twinkle Twinkle Warmth in a Freezing Noon Figure",
-      "url": "https://www.popmart.com/us/products/6277/Twinkle-Twinkle-Warmth-in-a-Freezing-Noon-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20260501_165910_096593____1_twinkle-twinkle-warmth-in-a-freezing-noon-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8825",
-          "title": "Twinkle Twinkle",
-          "price": 43.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "twinkle_twinkle"
       ],
       "created_at": null,
       "updated_at": null
@@ -3080,24 +3088,16 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6269",
+      "id": "popmart_us_6277",
       "platform": "popmart",
-      "title": "POLAR-Season 3 < Polar In Monster Village > Series Figures",
-      "url": "https://www.popmart.com/us/products/6269/POLAR-Season-3-<-Polar-In-Monster-Village->-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260501_170424_487739____1_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "title": "Twinkle Twinkle Warmth in a Freezing Noon Figure",
+      "url": "https://www.popmart.com/us/products/6277/Twinkle-Twinkle-Warmth-in-a-Freezing-Noon-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260501_165910_096593____1_twinkle-twinkle-warmth-in-a-freezing-noon-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
-          "id": "8805",
-          "title": "POLAR",
-          "price": 18.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8806",
-          "title": "POLAR",
-          "price": 227.88,
+          "id": "8825",
+          "title": "Twinkle Twinkle",
+          "price": 43.99,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -3105,7 +3105,7 @@
       ],
       "tags": [
         "new",
-        "polar"
+        "twinkle_twinkle"
       ],
       "created_at": null,
       "updated_at": null
