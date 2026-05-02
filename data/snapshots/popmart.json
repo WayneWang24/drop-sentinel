@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-02T17:36:53.749860Z",
+  "timestamp": "2026-05-02T18:34:10.216758Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1162,7 +1162,7 @@
       "variants": [
         {
           "id": "3104",
-          "title": "POP MART",
+          "title": "Demon Slayer",
           "price": 20.99,
           "currency": "USD",
           "available": true,
@@ -1170,7 +1170,7 @@
         },
         {
           "id": "3105",
-          "title": "POP MART",
+          "title": "Demon Slayer",
           "price": 251.88,
           "currency": "USD",
           "available": true,
@@ -1178,7 +1178,7 @@
         }
       ],
       "tags": [
-        "pop_mart"
+        "demon_slayer"
       ],
       "created_at": null,
       "updated_at": null
