@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-03T15:28:47.764414Z",
+  "timestamp": "2026-05-03T16:08:30.452510Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3184,7 +3184,7 @@
           "title": "aespa",
           "price": 131.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
