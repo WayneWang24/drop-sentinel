@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-03T08:23:47.979876Z",
+  "timestamp": "2026-05-03T09:44:06.772212Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -98,7 +98,7 @@
           "title": "WHY SO SERIOUS",
           "price": 42.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -121,7 +121,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1225,7 +1225,7 @@
           "title": "THE MONSTERS",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1248,7 +1248,7 @@
           "title": "THE MONSTERS",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1271,7 +1271,7 @@
           "title": "SKULLPANDA",
           "price": 32.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1472,7 +1472,7 @@
           "title": "THE MONSTERS",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1516,7 +1516,7 @@
           "title": "HACIPUPU",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2475,7 +2475,7 @@
           "title": "Merodi",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2498,7 +2498,7 @@
           "title": "Hello Kitty and Friends",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2521,7 +2521,7 @@
           "title": "Zsiga",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2543,7 +2543,7 @@
           "title": "CRYBABY",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2565,7 +2565,7 @@
           "title": "THE MONSTERS",
           "price": 15.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2588,7 +2588,7 @@
           "title": "THE MONSTERS",
           "price": 12.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2611,7 +2611,7 @@
           "title": "THE MONSTERS",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2633,7 +2633,7 @@
           "title": "THE MONSTERS",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2655,7 +2655,7 @@
           "title": "Star Wars",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2678,7 +2678,7 @@
           "title": "POP MART",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2700,7 +2700,7 @@
           "title": "NARUTO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2723,7 +2723,7 @@
           "title": "DIMOO",
           "price": 32.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2746,7 +2746,7 @@
           "title": "Hirono",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2769,7 +2769,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2792,7 +2792,7 @@
           "title": "MOLLY",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2815,7 +2815,7 @@
           "title": "THE MONSTERS",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2837,7 +2837,7 @@
           "title": "Twinkle Twinkle",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2911,7 +2911,7 @@
           "title": "PUCKY",
           "price": 24.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2933,7 +2933,7 @@
           "title": "Twinkle Twinkle",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2955,7 +2955,7 @@
           "title": "Stitch",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2977,7 +2977,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2999,7 +2999,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3184,7 +3184,7 @@
           "title": "aespa",
           "price": 131.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3207,7 +3207,7 @@
           "title": "aespa",
           "price": 32.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3261,7 +3261,7 @@
           "title": "aespa",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3417,7 +3417,7 @@
           "title": "Disney",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3494,7 +3494,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3571,7 +3571,7 @@
           "title": "SKULLPANDA",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3625,7 +3625,7 @@
           "title": "PUCKY",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3679,7 +3679,7 @@
           "title": "PUCKY",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3756,7 +3756,7 @@
           "title": "CHAKA",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4049,7 +4049,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4072,7 +4072,7 @@
           "title": "Twinkle Twinkle",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4095,7 +4095,7 @@
           "title": "Twinkle Twinkle",
           "price": 10.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4118,7 +4118,7 @@
           "title": "Twinkle Twinkle",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4172,7 +4172,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4195,7 +4195,7 @@
           "title": "Marvel Iron Man",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4519,7 +4519,7 @@
           "title": "THE MONSTERS",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4542,7 +4542,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4565,7 +4565,7 @@
           "title": "MOLLY",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4588,7 +4588,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4611,7 +4611,7 @@
           "title": "MOLLY",
           "price": 14.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4634,7 +4634,7 @@
           "title": "MOLLY",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4688,7 +4688,7 @@
           "title": "MOLLY",
           "price": 79.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4711,7 +4711,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4734,7 +4734,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4757,7 +4757,7 @@
           "title": "Crayon Shinchan",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
