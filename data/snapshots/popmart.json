@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-05T11:59:19.470115Z",
+  "timestamp": "2026-05-05T15:35:31.687180Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1688,7 +1688,7 @@
           "title": "Stitch",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
