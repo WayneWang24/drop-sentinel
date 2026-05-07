@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-07T00:10:01.708058Z",
+  "timestamp": "2026-05-07T04:02:10.417718Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2080,7 +2080,7 @@
       "variants": [
         {
           "id": "8004",
-          "title": "POP MART",
+          "title": "Hello Kitty and Friends",
           "price": 18.99,
           "currency": "USD",
           "available": true,
@@ -2088,7 +2088,7 @@
         },
         {
           "id": "8005",
-          "title": "POP MART",
+          "title": "Hello Kitty and Friends",
           "price": 151.92,
           "currency": "USD",
           "available": true,
@@ -2096,7 +2096,7 @@
         }
       ],
       "tags": [
-        "pop_mart"
+        "hello_kitty_and_friends"
       ],
       "created_at": null,
       "updated_at": null
@@ -2192,7 +2192,7 @@
       "variants": [
         {
           "id": "8439",
-          "title": "HELLO KITTY AND FRIENDS",
+          "title": "Hello Kitty and Friends",
           "price": 18.99,
           "currency": "USD",
           "available": true,
@@ -2200,7 +2200,7 @@
         },
         {
           "id": "8440",
-          "title": "HELLO KITTY AND FRIENDS",
+          "title": "Hello Kitty and Friends",
           "price": 113.94,
           "currency": "USD",
           "available": true,
@@ -2675,7 +2675,7 @@
       "variants": [
         {
           "id": "8031",
-          "title": "POP MART",
+          "title": "Hello Kitty and Friends",
           "price": 18.99,
           "currency": "USD",
           "available": true,
@@ -2683,7 +2683,7 @@
         }
       ],
       "tags": [
-        "pop_mart"
+        "hello_kitty_and_friends"
       ],
       "created_at": null,
       "updated_at": null
@@ -3176,7 +3176,7 @@
           "title": "aespa",
           "price": 32.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
