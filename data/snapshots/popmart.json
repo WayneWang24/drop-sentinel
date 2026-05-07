@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-07T04:02:10.417718Z",
+  "timestamp": "2026-05-07T06:50:56.896744Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1195,7 +1195,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1203,7 +1203,7 @@
           "title": "THE MONSTERS",
           "price": 167.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3044,8 +3044,8 @@
     {
       "id": "popmart_us_6391",
       "platform": "popmart",
-      "title": "POLAR-Season 3 <Polar In Monster Village> Series Figures",
-      "url": "https://www.popmart.com/us/products/6391/POLAR-Season-3-<Polar-In-Monster-Village>-Series-Figures",
+      "title": "POLAR-Season 3 < Polar In Monster Village > Series Figures",
+      "url": "https://www.popmart.com/us/products/6391/POLAR-Season-3-<-Polar-In-Monster-Village->-Series-Figures",
       "image_url": "https://prod-america-res.popmart.com/default/20260501_170725_786456____list_pic_____800x800.png",
       "variants": [
         {
@@ -3053,7 +3053,7 @@
           "title": "POLAR",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
