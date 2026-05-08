@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-08T22:36:43.796132Z",
+  "timestamp": "2026-05-08T23:36:51.246474Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2569,6 +2569,7 @@
         }
       ],
       "tags": [
+        "hot",
         "new",
         "the_monsters"
       ],
@@ -2592,6 +2593,7 @@
         }
       ],
       "tags": [
+        "hot",
         "new",
         "the_monsters"
       ],
@@ -2773,6 +2775,7 @@
         }
       ],
       "tags": [
+        "hot",
         "new",
         "the_monsters"
       ],
@@ -3003,6 +3006,7 @@
         }
       ],
       "tags": [
+        "hot",
         "new",
         "the_monsters"
       ],
