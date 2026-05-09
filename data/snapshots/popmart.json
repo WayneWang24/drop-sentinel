@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-09T06:36:20.870993Z",
+  "timestamp": "2026-05-09T08:22:22.582844Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3119,37 +3119,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6282",
-      "platform": "popmart",
-      "title": "CRYBABY Cry Me an Ocean Series - 2-in-1 Neck Pillow",
-      "url": "https://www.popmart.com/us/products/6282/CRYBABY-Cry-Me-an-Ocean-Series---2-in-1-Neck-Pillow",
-      "image_url": "https://prod-america-res.popmart.com/default/20260508_175322_267067____1_crybaby-cry-me-an-ocean-series-2-in-1-neck-pillow_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8834",
-          "title": "CRYBABY",
-          "price": 69.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8835",
-          "title": "CRYBABY",
-          "price": 69.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_6281",
       "platform": "popmart",
       "title": "CRYBABY Cry Me an Ocean Series Earphone Bag",
@@ -3204,6 +3173,37 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_6282",
+      "platform": "popmart",
+      "title": "CRYBABY Cry Me an Ocean Series - 2-in-1 Neck Pillow",
+      "url": "https://www.popmart.com/us/products/6282/CRYBABY-Cry-Me-an-Ocean-Series---2-in-1-Neck-Pillow",
+      "image_url": "https://prod-america-res.popmart.com/default/20260508_175322_267067____1_crybaby-cry-me-an-ocean-series-2-in-1-neck-pillow_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8834",
+          "title": "CRYBABY",
+          "price": 69.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8835",
+          "title": "CRYBABY",
+          "price": 69.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_6279",
       "platform": "popmart",
       "title": "CRYBABY Cry Me an Ocean Series Fridge Magnet",
@@ -3245,6 +3245,37 @@
           "id": "9063",
           "title": "CRYBABY",
           "price": 13.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6280",
+      "platform": "popmart",
+      "title": "CRYBABY Cry Me an Ocean Series - Multi-functional Storage Bag",
+      "url": "https://www.popmart.com/us/products/6280/CRYBABY-Cry-Me-an-Ocean-Series---Multi-functional-Storage-Bag",
+      "image_url": "https://prod-america-res.popmart.com/default/20260508_174430_533475____1_crybaby-cry-me-an-ocean-series-multi-functional-storage-bag_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8830",
+          "title": "CRYBABY",
+          "price": 30.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8831",
+          "title": "CRYBABY",
+          "price": 30.99,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -3322,37 +3353,6 @@
           "id": "8840",
           "title": "CRYBABY",
           "price": 109.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6280",
-      "platform": "popmart",
-      "title": "CRYBABY Cry Me an Ocean Series - Multi-functional Storage Bag",
-      "url": "https://www.popmart.com/us/products/6280/CRYBABY-Cry-Me-an-Ocean-Series---Multi-functional-Storage-Bag",
-      "image_url": "https://prod-america-res.popmart.com/default/20260508_174430_533475____1_crybaby-cry-me-an-ocean-series-multi-functional-storage-bag_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8830",
-          "title": "CRYBABY",
-          "price": 30.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8831",
-          "title": "CRYBABY",
-          "price": 30.99,
           "currency": "USD",
           "available": false,
           "sku": ""
