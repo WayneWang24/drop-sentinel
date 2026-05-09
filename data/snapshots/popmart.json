@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-09T09:50:32.234433Z",
+  "timestamp": "2026-05-09T10:47:09.318115Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3408,7 +3408,7 @@
           "title": "POLAR",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3508,7 +3508,7 @@
           "title": "Nyota",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3616,7 +3616,7 @@
           "title": "aespa",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3772,7 +3772,7 @@
           "title": "Disney",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3849,7 +3849,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3926,7 +3926,7 @@
           "title": "SKULLPANDA",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3980,7 +3980,7 @@
           "title": "PUCKY",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4034,7 +4034,7 @@
           "title": "PUCKY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4111,7 +4111,7 @@
           "title": "CHAKA",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4404,7 +4404,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4427,7 +4427,7 @@
           "title": "Twinkle Twinkle",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4450,7 +4450,7 @@
           "title": "Twinkle Twinkle",
           "price": 10.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4473,7 +4473,7 @@
           "title": "Twinkle Twinkle",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4527,7 +4527,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4550,7 +4550,7 @@
           "title": "Marvel Iron Man",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
