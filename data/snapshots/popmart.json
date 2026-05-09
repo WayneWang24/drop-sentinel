@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-09T22:45:51.827849Z",
+  "timestamp": "2026-05-09T23:37:22.106195Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2345,7 +2345,7 @@
           "title": "Merodi",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
