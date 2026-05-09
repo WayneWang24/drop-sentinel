@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-09T01:20:56.486621Z",
+  "timestamp": "2026-05-09T04:41:13.622958Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1639,7 +1639,7 @@
         }
       ],
       "tags": [
-        "new",
+        "hot",
         "the_monsters"
       ],
       "created_at": null,
@@ -1844,7 +1844,7 @@
         }
       ],
       "tags": [
-        "new",
+        "hot",
         "the_monsters"
       ],
       "created_at": null,
@@ -2034,6 +2034,7 @@
         }
       ],
       "tags": [
+        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -2064,7 +2065,6 @@
         }
       ],
       "tags": [
-        "new",
         "naruto"
       ],
       "created_at": null,
@@ -2207,7 +2207,6 @@
         }
       ],
       "tags": [
-        "new",
         "hello_kitty_and_friends"
       ],
       "created_at": null,
@@ -2502,7 +2501,6 @@
         }
       ],
       "tags": [
-        "new",
         "hello_kitty_and_friends"
       ],
       "created_at": null,
@@ -2706,7 +2704,6 @@
         }
       ],
       "tags": [
-        "new",
         "naruto"
       ],
       "created_at": null,
@@ -3103,7 +3100,7 @@
       "platform": "popmart",
       "title": "CRYBABY Cry Me an Ocean Series Figures",
       "url": "https://www.popmart.com/us/products/6437/CRYBABY-Cry-Me-an-Ocean-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260508_181830_354605____list_pic_____800x800.png",
+      "image_url": "https://prod-america-res.popmart.com/default/20260509_103639_569884____list_pic_____800x800.png",
       "variants": [
         {
           "id": "9066",
