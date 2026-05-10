@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-10T16:07:54.610535Z",
+  "timestamp": "2026-05-10T17:10:49.066174Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2699,7 +2699,7 @@
           "title": "NARUTO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
