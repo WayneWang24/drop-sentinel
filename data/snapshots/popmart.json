@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-10T23:06:14.303537Z",
+  "timestamp": "2026-05-11T00:06:25.305335Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -4480,114 +4480,6 @@
       "tags": [
         "new",
         "twinkle_twinkle"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6092",
-      "platform": "popmart",
-      "title": "DIMOO The Secret Theatre Club Series - Earphone Case Blind Box",
-      "url": "https://www.popmart.com/us/products/6092/DIMOO-The-Secret-Theatre-Club-Series---Earphone-Case-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260403_172349_575347____1_dimoo-the-secret-theatre-club-series-earphone-case-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8567",
-          "title": "DIMOO",
-          "price": 21.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8566",
-          "title": "DIMOO",
-          "price": 131.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6213",
-      "platform": "popmart",
-      "title": "DIMOO The Secret Theatre Club Series - Earphone Case Blind Box",
-      "url": "https://www.popmart.com/us/products/6213/DIMOO-The-Secret-Theatre-Club-Series---Earphone-Case-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260403_172643_993947____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "8729",
-          "title": "DIMOO",
-          "price": 21.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6215",
-      "platform": "popmart",
-      "title": "Marvel Iron Man: A Journey Through Armors Series Figures",
-      "url": "https://www.popmart.com/us/products/6215/Marvel-Iron-Man:-A-Journey-Through-Armors-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260403_173354_861804____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "8731",
-          "title": "Marvel Iron Man",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "marvel_iron_man"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6095",
-      "platform": "popmart",
-      "title": "Marvel Iron Man: A Journey Through Armors Series Figures",
-      "url": "https://www.popmart.com/us/products/6095/Marvel-Iron-Man:-A-Journey-Through-Armors-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260403_173152_009926____1_marvel-iron-man-a-journey-through-armors-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8571",
-          "title": "Marvel",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8572",
-          "title": "Marvel",
-          "price": 239.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "marvel"
       ],
       "created_at": null,
       "updated_at": null
