@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-14T01:31:50.171221Z",
+  "timestamp": "2026-05-14T05:32:18.200965Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2981,7 +2981,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3035,7 +3035,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3089,7 +3089,7 @@
           "title": "CRYBABY",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3174,7 +3174,7 @@
           "title": "CRYBABY",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3259,7 +3259,7 @@
           "title": "CRYBABY",
           "price": 23.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3420,6 +3420,37 @@
       "tags": [
         "new",
         "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6271",
+      "platform": "popmart",
+      "title": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/6271/aespa-Fluffy-Club-Series-Vinyl-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_180758_088465____1_aespa-fluffy-club-series-vinyl-plush-doll-pendant_plush-toys-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8812",
+          "title": "aespa",
+          "price": 32.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8813",
+          "title": "aespa",
+          "price": 131.96,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "aespa"
       ],
       "created_at": null,
       "updated_at": null
