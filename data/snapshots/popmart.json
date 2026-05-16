@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-16T08:59:01.735308Z",
+  "timestamp": "2026-05-16T10:15:09.362724Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1709,8 +1709,8 @@
     {
       "id": "popmart_us_5674",
       "platform": "popmart",
-      "title": "Twinkle Twinkle Crush On You Series-Plush Pendent Blind Box",
-      "url": "https://www.popmart.com/us/products/5674/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendent-Blind-Box",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5674/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
       "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
@@ -1935,6 +1935,7 @@
         }
       ],
       "tags": [
+        "new",
         "hirono"
       ],
       "created_at": null,
