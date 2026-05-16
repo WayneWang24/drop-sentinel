@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-16T01:25:00.798115Z",
+  "timestamp": "2026-05-16T04:46:00.687718Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3413,7 +3413,7 @@
           "title": "Nyota",
           "price": 223.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3436,7 +3436,7 @@
           "title": "aespa",
           "price": 32.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3444,7 +3444,7 @@
           "title": "aespa",
           "price": 131.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
