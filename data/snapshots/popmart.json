@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-16T07:09:17.425461Z",
+  "timestamp": "2026-05-16T08:59:01.735308Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2432,7 +2432,6 @@
         }
       ],
       "tags": [
-        "new",
         "crybaby"
       ],
       "created_at": null,
