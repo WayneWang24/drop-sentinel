@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-18T01:33:33.751829Z",
+  "timestamp": "2026-05-18T05:55:48.717650Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1337,7 +1337,7 @@
           "title": "THE MONSTERS",
           "price": 46.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3089,7 +3089,7 @@
           "title": "CRYBABY",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
