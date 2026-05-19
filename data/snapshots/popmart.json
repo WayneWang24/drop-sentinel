@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-19T01:34:22.603345Z",
+  "timestamp": "2026-05-19T05:49:50.025050Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3174,7 +3174,7 @@
           "title": "CRYBABY",
           "price": 83.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3220,7 +3220,7 @@
           "title": "CRYBABY",
           "price": 30.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3228,7 +3228,7 @@
           "title": "CRYBABY",
           "price": 30.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3467,7 +3467,7 @@
           "title": "aespa",
           "price": 131.96,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
