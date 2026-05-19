@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-18T23:42:46.773997Z",
+  "timestamp": "2026-05-19T01:34:22.603345Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3428,7 +3428,7 @@
           "title": "Nyota",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
