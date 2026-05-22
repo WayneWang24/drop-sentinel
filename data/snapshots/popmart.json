@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-22T08:48:08.317249Z",
+  "timestamp": "2026-05-22T11:37:58.799490Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2934,6 +2934,60 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7562",
+      "platform": "popmart",
+      "title": "1001MOONS Wind's Intention Series Figures",
+      "url": "https://www.popmart.com/us/products/7562/1001MOONS-Wind's-Intention-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/bae4c2ad050549026edf0c581d17477f_____800x800.png",
+      "variants": [
+        {
+          "id": "10259",
+          "title": "1001MOONS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "1001moons"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6356",
+      "platform": "popmart",
+      "title": "1001MOONS Wind's Intention Series Figures",
+      "url": "https://www.popmart.com/us/products/6356/1001MOONS-Wind's-Intention-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/675c5d4805cb061e9c6e19e7e187d44f_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8928",
+          "title": "1001MOONS",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8929",
+          "title": "1001MOONS",
+          "price": 227.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "1001moons"
       ],
       "created_at": null,
       "updated_at": null
