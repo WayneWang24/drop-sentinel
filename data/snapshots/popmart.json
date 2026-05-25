@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-25T06:52:13.255984Z",
+  "timestamp": "2026-05-25T11:04:17.988557Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3316,7 +3316,7 @@
       "image_url": "https://prod-america-res.popmart.com/default/20260508_175322_267067____1_crybaby-cry-me-an-ocean-series-2-in-1-neck-pillow_accessories_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
-          "id": "8834",
+          "id": "8835",
           "title": "CRYBABY",
           "price": 69.99,
           "currency": "USD",
@@ -3324,7 +3324,7 @@
           "sku": ""
         },
         {
-          "id": "8835",
+          "id": "8834",
           "title": "CRYBABY",
           "price": 69.99,
           "currency": "USD",
@@ -3613,7 +3613,7 @@
           "title": "Nyota",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
