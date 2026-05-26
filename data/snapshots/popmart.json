@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-25T23:36:10.134009Z",
+  "timestamp": "2026-05-26T01:28:49.213439Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2315,7 +2315,7 @@
           "title": "Twinkle Twinkle",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
