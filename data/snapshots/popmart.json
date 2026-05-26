@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-26T05:37:52.824298Z",
+  "timestamp": "2026-05-26T08:53:29.102245Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3119,29 +3119,6 @@
       "tags": [
         "new",
         "crayon_shin-chan"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6529",
-      "platform": "popmart",
-      "title": "DIMOO-Elephant MoMo",
-      "url": "https://www.popmart.com/us/products/6529/DIMOO-Elephant-MoMo",
-      "image_url": "https://prod-america-res.popmart.com/default/610c7c09361fc2e235b33cdac3afad91_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "9216",
-          "title": "DIMOO",
-          "price": 209.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
       ],
       "created_at": null,
       "updated_at": null
