@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-05-27T14:18:59.162157+00:00",
+  "updated_at": "2026-05-27T17:38:46.189100+00:00",
   "total_products": 144,
-  "available_products": 130,
+  "available_products": 129,
   "platforms": [
-    "social",
     "damai",
-    "popmart"
+    "popmart",
+    "social"
   ]
 }
