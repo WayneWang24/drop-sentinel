@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-28T04:38:35.164946Z",
+  "timestamp": "2026-05-28T08:30:15.806638Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -3035,7 +3035,7 @@
           "title": "HACIPUPU",
           "price": 79.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
