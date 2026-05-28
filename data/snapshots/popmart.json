@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-28T08:30:15.806638Z",
+  "timestamp": "2026-05-28T11:58:00.589829Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -641,7 +641,7 @@
           "title": "THE MONSTERS",
           "price": 265.86,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -767,28 +767,6 @@
       ],
       "tags": [
         "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_1584",
-      "platform": "popmart",
-      "title": "LABUBU × PRONOUNCE - WINGS OF FORTUNE Vinyl Plush Hanging Card",
-      "url": "https://www.popmart.com/us/products/1584/LABUBU-×-PRONOUNCE---WINGS-OF-FORTUNE-Vinyl-Plush-Hanging-Card",
-      "image_url": "https://prod-america-res.popmart.com/default/20260507_151835_734048____labubu-x-pronounce-wings-of-fortune_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "2587",
-          "title": "THE MOSNTERS",
-          "price": 54.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_mosnters"
       ],
       "created_at": null,
       "updated_at": null
@@ -1614,6 +1592,28 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_1617",
+      "platform": "popmart",
+      "title": "HACIPUPU The Constellation Series-Vinyl Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1617/HACIPUPU-The-Constellation-Series-Vinyl-Plush-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20240929_180730_317494____list_pic_____800x800.png",
+      "variants": [
+        {
+          "id": "2635",
+          "title": "HACIPUPU",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_5991",
       "platform": "popmart",
       "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
@@ -2120,7 +2120,7 @@
           "title": "Star Wars",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2450,7 +2450,7 @@
           "title": "Peach Riot",
           "price": 129.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2950,7 +2950,7 @@
           "title": "1001MOONS",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2958,7 +2958,7 @@
           "title": "1001MOONS",
           "price": 227.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2981,7 +2981,7 @@
           "title": "1001MOONS",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3035,7 +3035,7 @@
           "title": "HACIPUPU",
           "price": 79.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3058,7 +3058,7 @@
           "title": "PUCKY",
           "price": 43.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3081,7 +3081,7 @@
           "title": "Crayon Shin-chan",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3089,7 +3089,7 @@
           "title": "Crayon Shin-chan",
           "price": 227.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3112,7 +3112,7 @@
           "title": "Crayon Shin-chan",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
