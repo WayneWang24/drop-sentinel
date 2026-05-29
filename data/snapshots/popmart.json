@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-29T06:32:17.636940Z",
+  "timestamp": "2026-05-29T10:34:11.837478Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2981,7 +2981,7 @@
           "title": "1001MOONS",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3004,7 +3004,7 @@
           "title": "HACIPUPU",
           "price": 79.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3112,7 +3112,7 @@
           "title": "Crayon Shin-chan",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3166,7 +3166,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3220,7 +3220,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3274,7 +3274,7 @@
           "title": "CRYBABY",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3444,7 +3444,7 @@
           "title": "CRYBABY",
           "price": 23.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3521,7 +3521,7 @@
           "title": "POLAR",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3706,7 +3706,7 @@
           "title": "aespa",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3765,61 +3765,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6270",
-      "platform": "popmart",
-      "title": "THE MONSTERS Chasing Mermaids Series Blocks",
-      "url": "https://www.popmart.com/us/products/6270/THE-MONSTERS-Chasing-Mermaids-Series-Blocks",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_175431_175684____1_the-monsters-chasing-mermaids-series-blocks_blocks-_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8809",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8807",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8808",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8810",
-          "title": "THE MONSTERS",
-          "price": 179.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8811",
-          "title": "THE MONSTERS",
-          "price": 268.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_6275",
       "platform": "popmart",
       "title": "Disney/Pixar Toy Story 5 Series Figures",
@@ -3862,7 +3807,7 @@
           "title": "Disney",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
