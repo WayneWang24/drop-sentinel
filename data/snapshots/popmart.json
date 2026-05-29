@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-29T10:34:11.837478Z",
+  "timestamp": "2026-05-29T13:48:21.082281Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2939,6 +2939,299 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_6476",
+      "platform": "popmart",
+      "title": "Peach Riot Fruit Punch Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/6476/Peach-Riot-Fruit-Punch-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/af1af82bcca99fd0c7ce60381faa8ea4_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9121",
+          "title": "Peach Riot",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "9122",
+          "title": "Peach Riot",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "9123",
+          "title": "Peach Riot",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "peach_riot"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6479",
+      "platform": "popmart",
+      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/6479/ZSIGA-I'm-Zsiga-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/154f39635f7e00b938930880873a95c0_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9129",
+          "title": "ZSIGA",
+          "price": 32.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "9128",
+          "title": "ZSIGA",
+          "price": 197.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "zsiga"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7593",
+      "platform": "popmart",
+      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/7593/ZSIGA-I'm-Zsiga-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/dfa7c9a363bcd5e1c9e5e5f425a7b778_____800x800.png",
+      "variants": [
+        {
+          "id": "10296",
+          "title": "ZSIGA",
+          "price": 32.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "zsiga"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6267",
+      "platform": "popmart",
+      "title": "Hirono Behind Time Figure",
+      "url": "https://www.popmart.com/us/products/6267/Hirono-Behind-Time-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_174821_582979____1_hirono-behind-time-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8802",
+          "title": "Hirono",
+          "price": 49.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6482",
+      "platform": "popmart",
+      "title": "Puella Magi Madoka Magica Iconic Scenes Series Figures",
+      "url": "https://www.popmart.com/us/products/6482/Puella-Magi-Madoka-Magica-Iconic-Scenes-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/165ac99cb24e7fcad871296bf2d86f16_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9133",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "9134",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7594",
+      "platform": "popmart",
+      "title": "Puella Magi Madoka Magica Iconic Scenes Series Figures",
+      "url": "https://www.popmart.com/us/products/7594/Puella-Magi-Madoka-Magica-Iconic-Scenes-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/63bea2c8614bce260cf51a5f4d0d64eb_____800x800.png",
+      "variants": [
+        {
+          "id": "10297",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6287",
+      "platform": "popmart",
+      "title": "Haikyu!! Off-Court Vibes Series Figures",
+      "url": "https://www.popmart.com/us/products/6287/Haikyu!!-Off-Court-Vibes-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/eb3066412bfe985e400bd73daeeebaf4_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8842",
+          "title": "Haikyu",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8843",
+          "title": "Haikyu",
+          "price": 227.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "haikyu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7595",
+      "platform": "popmart",
+      "title": "Haikyu!! Off-Court Vibes Series Figures",
+      "url": "https://www.popmart.com/us/products/7595/Haikyu!!-Off-Court-Vibes-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/7d2b57927ec4088fbb9547929208fe80_____800x800.png",
+      "variants": [
+        {
+          "id": "10298",
+          "title": "Haikyu",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "haikyu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6474",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 400% Ashley Wood",
+      "url": "https://www.popmart.com/us/products/6474/MEGA-SPACE-MOLLY-400%-Ashley-Wood",
+      "image_url": "https://prod-america-res.popmart.com/default/54846daf31830f1df08bb2b1015314ff_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9119",
+          "title": "MEGA",
+          "price": 329.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "mega"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6475",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY Ashley Wood \"IN SPACE\" 3D Painting",
+      "url": "https://www.popmart.com/us/products/6475/MEGA-SPACE-MOLLY-Ashley-Wood-\"IN-SPACE\"-3D-Painting",
+      "image_url": "https://prod-america-res.popmart.com/default/2e2475857324a1353d2e2b9d72a37c06_____1119x1119.JPG",
+      "variants": [
+        {
+          "id": "9120",
+          "title": "MOLLY",
+          "price": 799.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6360",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 1000% Ashley Wood",
+      "url": "https://www.popmart.com/us/products/6360/MEGA-SPACE-MOLLY-1000%-Ashley-Wood",
+      "image_url": "https://prod-america-res.popmart.com/default/4b3f496f910022e14576866b37f01ffa_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8935",
+          "title": "MEGA",
+          "price": 1199.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "mega"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_6356",
       "platform": "popmart",
       "title": "1001MOONS Wind's Intention Series Figures",
@@ -2981,7 +3274,7 @@
           "title": "1001MOONS",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3004,7 +3297,7 @@
           "title": "HACIPUPU",
           "price": 79.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3112,7 +3405,7 @@
           "title": "Crayon Shin-chan",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3166,7 +3459,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3220,7 +3513,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3444,7 +3737,7 @@
           "title": "CRYBABY",
           "price": 23.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3521,7 +3814,7 @@
           "title": "POLAR",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3706,7 +3999,7 @@
           "title": "aespa",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3807,7 +4100,7 @@
           "title": "Disney",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
