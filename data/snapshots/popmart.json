@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-05-31T23:56:42.038049Z",
+  "timestamp": "2026-06-01T02:55:22.020468Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1618,7 +1618,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/5991/THE-MONSTERS-×-Hello-Kitty-and-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260429_143701_164640____the-monsters_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260306_171734_298785____1_them-1_____1200x1200.JPG",
       "variants": [
         {
           "id": "8428",
@@ -1831,7 +1831,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS × HELLO KITTY - Vinyl Plush Doll",
       "url": "https://www.popmart.com/us/products/5990/THE-MONSTERS-×-HELLO-KITTY---Vinyl-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20260423_092935_450101____the-monsters-hello-kitty-1_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260306_171132_186800____1_them-1_____1200x1200.JPG",
       "variants": [
         {
           "id": "8426",
@@ -1904,7 +1904,6 @@
         }
       ],
       "tags": [
-        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -1935,7 +1934,6 @@
         }
       ],
       "tags": [
-        "new",
         "hirono"
       ],
       "created_at": null,
@@ -1966,7 +1964,6 @@
         }
       ],
       "tags": [
-        "new",
         "dimoo"
       ],
       "created_at": null,
@@ -1989,7 +1986,6 @@
         }
       ],
       "tags": [
-        "new",
         "hirono"
       ],
       "created_at": null,
@@ -2022,7 +2018,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS × FIFA SERIES-Catch the Win Vinyl Plush Doll",
       "url": "https://www.popmart.com/us/products/6083/THE-MONSTERS-×-FIFA-SERIES-Catch-the-Win-Vinyl-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20260507_182032_138695____the-monsters-fifa-catch-the-win_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180238_489694____1_them-1_____1200x1200.JPG",
       "variants": [
         {
           "id": "8550",
@@ -2034,7 +2030,6 @@
         }
       ],
       "tags": [
-        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -2237,7 +2232,6 @@
         }
       ],
       "tags": [
-        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -2380,7 +2374,6 @@
         }
       ],
       "tags": [
-        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -3274,7 +3267,7 @@
           "title": "HACIPUPU",
           "price": 79.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3544,7 +3537,7 @@
           "title": "CRYBABY",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3629,7 +3622,7 @@
           "title": "CRYBABY",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3830,7 +3823,7 @@
       "platform": "popmart",
       "title": "Twinkle Twinkle Warmth in a Freezing Noon Figure",
       "url": "https://www.popmart.com/us/products/6277/Twinkle-Twinkle-Warmth-in-a-Freezing-Noon-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20260507_162317_790928____2_twinkle-twinkle-warmth-in-a-freezing-noon-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260501_165910_096593____1_twinkle-twinkle-warmth-in-a-freezing-noon-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "8825",
@@ -3844,246 +3837,6 @@
       "tags": [
         "new",
         "twinkle_twinkle"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6268",
-      "platform": "popmart",
-      "title": "Nyota Where Moments Meet Series Plush Doll",
-      "url": "https://www.popmart.com/us/products/6268/Nyota-Where-Moments-Meet-Series-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/82063f5b2144bb22a64cdb5c542d441a_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8803",
-          "title": "Nyota",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8804",
-          "title": "Nyota",
-          "price": 223.92,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "nyota"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6271",
-      "platform": "popmart",
-      "title": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/6271/aespa-Fluffy-Club-Series-Vinyl-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/e8da54fee5e174116532eaf025716c66_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8812",
-          "title": "aespa",
-          "price": 32.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8813",
-          "title": "aespa",
-          "price": 131.96,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "aespa"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6346",
-      "platform": "popmart",
-      "title": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/6346/aespa-Fluffy-Club-Series-Vinyl-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_181735_591359____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "8914",
-          "title": "aespa",
-          "price": 32.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "aespa"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6273",
-      "platform": "popmart",
-      "title": "aespa Fluffy Club Series Phone Lanyard",
-      "url": "https://www.popmart.com/us/products/6273/aespa-Fluffy-Club-Series-Phone-Lanyard",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_180954_799097____1_aespa-fluffy-club-series-phone-lanyard_accessories-_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8819",
-          "title": "aespa",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8818",
-          "title": "aespa",
-          "price": 79.96,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "aespa"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6347",
-      "platform": "popmart",
-      "title": "aespa Fluffy Club Series Phone Lanyard",
-      "url": "https://www.popmart.com/us/products/6347/aespa-Fluffy-Club-Series-Phone-Lanyard",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_181837_598614____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "8915",
-          "title": "aespa",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "aespa"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6272",
-      "platform": "popmart",
-      "title": "aespa Fluffy Club Series Card Holder",
-      "url": "https://www.popmart.com/us/products/6272/aespa-Fluffy-Club-Series-Card-Holder",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_181324_417520____1_aespa-fluffy-club-series-card-holder_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8974",
-          "title": "aespa",
-          "price": 20.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8975",
-          "title": "aespa",
-          "price": 20.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8976",
-          "title": "aespa",
-          "price": 20.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8814",
-          "title": "aespa",
-          "price": 20.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "aespa"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6275",
-      "platform": "popmart",
-      "title": "Disney/Pixar Toy Story 5 Series Figures",
-      "url": "https://www.popmart.com/us/products/6275/Disney-Pixar-Toy-Story-5-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_175900_738751____1_disney-pixar-toy-story-5-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8822",
-          "title": "Disney",
-          "price": 18.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8823",
-          "title": "Disney",
-          "price": 170.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "disney"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6348",
-      "platform": "popmart",
-      "title": "Disney/Pixar Toy Story 5 Series Figures",
-      "url": "https://www.popmart.com/us/products/6348/Disney-Pixar-Toy-Story-5-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_181942_104839____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "8916",
-          "title": "Disney",
-          "price": 18.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "disney"
       ],
       "created_at": null,
       "updated_at": null
