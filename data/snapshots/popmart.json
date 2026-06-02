@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-02T02:37:22.960592Z",
+  "timestamp": "2026-06-02T07:11:32.543513Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -2559,7 +2559,6 @@
       ],
       "tags": [
         "hot",
-        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -2583,7 +2582,6 @@
       ],
       "tags": [
         "hot",
-        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -2716,7 +2714,6 @@
         }
       ],
       "tags": [
-        "new",
         "dimoo"
       ],
       "created_at": null,
@@ -2763,7 +2760,6 @@
       ],
       "tags": [
         "hot",
-        "new",
         "the_monsters"
       ],
       "created_at": null,
