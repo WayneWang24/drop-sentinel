@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-02T11:41:59.588690Z",
+  "timestamp": "2026-06-02T15:46:17.828292Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -239,37 +239,6 @@
       ],
       "tags": [
         "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_2186",
-      "platform": "popmart",
-      "title": "Mickey Family Cute Together Keychain Series Figures",
-      "url": "https://www.popmart.com/us/products/2186/Mickey-Family-Cute-Together-Keychain-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "3387",
-          "title": "Disney",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "3386",
-          "title": "Disney",
-          "price": 223.92,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "disney"
       ],
       "created_at": null,
       "updated_at": null
@@ -562,36 +531,6 @@
       ],
       "tags": [
         "molly"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_2064",
-      "platform": "popmart",
-      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
-      "url": "https://www.popmart.com/us/products/2064/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "3220",
-          "title": "DIMOO",
-          "price": 50.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "3219",
-          "title": "DIMOO",
-          "price": 305.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "dimoo"
       ],
       "created_at": null,
       "updated_at": null
@@ -1047,6 +986,67 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_2064",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
+      "url": "https://www.popmart.com/us/products/2064/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3220",
+          "title": "DIMOO",
+          "price": 50.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3219",
+          "title": "DIMOO",
+          "price": 305.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2186",
+      "platform": "popmart",
+      "title": "Mickey Family Cute Together Keychain Series Figures",
+      "url": "https://www.popmart.com/us/products/2186/Mickey-Family-Cute-Together-Keychain-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3387",
+          "title": "Disney",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3386",
+          "title": "Disney",
+          "price": 223.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_3779",
       "platform": "popmart",
       "title": "Teletubbies \"Say Hello\" Series Figures",
@@ -1072,6 +1072,74 @@
       ],
       "tags": [
         "teletubbies_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7784",
+      "platform": "popmart",
+      "title": "Mickey Family Cute Together Keychain Series Figures",
+      "url": "https://www.popmart.com/us/products/7784/Mickey-Family-Cute-Together-Keychain-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "10501",
+          "title": "Disney",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7785",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
+      "url": "https://www.popmart.com/us/products/7785/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "10502",
+          "title": "DIMOO",
+          "price": 50.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7780",
+      "platform": "popmart",
+      "title": "Stitch Adventure Series Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/7780/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260206_103454_100037____1_stitch-adventure-series-vinyl-plush-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "10496",
+          "title": "Stitch",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "stitch"
       ],
       "created_at": null,
       "updated_at": null
@@ -1103,37 +1171,6 @@
       "tags": [
         "hot",
         "skullpanda"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_5819",
-      "platform": "popmart",
-      "title": "Stitch Adventure Series Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/5819/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20260206_103454_100037____1_stitch-adventure-series-vinyl-plush-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8204",
-          "title": "Stitch",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8205",
-          "title": "Stitch",
-          "price": 251.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "stitch"
       ],
       "created_at": null,
       "updated_at": null
@@ -1947,6 +1984,37 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_5819",
+      "platform": "popmart",
+      "title": "Stitch Adventure Series Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/5819/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260206_103454_100037____1_stitch-adventure-series-vinyl-plush-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8204",
+          "title": "Stitch",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8205",
+          "title": "Stitch",
+          "price": 251.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "stitch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_6476",
       "platform": "popmart",
       "title": "Peach Riot Fruit Punch Series Plush Doll Pendant",
@@ -1954,7 +2022,7 @@
       "image_url": "https://prod-america-res.popmart.com/default/af1af82bcca99fd0c7ce60381faa8ea4_____1200x1200.jpg",
       "variants": [
         {
-          "id": "9121",
+          "id": "9122",
           "title": "Peach Riot",
           "price": 39.99,
           "currency": "USD",
@@ -1962,7 +2030,7 @@
           "sku": ""
         },
         {
-          "id": "9122",
+          "id": "9121",
           "title": "Peach Riot",
           "price": 39.99,
           "currency": "USD",
