@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-03T05:12:07.197522Z",
+  "timestamp": "2026-06-03T10:04:35.907072Z",
   "products": [
     {
       "id": "popmart_us_675",
@@ -1811,36 +1811,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6084",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
-      "url": "https://www.popmart.com/us/products/6084/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8551",
-          "title": "THE MONSTERS",
-          "price": 12.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8552",
-          "title": "THE MONSTERS",
-          "price": 77.94,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_5753",
       "platform": "popmart",
       "title": "THE MONSTERS 10th Anniversary Series-Mini Cup",
@@ -2006,6 +1976,28 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_5758",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5758/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8125",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_5819",
       "platform": "popmart",
       "title": "Stitch Adventure Series Vinyl Plush Pendant",
@@ -2032,6 +2024,58 @@
       "tags": [
         "hot",
         "stitch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6084",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
+      "url": "https://www.popmart.com/us/products/6084/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8551",
+          "title": "THE MONSTERS",
+          "price": 12.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8552",
+          "title": "THE MONSTERS",
+          "price": 77.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6122",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
+      "url": "https://www.popmart.com/us/products/6122/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8605",
+          "title": "THE MONSTERS",
+          "price": 12.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
@@ -2349,7 +2393,7 @@
           "title": "1001MOONS",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2480,7 +2524,7 @@
           "title": "Crayon Shin-chan",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2534,7 +2578,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2588,7 +2632,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2642,7 +2686,7 @@
           "title": "CRYBABY",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2727,7 +2771,7 @@
           "title": "CRYBABY",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2812,7 +2856,7 @@
           "title": "CRYBABY",
           "price": 23.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2889,7 +2933,7 @@
           "title": "POLAR",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
