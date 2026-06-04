@@ -1,7 +1,217 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-04T02:03:16.792265Z",
+  "timestamp": "2026-06-04T06:54:46.004777Z",
   "products": [
+    {
+      "id": "popmart_us_1372",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1372/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780453114206_48fe92b4de3b23677809bb39e438cf67.jpg",
+      "variants": [
+        {
+          "id": "2294",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "2295",
+          "title": "THE MONSTERS",
+          "price": 167.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_1419",
+      "platform": "popmart",
+      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
+      "url": "https://www.popmart.com/us/products/1419/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780453114206_48fe92b4de3b23677809bb39e438cf67.jpg",
+      "variants": [
+        {
+          "id": "2364",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2064",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
+      "url": "https://www.popmart.com/us/products/2064/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3220",
+          "title": "DIMOO",
+          "price": 50.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3219",
+          "title": "DIMOO",
+          "price": 305.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2186",
+      "platform": "popmart",
+      "title": "Mickey Family Cute Together Keychain Series Figures",
+      "url": "https://www.popmart.com/us/products/2186/Mickey-Family-Cute-Together-Keychain-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3387",
+          "title": "Disney",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3386",
+          "title": "Disney",
+          "price": 223.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3779",
+      "platform": "popmart",
+      "title": "Teletubbies \"Say Hello\" Series Figures",
+      "url": "https://www.popmart.com/us/products/3779/Teletubbies-\"Say-Hello\"-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_326419____1_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5630",
+          "title": "Teletubbies ",
+          "price": 23.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5631",
+          "title": "Teletubbies ",
+          "price": 191.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "teletubbies_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3787",
+      "platform": "popmart",
+      "title": "Teletubbies \"Say Hello\" Series Figures",
+      "url": "https://www.popmart.com/us/products/3787/Teletubbies-\"Say-Hello\"-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_326419____1_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5641",
+          "title": "Teletubbies ",
+          "price": 23.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "teletubbies_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7784",
+      "platform": "popmart",
+      "title": "Mickey Family Cute Together Keychain Series Figures",
+      "url": "https://www.popmart.com/us/products/7784/Mickey-Family-Cute-Together-Keychain-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "10501",
+          "title": "Disney",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7785",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
+      "url": "https://www.popmart.com/us/products/7785/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "10502",
+          "title": "DIMOO",
+          "price": 50.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
     {
       "id": "popmart_us_675",
       "platform": "popmart",
@@ -956,26 +1166,109 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_1372",
+      "id": "popmart_us_5674",
       "platform": "popmart",
-      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
-      "url": "https://www.popmart.com/us/products/1372/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780453114206_48fe92b4de3b23677809bb39e438cf67.jpg",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5674/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
-          "id": "2294",
-          "title": "THE MONSTERS",
+          "id": "8013",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8012",
+          "title": "Twinkle Twinkle",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5758",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5758/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8125",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5819",
+      "platform": "popmart",
+      "title": "Stitch Adventure Series Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/5819/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260206_103454_100037____1_stitch-adventure-series-vinyl-plush-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8204",
+          "title": "Stitch",
           "price": 27.99,
           "currency": "USD",
           "available": true,
           "sku": ""
         },
         {
-          "id": "2295",
-          "title": "THE MONSTERS",
-          "price": 167.94,
+          "id": "8205",
+          "title": "Stitch",
+          "price": 251.91,
           "currency": "USD",
           "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "stitch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6084",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
+      "url": "https://www.popmart.com/us/products/6084/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8551",
+          "title": "THE MONSTERS",
+          "price": 12.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8552",
+          "title": "THE MONSTERS",
+          "price": 77.94,
+          "currency": "USD",
+          "available": false,
           "sku": ""
         }
       ],
@@ -986,16 +1279,16 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_1419",
+      "id": "popmart_us_6122",
       "platform": "popmart",
-      "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
-      "url": "https://www.popmart.com/us/products/1419/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780453114206_48fe92b4de3b23677809bb39e438cf67.jpg",
+      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
+      "url": "https://www.popmart.com/us/products/6122/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
-          "id": "2364",
+          "id": "8605",
           "title": "THE MONSTERS",
-          "price": 27.99,
+          "price": 12.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -1003,142 +1296,6 @@
       ],
       "tags": [
         "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_2064",
-      "platform": "popmart",
-      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
-      "url": "https://www.popmart.com/us/products/2064/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "3220",
-          "title": "DIMOO",
-          "price": 50.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "3219",
-          "title": "DIMOO",
-          "price": 305.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_2186",
-      "platform": "popmart",
-      "title": "Mickey Family Cute Together Keychain Series Figures",
-      "url": "https://www.popmart.com/us/products/2186/Mickey-Family-Cute-Together-Keychain-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "3387",
-          "title": "Disney",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "3386",
-          "title": "Disney",
-          "price": 223.92,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "disney"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_3779",
-      "platform": "popmart",
-      "title": "Teletubbies \"Say Hello\" Series Figures",
-      "url": "https://www.popmart.com/us/products/3779/Teletubbies-\"Say-Hello\"-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_326419____1_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "5630",
-          "title": "Teletubbies ",
-          "price": 23.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "5631",
-          "title": "Teletubbies ",
-          "price": 191.92,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "teletubbies_"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7784",
-      "platform": "popmart",
-      "title": "Mickey Family Cute Together Keychain Series Figures",
-      "url": "https://www.popmart.com/us/products/7784/Mickey-Family-Cute-Together-Keychain-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "10501",
-          "title": "Disney",
-          "price": 27.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "disney"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7785",
-      "platform": "popmart",
-      "title": "DIMOO WORLD × DISNEY Series-Vinyl Plush Keychain Blind Box",
-      "url": "https://www.popmart.com/us/products/7785/DIMOO-WORLD-×-DISNEY-Series-Vinyl-Plush-Keychain-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250317_152841_722825____1_dimoo-world-disney-series-vinyl-plush-keychain-blind-box_plush_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "10502",
-          "title": "DIMOO",
-          "price": 50.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "dimoo"
       ],
       "created_at": null,
       "updated_at": null
@@ -1946,141 +2103,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_5674",
-      "platform": "popmart",
-      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/5674/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8013",
-          "title": "Twinkle Twinkle",
-          "price": 22.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8012",
-          "title": "Twinkle Twinkle",
-          "price": 137.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "twinkle_twinkle"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_5758",
-      "platform": "popmart",
-      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/5758/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8125",
-          "title": "Twinkle Twinkle",
-          "price": 22.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "twinkle_twinkle"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_5819",
-      "platform": "popmart",
-      "title": "Stitch Adventure Series Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/5819/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20260206_103454_100037____1_stitch-adventure-series-vinyl-plush-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8204",
-          "title": "Stitch",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8205",
-          "title": "Stitch",
-          "price": 251.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "stitch"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6084",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
-      "url": "https://www.popmart.com/us/products/6084/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8551",
-          "title": "THE MONSTERS",
-          "price": 12.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8552",
-          "title": "THE MONSTERS",
-          "price": 77.94,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6122",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES-Glass Cup Blind Box",
-      "url": "https://www.popmart.com/us/products/6122/THE-MONSTERS-×-FIFA-SERIES-Glass-Cup-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_173823_744207____1_the-monsters-x-fifa-series-glass-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8605",
-          "title": "THE MONSTERS",
-          "price": 12.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_6476",
       "platform": "popmart",
       "title": "Peach Riot Fruit Punch Series Plush Doll Pendant",
@@ -2162,7 +2184,7 @@
           "title": "ZSIGA",
           "price": 32.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2216,7 +2238,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2270,7 +2292,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
