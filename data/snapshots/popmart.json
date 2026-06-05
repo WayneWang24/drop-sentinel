@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-05T02:14:52.526682Z",
+  "timestamp": "2026-06-05T06:43:50.229152Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -2579,6 +2579,29 @@
       "tags": [
         "new",
         "zsiga"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6267",
+      "platform": "popmart",
+      "title": "Hirono Behind Time Figure",
+      "url": "https://www.popmart.com/us/products/6267/Hirono-Behind-Time-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_174821_582979____1_hirono-behind-time-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8802",
+          "title": "Hirono",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
       ],
       "created_at": null,
       "updated_at": null
