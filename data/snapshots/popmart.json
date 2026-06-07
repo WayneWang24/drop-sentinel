@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-07T01:55:15.249374Z",
+  "timestamp": "2026-06-07T06:13:54.376239Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -3057,7 +3057,7 @@
           "title": "PUCKY",
           "price": 43.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
