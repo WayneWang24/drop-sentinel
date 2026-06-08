@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-08T12:06:43.398727Z",
+  "timestamp": "2026-06-08T16:16:32.435968Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -1005,7 +1005,7 @@
           "title": "Teletubbies ",
           "price": 167.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3309,7 +3309,7 @@
           "title": "CRYBABY",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
