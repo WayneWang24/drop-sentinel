@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-08T07:01:43.423101Z",
+  "timestamp": "2026-06-08T12:06:43.398727Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -1166,6 +1166,119 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_6083",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Catch the Win Vinyl Plush Doll",
+      "url": "https://www.popmart.com/us/products/6083/THE-MONSTERS-×-FIFA-SERIES-Catch-the-Win-Vinyl-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180238_489694____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "8550",
+          "title": "THE MONSTERS",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6088",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/6088/THE-MONSTERS-×-FIFA-SERIES-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780908925272_698d51a19d8a121ce581499d7b701668.jpg",
+      "variants": [
+        {
+          "id": "8559",
+          "title": "THE MONSTERS",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6090",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES - Football-shaped Mini Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/6090/THE-MONSTERS-×-FIFA-SERIES---Football-shaped-Mini-Bag-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_175319_733053____1_the-monsters-fifa-series-football-shaped-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8562",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8563",
+          "title": "THE MONSTERS",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6476",
+      "platform": "popmart",
+      "title": "Peach Riot Fruit Punch Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/6476/Peach-Riot-Fruit-Punch-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/af1af82bcca99fd0c7ce60381faa8ea4_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9122",
+          "title": "Peach Riot",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "9121",
+          "title": "Peach Riot",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "9123",
+          "title": "Peach Riot",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "peach_riot"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_5991",
       "platform": "popmart",
       "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
@@ -1223,80 +1336,6 @@
       "tags": [
         "new",
         "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_4451",
-      "platform": "popmart",
-      "title": "Zsiga Gingerbread Man 1/8 Action Figure",
-      "url": "https://www.popmart.com/us/products/4451/Zsiga-Gingerbread-Man-1-8-Action-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20251112_163242_272525____1_zsiga-gingerbread-man-1-8-action-figure_bjd_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "6558",
-          "title": "Zsiga",
-          "price": 89.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "zsiga"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6271",
-      "platform": "popmart",
-      "title": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/6271/aespa-Fluffy-Club-Series-Vinyl-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20260424_180758_088465____1_aespa-fluffy-club-series-vinyl-plush-doll-pendant_plush-toys-_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8812",
-          "title": "aespa",
-          "price": 32.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "8813",
-          "title": "aespa",
-          "price": 131.96,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "aespa"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6083",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES-Catch the Win Vinyl Plush Doll",
-      "url": "https://www.popmart.com/us/products/6083/THE-MONSTERS-×-FIFA-SERIES-Catch-the-Win-Vinyl-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_180238_489694____1_them-1_____1200x1200.JPG",
-      "variants": [
-        {
-          "id": "8550",
-          "title": "THE MONSTERS",
-          "price": 149.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
@@ -1474,36 +1513,6 @@
       "tags": [
         "hot",
         "hirono"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6090",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES - Football-shaped Mini Bag Blind Box",
-      "url": "https://www.popmart.com/us/products/6090/THE-MONSTERS-×-FIFA-SERIES---Football-shaped-Mini-Bag-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_175319_733053____1_the-monsters-fifa-series-football-shaped-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8562",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8563",
-          "title": "THE MONSTERS",
-          "price": 179.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
@@ -1895,36 +1904,6 @@
       ],
       "tags": [
         "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_5674",
-      "platform": "popmart",
-      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/5674/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260116_173936_448357____1_twinkle-twinkle-crush-on-you-series-plush-pendant-blind-box_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8013",
-          "title": "Twinkle Twinkle",
-          "price": 22.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8012",
-          "title": "Twinkle Twinkle",
-          "price": 137.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "twinkle_twinkle"
       ],
       "created_at": null,
       "updated_at": null
@@ -2416,6 +2395,58 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_4451",
+      "platform": "popmart",
+      "title": "Zsiga Gingerbread Man 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/4451/Zsiga-Gingerbread-Man-1-8-Action-Figure",
+      "image_url": "https://prod-america-res.popmart.com/default/20251112_163242_272525____1_zsiga-gingerbread-man-1-8-action-figure_bjd_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "6558",
+          "title": "Zsiga",
+          "price": 89.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "zsiga"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6271",
+      "platform": "popmart",
+      "title": "aespa Fluffy Club Series Vinyl Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/6271/aespa-Fluffy-Club-Series-Vinyl-Plush-Doll-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/20260424_180758_088465____1_aespa-fluffy-club-series-vinyl-plush-doll-pendant_plush-toys-_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8812",
+          "title": "aespa",
+          "price": 32.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8813",
+          "title": "aespa",
+          "price": 131.96,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "aespa"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7780",
       "platform": "popmart",
       "title": "Stitch Adventure Series Vinyl Plush Pendant",
@@ -2486,6 +2517,58 @@
       ],
       "tags": [
         "frieren"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5674",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5674/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780909272675_8dd1c4dbd2d448af6a0010a2d8ee3179.jpg",
+      "variants": [
+        {
+          "id": "8013",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8012",
+          "title": "Twinkle Twinkle",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5758",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Crush On You Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5758/Twinkle-Twinkle-Crush-On-You-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780909272675_8dd1c4dbd2d448af6a0010a2d8ee3179.jpg",
+      "variants": [
+        {
+          "id": "8125",
+          "title": "Twinkle Twinkle",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "twinkle_twinkle"
       ],
       "created_at": null,
       "updated_at": null
@@ -2645,45 +2728,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6476",
-      "platform": "popmart",
-      "title": "Peach Riot Fruit Punch Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/6476/Peach-Riot-Fruit-Punch-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/af1af82bcca99fd0c7ce60381faa8ea4_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "9122",
-          "title": "Peach Riot",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "9121",
-          "title": "Peach Riot",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "9123",
-          "title": "Peach Riot",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "peach_riot"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_6479",
       "platform": "popmart",
       "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
@@ -2834,7 +2878,7 @@
           "title": "Haikyu",
           "price": 227.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
