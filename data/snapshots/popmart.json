@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-07T23:44:42.878491Z",
+  "timestamp": "2026-06-08T02:01:26.065457Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -2780,7 +2780,7 @@
           "title": "POP MART",
           "price": 119.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3380,106 +3380,6 @@
       "tags": [
         "new",
         "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6269",
-      "platform": "popmart",
-      "title": "POLAR-Season 3 < Polar In Monster Village > Series Figures",
-      "url": "https://www.popmart.com/us/products/6269/POLAR-Season-3-<-Polar-In-Monster-Village->-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260508_104748_408715____1_polar-season-3-polar-in-monster-village-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8805",
-          "title": "POLAR",
-          "price": 18.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8806",
-          "title": "POLAR",
-          "price": 227.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "polar"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6391",
-      "platform": "popmart",
-      "title": "POLAR-Season 3 < Polar In Monster Village > Series Figures",
-      "url": "https://www.popmart.com/us/products/6391/POLAR-Season-3-<-Polar-In-Monster-Village->-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260501_170725_786456____list_pic_____800x800.png",
-      "variants": [
-        {
-          "id": "8991",
-          "title": "POLAR",
-          "price": 18.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "polar"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6276",
-      "platform": "popmart",
-      "title": "DIMOO Love's Guardian Figure",
-      "url": "https://www.popmart.com/us/products/6276/DIMOO-Love's-Guardian-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20260501_165434_174590____1_dimoo-love-s-guardian-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8824",
-          "title": "DIMOO",
-          "price": 43.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6277",
-      "platform": "popmart",
-      "title": "Twinkle Twinkle Warmth in a Freezing Noon Figure",
-      "url": "https://www.popmart.com/us/products/6277/Twinkle-Twinkle-Warmth-in-a-Freezing-Noon-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20260501_165910_096593____1_twinkle-twinkle-warmth-in-a-freezing-noon-figure_figurine_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8825",
-          "title": "Twinkle Twinkle",
-          "price": 43.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "twinkle_twinkle"
       ],
       "created_at": null,
       "updated_at": null
