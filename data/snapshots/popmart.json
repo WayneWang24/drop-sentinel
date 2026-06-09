@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-09T06:34:54.546926Z",
+  "timestamp": "2026-06-09T10:23:09.539569Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -1166,80 +1166,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6083",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES-Catch the Win Vinyl Plush Doll",
-      "url": "https://www.popmart.com/us/products/6083/THE-MONSTERS-×-FIFA-SERIES-Catch-the-Win-Vinyl-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_180238_489694____1_them-1_____1200x1200.JPG",
-      "variants": [
-        {
-          "id": "8550",
-          "title": "THE MONSTERS",
-          "price": 149.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6088",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES-Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/6088/THE-MONSTERS-×-FIFA-SERIES-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780908925272_698d51a19d8a121ce581499d7b701668.jpg",
-      "variants": [
-        {
-          "id": "8559",
-          "title": "THE MONSTERS",
-          "price": 32.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6090",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES - Football-shaped Mini Bag Blind Box",
-      "url": "https://www.popmart.com/us/products/6090/THE-MONSTERS-×-FIFA-SERIES---Football-shaped-Mini-Bag-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_175319_733053____1_the-monsters-fifa-series-football-shaped-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "8562",
-          "title": "THE MONSTERS",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8563",
-          "title": "THE MONSTERS",
-          "price": 179.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_6476",
       "platform": "popmart",
       "title": "Peach Riot Fruit Punch Series Plush Doll Pendant",
@@ -1421,6 +1347,28 @@
       "tags": [
         "new",
         "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6083",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Catch the Win Vinyl Plush Doll",
+      "url": "https://www.popmart.com/us/products/6083/THE-MONSTERS-×-FIFA-SERIES-Catch-the-Win-Vinyl-Plush-Doll",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_180238_489694____1_them-1_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "8550",
+          "title": "THE MONSTERS",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
@@ -1731,6 +1679,58 @@
           "id": "2484",
           "title": "THE MONSTERS",
           "price": 42.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6088",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/6088/THE-MONSTERS-×-FIFA-SERIES-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780908925272_698d51a19d8a121ce581499d7b701668.jpg",
+      "variants": [
+        {
+          "id": "8559",
+          "title": "THE MONSTERS",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6090",
+      "platform": "popmart",
+      "title": "THE MONSTERS × FIFA SERIES - Football-shaped Mini Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/6090/THE-MONSTERS-×-FIFA-SERIES---Football-shaped-Mini-Bag-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260327_175319_733053____1_the-monsters-fifa-series-football-shaped-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8562",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8563",
+          "title": "THE MONSTERS",
+          "price": 179.94,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -2428,7 +2428,7 @@
           "title": "aespa",
           "price": 32.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2436,7 +2436,7 @@
           "title": "aespa",
           "price": 131.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
