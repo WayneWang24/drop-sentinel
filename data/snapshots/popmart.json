@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-11T06:24:15.581048Z",
+  "timestamp": "2026-06-11T11:05:05.750368Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -2693,7 +2693,7 @@
           "title": "POP MART",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2701,7 +2701,7 @@
           "title": "POP MART",
           "price": 170.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2724,7 +2724,7 @@
           "title": "POP MART",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2747,7 +2747,7 @@
           "title": "Disney",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2755,7 +2755,7 @@
           "title": "Disney",
           "price": 125.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2778,7 +2778,7 @@
           "title": "Disney",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
