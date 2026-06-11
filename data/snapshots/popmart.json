@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-11T20:33:42.052468Z",
+  "timestamp": "2026-06-11T22:26:22.428505Z",
   "products": [
     {
       "id": "popmart_us_1372",
@@ -937,7 +937,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1095,7 +1095,7 @@
           "title": "THE MONSTERS",
           "price": 265.86,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2801,7 +2801,7 @@
           "title": "ZSIGA",
           "price": 32.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
