@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-12T08:15:37.432269Z",
+  "timestamp": "2026-06-12T11:56:52.315945Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2593,6 +2593,229 @@
       ],
       "tags": [
         "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7836",
+      "platform": "popmart",
+      "title": "KUBO Love, Still Series Figures",
+      "url": "https://www.popmart.com/us/products/7836/KUBO-Love,-Still-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781258213767_a08ae149edab55a6ff0cf0045b119b02.jpg",
+      "variants": [
+        {
+          "id": "10554",
+          "title": "KUBO",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10555",
+          "title": "KUBO",
+          "price": 227.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "kubo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7841",
+      "platform": "popmart",
+      "title": "KUBO Love, Still Series Figures",
+      "url": "https://www.popmart.com/us/products/7841/KUBO-Love,-Still-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781258213767_a08ae149edab55a6ff0cf0045b119b02.jpg",
+      "variants": [
+        {
+          "id": "10561",
+          "title": "KUBO",
+          "price": 18.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "kubo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7839",
+      "platform": "popmart",
+      "title": "Inuyasha The Journey of Sengoku Series Figures",
+      "url": "https://www.popmart.com/us/products/7839/Inuyasha-The-Journey-of-Sengoku-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781259041421_d3c0eed0e9be3cf5579a6da6d9d48ca3.jpg",
+      "variants": [
+        {
+          "id": "10558",
+          "title": "Inuyasha ",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10560",
+          "title": "Inuyasha ",
+          "price": 119.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "inuyasha_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7840",
+      "platform": "popmart",
+      "title": "Inuyasha The Journey of Sengoku Series Figures",
+      "url": "https://www.popmart.com/us/products/7840/Inuyasha-The-Journey-of-Sengoku-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781259041421_d3c0eed0e9be3cf5579a6da6d9d48ca3.jpg",
+      "variants": [
+        {
+          "id": "10559",
+          "title": "Inuyasha ",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "inuyasha_"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7838",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 400% Game of Thrones",
+      "url": "https://www.popmart.com/us/products/7838/MEGA-SPACE-MOLLY-400%-Game-of-Thrones",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781257598594_d4d1ffc6afffd160cf87170980a81e29.jpg",
+      "variants": [
+        {
+          "id": "10557",
+          "title": "MEGA",
+          "price": 289.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "mega"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7835",
+      "platform": "popmart",
+      "title": "Baby Molly and Baby Tabby Pulling a Prank Figure",
+      "url": "https://www.popmart.com/us/products/7835/Baby-Molly-and-Baby-Tabby-Pulling-a-Prank-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781258031181_261868c5b6f5f02ea1d55610b1cd0766.jpg",
+      "variants": [
+        {
+          "id": "10553",
+          "title": "Molly",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7837",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 400% Childishness 2026",
+      "url": "https://www.popmart.com/us/products/7837/MEGA-ROYAL-MOLLY-400%-Childishness-2026",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781256958358_4c903231aeb8009c5a17776fd964899b.jpg",
+      "variants": [
+        {
+          "id": "10556",
+          "title": "MEGA",
+          "price": 329.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "mega"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6073",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 1000% Game of Thrones",
+      "url": "https://www.popmart.com/us/products/6073/MEGA-SPACE-MOLLY-1000%-Game-of-Thrones",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781255464139_9d811950e437c8ca5d35af0e5937c073.jpg",
+      "variants": [
+        {
+          "id": "8535",
+          "title": "MEGA",
+          "price": 1199.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "mega"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6286",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 1000% Childishness 2026",
+      "url": "https://www.popmart.com/us/products/6286/MEGA-ROYAL-MOLLY-1000%-Childishness-2026",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781255914749_9cc388374e98f3c4138209ea1535da56.jpg",
+      "variants": [
+        {
+          "id": "8841",
+          "title": "MEGA",
+          "price": 1199.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "mega"
       ],
       "created_at": null,
       "updated_at": null
