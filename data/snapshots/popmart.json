@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-13T00:13:00.029776Z",
+  "timestamp": "2026-06-13T04:50:17.665425Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1423,7 +1423,7 @@
           "title": "Star Wars",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
