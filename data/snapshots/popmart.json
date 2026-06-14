@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-14T10:20:11.511811Z",
+  "timestamp": "2026-06-14T12:19:55.031814Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2909,7 +2909,7 @@
           "title": "POP MART",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2963,7 +2963,7 @@
           "title": "Disney",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2986,7 +2986,7 @@
           "title": "ZSIGA",
           "price": 32.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3009,7 +3009,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3063,7 +3063,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3186,7 +3186,7 @@
           "title": "1001MOONS",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3317,7 +3317,7 @@
           "title": "Crayon Shin-chan",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3340,7 +3340,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3363,7 +3363,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3386,7 +3386,7 @@
           "title": "CRYBABY",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3556,7 +3556,7 @@
           "title": "CRYBABY",
           "price": 23.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
