@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-16T00:06:57.781581Z",
+  "timestamp": "2026-06-16T05:28:58.617665Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -293,7 +293,7 @@
           "title": "THE MONSTERS",
           "price": 46.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1423,7 +1423,7 @@
           "title": "Star Wars",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1431,7 +1431,7 @@
           "title": "Star Wars",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3093,29 +3093,6 @@
       "tags": [
         "new",
         "mega"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6475",
-      "platform": "popmart",
-      "title": "MEGA SPACE MOLLY Ashley Wood \"IN SPACE\" 3D Painting",
-      "url": "https://www.popmart.com/us/products/6475/MEGA-SPACE-MOLLY-Ashley-Wood-\"IN-SPACE\"-3D-Painting",
-      "image_url": "https://prod-america-res.popmart.com/default/2e2475857324a1353d2e2b9d72a37c06_____1119x1119.JPG",
-      "variants": [
-        {
-          "id": "9120",
-          "title": "MOLLY",
-          "price": 799.9,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "molly"
       ],
       "created_at": null,
       "updated_at": null
