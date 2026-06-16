@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-16T05:28:58.617665Z",
+  "timestamp": "2026-06-16T10:25:12.495572Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1838,7 +1838,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1898,7 +1898,7 @@
           "title": "THE MONSTERS",
           "price": 77.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2909,7 +2909,7 @@
           "title": "POP MART",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2963,7 +2963,7 @@
           "title": "Disney",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2986,7 +2986,7 @@
           "title": "ZSIGA",
           "price": 32.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3009,7 +3009,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3063,7 +3063,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3163,7 +3163,7 @@
           "title": "1001MOONS",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3294,7 +3294,7 @@
           "title": "Crayon Shin-chan",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
