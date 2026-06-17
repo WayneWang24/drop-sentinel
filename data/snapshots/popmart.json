@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-17T01:40:06.273594Z",
+  "timestamp": "2026-06-17T06:49:18.089406Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2986,7 +2986,7 @@
           "title": "ZSIGA",
           "price": 32.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
