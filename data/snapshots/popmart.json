@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-18T06:54:27.669416Z",
+  "timestamp": "2026-06-18T11:04:23.904758Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -28,37 +28,6 @@
       ],
       "tags": [
         "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_2186",
-      "platform": "popmart",
-      "title": "Mickey Family Cute Together Keychain Series Figures",
-      "url": "https://www.popmart.com/us/products/2186/Mickey-Family-Cute-Together-Keychain-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "3387",
-          "title": "Disney",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "3386",
-          "title": "Disney",
-          "price": 223.92,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "disney"
       ],
       "created_at": null,
       "updated_at": null
@@ -1183,6 +1152,37 @@
       ],
       "tags": [
         "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2186",
+      "platform": "popmart",
+      "title": "Mickey Family Cute Together Keychain Series Figures",
+      "url": "https://www.popmart.com/us/products/2186/Mickey-Family-Cute-Together-Keychain-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20250225_182533_538077____1_mickey-family-cute-together-keychain-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3387",
+          "title": "Disney",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3386",
+          "title": "Disney",
+          "price": 223.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
+        "disney"
       ],
       "created_at": null,
       "updated_at": null
@@ -2683,6 +2683,36 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_5824",
+      "platform": "popmart",
+      "title": "Angry Molly - Angry Energy Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/5824/Angry-Molly---Angry-Energy-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781235128909_8e3ac79dfeab7bcf86770d83acb7084e.jpg",
+      "variants": [
+        {
+          "id": "8211",
+          "title": "MOLLY",
+          "price": 22.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8212",
+          "title": "MOLLY",
+          "price": 137.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7836",
       "platform": "popmart",
       "title": "KUBO Love, Still Series Figures",
@@ -2694,7 +2724,7 @@
           "title": "KUBO",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2702,7 +2732,7 @@
           "title": "KUBO",
           "price": 227.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2748,7 +2778,7 @@
           "title": "Inuyasha ",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2756,7 +2786,7 @@
           "title": "Inuyasha ",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2802,7 +2832,7 @@
           "title": "MEGA",
           "price": 289.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2825,7 +2855,7 @@
           "title": "Molly",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2848,7 +2878,7 @@
           "title": "MEGA",
           "price": 329.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
