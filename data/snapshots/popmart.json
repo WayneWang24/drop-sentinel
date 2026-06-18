@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-18T01:59:45.745275Z",
+  "timestamp": "2026-06-18T06:54:27.669416Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2725,7 +2725,7 @@
           "title": "KUBO",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
