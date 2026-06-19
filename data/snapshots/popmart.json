@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-19T07:34:52.101763Z",
+  "timestamp": "2026-06-19T11:52:43.877884Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2708,6 +2708,492 @@
       ],
       "tags": [
         "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7890",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/7890/THE-MONSTERS-Hair-Salon-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861441684_7adf500e88631d8bf1518d65d3f25f76.jpg",
+      "variants": [
+        {
+          "id": "10620",
+          "title": "THE MONSTERS",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10621",
+          "title": "THE MONSTERS",
+          "price": 239.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7899",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/7899/THE-MONSTERS-Hair-Salon-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861441684_7adf500e88631d8bf1518d65d3f25f76.jpg",
+      "variants": [
+        {
+          "id": "10635",
+          "title": "THE MONSTERS",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7892",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series Figures",
+      "url": "https://www.popmart.com/us/products/7892/THE-MONSTERS-Hair-Salon-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781862593998_ae1d518a356ac6e5ab7afe75d1e4f3e1.jpg",
+      "variants": [
+        {
+          "id": "10624",
+          "title": "THE MONSTERS",
+          "price": 17.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10625",
+          "title": "THE MONSTERS",
+          "price": 215.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7901",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series Figures",
+      "url": "https://www.popmart.com/us/products/7901/THE-MONSTERS-Hair-Salon-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781862593998_ae1d518a356ac6e5ab7afe75d1e4f3e1.jpg",
+      "variants": [
+        {
+          "id": "10637",
+          "title": "THE MONSTERS",
+          "price": 17.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7891",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series-Fragrance Spray Blind Box",
+      "url": "https://www.popmart.com/us/products/7891/THE-MONSTERS-Hair-Salon-Series-Fragrance-Spray-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861644941_a33005dd2a9830e97865d28783e14ae9.jpg",
+      "variants": [
+        {
+          "id": "10622",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10623",
+          "title": "THE MONSTERS",
+          "price": 179.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7900",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series-Fragrance Spray Blind Box",
+      "url": "https://www.popmart.com/us/products/7900/THE-MONSTERS-Hair-Salon-Series-Fragrance-Spray-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861644941_a33005dd2a9830e97865d28783e14ae9.jpg",
+      "variants": [
+        {
+          "id": "10636",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7885",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Glowing Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/7885/THE-MONSTERS-Hair-Salon-Series---Glowing-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781860818817_eed7160bb32ff6fff024b1bdc20e653d.jpg",
+      "variants": [
+        {
+          "id": "10612",
+          "title": "THE MONSTERS",
+          "price": 15.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10615",
+          "title": "THE MONSTERS",
+          "price": 95.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7886",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Glowing Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/7886/THE-MONSTERS-Hair-Salon-Series---Glowing-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781860818817_eed7160bb32ff6fff024b1bdc20e653d.jpg",
+      "variants": [
+        {
+          "id": "10613",
+          "title": "THE MONSTERS",
+          "price": 15.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7889",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Display Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/7889/THE-MONSTERS-Hair-Salon-Series---Display-Bag-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861252694_250d1558aaff319e320f26db9be002b9.jpg",
+      "variants": [
+        {
+          "id": "10618",
+          "title": "THE MONSTERS",
+          "price": 7.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10619",
+          "title": "THE MONSTERS",
+          "price": 31.96,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7898",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Display Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/7898/THE-MONSTERS-Hair-Salon-Series---Display-Bag-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861252694_250d1558aaff319e320f26db9be002b9.jpg",
+      "variants": [
+        {
+          "id": "10634",
+          "title": "THE MONSTERS",
+          "price": 7.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7888",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/7888/THE-MONSTERS-Hair-Salon-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861036699_6b52f4bfed9472049e367c140576a9ce.jpg",
+      "variants": [
+        {
+          "id": "10616",
+          "title": "THE MONSTERS",
+          "price": 15.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10617",
+          "title": "THE MONSTERS",
+          "price": 95.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7897",
+      "platform": "popmart",
+      "title": "THE MONSTERS Hair Salon Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/7897/THE-MONSTERS-Hair-Salon-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861036699_6b52f4bfed9472049e367c140576a9ce.jpg",
+      "variants": [
+        {
+          "id": "10633",
+          "title": "THE MONSTERS",
+          "price": 15.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7895",
+      "platform": "popmart",
+      "title": "POP BEAN THE MONSTERS Hair Salon Series",
+      "url": "https://www.popmart.com/us/products/7895/POP-BEAN-THE-MONSTERS-Hair-Salon-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781859133161_203d677a04d38e1643dbcc01ed89e562.jpg",
+      "variants": [
+        {
+          "id": "10629",
+          "title": "THE MONSTERS",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10630",
+          "title": "THE MONSTERS",
+          "price": 74.85,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7893",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Punk Panda Plush Doll",
+      "url": "https://www.popmart.com/us/products/7893/θ-SKULLPANDA-Punk-Panda-Plush-Doll",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781860714116_68769a4303ad21c72c734cec81859fd2.jpg",
+      "variants": [
+        {
+          "id": "10626",
+          "title": "SKULLPANDA",
+          "price": 99.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7894",
+      "platform": "popmart",
+      "title": "Demon Slayer Unwavering Resolve Arc Series Block Figures",
+      "url": "https://www.popmart.com/us/products/7894/Demon-Slayer-Unwavering-Resolve-Arc-Series-Block-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781863471548_a000b34b638d4b120f000e31c6a3cc94.jpg",
+      "variants": [
+        {
+          "id": "10627",
+          "title": "Demon Slayer",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10628",
+          "title": "Demon Slayer",
+          "price": 159.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "demon_slayer"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7883",
+      "platform": "popmart",
+      "title": "Hirono × Leah Dou In the Air Figurine",
+      "url": "https://www.popmart.com/us/products/7883/Hirono-×-Leah-Dou-In-the-Air-Figurine",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861718262_e9bc0b3f33ed5ec2724829992a222615.jpg",
+      "variants": [
+        {
+          "id": "10610",
+          "title": "Hirono",
+          "price": 129.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7896",
+      "platform": "popmart",
+      "title": "Minions and Monsters Series Figures",
+      "url": "https://www.popmart.com/us/products/7896/Minions-and-Monsters-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781862222526_32a37beeb296d19fc9f00d3d341bc337.jpg",
+      "variants": [
+        {
+          "id": "10631",
+          "title": "Minions and Monsters",
+          "price": 17.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10632",
+          "title": "Minions and Monsters",
+          "price": 215.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "minions_and_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6355",
+      "platform": "popmart",
+      "title": "1001MOONS Confession in the Wind · Moona (Variant)",
+      "url": "https://www.popmart.com/us/products/6355/1001MOONS-Confession-in-the-Wind-·-Moona-(Variant)",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781860207851_d67a873eff9239de4f3c05f60563a7b8.jpg",
+      "variants": [
+        {
+          "id": "8927",
+          "title": "1001MOONS",
+          "price": 109.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "1001moons"
       ],
       "created_at": null,
       "updated_at": null
