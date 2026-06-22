@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-22T02:47:12.617429Z",
+  "timestamp": "2026-06-22T08:48:12.196824Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1384,7 +1384,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1392,7 +1392,7 @@
           "title": "THE MONSTERS",
           "price": 179.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3417,29 +3417,6 @@
       "tags": [
         "new",
         "mega"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7794",
-      "platform": "popmart",
-      "title": "TYCOCO Goud",
-      "url": "https://www.popmart.com/us/products/7794/TYCOCO-Goud",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780634152206_ed4ae3fffba86655a91be5a5acb06289.jpg",
-      "variants": [
-        {
-          "id": "10511",
-          "title": "THE MONSTERS",
-          "price": 171.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
