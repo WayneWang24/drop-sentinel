@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-23T04:18:41.913898Z",
+  "timestamp": "2026-06-23T08:01:56.288290Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1298,37 +1298,6 @@
       "tags": [
         "hot",
         "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6479",
-      "platform": "popmart",
-      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/6479/ZSIGA-I'm-Zsiga-Series-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/154f39635f7e00b938930880873a95c0_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "9129",
-          "title": "ZSIGA",
-          "price": 32.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "9128",
-          "title": "ZSIGA",
-          "price": 197.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "zsiga"
       ],
       "created_at": null,
       "updated_at": null
@@ -2713,6 +2682,28 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_6214",
+      "platform": "popmart",
+      "title": "DIMOO The Secret Theatre Club Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6214/DIMOO-The-Secret-Theatre-Club-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781235366495_d19c4d623f9be5c2b0c15f7dca811837.jpg",
+      "variants": [
+        {
+          "id": "8730",
+          "title": "DIMOO",
+          "price": 32.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7890",
       "platform": "popmart",
       "title": "THE MONSTERS Hair Salon Series - Vinyl Plush Pendant Blind Box",
@@ -3491,15 +3482,46 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_6479",
+      "platform": "popmart",
+      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/6479/ZSIGA-I'm-Zsiga-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-america-res.popmart.com/default/154f39635f7e00b938930880873a95c0_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9129",
+          "title": "Zsiga",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "9128",
+          "title": "Zsiga",
+          "price": 197.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "zsiga"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7593",
       "platform": "popmart",
       "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
       "url": "https://www.popmart.com/us/products/7593/ZSIGA-I'm-Zsiga-Series-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/dfa7c9a363bcd5e1c9e5e5f425a7b778_____800x800.png",
+      "image_url": "https://prod-america-res.popmart.com/default/154f39635f7e00b938930880873a95c0_____1200x1200.jpg",
       "variants": [
         {
           "id": "10296",
-          "title": "ZSIGA",
+          "title": "Zsiga",
           "price": 32.99,
           "currency": "USD",
           "available": false,
