@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-25T02:11:34.426708Z",
+  "timestamp": "2026-06-25T06:18:30.664068Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3113,6 +3113,29 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_7902",
+      "platform": "popmart",
+      "title": "Demon Slayer Unwavering Resolve Arc Series Block Figures",
+      "url": "https://www.popmart.com/us/products/7902/Demon-Slayer-Unwavering-Resolve-Arc-Series-Block-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781863471548_a000b34b638d4b120f000e31c6a3cc94.jpg",
+      "variants": [
+        {
+          "id": "10638",
+          "title": "Demon Slayer",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "demon_slayer"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7883",
       "platform": "popmart",
       "title": "Hirono × Leah Dou In the Air Figurine",
@@ -3154,6 +3177,29 @@
           "id": "10632",
           "title": "Minions and Monsters",
           "price": 215.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "minions_and_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7903",
+      "platform": "popmart",
+      "title": "Minions and Monsters Series Figures",
+      "url": "https://www.popmart.com/us/products/7903/Minions-and-Monsters-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781862222526_32a37beeb296d19fc9f00d3d341bc337.jpg",
+      "variants": [
+        {
+          "id": "10639",
+          "title": "Minions and Monsters",
+          "price": 17.99,
           "currency": "USD",
           "available": false,
           "sku": ""
