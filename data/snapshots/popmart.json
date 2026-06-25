@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-25T09:49:41.661439Z",
+  "timestamp": "2026-06-25T12:11:53.671256Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -221,36 +221,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_2766",
-      "platform": "popmart",
-      "title": "θSKULLPANDA L'impressionnisme Series Plush Doll",
-      "url": "https://www.popmart.com/us/products/2766/θSKULLPANDA-L'impressionnisme-Series-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20250530_163455_830917____1_-skullpanda-l-impressionnisme-series-plush-doll_plush-toys_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "4126",
-          "title": "SKULLPANDA",
-          "price": 32.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "4125",
-          "title": "SKULLPANDA",
-          "price": 296.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "skullpanda"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_1981",
       "platform": "popmart",
       "title": "THE MONSTERS COCA-COLA SERIES-Vinyl Face Blind Box",
@@ -276,36 +246,6 @@
       ],
       "tags": [
         "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_3676",
-      "platform": "popmart",
-      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/3676/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20250905_171941_658721____1_skullpanda-you-found-me-series-plush-doll-pendant_plush-toys_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "5480",
-          "title": "SKULLPANDA",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "5481",
-          "title": "SKULLPANDA",
-          "price": 359.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "skullpanda"
       ],
       "created_at": null,
       "updated_at": null
@@ -1183,6 +1123,66 @@
       "tags": [
         "hot",
         "disney"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2766",
+      "platform": "popmart",
+      "title": "θSKULLPANDA L'impressionnisme Series Plush Doll",
+      "url": "https://www.popmart.com/us/products/2766/θSKULLPANDA-L'impressionnisme-Series-Plush-Doll",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782383530715_14bb2be7ee5d887c9c4fa04e5cdbaede.jpg",
+      "variants": [
+        {
+          "id": "4126",
+          "title": "SKULLPANDA",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "4125",
+          "title": "SKULLPANDA",
+          "price": 296.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_3676",
+      "platform": "popmart",
+      "title": "SKULLPANDA You Found Me! Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/3676/SKULLPANDA-You-Found-Me!-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782384107707_c3f75c0cb9699bead64a303bab80e3bc.jpg",
+      "variants": [
+        {
+          "id": "5480",
+          "title": "SKULLPANDA",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5481",
+          "title": "SKULLPANDA",
+          "price": 359.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
       ],
       "created_at": null,
       "updated_at": null
@@ -2694,6 +2694,36 @@
           "price": 32.99,
           "currency": "USD",
           "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6093",
+      "platform": "popmart",
+      "title": "DIMOO The Secret Theatre Club Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6093/DIMOO-The-Secret-Theatre-Club-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781235366495_d19c4d623f9be5c2b0c15f7dca811837.jpg",
+      "variants": [
+        {
+          "id": "8569",
+          "title": "DIMOO",
+          "price": 32.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8568",
+          "title": "DIMOO",
+          "price": 197.94,
+          "currency": "USD",
+          "available": true,
           "sku": ""
         }
       ],
