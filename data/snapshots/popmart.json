@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-26T03:29:44.765455Z",
+  "timestamp": "2026-06-26T07:07:34.619905Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -125,37 +125,6 @@
       ],
       "tags": [
         "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_2155",
-      "platform": "popmart",
-      "title": "THE MONSTERS Big into Energy Series-Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/2155/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260422_101352_564846____1_the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box_plush_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "3334",
-          "title": "THE MONSTERS",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "3335",
-          "title": "THE MONSTERS",
-          "price": 167.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hot",
-        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
@@ -1091,6 +1060,37 @@
         }
       ],
       "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_2155",
+      "platform": "popmart",
+      "title": "THE MONSTERS Big into Energy Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/2155/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/20260422_101352_564846____1_the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box_plush_details_popmart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "3334",
+          "title": "THE MONSTERS",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "3335",
+          "title": "THE MONSTERS",
+          "price": 167.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hot",
         "the_monsters"
       ],
       "created_at": null,
@@ -2745,7 +2745,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2753,7 +2753,7 @@
           "title": "THE MONSTERS",
           "price": 239.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2776,7 +2776,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2938,7 +2938,7 @@
           "title": "THE MONSTERS",
           "price": 15.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2992,7 +2992,7 @@
           "title": "THE MONSTERS",
           "price": 7.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
