@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-06-26T23:21:41.044011Z",
+  "timestamp": "2026-06-27T01:27:08.973238Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2752,6 +2752,60 @@
       "tags": [
         "new",
         "haikyu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7996",
+      "platform": "popmart",
+      "title": "mini DUCKOO Citywalk Series Figures",
+      "url": "https://www.popmart.com/us/products/7996/mini-DUCKOO-Citywalk-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
+      "variants": [
+        {
+          "id": "10753",
+          "title": "DUCKOO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10754",
+          "title": "DUCKOO",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "duckoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8010",
+      "platform": "popmart",
+      "title": "mini DUCKOO Citywalk Series Figures",
+      "url": "https://www.popmart.com/us/products/8010/mini-DUCKOO-Citywalk-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
+      "variants": [
+        {
+          "id": "10771",
+          "title": "DUCKOO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "duckoo"
       ],
       "created_at": null,
       "updated_at": null
