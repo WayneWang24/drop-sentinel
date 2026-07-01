@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-01T05:00:12.598331Z",
+  "timestamp": "2026-07-01T08:50:33.609704Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1353,7 +1353,7 @@
           "title": "THE MONSTERS",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2447,7 +2447,7 @@
           "title": "Peach Riot",
           "price": 129.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
