@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-01T08:50:33.609704Z",
+  "timestamp": "2026-07-01T11:49:50.291466Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1214,28 +1214,6 @@
       "tags": [
         "new",
         "haikyu"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6083",
-      "platform": "popmart",
-      "title": "THE MONSTERS × FIFA SERIES-Catch the Win Vinyl Plush Doll",
-      "url": "https://www.popmart.com/us/products/6083/THE-MONSTERS-×-FIFA-SERIES-Catch-the-Win-Vinyl-Plush-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_180238_489694____1_them-1_____1200x1200.JPG",
-      "variants": [
-        {
-          "id": "8550",
-          "title": "THE MONSTERS",
-          "price": 149.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
@@ -2752,6 +2730,60 @@
       "tags": [
         "new",
         "haikyu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6270",
+      "platform": "popmart",
+      "title": "THE MONSTERS Chasing Mermaids Series Blocks",
+      "url": "https://www.popmart.com/us/products/6270/THE-MONSTERS-Chasing-Mermaids-Series-Blocks",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781161814297_80176741211de24bcb333f21f152c302.jpg",
+      "variants": [
+        {
+          "id": "8807",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8808",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8809",
+          "title": "THE MONSTERS",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8810",
+          "title": "THE MONSTERS",
+          "price": 179.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8811",
+          "title": "THE MONSTERS",
+          "price": 268.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
