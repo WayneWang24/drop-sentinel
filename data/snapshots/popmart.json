@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-02T04:36:50.564406Z",
+  "timestamp": "2026-07-02T07:55:08.884824Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2885,7 +2885,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3016,7 +3016,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
