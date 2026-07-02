@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-02T10:28:04.589710Z",
+  "timestamp": "2026-07-02T12:27:14.893747Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2854,7 +2854,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2862,7 +2862,7 @@
           "title": "Peach Riot",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2908,7 +2908,7 @@
           "title": "PUCKY",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2931,7 +2931,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2939,7 +2939,7 @@
           "title": "Peach Riot",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2985,7 +2985,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2993,7 +2993,7 @@
           "title": "Monster Hunter",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
