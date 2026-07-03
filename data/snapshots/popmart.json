@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-03T07:37:14.337498Z",
+  "timestamp": "2026-07-03T10:17:06.298783Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -314,7 +314,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA Winter Symphony Series Plush",
       "url": "https://www.popmart.com/us/products/1809/SKULLPANDA-Winter-Symphony-Series-Plush",
-      "image_url": "https://prod-america-res.popmart.com/default/20241129_141930_639083____6_skullpanda-winter-symphony-series-plush_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783070463045_cfd4d0a2d95735715bdfc6e29582d534.jpg",
       "variants": [
         {
           "id": "2883",
@@ -1416,7 +1416,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA Petals in Four Acts Series Figures",
       "url": "https://www.popmart.com/us/products/6201/SKULLPANDA-Petals-in-Four-Acts-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20260417_172918_968935____1_skullpanda-petals-in-four-acts-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783069396927_dd0a04384cdf825ebaca7ab6bdfcef34.jpg",
       "variants": [
         {
           "id": "8716",
@@ -2885,7 +2885,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3016,7 +3016,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3070,7 +3070,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3124,7 +3124,7 @@
           "title": "THE MONSTERS",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3340,7 +3340,7 @@
           "title": "THE MONSTERS",
           "price": 15.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3448,7 +3448,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3525,7 +3525,7 @@
           "title": "Minions and Monsters",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3602,7 +3602,7 @@
           "title": "KUBO",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3817,7 +3817,7 @@
           "title": "POP MART",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3840,7 +3840,7 @@
           "title": "Disney",
           "price": 13.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3917,7 +3917,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
