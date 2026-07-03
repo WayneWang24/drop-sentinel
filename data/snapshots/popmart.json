@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-03T12:23:15.516882Z",
+  "timestamp": "2026-07-03T14:37:14.203513Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3063,7 +3063,7 @@
           "title": "Peach Riot",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
