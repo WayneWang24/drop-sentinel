@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-03T10:17:06.298783Z",
+  "timestamp": "2026-07-03T12:23:15.516882Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2843,6 +2843,207 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8061",
+      "platform": "popmart",
+      "title": "HACIPUPU Take Me Home Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8061/HACIPUPU-Take-Me-Home-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072952440_b5815b9c6e35ce9e781873ece8cf3833.jpg",
+      "variants": [
+        {
+          "id": "10831",
+          "title": "HACIPUPU",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10832",
+          "title": "HACIPUPU",
+          "price": 119.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8069",
+      "platform": "popmart",
+      "title": "HACIPUPU Take Me Home Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8069/HACIPUPU-Take-Me-Home-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072952440_b5815b9c6e35ce9e781873ece8cf3833.jpg",
+      "variants": [
+        {
+          "id": "10845",
+          "title": "HACIPUPU",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8062",
+      "platform": "popmart",
+      "title": "HACIPUPU Take Me Home Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8062/HACIPUPU-Take-Me-Home-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783074201744_b905b854eddaf781f85f947c2f3b5b75.jpg",
+      "variants": [
+        {
+          "id": "10833",
+          "title": "HACIPUPU",
+          "price": 26.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10834",
+          "title": "HACIPUPU",
+          "price": 161.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8070",
+      "platform": "popmart",
+      "title": "HACIPUPU Take Me Home Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8070/HACIPUPU-Take-Me-Home-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783074201744_b905b854eddaf781f85f947c2f3b5b75.jpg",
+      "variants": [
+        {
+          "id": "10846",
+          "title": "HACIPUPU",
+          "price": 26.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hacipupu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8064",
+      "platform": "popmart",
+      "title": "Jujutsu Kaisen Series Scene Blocks",
+      "url": "https://www.popmart.com/us/products/8064/Jujutsu-Kaisen-Series-Scene-Blocks",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783073797279_a96595cbcfbcc0a6b03d4b6c1252a4a0.jpg",
+      "variants": [
+        {
+          "id": "10837",
+          "title": "Jujutsu Kaisen",
+          "price": 36.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10839",
+          "title": "Jujutsu Kaisen",
+          "price": 69.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10838",
+          "title": "Jujutsu Kaisen",
+          "price": 179.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "jujutsu_kaisen"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8063",
+      "platform": "popmart",
+      "title": "SpongeBob: Krabby Patty Bestsellers Series Figures",
+      "url": "https://www.popmart.com/us/products/8063/SpongeBob:-Krabby-Patty-Bestsellers-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072547789_5d5e9d0eb88c8b7c4eb3dda95d6ea687.jpg",
+      "variants": [
+        {
+          "id": "10835",
+          "title": "SpongeBob",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10836",
+          "title": "SpongeBob",
+          "price": 159.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "spongebob"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8071",
+      "platform": "popmart",
+      "title": "SpongeBob: Krabby Patty Bestsellers Series Figures",
+      "url": "https://www.popmart.com/us/products/8071/SpongeBob:-Krabby-Patty-Bestsellers-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072547789_5d5e9d0eb88c8b7c4eb3dda95d6ea687.jpg",
+      "variants": [
+        {
+          "id": "10847",
+          "title": "SpongeBob",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "spongebob"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7998",
       "platform": "popmart",
       "title": "Peach Riot Power Chords Series Figures",
@@ -2885,7 +3086,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3016,7 +3217,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3070,7 +3271,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3124,7 +3325,7 @@
           "title": "THE MONSTERS",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3340,7 +3541,7 @@
           "title": "THE MONSTERS",
           "price": 15.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3448,7 +3649,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3525,7 +3726,7 @@
           "title": "Minions and Monsters",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3602,7 +3803,7 @@
           "title": "KUBO",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3817,7 +4018,7 @@
           "title": "POP MART",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3840,7 +4041,7 @@
           "title": "Disney",
           "price": 13.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3917,7 +4118,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
