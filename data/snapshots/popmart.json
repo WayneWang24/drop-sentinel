@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-06T00:02:01.371718Z",
+  "timestamp": "2026-07-06T04:36:36.120809Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -673,7 +673,7 @@
           "title": "THE MONSTERS",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -771,7 +771,7 @@
           "title": "HIRONO",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -951,7 +951,7 @@
           "title": "Demon Slayer",
           "price": 251.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1925,7 +1925,7 @@
           "title": "THE MONSTERS",
           "price": 42.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3086,7 +3086,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3541,7 +3541,7 @@
           "title": "THE MONSTERS",
           "price": 15.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4048,129 +4048,6 @@
       "tags": [
         "new",
         "disney"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6479",
-      "platform": "popmart",
-      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/6479/ZSIGA-I'm-Zsiga-Series-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/154f39635f7e00b938930880873a95c0_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "9129",
-          "title": "Zsiga",
-          "price": 32.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "9128",
-          "title": "Zsiga",
-          "price": 197.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "zsiga"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7593",
-      "platform": "popmart",
-      "title": "ZSIGA I'm Zsiga Series-Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/7593/ZSIGA-I'm-Zsiga-Series-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/154f39635f7e00b938930880873a95c0_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "10296",
-          "title": "Zsiga",
-          "price": 32.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "zsiga"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7594",
-      "platform": "popmart",
-      "title": "Puella Magi Madoka Magica Iconic Scenes Series Figures",
-      "url": "https://www.popmart.com/us/products/7594/Puella-Magi-Madoka-Magica-Iconic-Scenes-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/63bea2c8614bce260cf51a5f4d0d64eb_____800x800.png",
-      "variants": [
-        {
-          "id": "10297",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6474",
-      "platform": "popmart",
-      "title": "MEGA SPACE MOLLY 400% Ashley Wood",
-      "url": "https://www.popmart.com/us/products/6474/MEGA-SPACE-MOLLY-400%-Ashley-Wood",
-      "image_url": "https://prod-america-res.popmart.com/default/54846daf31830f1df08bb2b1015314ff_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "9119",
-          "title": "MEGA",
-          "price": 329.9,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "mega"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6475",
-      "platform": "popmart",
-      "title": "MEGA SPACE MOLLY Ashley Wood \"IN SPACE\" 3D Painting",
-      "url": "https://www.popmart.com/us/products/6475/MEGA-SPACE-MOLLY-Ashley-Wood-\"IN-SPACE\"-3D-Painting",
-      "image_url": "https://prod-america-res.popmart.com/default/2e2475857324a1353d2e2b9d72a37c06_____1119x1119.JPG",
-      "variants": [
-        {
-          "id": "9120",
-          "title": "MOLLY",
-          "price": 799.9,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "molly"
       ],
       "created_at": null,
       "updated_at": null
