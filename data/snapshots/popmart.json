@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-07T00:02:03.890692Z",
+  "timestamp": "2026-07-07T04:14:20.628109Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -831,7 +831,7 @@
           "title": "HIRONO",
           "price": 125.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -951,7 +951,7 @@
           "title": "Demon Slayer",
           "price": 251.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2574,7 +2574,7 @@
           "title": "Twinkle Twinkle",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2778,7 +2778,7 @@
           "title": "THE MONSTERS",
           "price": 268.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2789,24 +2789,24 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_7996",
+      "id": "popmart_us_8062",
       "platform": "popmart",
-      "title": "mini DUCKOO Citywalk Series Figures",
-      "url": "https://www.popmart.com/us/products/7996/mini-DUCKOO-Citywalk-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
+      "title": "HACIPUPU Take Me Home Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8062/HACIPUPU-Take-Me-Home-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783074201744_b905b854eddaf781f85f947c2f3b5b75.jpg",
       "variants": [
         {
-          "id": "10753",
-          "title": "DUCKOO",
-          "price": 19.99,
+          "id": "10833",
+          "title": "HACIPUPU",
+          "price": 26.99,
           "currency": "USD",
           "available": false,
           "sku": ""
         },
         {
-          "id": "10754",
-          "title": "DUCKOO",
-          "price": 239.88,
+          "id": "10834",
+          "title": "HACIPUPU",
+          "price": 161.94,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -2814,22 +2814,22 @@
       ],
       "tags": [
         "new",
-        "duckoo"
+        "hacipupu"
       ],
       "created_at": null,
       "updated_at": null
     },
     {
-      "id": "popmart_us_8010",
+      "id": "popmart_us_8070",
       "platform": "popmart",
-      "title": "mini DUCKOO Citywalk Series Figures",
-      "url": "https://www.popmart.com/us/products/8010/mini-DUCKOO-Citywalk-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
+      "title": "HACIPUPU Take Me Home Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8070/HACIPUPU-Take-Me-Home-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783074201744_b905b854eddaf781f85f947c2f3b5b75.jpg",
       "variants": [
         {
-          "id": "10771",
-          "title": "DUCKOO",
-          "price": 19.99,
+          "id": "10846",
+          "title": "HACIPUPU",
+          "price": 26.99,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -2837,7 +2837,7 @@
       ],
       "tags": [
         "new",
-        "duckoo"
+        "hacipupu"
       ],
       "created_at": null,
       "updated_at": null
@@ -2897,24 +2897,24 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8062",
+      "id": "popmart_us_7996",
       "platform": "popmart",
-      "title": "HACIPUPU Take Me Home Series - Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/8062/HACIPUPU-Take-Me-Home-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783074201744_b905b854eddaf781f85f947c2f3b5b75.jpg",
+      "title": "mini DUCKOO Citywalk Series Figures",
+      "url": "https://www.popmart.com/us/products/7996/mini-DUCKOO-Citywalk-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
       "variants": [
         {
-          "id": "10833",
-          "title": "HACIPUPU",
-          "price": 26.99,
+          "id": "10753",
+          "title": "DUCKOO",
+          "price": 19.99,
           "currency": "USD",
           "available": false,
           "sku": ""
         },
         {
-          "id": "10834",
-          "title": "HACIPUPU",
-          "price": 161.94,
+          "id": "10754",
+          "title": "DUCKOO",
+          "price": 239.88,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -2922,22 +2922,22 @@
       ],
       "tags": [
         "new",
-        "hacipupu"
+        "duckoo"
       ],
       "created_at": null,
       "updated_at": null
     },
     {
-      "id": "popmart_us_8070",
+      "id": "popmart_us_8010",
       "platform": "popmart",
-      "title": "HACIPUPU Take Me Home Series - Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/8070/HACIPUPU-Take-Me-Home-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783074201744_b905b854eddaf781f85f947c2f3b5b75.jpg",
+      "title": "mini DUCKOO Citywalk Series Figures",
+      "url": "https://www.popmart.com/us/products/8010/mini-DUCKOO-Citywalk-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
       "variants": [
         {
-          "id": "10846",
-          "title": "HACIPUPU",
-          "price": 26.99,
+          "id": "10771",
+          "title": "DUCKOO",
+          "price": 19.99,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -2945,7 +2945,7 @@
       ],
       "tags": [
         "new",
-        "hacipupu"
+        "duckoo"
       ],
       "created_at": null,
       "updated_at": null
@@ -3564,7 +3564,7 @@
           "title": "THE MONSTERS",
           "price": 4.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
