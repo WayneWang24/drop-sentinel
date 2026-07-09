@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-09T00:19:18.694787Z",
+  "timestamp": "2026-07-09T04:36:54.457673Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1508,7 +1508,7 @@
           "title": "THE MONSTERS",
           "price": 179.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1968,6 +1968,45 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8064",
+      "platform": "popmart",
+      "title": "Jujutsu Kaisen Series Scene Blocks",
+      "url": "https://www.popmart.com/us/products/8064/Jujutsu-Kaisen-Series-Scene-Blocks",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783073797279_a96595cbcfbcc0a6b03d4b6c1252a4a0.jpg",
+      "variants": [
+        {
+          "id": "10837",
+          "title": "Jujutsu Kaisen",
+          "price": 36.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10839",
+          "title": "Jujutsu Kaisen",
+          "price": 69.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "10838",
+          "title": "Jujutsu Kaisen",
+          "price": 179.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "jujutsu_kaisen"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7996",
       "platform": "popmart",
       "title": "mini DUCKOO Citywalk Series Figures",
@@ -2017,45 +2056,6 @@
       "tags": [
         "new",
         "duckoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8064",
-      "platform": "popmart",
-      "title": "Jujutsu Kaisen Series Scene Blocks",
-      "url": "https://www.popmart.com/us/products/8064/Jujutsu-Kaisen-Series-Scene-Blocks",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783073797279_a96595cbcfbcc0a6b03d4b6c1252a4a0.jpg",
-      "variants": [
-        {
-          "id": "10837",
-          "title": "Jujutsu Kaisen",
-          "price": 36.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "10839",
-          "title": "Jujutsu Kaisen",
-          "price": 69.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "10838",
-          "title": "Jujutsu Kaisen",
-          "price": 179.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "jujutsu_kaisen"
       ],
       "created_at": null,
       "updated_at": null
@@ -2717,29 +2717,6 @@
       "tags": [
         "new",
         "mega"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7792",
-      "platform": "popmart",
-      "title": "Mini ZIMOMO Maia",
-      "url": "https://www.popmart.com/us/products/7792/Mini-ZIMOMO-Maia",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1780632633043_75357acedab9bbb21b258f5de9c4f191.jpg",
-      "variants": [
-        {
-          "id": "10509",
-          "title": "THE MONSTERS",
-          "price": 43.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
