@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-09T10:55:59.364594Z",
+  "timestamp": "2026-07-09T13:42:16.888824Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1871,7 +1871,7 @@
           "title": "HACIPUPU",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1879,7 +1879,7 @@
           "title": "HACIPUPU",
           "price": 161.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1925,7 +1925,7 @@
           "title": "HACIPUPU",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1933,7 +1933,7 @@
           "title": "HACIPUPU",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1979,7 +1979,7 @@
           "title": "Jujutsu Kaisen",
           "price": 36.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1987,7 +1987,7 @@
           "title": "Jujutsu Kaisen",
           "price": 69.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1995,7 +1995,7 @@
           "title": "Jujutsu Kaisen",
           "price": 179.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2018,7 +2018,7 @@
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2026,7 +2026,7 @@
           "title": "DUCKOO",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2072,7 +2072,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2080,7 +2080,7 @@
           "title": "SpongeBob",
           "price": 159.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
