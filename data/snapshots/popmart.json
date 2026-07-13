@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-13T10:00:07.667648Z",
+  "timestamp": "2026-07-13T12:32:38.100440Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -101,7 +101,6 @@
         }
       ],
       "tags": [
-        "hot",
         "disney"
       ],
       "created_at": null,
@@ -1090,7 +1089,6 @@
         }
       ],
       "tags": [
-        "hot",
         "the_monsters"
       ],
       "created_at": null,
@@ -1121,7 +1119,6 @@
         }
       ],
       "tags": [
-        "hot",
         "disney"
       ],
       "created_at": null,
@@ -1274,7 +1271,6 @@
         }
       ],
       "tags": [
-        "hot",
         "skullpanda"
       ],
       "created_at": null,
@@ -1305,7 +1301,6 @@
         }
       ],
       "tags": [
-        "hot",
         "the_monsters"
       ],
       "created_at": null,
@@ -1421,7 +1416,6 @@
         }
       ],
       "tags": [
-        "hot",
         "hirono"
       ],
       "created_at": null,
@@ -1760,7 +1754,6 @@
         }
       ],
       "tags": [
-        "hot",
         "the_monsters"
       ],
       "created_at": null,
@@ -1822,7 +1815,6 @@
         }
       ],
       "tags": [
-        "hot",
         "stitch"
       ],
       "created_at": null,
@@ -2315,60 +2307,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8211",
-      "platform": "popmart",
-      "title": "TEST ONLY",
-      "url": "https://www.popmart.com/us/products/8211/TEST-ONLY",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783675794991_19aec70c118268d99bd86b3f530e07f2.jpg",
-      "variants": [
-        {
-          "id": "11011",
-          "title": "POP BEAN",
-          "price": 4.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "11012",
-          "title": "POP BEAN",
-          "price": 59.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_bean"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8215",
-      "platform": "popmart",
-      "title": "TEST ONLY",
-      "url": "https://www.popmart.com/us/products/8215/TEST-ONLY",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783675794991_19aec70c118268d99bd86b3f530e07f2.jpg",
-      "variants": [
-        {
-          "id": "11013",
-          "title": "POP BEAN",
-          "price": 4.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_bean"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8062",
       "platform": "popmart",
       "title": "HACIPUPU Take Me Home Series - Vinyl Plush Pendant Blind Box",
@@ -2796,7 +2734,7 @@
           "title": "THE MONSTERS",
           "price": 15.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
