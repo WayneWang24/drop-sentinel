@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-13T06:45:24.642832Z",
+  "timestamp": "2026-07-13T10:00:07.667648Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -134,7 +134,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box (A-M)",
       "url": "https://www.popmart.com/us/products/3022/THE-MONSTERS-Pin-for-Love-Series-Vinyl-Plush-Pendant-Blind-Box-(A-M)",
-      "image_url": "https://prod-america-res.popmart.com/default/20260422_101147_286489____1_them-1_____1200x1200.JPG",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783925613364_2a73a88b2eb291222bcd766d408718fc.jpg",
       "variants": [
         {
           "id": "4488",
@@ -164,7 +164,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box (N-Z)",
       "url": "https://www.popmart.com/us/products/3023/THE-MONSTERS-Pin-for-Love-Series-Vinyl-Plush-Pendant-Blind-Box-(N-Z)",
-      "image_url": "https://prod-america-res.popmart.com/default/20260422_101120_603762____1_them-1_____1200x1200.JPG",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783925657766_814b4682f0143d821eec25167bac1258.jpg",
       "variants": [
         {
           "id": "4490",
@@ -2310,6 +2310,60 @@
       "tags": [
         "new",
         "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8211",
+      "platform": "popmart",
+      "title": "TEST ONLY",
+      "url": "https://www.popmart.com/us/products/8211/TEST-ONLY",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783675794991_19aec70c118268d99bd86b3f530e07f2.jpg",
+      "variants": [
+        {
+          "id": "11011",
+          "title": "POP BEAN",
+          "price": 4.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11012",
+          "title": "POP BEAN",
+          "price": 59.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_bean"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8215",
+      "platform": "popmart",
+      "title": "TEST ONLY",
+      "url": "https://www.popmart.com/us/products/8215/TEST-ONLY",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783675794991_19aec70c118268d99bd86b3f530e07f2.jpg",
+      "variants": [
+        {
+          "id": "11013",
+          "title": "POP BEAN",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_bean"
       ],
       "created_at": null,
       "updated_at": null
