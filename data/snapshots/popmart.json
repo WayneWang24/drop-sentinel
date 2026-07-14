@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-14T01:01:50.770981Z",
+  "timestamp": "2026-07-14T04:15:01.586462Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1010,7 +1010,7 @@
           "title": "THE MONSTERS",
           "price": 167.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1189,7 +1189,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Hair Salon Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/7890/THE-MONSTERS-Hair-Salon-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861441684_7adf500e88631d8bf1518d65d3f25f76.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783997853268_449fde476808dec6cc023d97c9eb9118.jpg",
       "variants": [
         {
           "id": "10620",
@@ -2658,7 +2658,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Hair Salon Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/7899/THE-MONSTERS-Hair-Salon-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781861441684_7adf500e88631d8bf1518d65d3f25f76.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783997853268_449fde476808dec6cc023d97c9eb9118.jpg",
       "variants": [
         {
           "id": "10635",
