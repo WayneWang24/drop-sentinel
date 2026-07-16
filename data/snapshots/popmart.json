@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-16T04:39:19.663784Z",
+  "timestamp": "2026-07-16T07:07:44.671980Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1069,7 +1069,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Big into Energy Series-Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/2155/THE-MONSTERS-Big-into-Energy-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260422_101352_564846____1_the-monsters-big-into-energy-series-vinyl-plush-pendant-blind-box_plush_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784184980624_44cb62447e0d972e2693d43561ed902a.jpg",
       "variants": [
         {
           "id": "3334",
@@ -1894,7 +1894,7 @@
           "title": "DIMOO",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
