@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-16T01:30:08.272302Z",
+  "timestamp": "2026-07-16T04:39:19.663784Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1002,7 +1002,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1010,7 +1010,7 @@
           "title": "THE MONSTERS",
           "price": 167.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1894,7 +1894,7 @@
           "title": "DIMOO",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1948,7 +1948,7 @@
           "title": "DIMOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2048,7 +2048,7 @@
           "title": "DIMOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2102,7 +2102,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2156,7 +2156,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2241,7 +2241,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2295,7 +2295,7 @@
           "title": "MOLLY",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
