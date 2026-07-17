@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-17T09:19:53.850988Z",
+  "timestamp": "2026-07-17T11:02:02.524708Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -74,7 +74,7 @@
           "title": "Teletubbies ",
           "price": 23.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1032,7 +1032,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1054,7 +1054,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2484,6 +2484,291 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8271",
+      "platform": "popmart",
+      "title": "SKULLPANDA Chapter VIII Figure",
+      "url": "https://www.popmart.com/us/products/8271/SKULLPANDA-Chapter-VIII-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282033712_d8de0aaa56222c2cc7f9532776425ab3.jpg",
+      "variants": [
+        {
+          "id": "11084",
+          "title": "SKULLPANDA",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8254",
+      "platform": "popmart",
+      "title": "Hirono Mist-Walker Series - Jacquard Blanket",
+      "url": "https://www.popmart.com/us/products/8254/Hirono-Mist-Walker-Series---Jacquard-Blanket",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281653816_a25b2c891c115358b657c4a22d3b2758.jpg",
+      "variants": [
+        {
+          "id": "11063",
+          "title": "Hirono",
+          "price": 59.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8247",
+      "platform": "popmart",
+      "title": "Hirono Mist-Walker Series - Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8247/Hirono-Mist-Walker-Series---Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281169348_cb405f976893c9f71e3acb02fce9b147.jpg",
+      "variants": [
+        {
+          "id": "11053",
+          "title": "Hirono",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11054",
+          "title": "Hirono",
+          "price": 179.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8275",
+      "platform": "popmart",
+      "title": "Hirono Mist-Walker Series - Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8275/Hirono-Mist-Walker-Series---Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281169348_cb405f976893c9f71e3acb02fce9b147.jpg",
+      "variants": [
+        {
+          "id": "11088",
+          "title": "Hirono",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8245",
+      "platform": "popmart",
+      "title": "Dear Birds Series - Egg-shaped Plush Display Case",
+      "url": "https://www.popmart.com/us/products/8245/Dear-Birds-Series---Egg-shaped-Plush-Display-Case",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784107229332_67194a4b89d71df39929724c38be2dd8.jpg",
+      "variants": [
+        {
+          "id": "11051",
+          "title": "POP MART",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6352",
+      "platform": "popmart",
+      "title": "Dear Birds Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6352/Dear-Birds-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282789635_503b1df2fd84bbe344c8dcc0bf963e41.jpg",
+      "variants": [
+        {
+          "id": "8923",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8922",
+          "title": "POP MART",
+          "price": 215.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6524",
+      "platform": "popmart",
+      "title": "Dear Birds Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6524/Dear-Birds-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282789635_503b1df2fd84bbe344c8dcc0bf963e41.jpg",
+      "variants": [
+        {
+          "id": "9211",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6458",
+      "platform": "popmart",
+      "title": "Dear Birds Series-Car Fragrance Blind Box",
+      "url": "https://www.popmart.com/us/products/6458/Dear-Birds-Series-Car-Fragrance-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/ace721b0087fbcac8f4630c10122524a_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9102",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "9101",
+          "title": "POP MART",
+          "price": 175.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6523",
+      "platform": "popmart",
+      "title": "Dear Birds Series-Car Fragrance Blind Box",
+      "url": "https://www.popmart.com/us/products/6523/Dear-Birds-Series-Car-Fragrance-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/ace721b0087fbcac8f4630c10122524a_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9210",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6350",
+      "platform": "popmart",
+      "title": "Dear Birds Series-Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/6350/Dear-Birds-Series-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/4a0b3de8eaad0a7a1c35b3b92f671e02_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "8919",
+          "title": "POP MART",
+          "price": 9.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "8918",
+          "title": "POP MART",
+          "price": 79.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6522",
+      "platform": "popmart",
+      "title": "Dear Birds Series-Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/6522/Dear-Birds-Series-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/4a0b3de8eaad0a7a1c35b3b92f671e02_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "9209",
+          "title": "POP MART",
+          "price": 9.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8135",
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Vinyl Plush Pendant Blind Box",
@@ -2503,7 +2788,7 @@
           "title": "DIMOO",
           "price": 179.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2580,7 +2865,7 @@
           "title": "DIMOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2734,7 +3019,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2788,7 +3073,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2873,7 +3158,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2927,7 +3212,7 @@
           "title": "MOLLY",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3004,7 +3289,7 @@
           "title": "HACIPUPU",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3027,7 +3312,7 @@
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3081,7 +3366,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3104,7 +3389,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3173,7 +3458,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3196,7 +3481,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3219,7 +3504,7 @@
           "title": "THE MONSTERS",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3427,7 +3712,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3473,7 +3758,7 @@
           "title": "Minions and Monsters",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3519,7 +3804,7 @@
           "title": "KUBO",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
