@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-17T11:02:02.524708Z",
+  "timestamp": "2026-07-17T12:20:03.415136Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2484,52 +2484,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8271",
-      "platform": "popmart",
-      "title": "SKULLPANDA Chapter VIII Figure",
-      "url": "https://www.popmart.com/us/products/8271/SKULLPANDA-Chapter-VIII-Figure",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282033712_d8de0aaa56222c2cc7f9532776425ab3.jpg",
-      "variants": [
-        {
-          "id": "11084",
-          "title": "SKULLPANDA",
-          "price": 29.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "skullpanda"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8254",
-      "platform": "popmart",
-      "title": "Hirono Mist-Walker Series - Jacquard Blanket",
-      "url": "https://www.popmart.com/us/products/8254/Hirono-Mist-Walker-Series---Jacquard-Blanket",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281653816_a25b2c891c115358b657c4a22d3b2758.jpg",
-      "variants": [
-        {
-          "id": "11063",
-          "title": "Hirono",
-          "price": 59.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hirono"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8247",
       "platform": "popmart",
       "title": "Hirono Mist-Walker Series - Plush Doll Pendant",
@@ -2584,16 +2538,16 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8245",
+      "id": "popmart_us_8254",
       "platform": "popmart",
-      "title": "Dear Birds Series - Egg-shaped Plush Display Case",
-      "url": "https://www.popmart.com/us/products/8245/Dear-Birds-Series---Egg-shaped-Plush-Display-Case",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784107229332_67194a4b89d71df39929724c38be2dd8.jpg",
+      "title": "Hirono Mist-Walker Series - Jacquard Blanket",
+      "url": "https://www.popmart.com/us/products/8254/Hirono-Mist-Walker-Series---Jacquard-Blanket",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281653816_a25b2c891c115358b657c4a22d3b2758.jpg",
       "variants": [
         {
-          "id": "11051",
-          "title": "POP MART",
-          "price": 4.99,
+          "id": "11063",
+          "title": "Hirono",
+          "price": 59.99,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -2601,7 +2555,7 @@
       ],
       "tags": [
         "new",
-        "pop_mart"
+        "hirono"
       ],
       "created_at": null,
       "updated_at": null
@@ -2764,6 +2718,52 @@
       "tags": [
         "new",
         "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8245",
+      "platform": "popmart",
+      "title": "Dear Birds Series - Egg-shaped Plush Display Case",
+      "url": "https://www.popmart.com/us/products/8245/Dear-Birds-Series---Egg-shaped-Plush-Display-Case",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784107229332_67194a4b89d71df39929724c38be2dd8.jpg",
+      "variants": [
+        {
+          "id": "11051",
+          "title": "POP MART",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8271",
+      "platform": "popmart",
+      "title": "SKULLPANDA Chapter VIII Figure",
+      "url": "https://www.popmart.com/us/products/8271/SKULLPANDA-Chapter-VIII-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282033712_d8de0aaa56222c2cc7f9532776425ab3.jpg",
+      "variants": [
+        {
+          "id": "11084",
+          "title": "SKULLPANDA",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
       ],
       "created_at": null,
       "updated_at": null
@@ -3104,7 +3104,7 @@
           "title": "POP BEAN",
           "price": 59.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
