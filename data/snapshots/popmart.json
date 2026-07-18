@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-18T19:21:46.179008Z",
+  "timestamp": "2026-07-18T20:11:03.462560Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2413,7 +2413,7 @@
           "title": "One Piece",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
