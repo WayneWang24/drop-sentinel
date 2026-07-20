@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-20T10:39:47.435486Z",
+  "timestamp": "2026-07-20T12:54:08.808501Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1368,28 +1368,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8072",
-      "platform": "popmart",
-      "title": "FIFA collector's set",
-      "url": "https://www.popmart.com/us/products/8072/FIFA-collector's-set",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782898639983_cfcd208495d565ef66e7dff9f98764da.jpg",
-      "variants": [
-        {
-          "id": "10848",
-          "title": "THE MONSTERS",
-          "price": 139.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_7894",
       "platform": "popmart",
       "title": "Demon Slayer Unwavering Resolve Arc Series Block Figures",
@@ -2017,28 +1995,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8080",
-      "platform": "popmart",
-      "title": "Celebration Bonus Set",
-      "url": "https://www.popmart.com/us/products/8080/Celebration-Bonus-Set",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782918966543_d8861d6c10a59f5669b9a2b4839bbd16.jpg",
-      "variants": [
-        {
-          "id": "10856",
-          "title": "THE MONSTERS ",
-          "price": 139.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters_"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_876",
       "platform": "popmart",
       "title": "Peach Riot Rise Up Series Figures",
@@ -2479,6 +2435,36 @@
       ],
       "tags": [
         "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_4071",
+      "platform": "popmart",
+      "title": "CRYBABY Vacation Mode On Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/4071/CRYBABY-Vacation-Mode-On-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-america-res.popmart.com/default/75a6a786237cf17c0b553dc12af88f26_____1200x1200.JPG",
+      "variants": [
+        {
+          "id": "6041",
+          "title": "CRYBABY",
+          "price": 36.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "6042",
+          "title": "CRYBABY",
+          "price": 221.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "crybaby"
       ],
       "created_at": null,
       "updated_at": null
