@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-20T01:11:37.015615Z",
+  "timestamp": "2026-07-20T04:50:07.132946Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1526,18 +1526,18 @@
       "platform": "popmart",
       "title": "THE MONSTERS × FIFA SERIES - Football-shaped Mini Bag Blind Box",
       "url": "https://www.popmart.com/us/products/6090/THE-MONSTERS-×-FIFA-SERIES---Football-shaped-Mini-Bag-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20260327_175319_733053____1_the-monsters-fifa-series-football-shaped-mini-bag-blind-box_accessories_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784517850797_466d180a1ba5f233c5a4ca6b576f592f.jpg",
       "variants": [
         {
-          "id": "8562",
+          "id": "8563",
           "title": "THE MONSTERS",
-          "price": 29.99,
+          "price": 179.94,
           "currency": "USD",
           "available": false,
           "sku": ""
         },
         {
-          "id": "8563",
+          "id": "8562",
           "title": "THE MONSTERS",
           "price": 179.94,
           "currency": "USD",
@@ -1609,7 +1609,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Hair Salon Series Figures",
       "url": "https://www.popmart.com/us/products/7892/THE-MONSTERS-Hair-Salon-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781862593998_ae1d518a356ac6e5ab7afe75d1e4f3e1.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784518662338_ae1d518a356ac6e5ab7afe75d1e4f3e1.jpg",
       "variants": [
         {
           "id": "10624",
@@ -2911,7 +2911,7 @@
           "title": "DIMOO",
           "price": 49.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2988,7 +2988,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2996,7 +2996,7 @@
           "title": "DIMOO",
           "price": 77.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3019,7 +3019,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3042,7 +3042,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3050,7 +3050,7 @@
           "title": "DIMOO",
           "price": 131.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3497,7 +3497,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Hair Salon Series Figures",
       "url": "https://www.popmart.com/us/products/7901/THE-MONSTERS-Hair-Salon-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781862593998_ae1d518a356ac6e5ab7afe75d1e4f3e1.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784518662338_ae1d518a356ac6e5ab7afe75d1e4f3e1.jpg",
       "variants": [
         {
           "id": "10637",
