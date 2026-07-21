@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-21T00:58:54.594673Z",
+  "timestamp": "2026-07-21T04:14:39.693596Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2551,7 +2551,7 @@
       "platform": "popmart",
       "title": "Dear Birds Series-Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/6352/Dear-Birds-Series-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282789635_503b1df2fd84bbe344c8dcc0bf963e41.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784599906430_5f34ff7caa88f666d1805c6ac19a5e26.jpg",
       "variants": [
         {
           "id": "8923",
@@ -2582,7 +2582,7 @@
       "platform": "popmart",
       "title": "Dear Birds Series-Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/6524/Dear-Birds-Series-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282789635_503b1df2fd84bbe344c8dcc0bf963e41.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784599906430_5f34ff7caa88f666d1805c6ac19a5e26.jpg",
       "variants": [
         {
           "id": "9211",
@@ -3221,7 +3221,7 @@
           "title": "HACIPUPU",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
