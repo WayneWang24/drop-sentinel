@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-23T01:10:14.499280Z",
+  "timestamp": "2026-07-23T04:30:07.155466Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1389,7 +1389,7 @@
           "title": "DIMOO",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1420,7 +1420,7 @@
           "title": "DIMOO",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1794,7 +1794,7 @@
           "title": "HACIPUPU",
           "price": 161.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2535,7 +2535,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
