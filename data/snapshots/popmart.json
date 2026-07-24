@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-24T04:28:57.328483Z",
+  "timestamp": "2026-07-24T07:06:12.663774Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1695,7 +1695,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/5991/THE-MONSTERS-×-Hello-Kitty-and-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784087268620_ec8dd6503cf84b655b4459a8f2654be9.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20260306_171735_881248____scene_-1_____1200x1200.JPG",
       "variants": [
         {
           "id": "8428",
@@ -2558,7 +2558,7 @@
           "title": "Hirono",
           "price": 59.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
