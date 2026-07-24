@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-24T09:31:09.464908Z",
+  "timestamp": "2026-07-24T11:22:05.350222Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -74,7 +74,7 @@
           "title": "Teletubbies ",
           "price": 23.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1032,7 +1032,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1054,7 +1054,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1227,7 +1227,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1281,7 +1281,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1335,7 +1335,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1443,7 +1443,7 @@
           "title": "DIMOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1466,7 +1466,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1496,7 +1496,7 @@
           "title": "Demon Slayer",
           "price": 159.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1519,7 +1519,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1572,7 +1572,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1625,7 +1625,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1763,7 +1763,7 @@
           "title": "THE MONSTERS",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1817,7 +1817,7 @@
           "title": "HACIPUPU",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1870,7 +1870,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1984,7 +1984,7 @@
           "title": "Hirono",
           "price": 36.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2006,7 +2006,7 @@
           "title": "THE MONSTERS",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2059,7 +2059,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2112,7 +2112,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2165,7 +2165,7 @@
           "title": "KUBO",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2218,7 +2218,7 @@
           "title": "Hirono",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2271,7 +2271,7 @@
           "title": "Minions and Monsters",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2325,7 +2325,7 @@
           "title": "SpongeBob",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2347,7 +2347,7 @@
           "title": "THE MONSTERS",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2369,7 +2369,7 @@
           "title": "HIRONO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2452,7 +2452,7 @@
           "title": "Jujutsu",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2488,6 +2488,318 @@
       ],
       "tags": [
         "stitch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8340",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8340/θ-SKULLPANDA-Off-Mode-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784886961608_48bf483a16211566efc3fe6c6762adcc.jpg",
+      "variants": [
+        {
+          "id": "11171",
+          "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11172",
+          "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8356",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8356/θ-SKULLPANDA-Off-Mode-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784886961608_48bf483a16211566efc3fe6c6762adcc.jpg",
+      "variants": [
+        {
+          "id": "11191",
+          "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8339",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Off Mode Series Earphone Bag",
+      "url": "https://www.popmart.com/us/products/8339/θ-SKULLPANDA-Off-Mode-Series-Earphone-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784887992976_9a1f3a9d7549830906d6f5c0c8d470c3.jpg",
+      "variants": [
+        {
+          "id": "11170",
+          "title": "θ SKULLPANDA Off Mode Series Earphone Bag",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11169",
+          "title": "θ SKULLPANDA Off Mode Series Earphone Bag",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8342",
+      "platform": "popmart",
+      "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
+      "url": "https://www.popmart.com/us/products/8342/POP-ATTACH-θ-SKULLPANDA-Off-Mode-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784889432808_c13258a054e4d63dd4e121ec2c245e8a.jpg",
+      "variants": [
+        {
+          "id": "11175",
+          "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
+          "price": 9.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11176",
+          "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
+          "price": 89.91,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8358",
+      "platform": "popmart",
+      "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
+      "url": "https://www.popmart.com/us/products/8358/POP-ATTACH-θ-SKULLPANDA-Off-Mode-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784889432808_c13258a054e4d63dd4e121ec2c245e8a.jpg",
+      "variants": [
+        {
+          "id": "11193",
+          "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
+          "price": 9.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8341",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
+      "url": "https://www.popmart.com/us/products/8341/θ-SKULLPANDA-Off-Mode-Series-Phone-Lanyard",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784888766046_535f4f6d5e277169cd47a54cf715972e.jpg",
+      "variants": [
+        {
+          "id": "11173",
+          "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11174",
+          "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
+          "price": 119.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8357",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
+      "url": "https://www.popmart.com/us/products/8357/θ-SKULLPANDA-Off-Mode-Series-Phone-Lanyard",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784888766046_535f4f6d5e277169cd47a54cf715972e.jpg",
+      "variants": [
+        {
+          "id": "11192",
+          "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8360",
+      "platform": "popmart",
+      "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/8360/POP-MART-Retro-FM-Series---Plush-Doll-Display-Bag-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784885503959_386a1d7d8924e00af4b63653d179691c.jpg",
+      "variants": [
+        {
+          "id": "11195",
+          "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11196",
+          "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
+          "price": 79.96,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8361",
+      "platform": "popmart",
+      "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
+      "url": "https://www.popmart.com/us/products/8361/POP-MART-Retro-FM-Series---Plush-Doll-Display-Bag-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784885503959_386a1d7d8924e00af4b63653d179691c.jpg",
+      "variants": [
+        {
+          "id": "11197",
+          "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8338",
+      "platform": "popmart",
+      "title": "MEGA JUST DIMOO 400% Meadow of Dreams",
+      "url": "https://www.popmart.com/us/products/8338/MEGA-JUST-DIMOO-400%-Meadow-of-Dreams",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784890667647_ad2de0e909a4dc1f1c8d057986109f3b.jpg",
+      "variants": [
+        {
+          "id": "11168",
+          "title": "MEGA JUST DIMOO 400% Meadow of Dreams",
+          "price": 219.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8343",
+      "platform": "popmart",
+      "title": "League of Legends Clash of the Cuties Series Figures",
+      "url": "https://www.popmart.com/us/products/8343/League-of-Legends-Clash-of-the-Cuties-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784889873459_2e25cce06036d2a533d66e273987995c.jpg",
+      "variants": [
+        {
+          "id": "11177",
+          "title": "League of Legends Clash of the Cuties Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11178",
+          "title": "League of Legends Clash of the Cuties Series Figures",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8359",
+      "platform": "popmart",
+      "title": "League of Legends Clash of the Cuties Series Figures",
+      "url": "https://www.popmart.com/us/products/8359/League-of-Legends-Clash-of-the-Cuties-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784889873459_2e25cce06036d2a533d66e273987995c.jpg",
+      "variants": [
+        {
+          "id": "11194",
+          "title": "League of Legends Clash of the Cuties Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
@@ -2535,7 +2847,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2612,7 +2924,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2666,7 +2978,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2720,7 +3032,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2743,7 +3055,7 @@
           "title": "POP MART",
           "price": 4.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2943,7 +3255,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3051,7 +3363,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3105,7 +3417,7 @@
           "title": "MOLLY",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3159,7 +3471,7 @@
           "title": "HACIPUPU",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3252,7 +3564,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
