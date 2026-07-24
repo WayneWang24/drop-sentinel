@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-24T01:05:52.776728Z",
+  "timestamp": "2026-07-24T04:28:57.328483Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -830,7 +830,7 @@
           "title": "HIRONO",
           "price": 125.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2558,7 +2558,7 @@
           "title": "Hirono",
           "price": 59.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2720,7 +2720,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2773,6 +2773,29 @@
       "tags": [
         "new",
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8270",
+      "platform": "popmart",
+      "title": "MEGA JUST DIMOO 700% Meadow of Dreams",
+      "url": "https://www.popmart.com/us/products/8270/MEGA-JUST-DIMOO-700%-Meadow-of-Dreams",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784857946549_8a212c7931ce664fb970288d265d8a4c.jpg",
+      "variants": [
+        {
+          "id": "11083",
+          "title": "MEGA",
+          "price": 799.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "mega"
       ],
       "created_at": null,
       "updated_at": null
