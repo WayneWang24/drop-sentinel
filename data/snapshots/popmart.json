@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-27T03:59:00.441001Z",
+  "timestamp": "2026-07-27T07:29:37.601312Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -642,7 +642,7 @@
           "title": "SpongeBob",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2809,7 +2809,7 @@
       "platform": "popmart",
       "title": "Hirono Mist-Walker Series - Plush Doll Pendant",
       "url": "https://www.popmart.com/us/products/8247/Hirono-Mist-Walker-Series---Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281169348_cb405f976893c9f71e3acb02fce9b147.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785132442684_1ab12c8061005f661f535baddf7cbf8c.jpg",
       "variants": [
         {
           "id": "11053",
@@ -2840,7 +2840,7 @@
       "platform": "popmart",
       "title": "Hirono Mist-Walker Series - Plush Doll Pendant",
       "url": "https://www.popmart.com/us/products/8275/Hirono-Mist-Walker-Series---Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281169348_cb405f976893c9f71e3acb02fce9b147.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785132442684_1ab12c8061005f661f535baddf7cbf8c.jpg",
       "variants": [
         {
           "id": "11088",
