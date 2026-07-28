@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-28T22:42:28.841843Z",
+  "timestamp": "2026-07-28T23:39:11.200877Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -830,7 +830,7 @@
           "title": "HIRONO",
           "price": 125.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1877,7 +1877,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
