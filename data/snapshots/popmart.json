@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-29T04:27:31.094353Z",
+  "timestamp": "2026-07-29T07:15:57.951632Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1297,7 +1297,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8135/DIMOO-WORLD-×-PIXAR-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783677683159_141ac1495f7ae51be3fd2261ed1b9c11.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308750866_2efd2c49789ab68d2d637a9752e11ff3.jpg",
       "variants": [
         {
           "id": "10925",
@@ -1328,7 +1328,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8153/DIMOO-WORLD-×-PIXAR-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783677683159_141ac1495f7ae51be3fd2261ed1b9c11.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308750866_2efd2c49789ab68d2d637a9752e11ff3.jpg",
       "variants": [
         {
           "id": "10948",
@@ -1405,7 +1405,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
       "url": "https://www.popmart.com/us/products/5812/SKULLPANDA-×-My-Little-Pony-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784086894254_13cc691b5a89c81f4dbf81448d0046bc.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785307849197_c4ca4238a0b923820dcc509a6f75849b.jpg",
       "variants": [
         {
           "id": "8193",
@@ -1435,7 +1435,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
       "url": "https://www.popmart.com/us/products/5828/SKULLPANDA-×-My-Little-Pony-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784086894254_13cc691b5a89c81f4dbf81448d0046bc.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785307849197_c4ca4238a0b923820dcc509a6f75849b.jpg",
       "variants": [
         {
           "id": "8218",
@@ -1533,7 +1533,7 @@
       "platform": "popmart",
       "title": "Haikyu!! Off-Court Vibes Series Figures",
       "url": "https://www.popmart.com/us/products/6287/Haikyu!!-Off-Court-Vibes-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784086308811_d0060236f446a193f5f88eb7252f0796.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785306983884_72cbb3b56cc18797a027ba1efabe16d6.jpg",
       "variants": [
         {
           "id": "8842",
@@ -1564,7 +1564,7 @@
       "platform": "popmart",
       "title": "Haikyu!! Off-Court Vibes Series Figures",
       "url": "https://www.popmart.com/us/products/7595/Haikyu!!-Off-Court-Vibes-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784086308811_d0060236f446a193f5f88eb7252f0796.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785306983884_72cbb3b56cc18797a027ba1efabe16d6.jpg",
       "variants": [
         {
           "id": "10298",
@@ -1587,7 +1587,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/5991/THE-MONSTERS-×-Hello-Kitty-and-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784884059899_ec8dd6503cf84b655b4459a8f2654be9.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308466361_947e689b77e82bdd7a5bbfbb60f7fdb6.jpg",
       "variants": [
         {
           "id": "8428",
@@ -2885,7 +2885,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3162,7 +3162,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3216,7 +3216,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
