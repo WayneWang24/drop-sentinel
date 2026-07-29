@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-29T16:07:13.386422Z",
+  "timestamp": "2026-07-29T17:34:34.513038Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -822,7 +822,7 @@
           "title": "HIRONO",
           "price": 20.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
