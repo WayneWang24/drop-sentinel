@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-30T01:22:24.587351Z",
+  "timestamp": "2026-07-30T04:26:31.246948Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1877,7 +1877,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1885,7 +1885,7 @@
           "title": "Demon Slayer",
           "price": 159.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2549,7 +2549,7 @@
           "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2631,7 +2631,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2683,7 +2683,7 @@
           "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2735,7 +2735,7 @@
           "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2809,7 +2809,7 @@
           "title": "League of Legends Clash of the Cuties Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2824,7 +2824,7 @@
       "platform": "popmart",
       "title": "Hirono Mist-Walker Series - Jacquard Blanket",
       "url": "https://www.popmart.com/us/products/8254/Hirono-Mist-Walker-Series---Jacquard-Blanket",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281653816_a25b2c891c115358b657c4a22d3b2758.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784281655272_8036e096e7aae116c2e5327d6ecbbe82.jpg",
       "variants": [
         {
           "id": "11063",
@@ -2885,7 +2885,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2955,7 +2955,7 @@
       "platform": "popmart",
       "title": "Dear Birds Series - Egg-shaped Plush Display Case",
       "url": "https://www.popmart.com/us/products/8245/Dear-Birds-Series---Egg-shaped-Plush-Display-Case",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784107229332_67194a4b89d71df39929724c38be2dd8.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784107232821_98ed48e4a9ce343961f0fce46833be8e.jpg",
       "variants": [
         {
           "id": "11051",
@@ -2978,7 +2978,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA Chapter VIII Figure",
       "url": "https://www.popmart.com/us/products/8271/SKULLPANDA-Chapter-VIII-Figure",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282033712_d8de0aaa56222c2cc7f9532776425ab3.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784282037246_cb73cbbd7f7f0fa2f1fd2db5010dafc8.jpg",
       "variants": [
         {
           "id": "11084",
@@ -3001,7 +3001,7 @@
       "platform": "popmart",
       "title": "MEGA JUST DIMOO 700% Meadow of Dreams",
       "url": "https://www.popmart.com/us/products/8270/MEGA-JUST-DIMOO-700%-Meadow-of-Dreams",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784857946549_8a212c7931ce664fb970288d265d8a4c.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784798612284_f25fae92890a2f4c5a1c26dbcfc764e8.jpg",
       "variants": [
         {
           "id": "11083",
@@ -3024,7 +3024,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Night Light Charm",
       "url": "https://www.popmart.com/us/products/8136/DIMOO-WORLD-×-PIXAR-Series---Night-Light-Charm",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783677192458_d0c2bb1b65eb1209bbca7febbeb7a512.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783677194449_aac62f91609fc37453658a436f6aea24.jpg",
       "variants": [
         {
           "id": "10927",
@@ -3070,7 +3070,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Timer Fridge Magnet Blind Box",
       "url": "https://www.popmart.com/us/products/8133/DIMOO-WORLD-×-PIXAR-Series---Timer-Fridge-Magnet-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676660600_db88d893871f626391ec616d3a89ae0b.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676669507_2ba40c7c81adbdd15bb0d67b4fb4609a.jpg",
       "variants": [
         {
           "id": "10921",
@@ -3101,7 +3101,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Timer Fridge Magnet Blind Box",
       "url": "https://www.popmart.com/us/products/8151/DIMOO-WORLD-×-PIXAR-Series---Timer-Fridge-Magnet-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676660600_db88d893871f626391ec616d3a89ae0b.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676669507_2ba40c7c81adbdd15bb0d67b4fb4609a.jpg",
       "variants": [
         {
           "id": "10946",
@@ -3124,7 +3124,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Card Holder Blind Box",
       "url": "https://www.popmart.com/us/products/8134/DIMOO-WORLD-×-PIXAR-Series---Card-Holder-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676939244_f26ef8d313cec0a2a4b5990c7a41a2a2.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676945316_7fa0ec541f264a4a345481d52dd653b8.jpg",
       "variants": [
         {
           "id": "10923",
@@ -3155,7 +3155,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Card Holder Blind Box",
       "url": "https://www.popmart.com/us/products/8152/DIMOO-WORLD-×-PIXAR-Series---Card-Holder-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676939244_f26ef8d313cec0a2a4b5990c7a41a2a2.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783676945316_7fa0ec541f264a4a345481d52dd653b8.jpg",
       "variants": [
         {
           "id": "10947",
@@ -3232,7 +3232,7 @@
       "platform": "popmart",
       "title": "POP BEAN DIMOO WORLD × PIXAR Series",
       "url": "https://www.popmart.com/us/products/8140/POP-BEAN-DIMOO-WORLD-×-PIXAR-Series",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783675794991_19aec70c118268d99bd86b3f530e07f2.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783675803646_bc9d5faf2977dde80323e1ccbfa1327b.jpg",
       "variants": [
         {
           "id": "10934",
