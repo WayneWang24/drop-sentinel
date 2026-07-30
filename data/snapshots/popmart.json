@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-30T07:08:24.416498Z",
+  "timestamp": "2026-07-30T09:39:06.573282Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -74,7 +74,7 @@
           "title": "Teletubbies ",
           "price": 23.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -995,7 +995,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
       "url": "https://www.popmart.com/us/products/1372/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784528583276_65f85e773fbdab9eddfb57e2db9ff78d.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784530148268_c4ca4238a0b923820dcc509a6f75849b.jpg",
       "variants": [
         {
           "id": "2294",
@@ -1047,7 +1047,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS - Have a Seat Vinyl Plush Blind Box",
       "url": "https://www.popmart.com/us/products/1419/THE-MONSTERS---Have-a-Seat-Vinyl-Plush-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784528583276_65f85e773fbdab9eddfb57e2db9ff78d.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784530148268_c4ca4238a0b923820dcc509a6f75849b.jpg",
       "variants": [
         {
           "id": "2364",
@@ -1227,7 +1227,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1281,7 +1281,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1335,7 +1335,7 @@
           "title": "DIMOO",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1389,7 +1389,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1442,7 +1442,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1495,7 +1495,7 @@
           "title": "DIMOO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1518,7 +1518,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1571,7 +1571,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1656,7 +1656,7 @@
       "platform": "popmart",
       "title": "Monster Hunter Palico Series Figures",
       "url": "https://www.popmart.com/us/products/8000/Monster-Hunter-Palico-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782467842951_30fd2d4b11ea2432fc4c8f389885ad36.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782467859003_ecedc0b1995f4e830a1d6364ff9ee343.jpg",
       "variants": [
         {
           "id": "10760",
@@ -1687,14 +1687,14 @@
       "platform": "popmart",
       "title": "Monster Hunter Palico Series Figures",
       "url": "https://www.popmart.com/us/products/8013/Monster-Hunter-Palico-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782467842951_30fd2d4b11ea2432fc4c8f389885ad36.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782467859003_ecedc0b1995f4e830a1d6364ff9ee343.jpg",
       "variants": [
         {
           "id": "10774",
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1748,7 +1748,7 @@
           "title": "HACIPUPU",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1764,7 +1764,7 @@
       "platform": "popmart",
       "title": "mini DUCKOO Citywalk Series Figures",
       "url": "https://www.popmart.com/us/products/7996/mini-DUCKOO-Citywalk-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785403921562_a651e84d0394700cd4c4e27bee040920.jpg",
       "variants": [
         {
           "id": "10753",
@@ -1795,14 +1795,14 @@
       "platform": "popmart",
       "title": "mini DUCKOO Citywalk Series Figures",
       "url": "https://www.popmart.com/us/products/8010/mini-DUCKOO-Citywalk-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782471370679_6c66978951699fbd16f17b3c31d2cf58.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785403921562_a651e84d0394700cd4c4e27bee040920.jpg",
       "variants": [
         {
           "id": "10771",
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1855,7 +1855,7 @@
           "title": "Hirono",
           "price": 36.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1908,7 +1908,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1961,7 +1961,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2014,7 +2014,7 @@
           "title": "THE MONSTERS",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2036,7 +2036,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2089,7 +2089,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2143,7 +2143,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2197,7 +2197,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2339,7 +2339,7 @@
           "title": "Hirono",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2384,7 +2384,7 @@
       "platform": "popmart",
       "title": "SpongeBob: Krabby Patty Bestsellers Series Figures",
       "url": "https://www.popmart.com/us/products/8063/SpongeBob:-Krabby-Patty-Bestsellers-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072547789_5d5e9d0eb88c8b7c4eb3dda95d6ea687.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072553240_ce7840b024677c711b7489abd38eb331.jpg",
       "variants": [
         {
           "id": "10835",
@@ -2415,14 +2415,14 @@
       "platform": "popmart",
       "title": "SpongeBob: Krabby Patty Bestsellers Series Figures",
       "url": "https://www.popmart.com/us/products/8071/SpongeBob:-Krabby-Patty-Bestsellers-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072547789_5d5e9d0eb88c8b7c4eb3dda95d6ea687.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072553240_ce7840b024677c711b7489abd38eb331.jpg",
       "variants": [
         {
           "id": "10847",
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2475,7 +2475,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2497,7 +2497,7 @@
           "title": "SpongeBob",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2549,7 +2549,7 @@
           "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2631,7 +2631,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2683,7 +2683,7 @@
           "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2735,7 +2735,7 @@
           "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2809,7 +2809,7 @@
           "title": "League of Legends Clash of the Cuties Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2885,7 +2885,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2939,7 +2939,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3301,7 +3301,7 @@
           "title": "MOLLY",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3355,7 +3355,7 @@
           "title": "HACIPUPU",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
