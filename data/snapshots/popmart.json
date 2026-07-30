@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-30T04:26:31.246948Z",
+  "timestamp": "2026-07-30T07:08:24.416498Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2051,7 +2051,7 @@
       "platform": "popmart",
       "title": "Demon Slayer: Kimetsu no Yaiba Battle Series Figures",
       "url": "https://www.popmart.com/us/products/8139/Demon-Slayer:-Kimetsu-no-Yaiba-Battle-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783674600335_6cf12a4948796bface44d7c2a9450008.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785392090562_37a7655aed3a4c5dd31d362859774876.jpg",
       "variants": [
         {
           "id": "10932",
@@ -2082,7 +2082,7 @@
       "platform": "popmart",
       "title": "Demon Slayer: Kimetsu no Yaiba Battle Series Figures",
       "url": "https://www.popmart.com/us/products/8157/Demon-Slayer:-Kimetsu-no-Yaiba-Battle-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783674600335_6cf12a4948796bface44d7c2a9450008.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785392090562_37a7655aed3a4c5dd31d362859774876.jpg",
       "variants": [
         {
           "id": "10951",
@@ -2962,7 +2962,7 @@
           "title": "POP MART",
           "price": 4.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3263,7 +3263,7 @@
       "platform": "popmart",
       "title": "MOLLY The Wheel of Time 20th Anniversary Series Figures",
       "url": "https://www.popmart.com/us/products/8138/MOLLY-The-Wheel-of-Time-20th-Anniversary-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783674933733_612e77eedd534b8aef6f7eb50d84f502.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785392929131_5954012e7f9a26ba23b334a660689075.jpg",
       "variants": [
         {
           "id": "10930",
@@ -3294,7 +3294,7 @@
       "platform": "popmart",
       "title": "MOLLY The Wheel of Time 20th Anniversary Series Figures",
       "url": "https://www.popmart.com/us/products/8155/MOLLY-The-Wheel-of-Time-20th-Anniversary-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783674933733_612e77eedd534b8aef6f7eb50d84f502.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785392929131_5954012e7f9a26ba23b334a660689075.jpg",
       "variants": [
         {
           "id": "10950",
