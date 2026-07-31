@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-31T09:30:57.934807Z",
+  "timestamp": "2026-07-31T11:46:25.844619Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -74,7 +74,7 @@
           "title": "Teletubbies ",
           "price": 23.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1032,7 +1032,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1054,7 +1054,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1227,7 +1227,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1281,7 +1281,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1335,7 +1335,7 @@
           "title": "DIMOO",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1389,7 +1389,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1442,7 +1442,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1495,7 +1495,7 @@
           "title": "DIMOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1518,7 +1518,7 @@
           "title": "THE MONSTERS",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1571,7 +1571,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1694,7 +1694,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1802,7 +1802,7 @@
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1855,7 +1855,7 @@
           "title": "Hirono",
           "price": 36.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1908,7 +1908,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1961,7 +1961,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2014,7 +2014,7 @@
           "title": "THE MONSTERS",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2036,7 +2036,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2089,7 +2089,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2143,7 +2143,7 @@
           "title": "CRYBABY",
           "price": 22.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2197,7 +2197,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2339,7 +2339,7 @@
           "title": "Hirono",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2422,7 +2422,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2475,7 +2475,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2497,12 +2497,264 @@
           "title": "SpongeBob",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
       "tags": [
         "spongebob"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8443",
+      "platform": "popmart",
+      "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+      "url": "https://www.popmart.com/us/products/8443/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
+      "variants": [
+        {
+          "id": "11299",
+          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11300",
+          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8445",
+      "platform": "popmart",
+      "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+      "url": "https://www.popmart.com/us/products/8445/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
+      "variants": [
+        {
+          "id": "11302",
+          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8442",
+      "platform": "popmart",
+      "title": "CHAKA Stitch by Stitch Series Figures",
+      "url": "https://www.popmart.com/us/products/8442/CHAKA-Stitch-by-Stitch-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785491998426_7093907fa4607eb2b82fc0739fac6b6a.jpg",
+      "variants": [
+        {
+          "id": "11297",
+          "title": "CHAKA Stitch by Stitch Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11298",
+          "title": "CHAKA Stitch by Stitch Series Figures",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8444",
+      "platform": "popmart",
+      "title": "CHAKA Stitch by Stitch Series Figures",
+      "url": "https://www.popmart.com/us/products/8444/CHAKA-Stitch-by-Stitch-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785491998426_7093907fa4607eb2b82fc0739fac6b6a.jpg",
+      "variants": [
+        {
+          "id": "11301",
+          "title": "CHAKA Stitch by Stitch Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8430",
+      "platform": "popmart",
+      "title": "Nyota × Chibi Maruko Chan Series Figures",
+      "url": "https://www.popmart.com/us/products/8430/Nyota-×-Chibi-Maruko-Chan-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785492487738_fe374bf62cae7572856bda708d92c485.jpg",
+      "variants": [
+        {
+          "id": "11284",
+          "title": "Nyota × Chibi Maruko Chan Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11285",
+          "title": "Nyota × Chibi Maruko Chan Series Figures",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8433",
+      "platform": "popmart",
+      "title": "Nyota × Chibi Maruko Chan Series Figures",
+      "url": "https://www.popmart.com/us/products/8433/Nyota-×-Chibi-Maruko-Chan-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785492487738_fe374bf62cae7572856bda708d92c485.jpg",
+      "variants": [
+        {
+          "id": "11288",
+          "title": "Nyota × Chibi Maruko Chan Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8428",
+      "platform": "popmart",
+      "title": "Nyota × Chibi Maruko Chan Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8428/Nyota-×-Chibi-Maruko-Chan-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785490996093_a72caedc837a9112b7465ba456290174.jpg",
+      "variants": [
+        {
+          "id": "11282",
+          "title": "Nyota × Chibi Maruko Chan Plush Doll Pendant",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8426",
+      "platform": "popmart",
+      "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8426/Hirono-×-Kodak-Click-Bear-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785488982190_2f13c1a6ebc36d79ccf0e84be603da0d.jpg",
+      "variants": [
+        {
+          "id": "11280",
+          "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8425",
+      "platform": "popmart",
+      "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8425/Baby-Molly-Buggy-Roam-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785489937651_e61af8f2e74a3c5ee83c3a20979eb37a.jpg",
+      "variants": [
+        {
+          "id": "11278",
+          "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
+          "price": 26.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11279",
+          "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
+          "price": 107.96,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8432",
+      "platform": "popmart",
+      "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8432/Baby-Molly-Buggy-Roam-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785489937651_e61af8f2e74a3c5ee83c3a20979eb37a.jpg",
+      "variants": [
+        {
+          "id": "11287",
+          "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
+          "price": 26.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
@@ -2549,7 +2801,7 @@
           "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2579,7 +2831,7 @@
           "title": "θ SKULLPANDA Off Mode Series Earphone Bag",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2683,7 +2935,7 @@
           "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2735,7 +2987,7 @@
           "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2809,7 +3061,7 @@
           "title": "League of Legends Clash of the Cuties Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2885,7 +3137,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2939,7 +3191,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3301,7 +3553,7 @@
           "title": "MOLLY",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3355,7 +3607,7 @@
           "title": "HACIPUPU",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
