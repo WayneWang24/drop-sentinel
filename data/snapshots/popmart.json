@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-31T00:14:06.644964Z",
+  "timestamp": "2026-07-31T03:49:19.638832Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2601,7 +2601,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2609,7 +2609,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 89.91,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2854,7 +2854,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
