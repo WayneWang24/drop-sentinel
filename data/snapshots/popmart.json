@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-07-31T03:49:19.638832Z",
+  "timestamp": "2026-07-31T06:36:15.892001Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2579,7 +2579,7 @@
           "title": "θ SKULLPANDA Off Mode Series Earphone Bag",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2631,7 +2631,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
