@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-02T04:36:43.358692Z",
+  "timestamp": "2026-08-02T07:15:42.635470Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -522,7 +522,7 @@
           "title": "MOLLY",
           "price": 22.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
