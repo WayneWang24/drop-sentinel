@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-02T23:39:05.146273Z",
+  "timestamp": "2026-08-03T01:13:28.620252Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3637,52 +3637,6 @@
       "tags": [
         "new",
         "hacipupu"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7997",
-      "platform": "popmart",
-      "title": "PUCKY Love Across Galaxies Series-Vinyl Plush Blister Pack",
-      "url": "https://www.popmart.com/us/products/7997/PUCKY-Love-Across-Galaxies-Series-Vinyl-Plush-Blister-Pack",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782466875354_8758807fcfe4e927bc3cd1040758a76b.jpg",
-      "variants": [
-        {
-          "id": "10755",
-          "title": "PUCKY",
-          "price": 26.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pucky"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8012",
-      "platform": "popmart",
-      "title": "Peach Riot Carry the Music Series Block Pendant",
-      "url": "https://www.popmart.com/us/products/8012/Peach-Riot-Carry-the-Music-Series-Block-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782467679783_35c4c36a2fa62c913ed03b57c513946a.jpg",
-      "variants": [
-        {
-          "id": "10773",
-          "title": "Peach Riot",
-          "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "peach_riot"
       ],
       "created_at": null,
       "updated_at": null
