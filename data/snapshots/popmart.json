@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-04T01:07:46.416568Z",
+  "timestamp": "2026-08-04T04:28:38.526504Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -253,7 +253,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS × One Piece Series Figures",
       "url": "https://www.popmart.com/us/products/2052/THE-MONSTERS-×-One-Piece-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250320_140441_305459____1_the-monsters-one-piece-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785808712941_46814f1cf0e324703ff2dda1b26fd8f3.jpg",
       "variants": [
         {
           "id": "3201",
@@ -815,7 +815,7 @@
       "platform": "popmart",
       "title": "Hirono Monsters' Carnival Series Figures",
       "url": "https://www.popmart.com/us/products/3944/Hirono-Monsters'-Carnival-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20251020_152755_184300____1_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20251020_152756_596628____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "5858",
@@ -1129,7 +1129,7 @@
       "platform": "popmart",
       "title": "θSKULLPANDA L'impressionnisme Series Plush Doll",
       "url": "https://www.popmart.com/us/products/2766/θSKULLPANDA-L'impressionnisme-Series-Plush-Doll",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782383530715_14bb2be7ee5d887c9c4fa04e5cdbaede.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785812076783_c81e728d9d4c2f636f067f89cc14862c.jpg",
       "variants": [
         {
           "id": "4126",
@@ -1257,7 +1257,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1265,7 +1265,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 89.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
