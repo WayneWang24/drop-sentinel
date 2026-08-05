@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-05T00:56:17.829171Z",
+  "timestamp": "2026-08-05T03:52:56.765064Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -313,7 +313,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA Winter Symphony Series Plush",
       "url": "https://www.popmart.com/us/products/1809/SKULLPANDA-Winter-Symphony-Series-Plush",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783070463045_cfd4d0a2d95735715bdfc6e29582d534.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785900452030_a365144942c74b86433a0af1c63446cb.jpg",
       "variants": [
         {
           "id": "2883",
@@ -725,7 +725,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA The Sound Series Figures",
       "url": "https://www.popmart.com/us/products/1317/SKULLPANDA-The-Sound-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783319542750_a6a5bfa79a4b8e53707d1b85ed3844e7.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785897202235_6512bd43d9caa6e02c990b0a82652dca.jpg",
       "variants": [
         {
           "id": "2220",
@@ -1287,7 +1287,7 @@
           "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3032,7 +3032,7 @@
           "title": "Hirono",
           "price": 59.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
