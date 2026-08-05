@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-05T03:52:56.765064Z",
+  "timestamp": "2026-08-05T06:18:52.789182Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2538,6 +2538,28 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8426",
+      "platform": "popmart",
+      "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8426/Hirono-×-Kodak-Click-Bear-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785488982190_2f13c1a6ebc36d79ccf0e84be603da0d.jpg",
+      "variants": [
+        {
+          "id": "11280",
+          "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8428",
       "platform": "popmart",
       "title": "Nyota × Chibi Maruko Chan Plush Doll Pendant",
@@ -2600,28 +2622,6 @@
           "id": "11288",
           "title": "Nyota × Chibi Maruko Chan Series Figures",
           "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8426",
-      "platform": "popmart",
-      "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8426/Hirono-×-Kodak-Click-Bear-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785488982190_2f13c1a6ebc36d79ccf0e84be603da0d.jpg",
-      "variants": [
-        {
-          "id": "11280",
-          "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
-          "price": 39.99,
           "currency": "USD",
           "available": false,
           "sku": ""
