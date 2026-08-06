@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-06T01:02:18.583443Z",
+  "timestamp": "2026-08-06T04:28:19.710213Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -37,7 +37,7 @@
       "platform": "popmart",
       "title": "Teletubbies \"Say Hello\" Series Figures",
       "url": "https://www.popmart.com/us/products/3779/Teletubbies-\"Say-Hello\"-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_326419____1_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_005401____3_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "5630",
@@ -67,7 +67,7 @@
       "platform": "popmart",
       "title": "Teletubbies \"Say Hello\" Series Figures",
       "url": "https://www.popmart.com/us/products/3787/Teletubbies-\"Say-Hello\"-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_326419____1_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20250912_165742_005401____3_teletubbies-say-hello-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "5641",
@@ -822,7 +822,7 @@
           "title": "HIRONO",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -830,7 +830,7 @@
           "title": "HIRONO",
           "price": 125.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2623,7 +2623,7 @@
           "title": "Nyota × Chibi Maruko Chan Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2675,7 +2675,7 @@
           "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2750,7 +2750,7 @@
           "title": "CHAKA Stitch by Stitch Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2802,7 +2802,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3032,7 +3032,7 @@
           "title": "Hirono",
           "price": 59.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3332,7 +3332,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3340,7 +3340,7 @@
           "title": "DIMOO",
           "price": 77.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
