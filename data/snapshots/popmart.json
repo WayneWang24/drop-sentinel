@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-06T04:28:19.710213Z",
+  "timestamp": "2026-08-06T07:14:36.816809Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -433,7 +433,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Let's Checkmate Series-Vinyl Plush Hanging Card",
       "url": "https://www.popmart.com/us/products/1897/THE-MONSTERS-Let's-Checkmate-Series-Vinyl-Plush-Hanging-Card",
-      "image_url": "https://prod-america-res.popmart.com/default/20250123_121659_398103____1_the-monsters-let-s-checkmate-series-vinyl-plush-hanging-card_plush_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20250123_121659_380933____scene2_the-monsters-let-s-checkmate-series-vinyl-plush-hanging-card_plush_details_popmart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "2998",
@@ -935,7 +935,7 @@
       "platform": "popmart",
       "title": "Demon Slayer: Kimetsu no Yaiba Birth Flower Series Figures",
       "url": "https://www.popmart.com/us/products/1971/Demon-Slayer:-Kimetsu-no-Yaiba-Birth-Flower-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250107_153946_357001____1_demon-slayer-kimetsu-no-yaiba-birth-flower-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785999559304_a87ff679a2f3e71d9181a67b7542122c.jpg",
       "variants": [
         {
           "id": "3104",
@@ -2645,7 +2645,7 @@
           "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2653,7 +2653,7 @@
           "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
           "price": 107.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3032,7 +3032,7 @@
           "title": "Hirono",
           "price": 59.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3163,7 +3163,7 @@
           "title": "POP MART",
           "price": 4.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
