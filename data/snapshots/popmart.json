@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-07T00:12:51.853780Z",
+  "timestamp": "2026-08-07T03:14:08.261023Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -515,7 +515,7 @@
       "platform": "popmart",
       "title": "Baby Molly Pocket Friends Series-Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/2235/Baby-Molly-Pocket-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250516_153004_957792____1_baby-molly-pocket-friends-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20250516_153004_478497____2_baby-molly-pocket-friends-series-vinyl-plush-pendant-blind-box_plush-toys_details_popmart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "3450",
@@ -822,7 +822,7 @@
           "title": "HIRONO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -905,7 +905,7 @@
       "platform": "popmart",
       "title": "Peach Riot Rush Hour Series Figures",
       "url": "https://www.popmart.com/us/products/1937/Peach-Riot-Rush-Hour-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250213_092255_274037____1_peach-riot-rush-hour-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786070155842_63f88220b9aecdf1afd3460625d30724.jpg",
       "variants": [
         {
           "id": "3046",
@@ -2780,7 +2780,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2801,6 +2801,28 @@
           "id": "11302",
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8427",
+      "platform": "popmart",
+      "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
+      "url": "https://www.popmart.com/us/products/8427/MEGA-α-SKULLPANDA-1000%-Éclat-du-Soleil",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785490704611_2053ad4caf858f15814ba7df079d4991.jpg",
+      "variants": [
+        {
+          "id": "11281",
+          "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
+          "price": 999.9,
           "currency": "USD",
           "available": true,
           "sku": ""
