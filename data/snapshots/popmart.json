@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-07T17:31:00.915075Z",
+  "timestamp": "2026-08-07T18:28:05.661483Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3376,7 +3376,7 @@
           "title": "CHAKA Stitch by Stitch Series Figures",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
