@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-07T06:16:24.360612Z",
+  "timestamp": "2026-08-07T07:49:36.737400Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -455,7 +455,7 @@
       "platform": "popmart",
       "title": "HACIPUPU Gummy Bear Series-Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/2780/HACIPUPU-Gummy-Bear-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20250613_171533_811560____1_hacipupu-gummy-bear-series-vinyl-plush-pendant-blind-box_plush-toys-_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20250613_171533_381122____3_hacipupu-gummy-bear-series-vinyl-plush-pendant-blind-box_plush-toys-_details_popmart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "4145",
@@ -695,7 +695,7 @@
       "platform": "popmart",
       "title": "CRYBABY Crying For Love Series Figures",
       "url": "https://www.popmart.com/us/products/1870/CRYBABY-Crying-For-Love-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250115_111921_963207____1_crybaby-crying-for-love-series-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786085865445_4152c212bab5a0d91f41e6e2c9157ef4.jpg",
       "variants": [
         {
           "id": "2968",
@@ -1416,7 +1416,7 @@
           "title": "DIMOO",
           "price": 179.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2686,24 +2686,23 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8446",
+      "id": "popmart_us_8427",
       "platform": "popmart",
-      "title": "Angry Molly × Crocs \"Angry Cheese\" Co-branded Figurine",
-      "url": "https://www.popmart.com/us/products/8446/Angry-Molly-×-Crocs-\"Angry-Cheese\"-Co-branded-Figurine",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785489396593_de5b712c4af3ffad99cc03b34d6ea5eb.jpg",
+      "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
+      "url": "https://www.popmart.com/us/products/8427/MEGA-α-SKULLPANDA-1000%-Éclat-du-Soleil",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785490704611_2053ad4caf858f15814ba7df079d4991.jpg",
       "variants": [
         {
-          "id": "11303",
-          "title": "MOLLY",
-          "price": 171.99,
+          "id": "11281",
+          "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
+          "price": 999.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
       "tags": [
-        "new",
-        "molly"
+        "new"
       ],
       "created_at": null,
       "updated_at": null
@@ -2813,23 +2812,24 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8427",
+      "id": "popmart_us_8446",
       "platform": "popmart",
-      "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
-      "url": "https://www.popmart.com/us/products/8427/MEGA-α-SKULLPANDA-1000%-Éclat-du-Soleil",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785490704611_2053ad4caf858f15814ba7df079d4991.jpg",
+      "title": "Angry Molly × Crocs \"Angry Cheese\" Co-branded Figurine",
+      "url": "https://www.popmart.com/us/products/8446/Angry-Molly-×-Crocs-\"Angry-Cheese\"-Co-branded-Figurine",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785489396593_de5b712c4af3ffad99cc03b34d6ea5eb.jpg",
       "variants": [
         {
-          "id": "11281",
-          "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
-          "price": 999.9,
+          "id": "11303",
+          "title": "MOLLY",
+          "price": 171.99,
           "currency": "USD",
           "available": true,
           "sku": ""
         }
       ],
       "tags": [
-        "new"
+        "new",
+        "molly"
       ],
       "created_at": null,
       "updated_at": null
@@ -3077,7 +3077,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3085,7 +3085,7 @@
           "title": "POP MART",
           "price": 175.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3408,7 +3408,7 @@
           "title": "DIMOO",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3416,7 +3416,7 @@
           "title": "DIMOO",
           "price": 131.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
