@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-07T08:45:30.636798Z",
+  "timestamp": "2026-08-07T09:42:16.160725Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -545,7 +545,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS COCA-COLA Series Figures",
       "url": "https://www.popmart.com/us/products/1683/THE-MONSTERS-COCA-COLA-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20241112_154521_706444____1_the-monsters-coca-colaseries-figures_blind-boxes_details_popmart-us_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20241112_154523_990233____scence_the-monsters-coca-cola-series-figures_details_popmart-us_____1200x1200.jpg",
       "variants": [
         {
           "id": "2722",
@@ -1287,7 +1287,7 @@
           "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1331,7 +1331,7 @@
           "title": "THE MONSTERS",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1385,7 +1385,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1546,7 +1546,7 @@
           "title": "SKULLPANDA",
           "price": 36.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1675,7 +1675,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1798,7 +1798,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1906,7 +1906,7 @@
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2012,7 +2012,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2065,7 +2065,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2193,7 +2193,7 @@
           "title": "Demon Slayer",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2247,7 +2247,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2301,7 +2301,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2443,7 +2443,7 @@
           "title": "Hirono",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2526,7 +2526,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
