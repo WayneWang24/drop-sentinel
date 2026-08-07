@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-07T12:08:45.425718Z",
+  "timestamp": "2026-08-07T13:35:10.073472Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2900,8 +2900,8 @@
     {
       "id": "popmart_us_8496",
       "platform": "popmart",
-      "title": "RIZE Memorable Picks Series Figures",
-      "url": "https://www.popmart.com/us/products/8496/RIZE-Memorable-Picks-Series-Figures",
+      "title": "RIIZE Memorable Picks Series Figures",
+      "url": "https://www.popmart.com/us/products/8496/RIIZE-Memorable-Picks-Series-Figures",
       "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786096970105_19abe7c5050a85b01f06b17a1f8fa372.jpg",
       "variants": [
         {
@@ -2931,8 +2931,8 @@
     {
       "id": "popmart_us_8509",
       "platform": "popmart",
-      "title": "RIZE Memorable Picks Series Figures",
-      "url": "https://www.popmart.com/us/products/8509/RIZE-Memorable-Picks-Series-Figures",
+      "title": "RIIZE Memorable Picks Series Figures",
+      "url": "https://www.popmart.com/us/products/8509/RIIZE-Memorable-Picks-Series-Figures",
       "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786096970105_19abe7c5050a85b01f06b17a1f8fa372.jpg",
       "variants": [
         {
@@ -3420,7 +3420,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
