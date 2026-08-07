@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-07T13:35:10.073472Z",
+  "timestamp": "2026-08-07T14:38:02.908294Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1385,7 +1385,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3398,7 +3398,7 @@
           "title": "CHAKA Stitch by Stitch Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4065,7 +4065,7 @@
           "title": "DIMOO",
           "price": 131.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
