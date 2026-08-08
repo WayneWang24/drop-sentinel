@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-08T00:50:10.365589Z",
+  "timestamp": "2026-08-08T02:49:21.966961Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3926,7 +3926,7 @@
           "title": "DIMOO",
           "price": 49.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
