@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-08T10:20:44.550061Z",
+  "timestamp": "2026-08-08T10:56:48.612438Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3272,7 +3272,7 @@
           "title": "Nyota × Chibi Maruko Chan Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3324,7 +3324,7 @@
           "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3450,7 +3450,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3555,7 +3555,7 @@
           "title": "θ SKULLPANDA Off Mode Series Phone Lanyard",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3607,7 +3607,7 @@
           "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3681,7 +3681,7 @@
           "title": "League of Legends Clash of the Cuties Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3811,7 +3811,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4034,7 +4034,7 @@
           "title": "DIMOO",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4173,7 +4173,7 @@
           "title": "MOLLY",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4227,7 +4227,7 @@
           "title": "HACIPUPU",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
