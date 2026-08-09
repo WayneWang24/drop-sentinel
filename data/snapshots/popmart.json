@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-09T17:45:12.442789Z",
+  "timestamp": "2026-08-09T18:05:59.615270Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1235,7 +1235,7 @@
           "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
