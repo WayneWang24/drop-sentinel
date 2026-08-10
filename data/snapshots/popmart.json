@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-09T23:54:54.639953Z",
+  "timestamp": "2026-08-10T00:55:31.048249Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -4180,60 +4180,6 @@
       "tags": [
         "new",
         "molly"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8061",
-      "platform": "popmart",
-      "title": "HACIPUPU Take Me Home Series - Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/8061/HACIPUPU-Take-Me-Home-Series---Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072961746_6575ce36801f8fe2a1ddc4221fd005f3.jpg",
-      "variants": [
-        {
-          "id": "10831",
-          "title": "HACIPUPU",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "10832",
-          "title": "HACIPUPU",
-          "price": 119.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hacipupu"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8069",
-      "platform": "popmart",
-      "title": "HACIPUPU Take Me Home Series - Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/8069/HACIPUPU-Take-Me-Home-Series---Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072961746_6575ce36801f8fe2a1ddc4221fd005f3.jpg",
-      "variants": [
-        {
-          "id": "10845",
-          "title": "HACIPUPU",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hacipupu"
       ],
       "created_at": null,
       "updated_at": null
