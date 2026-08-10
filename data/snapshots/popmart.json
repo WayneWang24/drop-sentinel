@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-10T06:06:21.494722Z",
+  "timestamp": "2026-08-10T08:01:34.853264Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1309,7 +1309,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1385,7 +1385,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1959,7 +1959,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2301,7 +2301,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3376,7 +3376,7 @@
           "title": "CHAKA Stitch by Stitch Series Figures",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3873,7 +3873,7 @@
       "platform": "popmart",
       "title": "MEGA JUST DIMOO 700% Meadow of Dreams",
       "url": "https://www.popmart.com/us/products/8270/MEGA-JUST-DIMOO-700%-Meadow-of-Dreams",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784798612284_f25fae92890a2f4c5a1c26dbcfc764e8.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784798612285_4e4b43fa0498393635613c6ce817982a.jpg",
       "variants": [
         {
           "id": "11083",
