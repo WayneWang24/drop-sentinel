@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-10T03:06:45.727707Z",
+  "timestamp": "2026-08-10T04:51:05.188452Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3198,7 +3198,7 @@
           "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3398,7 +3398,7 @@
           "title": "CHAKA Stitch by Stitch Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
