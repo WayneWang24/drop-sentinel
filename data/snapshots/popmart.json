@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-11T11:27:26.726355Z",
+  "timestamp": "2026-08-11T12:07:19.169502Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1185,6 +1185,59 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8426",
+      "platform": "popmart",
+      "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8426/Hirono-×-Kodak-Click-Bear-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785488982190_2f13c1a6ebc36d79ccf0e84be603da0d.jpg",
+      "variants": [
+        {
+          "id": "11280",
+          "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8135",
+      "platform": "popmart",
+      "title": "DIMOO WORLD × PIXAR Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8135/DIMOO-WORLD-×-PIXAR-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308750866_2efd2c49789ab68d2d637a9752e11ff3.jpg",
+      "variants": [
+        {
+          "id": "10925",
+          "title": "DIMOO",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "10926",
+          "title": "DIMOO",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_7890",
       "platform": "popmart",
       "title": "THE MONSTERS Hair Salon Series - Vinyl Plush Pendant Blind Box",
@@ -1211,6 +1264,36 @@
       "tags": [
         "new",
         "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5812",
+      "platform": "popmart",
+      "title": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/5812/SKULLPANDA-×-My-Little-Pony-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785307849197_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "8193",
+          "title": "SKULLPANDA",
+          "price": 36.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8194",
+          "title": "SKULLPANDA",
+          "price": 221.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "skullpanda"
       ],
       "created_at": null,
       "updated_at": null
@@ -1246,6 +1329,233 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8247",
+      "platform": "popmart",
+      "title": "Hirono Mist-Walker Series - Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8247/Hirono-Mist-Walker-Series---Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785147243658_8fc2ae161bb3c106e43ef402538f5d02.jpg",
+      "variants": [
+        {
+          "id": "11053",
+          "title": "Hirono",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11054",
+          "title": "Hirono",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8443",
+      "platform": "popmart",
+      "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+      "url": "https://www.popmart.com/us/products/8443/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
+      "variants": [
+        {
+          "id": "11299",
+          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11300",
+          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8445",
+      "platform": "popmart",
+      "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+      "url": "https://www.popmart.com/us/products/8445/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
+      "variants": [
+        {
+          "id": "11302",
+          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6287",
+      "platform": "popmart",
+      "title": "Haikyu!! Off-Court Vibes Series Figures",
+      "url": "https://www.popmart.com/us/products/6287/Haikyu!!-Off-Court-Vibes-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785306983884_72cbb3b56cc18797a027ba1efabe16d6.jpg",
+      "variants": [
+        {
+          "id": "8842",
+          "title": "Haikyu",
+          "price": 18.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8843",
+          "title": "Haikyu",
+          "price": 227.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "haikyu"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5991",
+      "platform": "popmart",
+      "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/5991/THE-MONSTERS-×-Hello-Kitty-and-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308466361_947e689b77e82bdd7a5bbfbb60f7fdb6.jpg",
+      "variants": [
+        {
+          "id": "8428",
+          "title": "THE MONSTERS",
+          "price": 36.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8427",
+          "title": "THE MONSTERS",
+          "price": 221.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "the_monsters"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7998",
+      "platform": "popmart",
+      "title": "Peach Riot Power Chords Series Figures",
+      "url": "https://www.popmart.com/us/products/7998/Peach-Riot-Power-Chords-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785314748231_4e4725443e2e6a3f7daab068f19203c6.jpg",
+      "variants": [
+        {
+          "id": "10756",
+          "title": "Peach Riot",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "10757",
+          "title": "Peach Riot",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "peach_riot"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_7996",
+      "platform": "popmart",
+      "title": "mini DUCKOO Citywalk Series Figures",
+      "url": "https://www.popmart.com/us/products/7996/mini-DUCKOO-Citywalk-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785403921562_a651e84d0394700cd4c4e27bee040920.jpg",
+      "variants": [
+        {
+          "id": "10753",
+          "title": "DUCKOO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "10754",
+          "title": "DUCKOO",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "duckoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8356",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8356/θ-SKULLPANDA-Off-Mode-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785310537917_05ed216de61315dc07ebaade1b6c5bec.jpg",
+      "variants": [
+        {
+          "id": "11191",
+          "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8342",
       "platform": "popmart",
       "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
@@ -1266,28 +1576,6 @@
           "price": 89.91,
           "currency": "USD",
           "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8356",
-      "platform": "popmart",
-      "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8356/θ-SKULLPANDA-Off-Mode-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785310537917_05ed216de61315dc07ebaade1b6c5bec.jpg",
-      "variants": [
-        {
-          "id": "11191",
-          "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
           "sku": ""
         }
       ],
@@ -1343,91 +1631,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_7998",
-      "platform": "popmart",
-      "title": "Peach Riot Power Chords Series Figures",
-      "url": "https://www.popmart.com/us/products/7998/Peach-Riot-Power-Chords-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785314748231_4e4725443e2e6a3f7daab068f19203c6.jpg",
-      "variants": [
-        {
-          "id": "10756",
-          "title": "Peach Riot",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "10757",
-          "title": "Peach Riot",
-          "price": 239.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "peach_riot"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8011",
-      "platform": "popmart",
-      "title": "Peach Riot Power Chords Series Figures",
-      "url": "https://www.popmart.com/us/products/8011/Peach-Riot-Power-Chords-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785314748231_4e4725443e2e6a3f7daab068f19203c6.jpg",
-      "variants": [
-        {
-          "id": "10772",
-          "title": "Peach Riot",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "peach_riot"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8135",
-      "platform": "popmart",
-      "title": "DIMOO WORLD × PIXAR Series - Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/8135/DIMOO-WORLD-×-PIXAR-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308750866_2efd2c49789ab68d2d637a9752e11ff3.jpg",
-      "variants": [
-        {
-          "id": "10925",
-          "title": "DIMOO",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "10926",
-          "title": "DIMOO",
-          "price": 179.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8153",
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Vinyl Plush Pendant Blind Box",
@@ -1446,37 +1649,6 @@
       "tags": [
         "new",
         "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8247",
-      "platform": "popmart",
-      "title": "Hirono Mist-Walker Series - Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8247/Hirono-Mist-Walker-Series---Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785147243658_8fc2ae161bb3c106e43ef402538f5d02.jpg",
-      "variants": [
-        {
-          "id": "11053",
-          "title": "Hirono",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "11054",
-          "title": "Hirono",
-          "price": 179.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hirono"
       ],
       "created_at": null,
       "updated_at": null
@@ -1505,36 +1677,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_5812",
-      "platform": "popmart",
-      "title": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/5812/SKULLPANDA-×-My-Little-Pony-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785307849197_c4ca4238a0b923820dcc509a6f75849b.jpg",
-      "variants": [
-        {
-          "id": "8193",
-          "title": "SKULLPANDA",
-          "price": 36.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8194",
-          "title": "SKULLPANDA",
-          "price": 221.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "skullpanda"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_5828",
       "platform": "popmart",
       "title": "SKULLPANDA × My Little Pony Series Plush Doll Pendant",
@@ -1552,6 +1694,83 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8010",
+      "platform": "popmart",
+      "title": "mini DUCKOO Citywalk Series Figures",
+      "url": "https://www.popmart.com/us/products/8010/mini-DUCKOO-Citywalk-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785403921562_a651e84d0394700cd4c4e27bee040920.jpg",
+      "variants": [
+        {
+          "id": "10771",
+          "title": "DUCKOO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "duckoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8011",
+      "platform": "popmart",
+      "title": "Peach Riot Power Chords Series Figures",
+      "url": "https://www.popmart.com/us/products/8011/Peach-Riot-Power-Chords-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785314748231_4e4725443e2e6a3f7daab068f19203c6.jpg",
+      "variants": [
+        {
+          "id": "10772",
+          "title": "Peach Riot",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "peach_riot"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_6352",
+      "platform": "popmart",
+      "title": "Dear Birds Series-Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/6352/Dear-Birds-Series-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785315688012_843600f20c67415c837439720a423db2.jpg",
+      "variants": [
+        {
+          "id": "8923",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "8922",
+          "title": "POP MART",
+          "price": 215.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -1633,36 +1852,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_6287",
-      "platform": "popmart",
-      "title": "Haikyu!! Off-Court Vibes Series Figures",
-      "url": "https://www.popmart.com/us/products/6287/Haikyu!!-Off-Court-Vibes-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785306983884_72cbb3b56cc18797a027ba1efabe16d6.jpg",
-      "variants": [
-        {
-          "id": "8842",
-          "title": "Haikyu",
-          "price": 18.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8843",
-          "title": "Haikyu",
-          "price": 227.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "haikyu"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_7595",
       "platform": "popmart",
       "title": "Haikyu!! Off-Court Vibes Series Figures",
@@ -1680,36 +1869,6 @@
       ],
       "tags": [
         "haikyu"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_5991",
-      "platform": "popmart",
-      "title": "THE MONSTERS × Hello Kitty and Friends Series-Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/5991/THE-MONSTERS-×-Hello-Kitty-and-Friends-Series-Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308466361_947e689b77e82bdd7a5bbfbb60f7fdb6.jpg",
-      "variants": [
-        {
-          "id": "8428",
-          "title": "THE MONSTERS",
-          "price": 36.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8427",
-          "title": "THE MONSTERS",
-          "price": 221.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
       ],
       "created_at": null,
       "updated_at": null
@@ -1862,60 +2021,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_7996",
-      "platform": "popmart",
-      "title": "mini DUCKOO Citywalk Series Figures",
-      "url": "https://www.popmart.com/us/products/7996/mini-DUCKOO-Citywalk-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785403921562_a651e84d0394700cd4c4e27bee040920.jpg",
-      "variants": [
-        {
-          "id": "10753",
-          "title": "DUCKOO",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "10754",
-          "title": "DUCKOO",
-          "price": 239.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "duckoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8010",
-      "platform": "popmart",
-      "title": "mini DUCKOO Citywalk Series Figures",
-      "url": "https://www.popmart.com/us/products/8010/mini-DUCKOO-Citywalk-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785403921562_a651e84d0394700cd4c4e27bee040920.jpg",
-      "variants": [
-        {
-          "id": "10771",
-          "title": "DUCKOO",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "duckoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_5166",
       "platform": "popmart",
       "title": "Hirono Road Journal Series-Plush Doll Pendant Blind Box",
@@ -2009,6 +2114,37 @@
           "id": "10638",
           "title": "Demon Slayer",
           "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "demon_slayer"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8139",
+      "platform": "popmart",
+      "title": "Demon Slayer: Kimetsu no Yaiba Battle Series Figures",
+      "url": "https://www.popmart.com/us/products/8139/Demon-Slayer:-Kimetsu-no-Yaiba-Battle-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785392090562_37a7655aed3a4c5dd31d362859774876.jpg",
+      "variants": [
+        {
+          "id": "10932",
+          "title": "Demon Slayer",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "10933",
+          "title": "Demon Slayer",
+          "price": 239.88,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -2149,37 +2285,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8139",
-      "platform": "popmart",
-      "title": "Demon Slayer: Kimetsu no Yaiba Battle Series Figures",
-      "url": "https://www.popmart.com/us/products/8139/Demon-Slayer:-Kimetsu-no-Yaiba-Battle-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785392090562_37a7655aed3a4c5dd31d362859774876.jpg",
-      "variants": [
-        {
-          "id": "10932",
-          "title": "Demon Slayer",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "10933",
-          "title": "Demon Slayer",
-          "price": 239.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "demon_slayer"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8157",
       "platform": "popmart",
       "title": "Demon Slayer: Kimetsu no Yaiba Battle Series Figures",
@@ -2250,37 +2355,6 @@
       ],
       "tags": [
         "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6352",
-      "platform": "popmart",
-      "title": "Dear Birds Series-Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/6352/Dear-Birds-Series-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785315688012_843600f20c67415c837439720a423db2.jpg",
-      "variants": [
-        {
-          "id": "8923",
-          "title": "POP MART",
-          "price": 26.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8922",
-          "title": "POP MART",
-          "price": 215.92,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -2445,112 +2519,6 @@
       ],
       "tags": [
         "hirono"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_5819",
-      "platform": "popmart",
-      "title": "Stitch Adventure Series Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/5819/Stitch-Adventure-Series-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785749475175_c4ca4238a0b923820dcc509a6f75849b.jpg",
-      "variants": [
-        {
-          "id": "8204",
-          "title": "Stitch",
-          "price": 26.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8205",
-          "title": "Stitch",
-          "price": 242.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "stitch"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8063",
-      "platform": "popmart",
-      "title": "SpongeBob: Krabby Patty Bestsellers Series Figures",
-      "url": "https://www.popmart.com/us/products/8063/SpongeBob:-Krabby-Patty-Bestsellers-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072553240_ce7840b024677c711b7489abd38eb331.jpg",
-      "variants": [
-        {
-          "id": "10835",
-          "title": "SpongeBob",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "10836",
-          "title": "SpongeBob",
-          "price": 159.92,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "spongebob"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8071",
-      "platform": "popmart",
-      "title": "SpongeBob: Krabby Patty Bestsellers Series Figures",
-      "url": "https://www.popmart.com/us/products/8071/SpongeBob:-Krabby-Patty-Bestsellers-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783072553240_ce7840b024677c711b7489abd38eb331.jpg",
-      "variants": [
-        {
-          "id": "10847",
-          "title": "SpongeBob",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "spongebob"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8426",
-      "platform": "popmart",
-      "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8426/Hirono-×-Kodak-Click-Bear-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785488982190_2f13c1a6ebc36d79ccf0e84be603da0d.jpg",
-      "variants": [
-        {
-          "id": "11280",
-          "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
       ],
       "created_at": null,
       "updated_at": null
@@ -2743,58 +2711,6 @@
         {
           "id": "11301",
           "title": "CHAKA Stitch by Stitch Series Figures",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8443",
-      "platform": "popmart",
-      "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
-      "url": "https://www.popmart.com/us/products/8443/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
-      "variants": [
-        {
-          "id": "11299",
-          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
-          "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "11300",
-          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
-          "price": 239.88,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8445",
-      "platform": "popmart",
-      "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
-      "url": "https://www.popmart.com/us/products/8445/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
-      "variants": [
-        {
-          "id": "11302",
-          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
           "available": true,
