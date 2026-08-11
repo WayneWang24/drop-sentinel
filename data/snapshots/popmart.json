@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-11T07:51:57.162327Z",
+  "timestamp": "2026-08-11T08:43:02.318827Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1657,7 +1657,6 @@
         }
       ],
       "tags": [
-        "new",
         "haikyu"
       ],
       "created_at": null,
@@ -1680,7 +1679,6 @@
         }
       ],
       "tags": [
-        "new",
         "haikyu"
       ],
       "created_at": null,
@@ -2229,7 +2227,6 @@
         }
       ],
       "tags": [
-        "new",
         "crybaby"
       ],
       "created_at": null,
@@ -2252,7 +2249,6 @@
         }
       ],
       "tags": [
-        "new",
         "crybaby"
       ],
       "created_at": null,
