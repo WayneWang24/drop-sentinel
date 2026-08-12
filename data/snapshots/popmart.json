@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-12T21:49:04.908155Z",
+  "timestamp": "2026-08-12T22:29:25.951120Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2691,7 +2691,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
