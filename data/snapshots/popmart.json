@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-12T00:41:04.166797Z",
+  "timestamp": "2026-08-12T03:09:11.267714Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2870,7 +2870,7 @@
           "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
