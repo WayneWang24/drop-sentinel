@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-13T01:11:35.002999Z",
+  "timestamp": "2026-08-13T03:32:26.506201Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -800,7 +800,7 @@
           "title": "Teletubbies ",
           "price": 167.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -822,7 +822,7 @@
           "title": "HIRONO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -830,7 +830,7 @@
           "title": "HIRONO",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2892,7 +2892,7 @@
           "title": "POP MART Retro FM Series - Plush Doll Display Bag Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
