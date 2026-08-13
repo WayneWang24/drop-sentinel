@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-13T06:53:34.427017Z",
+  "timestamp": "2026-08-13T08:10:29.805277Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -490,7 +490,7 @@
         {
           "id": "5125",
           "title": "THE MONSTERS",
-          "price": 18.99,
+          "price": 17.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -498,7 +498,7 @@
         {
           "id": "5126",
           "title": "THE MONSTERS",
-          "price": 265.86,
+          "price": 251.86,
           "currency": "USD",
           "available": false,
           "sku": ""
@@ -880,7 +880,7 @@
         {
           "id": "5127",
           "title": "THE MONSTERS",
-          "price": 18.99,
+          "price": 17.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -888,7 +888,7 @@
         {
           "id": "5128",
           "title": "THE MONSTERS",
-          "price": 265.86,
+          "price": 251.86,
           "currency": "USD",
           "available": false,
           "sku": ""
