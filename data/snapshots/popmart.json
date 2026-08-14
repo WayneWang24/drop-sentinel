@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-14T04:27:55.743363Z",
+  "timestamp": "2026-08-14T05:53:23.216142Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2793,7 +2793,7 @@
           "title": "CRYBABY × Care Bears Series - Mini Bag Hanging Jewelry Case",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3130,7 +3130,7 @@
           "title": "RIIZE Fluffy Club Series Vinyl Plush Doll Pendant",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
