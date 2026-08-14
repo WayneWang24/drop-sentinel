@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-14T05:53:23.216142Z",
+  "timestamp": "2026-08-14T07:07:24.580710Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2402,7 +2402,7 @@
           "title": "Nyota × Chibi Maruko Chan Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3078,7 +3078,7 @@
           "title": "TinyTiny - Act I: Sugar Therapy Room Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3152,7 +3152,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3160,7 +3160,7 @@
           "title": "POP MART",
           "price": 119.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3206,7 +3206,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3214,7 +3214,7 @@
           "title": "POP MART",
           "price": 131.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3237,7 +3237,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3499,7 +3499,7 @@
           "title": "θ SKULLPANDA Off Mode Series Earphone Bag",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3507,7 +3507,7 @@
           "title": "θ SKULLPANDA Off Mode Series Earphone Bag",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
