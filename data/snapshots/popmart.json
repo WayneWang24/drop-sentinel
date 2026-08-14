@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-14T07:07:24.580710Z",
+  "timestamp": "2026-08-14T08:35:59.585726Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2793,7 +2793,7 @@
           "title": "CRYBABY × Care Bears Series - Mini Bag Hanging Jewelry Case",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
