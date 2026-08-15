@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-15T03:51:34.707797Z",
+  "timestamp": "2026-08-15T04:19:33.974927Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2719,7 +2719,7 @@
           "title": "CRYBABY × Care Bears Series - TV-shaped Luminous Display Box",
           "price": 69.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
