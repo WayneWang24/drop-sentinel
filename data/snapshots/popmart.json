@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-16T05:54:14.453312Z",
+  "timestamp": "2026-08-16T06:21:46.707277Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1562,7 +1562,7 @@
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
