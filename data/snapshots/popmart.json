@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-17T10:53:42.297105Z",
+  "timestamp": "2026-08-17T11:15:29.936761Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2402,7 +2402,7 @@
           "title": "Nyota × Chibi Maruko Chan Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3140,7 +3140,7 @@
           "title": "TinyTiny - Act I: Sugar Therapy Room Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3148,7 +3148,7 @@
           "title": "TinyTiny - Act I: Sugar Therapy Room Series Figures",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
