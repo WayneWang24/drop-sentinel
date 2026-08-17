@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-17T02:07:45.110785Z",
+  "timestamp": "2026-08-17T03:10:44.811650Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2696,7 +2696,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3130,7 +3130,7 @@
           "title": "RIIZE Fluffy Club Series Vinyl Plush Doll Pendant",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3699,7 +3699,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
