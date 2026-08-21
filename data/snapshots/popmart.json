@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-21T02:11:36.135176Z",
+  "timestamp": "2026-08-21T03:14:16.717652Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2618,6 +2618,201 @@
       "tags": [
         "new",
         "spongebob"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8601",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Farm Tales Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8601/Twinkle-Twinkle-Farm-Tales-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786701223454_2f5f992203673dbdba307c9ab215635f.jpg",
+      "variants": [
+        {
+          "id": "11510",
+          "title": "Twinkle Twinkle Farm Tales Series - Vinyl Plush Pendant Blind Box",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11511",
+          "title": "Twinkle Twinkle Farm Tales Series - Vinyl Plush Pendant Blind Box",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8635",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Farm Tales Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8635/Twinkle-Twinkle-Farm-Tales-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786701223454_2f5f992203673dbdba307c9ab215635f.jpg",
+      "variants": [
+        {
+          "id": "11558",
+          "title": "Twinkle Twinkle Farm Tales Series - Vinyl Plush Pendant Blind Box",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8600",
+      "platform": "popmart",
+      "title": "aespa Memorable Picks Series Figures",
+      "url": "https://www.popmart.com/us/products/8600/aespa-Memorable-Picks-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786700536361_19f565c3ade590c9510e58c337cfa5b7.jpg",
+      "variants": [
+        {
+          "id": "11508",
+          "title": "aespa Memorable Picks Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11509",
+          "title": "aespa Memorable Picks Series Figures",
+          "price": 159.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8634",
+      "platform": "popmart",
+      "title": "aespa Memorable Picks Series Figures",
+      "url": "https://www.popmart.com/us/products/8634/aespa-Memorable-Picks-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786700536361_19f565c3ade590c9510e58c337cfa5b7.jpg",
+      "variants": [
+        {
+          "id": "11557",
+          "title": "aespa Memorable Picks Series Figures",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8602",
+      "platform": "popmart",
+      "title": "aespa Memorable Picks Series Glowing Pendant",
+      "url": "https://www.popmart.com/us/products/8602/aespa-Memorable-Picks-Series-Glowing-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786698879520_f404990f95808d3766b08d282f60ac75.jpg",
+      "variants": [
+        {
+          "id": "11512",
+          "title": "aespa Memorable Picks Series Glowing Pendant",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11513",
+          "title": "aespa Memorable Picks Series Glowing Pendant",
+          "price": 79.96,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8633",
+      "platform": "popmart",
+      "title": "aespa Memorable Picks Series Glowing Pendant",
+      "url": "https://www.popmart.com/us/products/8633/aespa-Memorable-Picks-Series-Glowing-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786698879520_f404990f95808d3766b08d282f60ac75.jpg",
+      "variants": [
+        {
+          "id": "11556",
+          "title": "aespa Memorable Picks Series Glowing Pendant",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8631",
+      "platform": "popmart",
+      "title": "Peach Riot Siren’s Song Figurine",
+      "url": "https://www.popmart.com/us/products/8631/Peach-Riot-Siren’s-Song-Figurine",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786698342991_6b40a8648d92b89580da9054f5622d4f.jpg",
+      "variants": [
+        {
+          "id": "11550",
+          "title": "Peach Riot",
+          "price": 159.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11551",
+          "title": "Peach Riot",
+          "price": 159.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11552",
+          "title": "Peach Riot",
+          "price": 159.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "peach_riot"
       ],
       "created_at": null,
       "updated_at": null
