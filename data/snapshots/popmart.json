@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-21T04:00:43.578481Z",
+  "timestamp": "2026-08-21T04:51:31.912702Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -710,7 +710,7 @@
           "title": "CRYBABY",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2694,7 +2694,7 @@
           "title": "aespa Memorable Picks Series Figures",
           "price": 159.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
