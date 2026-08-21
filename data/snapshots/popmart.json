@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-21T04:51:31.912702Z",
+  "timestamp": "2026-08-21T05:22:47.815312Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -710,7 +710,7 @@
           "title": "CRYBABY",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3364,7 +3364,7 @@
           "title": "RIIZE Fluffy Club Series Vinyl Plush Doll Pendant",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
