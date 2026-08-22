@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-22T11:55:42.383740Z",
+  "timestamp": "2026-08-22T12:18:32.324979Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -492,7 +492,7 @@
           "title": "THE MONSTERS",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
