@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-22T21:56:45.442209Z",
+  "timestamp": "2026-08-22T22:14:16.937139Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -410,7 +410,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2875,7 +2875,7 @@
           "title": "DUCKOO",
           "price": 0.0,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
