@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-25T12:00:24.218729Z",
+  "timestamp": "2026-08-25T12:51:34.228270Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2473,7 +2473,7 @@
           "title": "RIIZE Fluffy Club Series Vinyl Plush Doll Pendant",
           "price": 179.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
