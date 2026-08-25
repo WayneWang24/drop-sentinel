@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-25T02:07:16.548489Z",
+  "timestamp": "2026-08-25T03:10:37.875367Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1353,7 +1353,6 @@
         }
       ],
       "tags": [
-        "new",
         "the_monsters"
       ],
       "created_at": null,
@@ -2064,7 +2063,6 @@
         }
       ],
       "tags": [
-        "new",
         "skullpanda"
       ],
       "created_at": null,
@@ -2126,7 +2124,6 @@
         }
       ],
       "tags": [
-        "new",
         "demon_slayer"
       ],
       "created_at": null,
