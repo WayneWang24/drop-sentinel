@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-08-28T01:13:00.508725Z",
+  "timestamp": "2026-08-28T12:46:14.143339Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -965,7 +965,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
       "url": "https://www.popmart.com/us/products/675/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784533101158_efd5ad4903d7c8855f445cdedebec6cd.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781250934026_6e154e512bb92ddd1ae6009b32c4cd96.jpg",
       "variants": [
         {
           "id": "1044",
@@ -1025,7 +1025,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS - Exciting Macaron Vinyl Face Blind Box",
       "url": "https://www.popmart.com/us/products/1398/THE-MONSTERS---Exciting-Macaron-Vinyl-Face-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784533101158_efd5ad4903d7c8855f445cdedebec6cd.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1781250934026_6e154e512bb92ddd1ae6009b32c4cd96.jpg",
       "variants": [
         {
           "id": "2335",
@@ -1521,7 +1521,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1529,7 +1529,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2590,6 +2590,353 @@
       ],
       "tags": [
         "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8685",
+      "platform": "popmart",
+      "title": "Hirono Dino Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8685/Hirono-Dino-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787305821082_0a95e93821ea57887e85aac203ee9907.jpg",
+      "variants": [
+        {
+          "id": "11621",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8689",
+      "platform": "popmart",
+      "title": "PUCKY Closed for Today Series Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8689/PUCKY-Closed-for-Today-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787304415877_d5f2cf6df1909d024ffb793bbeed4e25.jpg",
+      "variants": [
+        {
+          "id": "11628",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11629",
+          "title": "POP MART",
+          "price": 161.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8702",
+      "platform": "popmart",
+      "title": "PUCKY Closed for Today Series Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8702/PUCKY-Closed-for-Today-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787304415877_d5f2cf6df1909d024ffb793bbeed4e25.jpg",
+      "variants": [
+        {
+          "id": "11648",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8688",
+      "platform": "popmart",
+      "title": "PUCKY Closed for Today Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8688/PUCKY-Closed-for-Today-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787304789973_5dded804e7d7668234cc83b59d7e376f.jpg",
+      "variants": [
+        {
+          "id": "11626",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11627",
+          "title": "POP MART",
+          "price": 107.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8701",
+      "platform": "popmart",
+      "title": "PUCKY Closed for Today Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8701/PUCKY-Closed-for-Today-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787304789973_5dded804e7d7668234cc83b59d7e376f.jpg",
+      "variants": [
+        {
+          "id": "11647",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8687",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 100% Series 1",
+      "url": "https://www.popmart.com/us/products/8687/MEGA-ROYAL-MOLLY-100%-Series-1",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787305059849_602e781051064bd68ce1a40ee36689d7.jpg",
+      "variants": [
+        {
+          "id": "11624",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11625",
+          "title": "POP MART",
+          "price": 179.91,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8700",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 100% Series 1",
+      "url": "https://www.popmart.com/us/products/8700/MEGA-ROYAL-MOLLY-100%-Series-1",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787305059849_602e781051064bd68ce1a40ee36689d7.jpg",
+      "variants": [
+        {
+          "id": "11646",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8692",
+      "platform": "popmart",
+      "title": "Zootopia Ace Duo Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/8692/Zootopia-Ace-Duo-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787303498082_d18d7940486b08ef8d51a7ee2f6ae5d2.jpg",
+      "variants": [
+        {
+          "id": "11634",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11635",
+          "title": "POP MART",
+          "price": 215.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8703",
+      "platform": "popmart",
+      "title": "Zootopia Ace Duo Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/8703/Zootopia-Ace-Duo-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787303498082_d18d7940486b08ef8d51a7ee2f6ae5d2.jpg",
+      "variants": [
+        {
+          "id": "11649",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8693",
+      "platform": "popmart",
+      "title": "Harry Potter Patronus Series Figures",
+      "url": "https://www.popmart.com/us/products/8693/Harry-Potter-Patronus-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787302597736_419df49170c127e6b43e4ecf005704dc.jpg",
+      "variants": [
+        {
+          "id": "11636",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11637",
+          "title": "POP MART",
+          "price": 199.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8704",
+      "platform": "popmart",
+      "title": "Harry Potter Patronus Series Figures",
+      "url": "https://www.popmart.com/us/products/8704/Harry-Potter-Patronus-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787302597736_419df49170c127e6b43e4ecf005704dc.jpg",
+      "variants": [
+        {
+          "id": "11650",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8686",
+      "platform": "popmart",
+      "title": "HACIPUPU x CRAYON SHINCHAN One Day in Kasukabe Series Figures",
+      "url": "https://www.popmart.com/us/products/8686/HACIPUPU-x-CRAYON-SHINCHAN-One-Day-in-Kasukabe-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787303785499_836d2b7637d0da757b8f37e13db3d0e2.jpg",
+      "variants": [
+        {
+          "id": "11622",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11623",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8699",
+      "platform": "popmart",
+      "title": "HACIPUPU x CRAYON SHINCHAN One Day in Kasukabe Series Figures",
+      "url": "https://www.popmart.com/us/products/8699/HACIPUPU-x-CRAYON-SHINCHAN-One-Day-in-Kasukabe-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787303785499_836d2b7637d0da757b8f37e13db3d0e2.jpg",
+      "variants": [
+        {
+          "id": "11645",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
