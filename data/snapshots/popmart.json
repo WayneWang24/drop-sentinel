@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-01T06:57:39.399513Z",
+  "timestamp": "2026-09-01T12:18:16.178754Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -163,7 +163,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Pin for Love Series-Vinyl Plush Pendant Blind Box (N-Z)",
       "url": "https://www.popmart.com/us/products/3023/THE-MONSTERS-Pin-for-Love-Series-Vinyl-Plush-Pendant-Blind-Box-(N-Z)",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1783925657766_814b4682f0143d821eec25167bac1258.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_172815_738271____2_them-1_____1200x1200.JPG",
       "variants": [
         {
           "id": "4490",
@@ -522,7 +522,7 @@
           "title": "MOLLY",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2026,7 +2026,7 @@
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3598,7 +3598,7 @@
           "title": "TinyTiny - Act I: Sugar Therapy Room Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3892,7 +3892,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
