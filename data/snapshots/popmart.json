@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-01T01:54:35.018755Z",
+  "timestamp": "2026-09-01T06:57:39.399513Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1453,7 +1453,7 @@
       "platform": "popmart",
       "title": "DIMOO WORLD × PIXAR Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8135/DIMOO-WORLD-×-PIXAR-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785308750866_2efd2c49789ab68d2d637a9752e11ff3.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788231134114_a857881d123b990410dac4b4b6608ecd.jpg",
       "variants": [
         {
           "id": "10925",
@@ -1564,7 +1564,6 @@
         }
       ],
       "tags": [
-        "new",
         "peach_riot"
       ],
       "created_at": null,
@@ -1597,7 +1596,7 @@
       "platform": "popmart",
       "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8425/Baby-Molly-Buggy-Roam-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785489937651_e61af8f2e74a3c5ee83c3a20979eb37a.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788231479310_2ec10cc1ee4bafe6dec2c86606e79fde.jpg",
       "variants": [
         {
           "id": "11278",
@@ -2027,7 +2026,7 @@
           "title": "DUCKOO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2101,7 +2100,6 @@
         }
       ],
       "tags": [
-        "new",
         "monster_hunter"
       ],
       "created_at": null,
@@ -2558,7 +2556,6 @@
         }
       ],
       "tags": [
-        "new",
         "peach_riot"
       ],
       "created_at": null,
@@ -3822,7 +3819,7 @@
       "platform": "popmart",
       "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8432/Baby-Molly-Buggy-Roam-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785489937651_e61af8f2e74a3c5ee83c3a20979eb37a.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788231479310_2ec10cc1ee4bafe6dec2c86606e79fde.jpg",
       "variants": [
         {
           "id": "11287",
