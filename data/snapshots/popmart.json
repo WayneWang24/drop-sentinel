@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-02T00:07:56.511163Z",
+  "timestamp": "2026-09-02T04:26:09.889775Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3598,7 +3598,7 @@
           "title": "TinyTiny - Act I: Sugar Therapy Room Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
