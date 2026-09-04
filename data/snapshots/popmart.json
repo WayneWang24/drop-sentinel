@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-04T20:53:17.111211Z",
+  "timestamp": "2026-09-04T22:37:52.915950Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1114,7 +1114,7 @@
           "title": "Disney",
           "price": 223.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
