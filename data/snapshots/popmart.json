@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-03T23:48:50.000719Z",
+  "timestamp": "2026-09-04T01:55:01.721822Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2588,6 +2588,506 @@
       ],
       "tags": [
         "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8760",
+      "platform": "popmart",
+      "title": "Disney Tim Burton's The Nightmare Before Christmas Series Figures",
+      "url": "https://www.popmart.com/us/products/8760/Disney-Tim-Burton's-The-Nightmare-Before-Christmas-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787906759153_f05e453d06d02dd26a7cb7354cc2d793.jpg",
+      "variants": [
+        {
+          "id": "11731",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11732",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8767",
+      "platform": "popmart",
+      "title": "Disney Tim Burton's The Nightmare Before Christmas Series Figures",
+      "url": "https://www.popmart.com/us/products/8767/Disney-Tim-Burton's-The-Nightmare-Before-Christmas-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787906759153_f05e453d06d02dd26a7cb7354cc2d793.jpg",
+      "variants": [
+        {
+          "id": "11740",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8754",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8754/Hirono-After-Dark-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910647340_df09fd8b086bcbb54fc9e757ad2777c2.jpg",
+      "variants": [
+        {
+          "id": "11721",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11722",
+          "title": "POP MART",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8763",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8763/Hirono-After-Dark-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910647340_df09fd8b086bcbb54fc9e757ad2777c2.jpg",
+      "variants": [
+        {
+          "id": "11736",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8756",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Night Light Charm Blind Box",
+      "url": "https://www.popmart.com/us/products/8756/Hirono-After-Dark-Series-Night-Light-Charm-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910280267_909aa4973ecf6a7a092767098525a71d.jpg",
+      "variants": [
+        {
+          "id": "11724",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11725",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8764",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Night Light Charm Blind Box",
+      "url": "https://www.popmart.com/us/products/8764/Hirono-After-Dark-Series-Night-Light-Charm-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910280267_909aa4973ecf6a7a092767098525a71d.jpg",
+      "variants": [
+        {
+          "id": "11737",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8752",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series - UPSIDE DOWN Ambient Light",
+      "url": "https://www.popmart.com/us/products/8752/Hirono-After-Dark-Series---UPSIDE-DOWN-Ambient-Light",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787911416407_c3be39fd6b58b2cb7ac966f96d7627b0.jpg",
+      "variants": [
+        {
+          "id": "11719",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8753",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series - DRIFTING BY Reed Diffuser Ornament",
+      "url": "https://www.popmart.com/us/products/8753/Hirono-After-Dark-Series---DRIFTING-BY-Reed-Diffuser-Ornament",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787911106029_7273f2cfb455888fa38dd46cafa119e7.jpg",
+      "variants": [
+        {
+          "id": "11720",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8751",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/8751/Hirono-After-Dark-Series-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910711181_c55403c11836dd696457461fa7c352d4.jpg",
+      "variants": [
+        {
+          "id": "11717",
+          "title": "POP MART",
+          "price": 12.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11718",
+          "title": "POP MART",
+          "price": 77.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8762",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/8762/Hirono-After-Dark-Series-Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910711181_c55403c11836dd696457461fa7c352d4.jpg",
+      "variants": [
+        {
+          "id": "11735",
+          "title": "POP MART",
+          "price": 12.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8771",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series - Mugs",
+      "url": "https://www.popmart.com/us/products/8771/Hirono-After-Dark-Series---Mugs",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787911836879_16d0a49a6521fdf94a1a1b29c924dcc6.jpg",
+      "variants": [
+        {
+          "id": "11744",
+          "title": "Hirono After Dark Series - Mugs",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11745",
+          "title": "Hirono After Dark Series - Mugs",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8749",
+      "platform": "popmart",
+      "title": "Hirono × The Hundreds Pendant",
+      "url": "https://www.popmart.com/us/products/8749/Hirono-×-The-Hundreds-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787908846713_a708fb6145cd72b9c505570b055fe49c.jpg",
+      "variants": [
+        {
+          "id": "11715",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8750",
+      "platform": "popmart",
+      "title": "Hirono × The Hundreds Figure",
+      "url": "https://www.popmart.com/us/products/8750/Hirono-×-The-Hundreds-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787912369438_6f708ab9b3ff2135b3cb8c5cf1d3d9cd.jpg",
+      "variants": [
+        {
+          "id": "11716",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8759",
+      "platform": "popmart",
+      "title": "Ted 2 - Baby Ted Action Plush Pendant",
+      "url": "https://www.popmart.com/us/products/8759/Ted-2---Baby-Ted-Action-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787907311034_6671f91d58cb0f0597a2299ae2f6ffe6.jpg",
+      "variants": [
+        {
+          "id": "11729",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11730",
+          "title": "POP MART",
+          "price": 159.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8766",
+      "platform": "popmart",
+      "title": "Ted 2 - Baby Ted Action Plush Pendant",
+      "url": "https://www.popmart.com/us/products/8766/Ted-2---Baby-Ted-Action-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787907311034_6671f91d58cb0f0597a2299ae2f6ffe6.jpg",
+      "variants": [
+        {
+          "id": "11739",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8758",
+      "platform": "popmart",
+      "title": "POP Action Classic NARUTO-Chunin  NAME  Exam Arc Series Figures",
+      "url": "https://www.popmart.com/us/products/8758/POP-Action-Classic-NARUTO-Chunin--NAME--Exam-Arc-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787912843813_f0e9a0789ca1755db44522988c214fda.jpg",
+      "variants": [
+        {
+          "id": "11727",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11728",
+          "title": "POP MART",
+          "price": 279.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8765",
+      "platform": "popmart",
+      "title": "POP Action Classic NARUTO-Chunin  NAME  Exam Arc Series Figures",
+      "url": "https://www.popmart.com/us/products/8765/POP-Action-Classic-NARUTO-Chunin--NAME--Exam-Arc-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787912843813_f0e9a0789ca1755db44522988c214fda.jpg",
+      "variants": [
+        {
+          "id": "11738",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8761",
+      "platform": "popmart",
+      "title": "SpongeBob \"That Doesn't Make Sense\" Series Figures",
+      "url": "https://www.popmart.com/us/products/8761/SpongeBob-\"That-Doesn't-Make-Sense\"-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787905742891_459cdda86468c498116ba4d3dc068100.jpg",
+      "variants": [
+        {
+          "id": "11733",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11734",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8768",
+      "platform": "popmart",
+      "title": "SpongeBob \"That Doesn't Make Sense\" Series Figures",
+      "url": "https://www.popmart.com/us/products/8768/SpongeBob-\"That-Doesn't-Make-Sense\"-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787905742891_459cdda86468c498116ba4d3dc068100.jpg",
+      "variants": [
+        {
+          "id": "11741",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
