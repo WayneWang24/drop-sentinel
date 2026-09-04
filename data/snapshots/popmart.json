@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-04T06:43:53.346558Z",
+  "timestamp": "2026-09-04T11:45:14.493325Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -170,7 +170,7 @@
           "title": "THE MONSTERS",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2865,7 +2865,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3442,7 +3442,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3450,7 +3450,7 @@
           "title": "POP MART",
           "price": 179.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3969,7 +3969,7 @@
           "title": "CRYBABY × Care Bears Series - TV-shaped Luminous Display Box",
           "price": 69.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
