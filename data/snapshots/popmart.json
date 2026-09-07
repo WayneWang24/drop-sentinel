@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-07T05:42:44.553055Z",
+  "timestamp": "2026-09-07T10:44:13.302069Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1694,7 +1694,7 @@
           "title": "Hirono",
           "price": 179.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3058,7 +3058,7 @@
           "title": "Hirono After Dark Series - Mugs",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
