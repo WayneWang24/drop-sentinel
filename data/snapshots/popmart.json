@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-07T00:59:04.892916Z",
+  "timestamp": "2026-09-07T05:42:44.553055Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2888,7 +2888,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2896,7 +2896,7 @@
           "title": "POP MART",
           "price": 179.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2919,7 +2919,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3450,7 +3450,7 @@
           "title": "POP MART",
           "price": 179.91,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3649,7 +3649,7 @@
           "title": "aespa Memorable Picks Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4147,7 +4147,7 @@
           "title": "CRYBABY × Care Bears Series - Long Lanyard Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4275,7 +4275,7 @@
           "title": "TinyTiny - Act I: Sugar Therapy Room Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
