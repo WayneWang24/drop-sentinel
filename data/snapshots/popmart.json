@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-06T23:10:29.714690Z",
+  "timestamp": "2026-09-07T00:59:04.892916Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -3649,7 +3649,7 @@
           "title": "aespa Memorable Picks Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4147,7 +4147,7 @@
           "title": "CRYBABY × Care Bears Series - Long Lanyard Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4465,139 +4465,6 @@
       "tags": [
         "new",
         "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8433",
-      "platform": "popmart",
-      "title": "Nyota × Chibi Maruko Chan Series Figures",
-      "url": "https://www.popmart.com/us/products/8433/Nyota-×-Chibi-Maruko-Chan-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785492487738_fe374bf62cae7572856bda708d92c485.jpg",
-      "variants": [
-        {
-          "id": "11288",
-          "title": "Nyota × Chibi Maruko Chan Series Figures",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8432",
-      "platform": "popmart",
-      "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/8432/Baby-Molly-Buggy-Roam-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788231479310_2ec10cc1ee4bafe6dec2c86606e79fde.jpg",
-      "variants": [
-        {
-          "id": "11287",
-          "title": "Baby Molly Buggy Roam Series - Vinyl Plush Pendant Blind Box",
-          "price": 26.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8427",
-      "platform": "popmart",
-      "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
-      "url": "https://www.popmart.com/us/products/8427/MEGA-α-SKULLPANDA-1000%-Éclat-du-Soleil",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785490704611_2053ad4caf858f15814ba7df079d4991.jpg",
-      "variants": [
-        {
-          "id": "11281",
-          "title": "MEGA α SKULLPANDA 1000% Éclat du Soleil",
-          "price": 999.9,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8444",
-      "platform": "popmart",
-      "title": "CHAKA Stitch by Stitch Series Figures",
-      "url": "https://www.popmart.com/us/products/8444/CHAKA-Stitch-by-Stitch-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785491998426_7093907fa4607eb2b82fc0739fac6b6a.jpg",
-      "variants": [
-        {
-          "id": "11301",
-          "title": "CHAKA Stitch by Stitch Series Figures",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8445",
-      "platform": "popmart",
-      "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
-      "url": "https://www.popmart.com/us/products/8445/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
-      "variants": [
-        {
-          "id": "11302",
-          "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
-          "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8446",
-      "platform": "popmart",
-      "title": "Angry Molly × Crocs \"Angry Cheese\" Co-branded Figurine",
-      "url": "https://www.popmart.com/us/products/8446/Angry-Molly-×-Crocs-\"Angry-Cheese\"-Co-branded-Figurine",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785489396593_de5b712c4af3ffad99cc03b34d6ea5eb.jpg",
-      "variants": [
-        {
-          "id": "11303",
-          "title": "MOLLY",
-          "price": 171.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "molly"
       ],
       "created_at": null,
       "updated_at": null
