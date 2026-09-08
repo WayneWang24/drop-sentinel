@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-08T00:33:43.908459Z",
+  "timestamp": "2026-09-08T05:13:01.184787Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1483,7 +1483,7 @@
       "platform": "popmart",
       "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
       "url": "https://www.popmart.com/us/products/8443/Genshin-Impact-Academy's-Light-and-Shadow-Poetry-Chibi-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785493508041_b9f6ffd6407918fc1f691a9c5d2f4c48.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788835383940_4804e58b46f513fc6a552415fd129939.jpg",
       "variants": [
         {
           "id": "11299",
@@ -1812,7 +1812,6 @@
         }
       ],
       "tags": [
-        "new",
         "jujutsu_kaisen"
       ],
       "created_at": null,
@@ -2190,7 +2189,7 @@
       "platform": "popmart",
       "title": "CHAKA Stitch by Stitch Series Figures",
       "url": "https://www.popmart.com/us/products/8442/CHAKA-Stitch-by-Stitch-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785491998426_7093907fa4607eb2b82fc0739fac6b6a.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788833202188_113714e64e820e88b906a95a8615b364.jpg",
       "variants": [
         {
           "id": "11297",
@@ -2556,7 +2555,6 @@
         }
       ],
       "tags": [
-        "new",
         "duckoo"
       ],
       "created_at": null,
@@ -3604,7 +3602,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
