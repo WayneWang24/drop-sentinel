@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-09T00:50:38.894856Z",
+  "timestamp": "2026-09-09T05:31:21.503122Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1196,12 +1196,120 @@
           "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
       "tags": [
         "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8754",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8754/Hirono-After-Dark-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910647340_df09fd8b086bcbb54fc9e757ad2777c2.jpg",
+      "variants": [
+        {
+          "id": "11721",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11722",
+          "title": "POP MART",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8760",
+      "platform": "popmart",
+      "title": "Disney Tim Burton's The Nightmare Before Christmas Series Figures",
+      "url": "https://www.popmart.com/us/products/8760/Disney-Tim-Burton's-The-Nightmare-Before-Christmas-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787906759153_f05e453d06d02dd26a7cb7354cc2d793.jpg",
+      "variants": [
+        {
+          "id": "11731",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11732",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8763",
+      "platform": "popmart",
+      "title": "Hirono After Dark Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/8763/Hirono-After-Dark-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910647340_df09fd8b086bcbb54fc9e757ad2777c2.jpg",
+      "variants": [
+        {
+          "id": "11736",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8767",
+      "platform": "popmart",
+      "title": "Disney Tim Burton's The Nightmare Before Christmas Series Figures",
+      "url": "https://www.popmart.com/us/products/8767/Disney-Tim-Burton's-The-Nightmare-Before-Christmas-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787906759153_f05e453d06d02dd26a7cb7354cc2d793.jpg",
+      "variants": [
+        {
+          "id": "11740",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -1686,7 +1794,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1694,7 +1802,7 @@
           "title": "Hirono",
           "price": 179.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2471,126 +2579,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_7999",
-      "platform": "popmart",
-      "title": "Peach Riot Carry the Music Series Block Pendant",
-      "url": "https://www.popmart.com/us/products/7999/Peach-Riot-Carry-the-Music-Series-Block-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1782467679783_35c4c36a2fa62c913ed03b57c513946a.jpg",
-      "variants": [
-        {
-          "id": "10758",
-          "title": "Peach Riot",
-          "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "10759",
-          "title": "Peach Riot",
-          "price": 119.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "peach_riot"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_3080",
-      "platform": "popmart",
-      "title": "Nyota I Am the Seasons Series Figures",
-      "url": "https://www.popmart.com/us/products/3080/Nyota-I-Am-the-Seasons-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786082917113_fb6020b8573ed068952fe4bac7477256.jpg",
-      "variants": [
-        {
-          "id": "4571",
-          "title": "Nyota",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "4572",
-          "title": "Nyota",
-          "price": 239.88,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "nyota"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_7996",
-      "platform": "popmart",
-      "title": "mini DUCKOO Citywalk Series Figures",
-      "url": "https://www.popmart.com/us/products/7996/mini-DUCKOO-Citywalk-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785403921562_a651e84d0394700cd4c4e27bee040920.jpg",
-      "variants": [
-        {
-          "id": "10753",
-          "title": "DUCKOO",
-          "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "10754",
-          "title": "DUCKOO",
-          "price": 239.88,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "duckoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_6278",
-      "platform": "popmart",
-      "title": "CRYBABY Cry Me An Ocean Series - Vinyl Plush Pendant Blind Box",
-      "url": "https://www.popmart.com/us/products/6278/CRYBABY-Cry-Me-An-Ocean-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1785747830387_02c19d735f9533d1123e7e317127d041.jpg",
-      "variants": [
-        {
-          "id": "8827",
-          "title": "CRYBABY",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "8826",
-          "title": "CRYBABY",
-          "price": 119.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8850",
       "platform": "popmart",
       "title": "[Add-on Deals]CRYBABY CHEER UP, BABY! SERIES-Plush Doll Pendant",
@@ -2808,114 +2796,6 @@
           "id": "11837",
           "title": "POP MART",
           "price": 16.79,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8760",
-      "platform": "popmart",
-      "title": "Disney Tim Burton's The Nightmare Before Christmas Series Figures",
-      "url": "https://www.popmart.com/us/products/8760/Disney-Tim-Burton's-The-Nightmare-Before-Christmas-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787906759153_f05e453d06d02dd26a7cb7354cc2d793.jpg",
-      "variants": [
-        {
-          "id": "11731",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "11732",
-          "title": "POP MART",
-          "price": 239.88,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8767",
-      "platform": "popmart",
-      "title": "Disney Tim Burton's The Nightmare Before Christmas Series Figures",
-      "url": "https://www.popmart.com/us/products/8767/Disney-Tim-Burton's-The-Nightmare-Before-Christmas-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787906759153_f05e453d06d02dd26a7cb7354cc2d793.jpg",
-      "variants": [
-        {
-          "id": "11740",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8754",
-      "platform": "popmart",
-      "title": "Hirono After Dark Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8754/Hirono-After-Dark-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910647340_df09fd8b086bcbb54fc9e757ad2777c2.jpg",
-      "variants": [
-        {
-          "id": "11721",
-          "title": "POP MART",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "11722",
-          "title": "POP MART",
-          "price": 179.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8763",
-      "platform": "popmart",
-      "title": "Hirono After Dark Series Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8763/Hirono-After-Dark-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787910647340_df09fd8b086bcbb54fc9e757ad2777c2.jpg",
-      "variants": [
-        {
-          "id": "11736",
-          "title": "POP MART",
-          "price": 29.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -3147,7 +3027,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3170,7 +3050,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3562,8 +3442,8 @@
     {
       "id": "popmart_us_8686",
       "platform": "popmart",
-      "title": "HACIPUPU x CRAYON SHINCHAN One Day in Kasukabe Series Figures",
-      "url": "https://www.popmart.com/us/products/8686/HACIPUPU-x-CRAYON-SHINCHAN-One-Day-in-Kasukabe-Series-Figures",
+      "title": "HACIPUPU × CRAYON SHINCHAN One Day in Kasukabe Series Figures",
+      "url": "https://www.popmart.com/us/products/8686/HACIPUPU-×-CRAYON-SHINCHAN-One-Day-in-Kasukabe-Series-Figures",
       "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787303785499_836d2b7637d0da757b8f37e13db3d0e2.jpg",
       "variants": [
         {
@@ -3593,8 +3473,8 @@
     {
       "id": "popmart_us_8699",
       "platform": "popmart",
-      "title": "HACIPUPU x CRAYON SHINCHAN One Day in Kasukabe Series Figures",
-      "url": "https://www.popmart.com/us/products/8699/HACIPUPU-x-CRAYON-SHINCHAN-One-Day-in-Kasukabe-Series-Figures",
+      "title": "HACIPUPU × CRAYON SHINCHAN One Day in Kasukabe Series Figures",
+      "url": "https://www.popmart.com/us/products/8699/HACIPUPU-×-CRAYON-SHINCHAN-One-Day-in-Kasukabe-Series-Figures",
       "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787303785499_836d2b7637d0da757b8f37e13db3d0e2.jpg",
       "variants": [
         {
