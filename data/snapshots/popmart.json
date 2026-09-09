@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-08T22:48:06.266236Z",
+  "timestamp": "2026-09-09T00:50:38.894856Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1196,7 +1196,7 @@
           "title": "Hirono × Kodak Click Bear Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1791,7 +1791,7 @@
           "title": "Jujutsu Kaisen",
           "price": 36.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
