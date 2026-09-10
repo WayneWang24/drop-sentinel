@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-10T05:15:13.573393Z",
+  "timestamp": "2026-09-10T09:45:49.137020Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -318,7 +318,7 @@
         {
           "id": "2883",
           "title": "SKULLPANDA",
-          "price": 30.99,
+          "price": 29.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -326,7 +326,7 @@
         {
           "id": "2882",
           "title": "SKULLPANDA",
-          "price": 185.94,
+          "price": 179.94,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -348,7 +348,7 @@
         {
           "id": "5752",
           "title": "WHY SO SERIOUS",
-          "price": 42.99,
+          "price": 36.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -356,7 +356,7 @@
         {
           "id": "5753",
           "title": "WHY SO SERIOUS",
-          "price": 343.92,
+          "price": 295.92,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -1164,7 +1164,7 @@
         {
           "id": "5480",
           "title": "SKULLPANDA",
-          "price": 36.99,
+          "price": 29.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -1172,7 +1172,7 @@
         {
           "id": "5481",
           "title": "SKULLPANDA",
-          "price": 332.91,
+          "price": 269.91,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -1227,7 +1227,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1281,7 +1281,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1406,7 +1406,7 @@
         {
           "id": "2484",
           "title": "THE MONSTERS",
-          "price": 42.99,
+          "price": 36.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -1428,7 +1428,7 @@
         {
           "id": "5812",
           "title": "WHY SO SERIOUS",
-          "price": 42.99,
+          "price": 36.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -1482,7 +1482,7 @@
           "title": "θ SKULLPANDA Off Mode Series Plush Doll Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1885,7 +1885,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2199,7 +2199,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2348,7 +2348,7 @@
           "title": "HACIPUPU",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2913,7 +2913,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2967,7 +2967,7 @@
           "title": "POP MART",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3021,7 +3021,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3098,7 +3098,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3152,7 +3152,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3206,7 +3206,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3260,7 +3260,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3314,7 +3314,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3367,7 +3367,7 @@
           "title": "Twinkle Twinkle Farm Tales Series - Vinyl Plush Pendant Blind Box",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3419,7 +3419,7 @@
           "title": "aespa Memorable Picks Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3471,7 +3471,7 @@
           "title": "aespa Memorable Picks Series Glowing Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3708,7 +3708,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3805,7 +3805,7 @@
           "title": "CRYBABY × Care Bears Series - Mini Bag Hanging Jewelry Case",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3857,7 +3857,7 @@
           "title": "CRYBABY × Care Bears Series - Mini Light Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3909,7 +3909,7 @@
           "title": "CRYBABY × Care Bears Series - Long Lanyard Blind Box",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3962,7 +3962,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4015,7 +4015,7 @@
           "title": "Teletubbies Afternoon Tea Diary Series Vinyl Plush Pendant",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4067,7 +4067,7 @@
           "title": "TinyTiny - Act I: Sugar Therapy Room Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4172,7 +4172,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4226,7 +4226,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4280,7 +4280,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
