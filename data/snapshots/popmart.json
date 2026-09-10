@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-10T00:34:44.836747Z",
+  "timestamp": "2026-09-10T05:15:13.573393Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1654,7 +1654,7 @@
           "title": "THE MONSTERS",
           "price": 129.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2244,7 +2244,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3482,45 +3482,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8631",
-      "platform": "popmart",
-      "title": "Peach Riot Siren’s Song Figurine",
-      "url": "https://www.popmart.com/us/products/8631/Peach-Riot-Siren’s-Song-Figurine",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786698342991_6b40a8648d92b89580da9054f5622d4f.jpg",
-      "variants": [
-        {
-          "id": "11550",
-          "title": "Peach Riot",
-          "price": 159.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "11551",
-          "title": "Peach Riot",
-          "price": 159.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "11552",
-          "title": "Peach Riot",
-          "price": 159.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "peach_riot"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8677",
       "platform": "popmart",
       "title": "$99+ GWP - mini DUCKOO citywalk Series Stationery Set",
@@ -4128,7 +4089,7 @@
           "title": "RIIZE Fluffy Club Series Vinyl Plush Doll Pendant",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -4136,7 +4097,7 @@
           "title": "RIIZE Fluffy Club Series Vinyl Plush Doll Pendant",
           "price": 179.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
