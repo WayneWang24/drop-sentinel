@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-11T00:07:04.407070Z",
+  "timestamp": "2026-09-11T04:33:28.096459Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2406,6 +2406,152 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8884",
+      "platform": "popmart",
+      "title": "Lucky Surprise Bag – Deluxe Picks",
+      "url": "https://www.popmart.com/us/products/8884/Lucky-Surprise-Bag-–-Deluxe-Picks",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789035355338_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "11876",
+          "title": "POP MART",
+          "price": 64.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8883",
+      "platform": "popmart",
+      "title": "Lucky Surprise Bag – Mini Treats",
+      "url": "https://www.popmart.com/us/products/8883/Lucky-Surprise-Bag-–-Mini-Treats",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789035460106_fcd13363cc187edee97d3682d4ee8459.jpg",
+      "variants": [
+        {
+          "id": "11875",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8843",
+      "platform": "popmart",
+      "title": "The Attic of Oddities Series Figures",
+      "url": "https://www.popmart.com/us/products/8843/The-Attic-of-Oddities-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788508283313_101480d2f56b856f68fa152bfb13d1fa.jpg",
+      "variants": [
+        {
+          "id": "11832",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11833",
+          "title": "POP MART",
+          "price": 179.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8867",
+      "platform": "popmart",
+      "title": "The Attic of Oddities Series Figures",
+      "url": "https://www.popmart.com/us/products/8867/The-Attic-of-Oddities-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788508283313_101480d2f56b856f68fa152bfb13d1fa.jpg",
+      "variants": [
+        {
+          "id": "11857",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8844",
+      "platform": "popmart",
+      "title": "Spooky Bakehouse Series - Labubu Cookie Mini Bag",
+      "url": "https://www.popmart.com/us/products/8844/Spooky-Bakehouse-Series---Labubu-Cookie-Mini-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788510574443_4a3372186408cfcbc0b2a536e7f36cf7.jpg",
+      "variants": [
+        {
+          "id": "11834",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8845",
+      "platform": "popmart",
+      "title": "Spooky Bakehouse Series - Twinkle Twinkle Earphone Case",
+      "url": "https://www.popmart.com/us/products/8845/Spooky-Bakehouse-Series---Twinkle-Twinkle-Earphone-Case",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788508836865_d3163e7c1d655ff3043c5060389fe33c.jpg",
+      "variants": [
+        {
+          "id": "11835",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
