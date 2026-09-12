@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-12T06:29:41.791217Z",
+  "timestamp": "2026-09-12T11:06:35.277722Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2406,6 +2406,29 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8842",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 400% DUCATI",
+      "url": "https://www.popmart.com/us/products/8842/MEGA-SPACE-MOLLY-400%-DUCATI",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789111171164_2f8f4fca452e419d0d8d044dd7162ef9.jpg",
+      "variants": [
+        {
+          "id": "11831",
+          "title": "POP MART",
+          "price": 449.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
