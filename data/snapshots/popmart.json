@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-13T01:13:43.836316Z",
+  "timestamp": "2026-09-13T06:09:33.107299Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1706,7 +1706,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
