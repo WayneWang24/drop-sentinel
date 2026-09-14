@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-14T05:25:55.449894Z",
+  "timestamp": "2026-09-14T10:50:13.433697Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -170,7 +170,7 @@
           "title": "THE MONSTERS",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -485,7 +485,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Pin for Love Series- Letter Pendant Blind Box (N-Z)",
       "url": "https://www.popmart.com/us/products/3460/THE-MONSTERS-Pin-for-Love-Series--Letter-Pendant-Blind-Box-(N-Z)",
-      "image_url": "https://prod-america-res.popmart.com/default/20250822_173521_201741____1_them-1_____1200x1200.JPG",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_173521_657947____scene_-1_____1200x1200.JPG",
       "variants": [
         {
           "id": "5125",
@@ -875,7 +875,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS Pin for Love Series- Letter Pendant Blind Box (A-M)",
       "url": "https://www.popmart.com/us/products/3461/THE-MONSTERS-Pin-for-Love-Series--Letter-Pendant-Blind-Box-(A-M)",
-      "image_url": "https://prod-america-res.popmart.com/default/20250822_173124_472536____1_them-1_____1200x1200.JPG",
+      "image_url": "https://prod-america-res.popmart.com/default/20250822_173124_733431____scene_-1_____1200x1200.JPG",
       "variants": [
         {
           "id": "5127",
@@ -1106,7 +1106,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1114,7 +1114,7 @@
           "title": "Disney",
           "price": 223.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
