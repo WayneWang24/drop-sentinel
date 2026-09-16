@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-16T00:47:21.243402Z",
+  "timestamp": "2026-09-16T05:27:40.318703Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1810,7 +1810,7 @@
           "title": "Stitch",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2346,7 +2346,7 @@
           "title": "HACIPUPU",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2420,7 +2420,7 @@
           "title": "POP MART",
           "price": 449.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3450,7 +3450,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
