@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-16T05:27:40.318703Z",
+  "timestamp": "2026-09-16T10:09:26.588119Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -290,7 +290,7 @@
           "title": "CRYBABY",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -710,7 +710,7 @@
           "title": "CRYBABY",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1364,7 +1364,7 @@
           "title": "THE MONSTERS",
           "price": 221.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2409,6 +2409,98 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8976",
+      "platform": "popmart",
+      "title": "$129+ GWP - DIMOO 9TH ANNIVERSARY Carpet",
+      "url": "https://www.popmart.com/us/products/8976/$129+-GWP---DIMOO-9TH-ANNIVERSARY-Carpet",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789528665604_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "11992",
+          "title": "DIMOO",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8977",
+      "platform": "popmart",
+      "title": "$129+ GWP - DIMOO 9TH ANNIVERSARY Carpet",
+      "url": "https://www.popmart.com/us/products/8977/$129+-GWP---DIMOO-9TH-ANNIVERSARY-Carpet",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789528665604_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "11993",
+          "title": "DIMOO",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8972",
+      "platform": "popmart",
+      "title": "$79+ GWP - DIMOO 9TH ANNIVERSARY Magnetic Bag Charm",
+      "url": "https://www.popmart.com/us/products/8972/$79+-GWP---DIMOO-9TH-ANNIVERSARY-Magnetic-Bag-Charm",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789469072611_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "11988",
+          "title": "DIMOO",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8973",
+      "platform": "popmart",
+      "title": "$79+ GWP - DIMOO 9TH ANNIVERSARY Magnetic Bag Charm",
+      "url": "https://www.popmart.com/us/products/8973/$79+-GWP---DIMOO-9TH-ANNIVERSARY-Magnetic-Bag-Charm",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789469072611_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "11989",
+          "title": "DIMOO",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8842",
       "platform": "popmart",
       "title": "MEGA SPACE MOLLY 400% DUCATI",
@@ -2420,7 +2512,7 @@
           "title": "POP MART",
           "price": 449.9,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2565,236 +2657,6 @@
           "id": "11835",
           "title": "POP MART",
           "price": 21.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8850",
-      "platform": "popmart",
-      "title": "[Add-on Deals]CRYBABY CHEER UP, BABY! SERIES-Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8850/[Add-on-Deals]CRYBABY-CHEER-UP,-BABY!-SERIES-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20240428_213633_807607__1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11840",
-          "title": "CRYBABY ",
-          "price": 13.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "crybaby_"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8851",
-      "platform": "popmart",
-      "title": "[Add-on Deals]CRYBABY CHEER UP, BABY! SERIES-Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/8851/[Add-on-Deals]CRYBABY-CHEER-UP,-BABY!-SERIES-Plush-Doll-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20240428_213633_807607__1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11841",
-          "title": "CRYBABY ",
-          "price": 13.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "crybaby_"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8854",
-      "platform": "popmart",
-      "title": "[Add-on Deals]We are Twinkle Twinkle Series-Earphone Case",
-      "url": "https://www.popmart.com/us/products/8854/[Add-on-Deals]We-are-Twinkle-Twinkle-Series-Earphone-Case",
-      "image_url": "https://prod-america-res.popmart.com/default/20240912_103757_534572____we-are-twinkle-twinkle-series-earphone-case_accessories_details_popmart-us-_scene-1_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11844",
-          "title": "Twinkle Twinkle",
-          "price": 20.79,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "twinkle_twinkle"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8855",
-      "platform": "popmart",
-      "title": "[Add-on Deals]We are Twinkle Twinkle Series-Earphone Case",
-      "url": "https://www.popmart.com/us/products/8855/[Add-on-Deals]We-are-Twinkle-Twinkle-Series-Earphone-Case",
-      "image_url": "https://prod-america-res.popmart.com/default/20240912_103757_534572____we-are-twinkle-twinkle-series-earphone-case_accessories_details_popmart-us-_scene-1_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11845",
-          "title": "Twinkle Twinkle",
-          "price": 20.79,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "twinkle_twinkle"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8856",
-      "platform": "popmart",
-      "title": "[Add-on Deals]Hirono x Polar Symbiosis Figure",
-      "url": "https://www.popmart.com/us/products/8856/[Add-on-Deals]Hirono-x-Polar-Symbiosis-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20240731_173909_035236____hirono-x-polar-symbiosis-figure-figurine-pop-mart-us-3_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11846",
-          "title": "Hirono",
-          "price": 35.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hirono"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8857",
-      "platform": "popmart",
-      "title": "[Add-on Deals]Hirono x Polar Symbiosis Figure",
-      "url": "https://www.popmart.com/us/products/8857/[Add-on-Deals]Hirono-x-Polar-Symbiosis-Figure",
-      "image_url": "https://prod-america-res.popmart.com/default/20240731_173909_035236____hirono-x-polar-symbiosis-figure-figurine-pop-mart-us-3_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11847",
-          "title": "Hirono",
-          "price": 35.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hirono"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8862",
-      "platform": "popmart",
-      "title": "[Add-on Deals]CRYBABY Sunset Concert Series-Earphone Bag",
-      "url": "https://www.popmart.com/us/products/8862/[Add-on-Deals]CRYBABY-Sunset-Concert-Series-Earphone-Bag",
-      "image_url": "https://prod-america-res.popmart.com/default/20240613_164906_796285____crybaby-sunset-concert-series-earphone-bag-accessories-pop-mart-us-1_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11852",
-          "title": "CRYBABY",
-          "price": 14.69,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8863",
-      "platform": "popmart",
-      "title": "[Add-on Deals]CRYBABY Sunset Concert Series-Earphone Bag",
-      "url": "https://www.popmart.com/us/products/8863/[Add-on-Deals]CRYBABY-Sunset-Concert-Series-Earphone-Bag",
-      "image_url": "https://prod-america-res.popmart.com/default/20240613_164906_796285____crybaby-sunset-concert-series-earphone-bag-accessories-pop-mart-us-1_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11853",
-          "title": "CRYBABY",
-          "price": 14.69,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "crybaby"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8846",
-      "platform": "popmart",
-      "title": "[Add-on Deals] POP clear modular display box",
-      "url": "https://www.popmart.com/us/products/8846/[Add-on-Deals]-POP-clear-modular-display-box",
-      "image_url": "https://prod-america-res.popmart.com/default/20231013_105053_993070__1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11836",
-          "title": "POP MART",
-          "price": 16.79,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8847",
-      "platform": "popmart",
-      "title": "[Add-on Deals] POP clear modular display box",
-      "url": "https://www.popmart.com/us/products/8847/[Add-on-Deals]-POP-clear-modular-display-box",
-      "image_url": "https://prod-america-res.popmart.com/default/20231013_105053_993070__1200x1200.jpg",
-      "variants": [
-        {
-          "id": "11837",
-          "title": "POP MART",
-          "price": 16.79,
           "currency": "USD",
           "available": true,
           "sku": ""
