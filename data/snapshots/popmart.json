@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-17T07:51:24.259112Z",
+  "timestamp": "2026-09-17T12:52:09.611147Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -582,7 +582,7 @@
           "title": "THE MONSTERS",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1609,7 +1609,7 @@
           "title": "Twinkle Twinkle",
           "price": 189.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2535,7 +2535,7 @@
           "title": "POP MART",
           "price": 64.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
