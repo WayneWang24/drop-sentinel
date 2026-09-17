@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-16T23:50:29.324514Z",
+  "timestamp": "2026-09-17T02:19:54.036838Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1706,7 +1706,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3506,98 +3506,6 @@
       ],
       "tags": [
         "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8677",
-      "platform": "popmart",
-      "title": "$99+ GWP - mini DUCKOO citywalk Series Stationery Set",
-      "url": "https://www.popmart.com/us/products/8677/$99+-GWP---mini-DUCKOO-citywalk-Series-Stationery-Set",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786946649917_c4ca4238a0b923820dcc509a6f75849b.jpg",
-      "variants": [
-        {
-          "id": "11610",
-          "title": "DUCKOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "duckoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8678",
-      "platform": "popmart",
-      "title": "$99+ GWP - mini DUCKOO citywalk Series Stationery Set",
-      "url": "https://www.popmart.com/us/products/8678/$99+-GWP---mini-DUCKOO-citywalk-Series-Stationery-Set",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786946649917_c4ca4238a0b923820dcc509a6f75849b.jpg",
-      "variants": [
-        {
-          "id": "11611",
-          "title": "DUCKOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "duckoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8673",
-      "platform": "popmart",
-      "title": "$59+ GWP - mini DUCKOO Citywalk Series Sticker",
-      "url": "https://www.popmart.com/us/products/8673/$59+-GWP---mini-DUCKOO-Citywalk-Series-Sticker",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786945798974_c4ca4238a0b923820dcc509a6f75849b.jpg",
-      "variants": [
-        {
-          "id": "11606",
-          "title": "DUCKOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "duckoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8674",
-      "platform": "popmart",
-      "title": "$59+ GWP - mini DUCKOO Citywalk Series Sticker",
-      "url": "https://www.popmart.com/us/products/8674/$59+-GWP---mini-DUCKOO-Citywalk-Series-Sticker",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786945798974_c4ca4238a0b923820dcc509a6f75849b.jpg",
-      "variants": [
-        {
-          "id": "11607",
-          "title": "DUCKOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "duckoo"
       ],
       "created_at": null,
       "updated_at": null
