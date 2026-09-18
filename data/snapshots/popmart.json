@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-18T14:05:09.199141Z",
+  "timestamp": "2026-09-18T17:39:45.451639Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1504,7 +1504,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2346,7 +2346,7 @@
           "title": "HACIPUPU",
           "price": 26.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
