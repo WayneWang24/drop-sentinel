@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-19T13:06:49.651093Z",
+  "timestamp": "2026-09-19T16:26:28.985107Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1840,7 +1840,7 @@
           "title": "SKULLPANDA",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2859,7 +2859,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
