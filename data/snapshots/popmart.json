@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-20T17:06:42.575951Z",
+  "timestamp": "2026-09-20T19:26:05.554013Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -14,7 +14,7 @@
           "title": "DIMOO",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -950,7 +950,7 @@
           "title": "Demon Slayer",
           "price": 251.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
