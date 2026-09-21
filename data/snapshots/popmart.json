@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-21T01:39:34.736711Z",
+  "timestamp": "2026-09-21T07:08:55.893817Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -14,7 +14,7 @@
           "title": "DIMOO",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -22,7 +22,7 @@
           "title": "DIMOO",
           "price": 239.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -44,7 +44,7 @@
           "title": "Teletubbies ",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -52,7 +52,7 @@
           "title": "Teletubbies ",
           "price": 159.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1609,7 +1609,7 @@
           "title": "Twinkle Twinkle",
           "price": 189.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2242,7 +2242,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2436,14 +2436,14 @@
       "platform": "popmart",
       "title": "SKULLPANDA WHERE TIME DWELLS Series Figures",
       "url": "https://www.popmart.com/us/products/8890/SKULLPANDA-WHERE-TIME-DWELLS-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789199992814_d661819ba46881a96bf64f3fdbfc39aa.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789965051927_e1799bb6ed3a40f4bde18a9e1dd1f0bf.jpg",
       "variants": [
         {
           "id": "11884",
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2467,7 +2467,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA WHERE TIME DWELLS Series Figures",
       "url": "https://www.popmart.com/us/products/8895/SKULLPANDA-WHERE-TIME-DWELLS-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789199992814_d661819ba46881a96bf64f3fdbfc39aa.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789965051927_e1799bb6ed3a40f4bde18a9e1dd1f0bf.jpg",
       "variants": [
         {
           "id": "11893",
