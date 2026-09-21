@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-21T07:08:55.893817Z",
+  "timestamp": "2026-09-21T14:03:14.369494Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -193,7 +193,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS COCA-COLA SERIES-Vinyl Face Blind Box",
       "url": "https://www.popmart.com/us/products/1981/THE-MONSTERS-COCA-COLA-SERIES-Vinyl-Face-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784882925852_87e3647bcdf4e3ca71e4c18527a94d7e.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784882822501_c4ca4238a0b923820dcc509a6f75849b.jpg",
       "variants": [
         {
           "id": "3119",
@@ -1504,7 +1504,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1512,7 +1512,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1981,7 +1981,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS COCA-COLA SERIES-Vinyl Face Blind Box",
       "url": "https://www.popmart.com/us/products/1982/THE-MONSTERS-COCA-COLA-SERIES-Vinyl-Face-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784882925852_87e3647bcdf4e3ca71e4c18527a94d7e.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784882822501_c4ca4238a0b923820dcc509a6f75849b.jpg",
       "variants": [
         {
           "id": "3121",
@@ -2906,29 +2906,6 @@
           "price": 449.9,
           "currency": "USD",
           "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8884",
-      "platform": "popmart",
-      "title": "Lucky Bag – Deluxe Picks",
-      "url": "https://www.popmart.com/us/products/8884/Lucky-Bag-–-Deluxe-Picks",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789895548950_ddcf13ade7f36b2a7894d7e22d5c0eac.jpg",
-      "variants": [
-        {
-          "id": "11876",
-          "title": "POP MART",
-          "price": 64.99,
-          "currency": "USD",
-          "available": true,
           "sku": ""
         }
       ],
