@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-23T00:27:49.686220Z",
+  "timestamp": "2026-09-23T04:58:28.688239Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1883,7 +1883,7 @@
           "title": "Haikyu",
           "price": 18.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2241,7 +2241,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2403,6 +2403,28 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8769",
+      "platform": "popmart",
+      "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+      "url": "https://www.popmart.com/us/products/8769/Employee-Imperfect-Mystery-Bag-|-Random-Items-|-Employee-Only",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787824629148_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "11742",
+          "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+          "price": 89.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
@@ -2881,7 +2903,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2903,29 +2925,6 @@
           "id": "11831",
           "title": "POP MART",
           "price": 449.9,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8883",
-      "platform": "popmart",
-      "title": "Lucky Bag – Mini Treats",
-      "url": "https://www.popmart.com/us/products/8883/Lucky-Bag-–-Mini-Treats",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789895770631_fcd13363cc187edee97d3682d4ee8459.jpg",
-      "variants": [
-        {
-          "id": "11875",
-          "title": "POP MART",
-          "price": 39.99,
           "currency": "USD",
           "available": false,
           "sku": ""
