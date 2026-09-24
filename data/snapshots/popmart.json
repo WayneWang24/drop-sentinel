@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-24T02:38:59.980988Z",
+  "timestamp": "2026-09-24T07:48:33.600440Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -200,7 +200,7 @@
           "title": "THE MONSTERS",
           "price": 36.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1397,28 +1397,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_1505",
-      "platform": "popmart",
-      "title": "Happy Halloween Party Series-Sitting Pumpkin Vinyl Plush Pendant",
-      "url": "https://www.popmart.com/us/products/1505/Happy-Halloween-Party-Series-Sitting-Pumpkin-Vinyl-Plush-Pendant",
-      "image_url": "https://prod-america-res.popmart.com/default/20240905_135741_658822____happy-halloween-party-series-sitting-pumpkin-vinyl-plush-pendant_plush_details_scene_1_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "2484",
-          "title": "THE MONSTERS",
-          "price": 36.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "the_monsters"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_3910",
       "platform": "popmart",
       "title": "WHY SO SERIOUS Series-Vinyl Plush Pendant Blind Box",
@@ -2241,7 +2219,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
