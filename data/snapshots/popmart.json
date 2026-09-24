@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-24T13:00:36.914794Z",
+  "timestamp": "2026-09-24T17:51:01.579022Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1114,7 +1114,7 @@
           "title": "Disney",
           "price": 223.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2883,6 +2883,52 @@
           "price": 449.9,
           "currency": "USD",
           "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8884",
+      "platform": "popmart",
+      "title": "Lucky Bag – Deluxe Picks",
+      "url": "https://www.popmart.com/us/products/8884/Lucky-Bag-–-Deluxe-Picks",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790259887289_4bcb2fbb4335e83c29963b69c472e078.jpg",
+      "variants": [
+        {
+          "id": "11876",
+          "title": "POP MART",
+          "price": 64.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8883",
+      "platform": "popmart",
+      "title": "Lucky Bag – Mini Treats",
+      "url": "https://www.popmart.com/us/products/8883/Lucky-Bag-–-Mini-Treats",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790259658626_89802df1914da25f6a3586ddf21e0871.jpg",
+      "variants": [
+        {
+          "id": "11875",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
           "sku": ""
         }
       ],
