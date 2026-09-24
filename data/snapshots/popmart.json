@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-23T23:57:00.227656Z",
+  "timestamp": "2026-09-24T02:38:59.980988Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -582,7 +582,7 @@
           "title": "THE MONSTERS",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2881,7 +2881,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
