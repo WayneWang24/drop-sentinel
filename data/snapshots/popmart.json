@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-24T20:55:10.064359Z",
+  "timestamp": "2026-09-24T23:39:50.600639Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1106,7 +1106,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2227,7 +2227,7 @@
           "title": "SpongeBob",
           "price": 119.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2381,6 +2381,121 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8996",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10TH ANNIVERSARY EXCLUSIVE BUNDLE",
+      "url": "https://www.popmart.com/us/products/8996/THE-MONSTERS-10TH-ANNIVERSARY-EXCLUSIVE-BUNDLE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790217789397_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "12012",
+          "title": "POP MART",
+          "price": 115.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8994",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Anniversary Exclusive-Notebook (Crafted by MOLESKINE)",
+      "url": "https://www.popmart.com/us/products/8994/THE-MONSTERS-10th-Anniversary-Exclusive-Notebook-(Crafted-by-MOLESKINE)",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790218654644_c9d453e82558bed2e5fe84609a351033.jpg",
+      "variants": [
+        {
+          "id": "12010",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8992",
+      "platform": "popmart",
+      "title": "YAYA Original Figure",
+      "url": "https://www.popmart.com/us/products/8992/YAYA-Original-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790218250219_a02987ba355e4451772753350d29ec89.jpg",
+      "variants": [
+        {
+          "id": "12008",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8991",
+      "platform": "popmart",
+      "title": "SPOOKY Original Figure",
+      "url": "https://www.popmart.com/us/products/8991/SPOOKY-Original-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790218124796_ec2f90ec30949d51a0eb9bb13fb08aa9.jpg",
+      "variants": [
+        {
+          "id": "12007",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8990",
+      "platform": "popmart",
+      "title": "LABUBU Original Ver.3 Figure",
+      "url": "https://www.popmart.com/us/products/8990/LABUBU-Original-Ver.3-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790220321686_83de745d7c127586dbd1834de004fff0.jpg",
+      "variants": [
+        {
+          "id": "12006",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -2836,7 +2951,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
