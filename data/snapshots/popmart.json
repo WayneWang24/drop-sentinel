@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-24T07:48:33.600440Z",
+  "timestamp": "2026-09-24T13:00:36.914794Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -52,7 +52,7 @@
           "title": "Teletubbies ",
           "price": 159.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2836,7 +2836,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2859,7 +2859,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
