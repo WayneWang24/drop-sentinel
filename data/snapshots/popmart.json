@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-24T23:39:50.600639Z",
+  "timestamp": "2026-09-25T01:53:37.720631Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -14,7 +14,7 @@
           "title": "DIMOO",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1106,7 +1106,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2386,6 +2386,537 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8960",
+      "platform": "popmart",
+      "title": "Zsiga Life is a Show Series MINI Action Figure",
+      "url": "https://www.popmart.com/us/products/8960/Zsiga-Life-is-a-Show-Series-MINI-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964791497_303a43a6dde5c3f102f1a9beb4857b56.jpg",
+      "variants": [
+        {
+          "id": "11970",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11971",
+          "title": "POP MART",
+          "price": 175.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8982",
+      "platform": "popmart",
+      "title": "Zsiga Life is a Show Series MINI Action Figure",
+      "url": "https://www.popmart.com/us/products/8982/Zsiga-Life-is-a-Show-Series-MINI-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964791497_303a43a6dde5c3f102f1a9beb4857b56.jpg",
+      "variants": [
+        {
+          "id": "11998",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8962",
+      "platform": "popmart",
+      "title": "VALORANT Classic Agents Series Figures",
+      "url": "https://www.popmart.com/us/products/8962/VALORANT-Classic-Agents-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964842908_1240019b910be774f1bfe0ca6279d489.jpg",
+      "variants": [
+        {
+          "id": "11973",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11974",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8983",
+      "platform": "popmart",
+      "title": "VALORANT Classic Agents Series Figures",
+      "url": "https://www.popmart.com/us/products/8983/VALORANT-Classic-Agents-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964842908_1240019b910be774f1bfe0ca6279d489.jpg",
+      "variants": [
+        {
+          "id": "11999",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8957",
+      "platform": "popmart",
+      "title": "MINITEEN Healing Moments Series Figures",
+      "url": "https://www.popmart.com/us/products/8957/MINITEEN-Healing-Moments-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789805490309_bded3506da527f19f8a34d225a3d2a2c.jpg",
+      "variants": [
+        {
+          "id": "11965",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "11966",
+          "title": "POP MART",
+          "price": 251.86,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8980",
+      "platform": "popmart",
+      "title": "MINITEEN Healing Moments Series Figures",
+      "url": "https://www.popmart.com/us/products/8980/MINITEEN-Healing-Moments-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789805490309_bded3506da527f19f8a34d225a3d2a2c.jpg",
+      "variants": [
+        {
+          "id": "11996",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8963",
+      "platform": "popmart",
+      "title": "Jujutsu Kaisen The Culling Game Series Figures",
+      "url": "https://www.popmart.com/us/products/8963/Jujutsu-Kaisen-The-Culling-Game-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964905102_f4068674e995790f282038ba04aa9709.jpg",
+      "variants": [
+        {
+          "id": "11975",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11976",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8984",
+      "platform": "popmart",
+      "title": "Jujutsu Kaisen The Culling Game Series Figures",
+      "url": "https://www.popmart.com/us/products/8984/Jujutsu-Kaisen-The-Culling-Game-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964905102_f4068674e995790f282038ba04aa9709.jpg",
+      "variants": [
+        {
+          "id": "12000",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9088",
+      "platform": "popmart",
+      "title": "[Add-on Deals] Hirono Monsters' Carnival Series Figures-Scene Prop",
+      "url": "https://www.popmart.com/us/products/9088/[Add-on-Deals]-Hirono-Monsters'-Carnival-Series-Figures-Scene-Prop",
+      "image_url": "https://prod-america-res.popmart.com/default/20251020_152324_763784____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "12123",
+          "title": "HIRONO",
+          "price": 4.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9089",
+      "platform": "popmart",
+      "title": "[Add-on Deals] Hirono Monsters' Carnival Series Figures-Scene Prop",
+      "url": "https://www.popmart.com/us/products/9089/[Add-on-Deals]-Hirono-Monsters'-Carnival-Series-Figures-Scene-Prop",
+      "image_url": "https://prod-america-res.popmart.com/default/20251020_152324_763784____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "12124",
+          "title": "HIRONO",
+          "price": 4.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8958",
+      "platform": "popmart",
+      "title": "POLAR Smudge Puff Series - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8958/POLAR-Smudge-Puff-Series---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789963938700_3af5d9e18d263a7df3098cae15f7d128.jpg",
+      "variants": [
+        {
+          "id": "11967",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "11968",
+          "title": "POP MART",
+          "price": 131.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8981",
+      "platform": "popmart",
+      "title": "POLAR Smudge Puff Series - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/8981/POLAR-Smudge-Puff-Series---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789963938700_3af5d9e18d263a7df3098cae15f7d128.jpg",
+      "variants": [
+        {
+          "id": "11997",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8959",
+      "platform": "popmart",
+      "title": "Zsiga Life is a Show Series - Soft-Face Plush Doll",
+      "url": "https://www.popmart.com/us/products/8959/Zsiga-Life-is-a-Show-Series---Soft-Face-Plush-Doll",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789805666819_8b5730bf4832fdd068167d83c3598410.jpg",
+      "variants": [
+        {
+          "id": "11969",
+          "title": "POP MART",
+          "price": 36.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8961",
+      "platform": "popmart",
+      "title": "Zsiga Right on Time 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/8961/Zsiga-Right-on-Time-1-8-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789806151145_51a6fc152c2338b6881c7be90b6c85fe.jpg",
+      "variants": [
+        {
+          "id": "11972",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8952",
+      "platform": "popmart",
+      "title": "DIMOO Find Me Figure",
+      "url": "https://www.popmart.com/us/products/8952/DIMOO-Find-Me-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789807239946_2c6ccbfa751175fd7f1d48907bf7f96a.jpg",
+      "variants": [
+        {
+          "id": "11960",
+          "title": "POP MART",
+          "price": 36.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8954",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 400% Iconic Coca-Cola",
+      "url": "https://www.popmart.com/us/products/8954/MEGA-SPACE-MOLLY-400%-Iconic-Coca-Cola",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789807031174_3e5224fd0b3b2366281c25fe7477a72b.jpg",
+      "variants": [
+        {
+          "id": "11962",
+          "title": "POP MART",
+          "price": 219.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8955",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY Iconic Coca-Cola-Rocket",
+      "url": "https://www.popmart.com/us/products/8955/MEGA-SPACE-MOLLY-Iconic-Coca-Cola-Rocket",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789806789085_578e4481b48ba477eaf4977a102babfd.jpg",
+      "variants": [
+        {
+          "id": "11963",
+          "title": "POP MART",
+          "price": 249.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8956",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY Iconic Coca-Cola-Decorative Light Sign",
+      "url": "https://www.popmart.com/us/products/8956/MEGA-SPACE-MOLLY-Iconic-Coca-Cola-Decorative-Light-Sign",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789806500538_559d81c65e4276a2b660871055923769.jpg",
+      "variants": [
+        {
+          "id": "11964",
+          "title": "POP MART",
+          "price": 189.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9051",
+      "platform": "popmart",
+      "title": "MOLLY 2nd Anniversary Statue \"I Want to Fly\"",
+      "url": "https://www.popmart.com/us/products/9051/MOLLY-2nd-Anniversary-Statue-\"I-Want-to-Fly\"",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789884700184_ba606ba6a0f036d12a909bf7b13f26a8.jpg",
+      "variants": [
+        {
+          "id": "12075",
+          "title": "MOLLY",
+          "price": 399.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12076",
+          "title": "MOLLY",
+          "price": 399.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "molly"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9049",
+      "platform": "popmart",
+      "title": "Zsiga the Duel Figurine",
+      "url": "https://www.popmart.com/us/products/9049/Zsiga-the-Duel-Figurine",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789871497178_8ebd7c4f02cff220e2430e63a0aaa4ac.jpg",
+      "variants": [
+        {
+          "id": "12073",
+          "title": "POP MART",
+          "price": 999.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8953",
+      "platform": "popmart",
+      "title": "MEGA JUST DIMO0 700% PIXAR-Alien",
+      "url": "https://www.popmart.com/us/products/8953/MEGA-JUST-DIMO0-700%-PIXAR-Alien",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790238102813_32fe4c93cc4bd652905d9f9f556e33cf.jpg",
+      "variants": [
+        {
+          "id": "11961",
+          "title": "POP MART",
+          "price": 799.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8996",
       "platform": "popmart",
       "title": "THE MONSTERS 10TH ANNIVERSARY EXCLUSIVE BUNDLE",
@@ -2905,7 +3436,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2974,7 +3505,7 @@
           "title": "DIMOO",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3282,7 +3813,7 @@
           "title": "Hirono After Dark Series - Mugs",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
