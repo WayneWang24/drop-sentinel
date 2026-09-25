@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-25T01:53:37.720631Z",
+  "timestamp": "2026-09-25T06:49:40.988046Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2219,7 +2219,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2602,52 +2602,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_9088",
-      "platform": "popmart",
-      "title": "[Add-on Deals] Hirono Monsters' Carnival Series Figures-Scene Prop",
-      "url": "https://www.popmart.com/us/products/9088/[Add-on-Deals]-Hirono-Monsters'-Carnival-Series-Figures-Scene-Prop",
-      "image_url": "https://prod-america-res.popmart.com/default/20251020_152324_763784____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "12123",
-          "title": "HIRONO",
-          "price": 4.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hirono"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_9089",
-      "platform": "popmart",
-      "title": "[Add-on Deals] Hirono Monsters' Carnival Series Figures-Scene Prop",
-      "url": "https://www.popmart.com/us/products/9089/[Add-on-Deals]-Hirono-Monsters'-Carnival-Series-Figures-Scene-Prop",
-      "image_url": "https://prod-america-res.popmart.com/default/20251020_152324_763784____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "12124",
-          "title": "HIRONO",
-          "price": 4.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "hirono"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8958",
       "platform": "popmart",
       "title": "POLAR Smudge Puff Series - Plush Pendant Blind Box",
@@ -2743,6 +2697,75 @@
       "tags": [
         "new",
         "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8953",
+      "platform": "popmart",
+      "title": "MEGA JUST DIMO0 700% PIXAR-Alien",
+      "url": "https://www.popmart.com/us/products/8953/MEGA-JUST-DIMO0-700%-PIXAR-Alien",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790238102813_32fe4c93cc4bd652905d9f9f556e33cf.jpg",
+      "variants": [
+        {
+          "id": "11961",
+          "title": "POP MART",
+          "price": 799.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9088",
+      "platform": "popmart",
+      "title": "[Add-on Deals] Hirono Monsters' Carnival Series Figures-Scene Prop",
+      "url": "https://www.popmart.com/us/products/9088/[Add-on-Deals]-Hirono-Monsters'-Carnival-Series-Figures-Scene-Prop",
+      "image_url": "https://prod-america-res.popmart.com/default/20251020_152324_763784____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "12123",
+          "title": "HIRONO",
+          "price": 4.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9089",
+      "platform": "popmart",
+      "title": "[Add-on Deals] Hirono Monsters' Carnival Series Figures-Scene Prop",
+      "url": "https://www.popmart.com/us/products/9089/[Add-on-Deals]-Hirono-Monsters'-Carnival-Series-Figures-Scene-Prop",
+      "image_url": "https://prod-america-res.popmart.com/default/20251020_152324_763784____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "12124",
+          "title": "HIRONO",
+          "price": 4.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "hirono"
       ],
       "created_at": null,
       "updated_at": null
@@ -2851,7 +2874,7 @@
           "title": "MOLLY",
           "price": 399.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2859,7 +2882,7 @@
           "title": "MOLLY",
           "price": 399.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2894,29 +2917,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8953",
-      "platform": "popmart",
-      "title": "MEGA JUST DIMO0 700% PIXAR-Alien",
-      "url": "https://www.popmart.com/us/products/8953/MEGA-JUST-DIMO0-700%-PIXAR-Alien",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790238102813_32fe4c93cc4bd652905d9f9f556e33cf.jpg",
-      "variants": [
-        {
-          "id": "11961",
-          "title": "POP MART",
-          "price": 799.9,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8996",
       "platform": "popmart",
       "title": "THE MONSTERS 10TH ANNIVERSARY EXCLUSIVE BUNDLE",
@@ -2928,7 +2928,7 @@
           "title": "POP MART",
           "price": 115.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3020,7 +3020,7 @@
           "title": "POP MART",
           "price": 159.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3475,7 +3475,7 @@
       "platform": "popmart",
       "title": "$79+ GWP - DIMOO 9TH ANNIVERSARY Magnetic Bag Charm",
       "url": "https://www.popmart.com/us/products/8972/$79+-GWP---DIMOO-9TH-ANNIVERSARY-Magnetic-Bag-Charm",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790046877302_1f6960af29487f475a5f7c56635eae0f.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790307224322_ab86f10276db7a12bd09600919900741.jpg",
       "variants": [
         {
           "id": "11988",
@@ -3498,7 +3498,7 @@
       "platform": "popmart",
       "title": "$79+ GWP - DIMOO 9TH ANNIVERSARY Magnetic Bag Charm",
       "url": "https://www.popmart.com/us/products/8973/$79+-GWP---DIMOO-9TH-ANNIVERSARY-Magnetic-Bag-Charm",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790046877302_1f6960af29487f475a5f7c56635eae0f.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790307224322_ab86f10276db7a12bd09600919900741.jpg",
       "variants": [
         {
           "id": "11989",
