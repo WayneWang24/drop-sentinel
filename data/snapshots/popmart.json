@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-28T12:18:45.021878Z",
+  "timestamp": "2026-09-28T19:45:17.355009Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2386,6 +2386,28 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_8769",
+      "platform": "popmart",
+      "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+      "url": "https://www.popmart.com/us/products/8769/Employee-Imperfect-Mystery-Bag-|-Random-Items-|-Employee-Only",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787824629148_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "11742",
+          "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+          "price": 89.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9115",
       "platform": "popmart",
       "title": "Tier 1 Bonus-SKULLPANDA The Paradox Series Cable",
@@ -2766,7 +2788,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3012,7 +3034,7 @@
           "title": "POP MART",
           "price": 36.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
