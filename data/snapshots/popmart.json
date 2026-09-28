@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-28T05:51:50.052180Z",
+  "timestamp": "2026-09-28T12:18:45.021878Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1534,7 +1534,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2386,6 +2386,236 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9115",
+      "platform": "popmart",
+      "title": "Tier 1 Bonus-SKULLPANDA The Paradox Series Cable",
+      "url": "https://www.popmart.com/us/products/9115/Tier-1-Bonus-SKULLPANDA-The-Paradox-Series-Cable",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790219779168_2c266b2e8962c258d79a8f04386571f3.jpg",
+      "variants": [
+        {
+          "id": "12150",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12151",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12152",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12153",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12154",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12155",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12156",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9112",
+      "platform": "popmart",
+      "title": "GRAND PRIZE -Zsiga Walking Into The Forest Series Blocks-Forest Cabin",
+      "url": "https://www.popmart.com/us/products/9112/GRAND-PRIZE--Zsiga-Walking-Into-The-Forest-Series-Blocks-Forest-Cabin",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790239865839_aedf8559d583073199aa9a0c843d5c36.jpg",
+      "variants": [
+        {
+          "id": "12147",
+          "title": "GRAND PRIZE -Zsiga Walking Into The Forest Series Blocks-Forest Cabin",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9110",
+      "platform": "popmart",
+      "title": "Tier 1 Bonus-MOLLY Daily Look Series-Phone Charm Blind Box",
+      "url": "https://www.popmart.com/us/products/9110/Tier-1-Bonus-MOLLY-Daily-Look-Series-Phone-Charm-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790234599984_4f03965b342ec760ae2e049149c96798.jpg",
+      "variants": [
+        {
+          "id": "12145",
+          "title": "Tier 1 Bonus-MOLLY Daily Look Series-Phone Charm Blind Box",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9081",
+      "platform": "popmart",
+      "title": "GRAND PRIZE-SKULLPANDA The Feast Begins Series Crystal Ball",
+      "url": "https://www.popmart.com/us/products/9081/GRAND-PRIZE-SKULLPANDA-The-Feast-Begins-Series-Crystal-Ball",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790220590404_a203a61580f85183b118b5ae9bd761f0.jpg",
+      "variants": [
+        {
+          "id": "12116",
+          "title": "SKULLPANDA",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9080",
+      "platform": "popmart",
+      "title": "GRAND PRIZE-Twinkle Twinkle Classic Series-Goodnight Pat-activated Lamp",
+      "url": "https://www.popmart.com/us/products/9080/GRAND-PRIZE-Twinkle-Twinkle-Classic-Series-Goodnight-Pat-activated-Lamp",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790220518334_edde5e27ad079f5acc10cbe40a1b9273.jpg",
+      "variants": [
+        {
+          "id": "12115",
+          "title": "Twinkle Twinkle",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "twinkle_twinkle"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9079",
+      "platform": "popmart",
+      "title": "Tier 2 Bonus-CRYBABY Cry Me an Ocean Series Hair Drying Towel",
+      "url": "https://www.popmart.com/us/products/9079/Tier-2-Bonus-CRYBABY-Cry-Me-an-Ocean-Series-Hair-Drying-Towel",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790220451749_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "12114",
+          "title": "CRYBABY",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9078",
+      "platform": "popmart",
+      "title": "Tier 2 Bonus-CRYBABY Cry Me an Ocean Series Beach Towel",
+      "url": "https://www.popmart.com/us/products/9078/Tier-2-Bonus-CRYBABY-Cry-Me-an-Ocean-Series-Beach-Towel",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790220395368_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "12113",
+          "title": "CRYBABY",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "crybaby"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9076",
+      "platform": "popmart",
+      "title": "Tier 1 Bonus-DIMOO'S HOLIDAY IN THE USA SERIES-Alloy Pendant (Los Angeles)",
+      "url": "https://www.popmart.com/us/products/9076/Tier-1-Bonus-DIMOO'S-HOLIDAY-IN-THE-USA-SERIES-Alloy-Pendant-(Los-Angeles)",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790218851838_65bf2d6fbe7f37bfd7da5470b2d3aad5.jpg",
+      "variants": [
+        {
+          "id": "12111",
+          "title": "DIMOO",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "dimoo"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8960",
       "platform": "popmart",
       "title": "Zsiga Life is a Show Series MINI Action Figure",
@@ -2734,7 +2964,7 @@
         {
           "id": "12123",
           "title": "HIRONO",
-          "price": 4.99,
+          "price": 0.0,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -2757,7 +2987,7 @@
         {
           "id": "12124",
           "title": "HIRONO",
-          "price": 4.99,
+          "price": 0.0,
           "currency": "USD",
           "available": true,
           "sku": ""
