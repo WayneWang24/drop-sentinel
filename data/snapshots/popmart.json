@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-28T23:57:37.061785Z",
+  "timestamp": "2026-09-29T03:53:34.666264Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1106,7 +1106,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1442,9 +1442,7 @@
           "sku": ""
         }
       ],
-      "tags": [
-        "new"
-      ],
+      "tags": [],
       "created_at": null,
       "updated_at": null
     },
@@ -1464,9 +1462,7 @@
           "sku": ""
         }
       ],
-      "tags": [
-        "new"
-      ],
+      "tags": [],
       "created_at": null,
       "updated_at": null
     },
@@ -1534,7 +1530,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1691,7 +1687,7 @@
           "title": "Haikyu",
           "price": 227.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3034,7 +3030,7 @@
           "title": "POP MART",
           "price": 36.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
