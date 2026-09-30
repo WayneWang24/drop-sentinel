@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-09-30T00:23:37.530287Z",
+  "timestamp": "2026-09-30T05:46:03.643000Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1538,7 +1538,7 @@
           "title": "Hirono",
           "price": 179.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2043,7 +2043,7 @@
           "title": "Hirono",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2215,7 +2215,7 @@
           "title": "SpongeBob",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2223,7 +2223,7 @@
           "title": "SpongeBob",
           "price": 119.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2699,7 +2699,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2707,7 +2707,7 @@
           "title": "POP MART",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
