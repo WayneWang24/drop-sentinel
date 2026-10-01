@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-01T06:31:53.803717Z",
+  "timestamp": "2026-10-01T13:53:07.893045Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2043,7 +2043,7 @@
           "title": "Hirono",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2377,6 +2377,50 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9176",
+      "platform": "popmart",
+      "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+      "url": "https://www.popmart.com/us/products/9176/$199+-GWP---Spooky-Bakehouse-Series-Fruit-Fork",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790746861121_c81e728d9d4c2f636f067f89cc14862c.jpg",
+      "variants": [
+        {
+          "id": "12242",
+          "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9177",
+      "platform": "popmart",
+      "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+      "url": "https://www.popmart.com/us/products/9177/$199+-GWP---Spooky-Bakehouse-Series-Fruit-Fork",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790746861121_c81e728d9d4c2f636f067f89cc14862c.jpg",
+      "variants": [
+        {
+          "id": "12243",
+          "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
@@ -3314,7 +3358,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
