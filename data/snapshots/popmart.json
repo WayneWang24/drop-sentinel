@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-01T23:09:22.020404Z",
+  "timestamp": "2026-10-02T02:11:48.877240Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1364,7 +1364,7 @@
           "title": "THE MONSTERS",
           "price": 221.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2377,6 +2377,237 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9061",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Live the Ordinary Series Figures",
+      "url": "https://www.popmart.com/us/products/9061/Twinkle-Twinkle-Live-the-Ordinary-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790327253688_45a0bd2f4123458ca2c782ad23f1225b.jpg",
+      "variants": [
+        {
+          "id": "12090",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12091",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9091",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Live the Ordinary Series Figures",
+      "url": "https://www.popmart.com/us/products/9091/Twinkle-Twinkle-Live-the-Ordinary-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790327253688_45a0bd2f4123458ca2c782ad23f1225b.jpg",
+      "variants": [
+        {
+          "id": "12126",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9057",
+      "platform": "popmart",
+      "title": "POP BEAN Twinkle Twinkle Live The Ordinary Series",
+      "url": "https://www.popmart.com/us/products/9057/POP-BEAN-Twinkle-Twinkle-Live-The-Ordinary-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790330213191_ae37ad69833131a73659df8e6faef871.jpg",
+      "variants": [
+        {
+          "id": "12084",
+          "title": "POP MART",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12085",
+          "title": "POP MART",
+          "price": 59.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9059",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Live the Ordinary Series - Pillow",
+      "url": "https://www.popmart.com/us/products/9059/Twinkle-Twinkle-Live-the-Ordinary-Series---Pillow",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790330804811_7331c0f464542d57e5cfce6335a4f4c6.jpg",
+      "variants": [
+        {
+          "id": "12087",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9060",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Live the Ordinary Series - Phone Ring Blind Box",
+      "url": "https://www.popmart.com/us/products/9060/Twinkle-Twinkle-Live-the-Ordinary-Series---Phone-Ring-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790326969439_d026cf9f77b44ed712e72a6bec140840.jpg",
+      "variants": [
+        {
+          "id": "12088",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12089",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9090",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Live the Ordinary Series - Phone Ring Blind Box",
+      "url": "https://www.popmart.com/us/products/9090/Twinkle-Twinkle-Live-the-Ordinary-Series---Phone-Ring-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790326969439_d026cf9f77b44ed712e72a6bec140840.jpg",
+      "variants": [
+        {
+          "id": "12125",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9058",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Live the Ordinary Series - Insulated Cup",
+      "url": "https://www.popmart.com/us/products/9058/Twinkle-Twinkle-Live-the-Ordinary-Series---Insulated-Cup",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790330496350_9d71f6a2e4c871ed66166402f69611a2.jpg",
+      "variants": [
+        {
+          "id": "12086",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9055",
+      "platform": "popmart",
+      "title": "MEGA JUST DIMOO 400% PIXAR-Alien",
+      "url": "https://www.popmart.com/us/products/9055/MEGA-JUST-DIMOO-400%-PIXAR-Alien",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790327905095_3a178892e780b56e012c65ecccfc11d3.jpg",
+      "variants": [
+        {
+          "id": "12082",
+          "title": "POP MART",
+          "price": 219.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9056",
+      "platform": "popmart",
+      "title": "Bikini Bottom Buddies - Ghost Fish Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9056/Bikini-Bottom-Buddies---Ghost-Fish-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790329816340_e82eee12bf9f3e77a5644fbcfce6a2e3.jpg",
+      "variants": [
+        {
+          "id": "12083",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
