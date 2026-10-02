@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-02T02:11:48.877240Z",
+  "timestamp": "2026-10-02T08:28:49.418146Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1530,7 +1530,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2436,60 +2436,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_9057",
-      "platform": "popmart",
-      "title": "POP BEAN Twinkle Twinkle Live The Ordinary Series",
-      "url": "https://www.popmart.com/us/products/9057/POP-BEAN-Twinkle-Twinkle-Live-The-Ordinary-Series",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790330213191_ae37ad69833131a73659df8e6faef871.jpg",
-      "variants": [
-        {
-          "id": "12084",
-          "title": "POP MART",
-          "price": 4.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "12085",
-          "title": "POP MART",
-          "price": 59.88,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_9059",
-      "platform": "popmart",
-      "title": "Twinkle Twinkle Live the Ordinary Series - Pillow",
-      "url": "https://www.popmart.com/us/products/9059/Twinkle-Twinkle-Live-the-Ordinary-Series---Pillow",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790330804811_7331c0f464542d57e5cfce6335a4f4c6.jpg",
-      "variants": [
-        {
-          "id": "12087",
-          "title": "POP MART",
-          "price": 49.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_9060",
       "platform": "popmart",
       "title": "Twinkle Twinkle Live the Ordinary Series - Phone Ring Blind Box",
@@ -2532,7 +2478,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2602,6 +2548,60 @@
           "price": 19.99,
           "currency": "USD",
           "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9057",
+      "platform": "popmart",
+      "title": "POP BEAN Twinkle Twinkle Live The Ordinary Series",
+      "url": "https://www.popmart.com/us/products/9057/POP-BEAN-Twinkle-Twinkle-Live-The-Ordinary-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790330213191_ae37ad69833131a73659df8e6faef871.jpg",
+      "variants": [
+        {
+          "id": "12084",
+          "title": "POP MART",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12085",
+          "title": "POP MART",
+          "price": 59.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9059",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle Live the Ordinary Series - Pillow",
+      "url": "https://www.popmart.com/us/products/9059/Twinkle-Twinkle-Live-the-Ordinary-Series---Pillow",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790330804811_7331c0f464542d57e5cfce6335a4f4c6.jpg",
+      "variants": [
+        {
+          "id": "12087",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": false,
           "sku": ""
         }
       ],
