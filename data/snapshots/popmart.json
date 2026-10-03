@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-02T23:14:39.465564Z",
+  "timestamp": "2026-10-03T01:57:39.571397Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -710,7 +710,7 @@
           "title": "CRYBABY",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2393,7 +2393,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
