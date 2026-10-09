@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-08T22:26:21.633960Z",
+  "timestamp": "2026-10-09T02:21:39.887740Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2128,7 +2128,7 @@
           "title": "POP MART",
           "price": 36.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2638,6 +2638,60 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9119",
+      "platform": "popmart",
+      "title": "Hirono × Harry Potter Series Figures",
+      "url": "https://www.popmart.com/us/products/9119/Hirono-×-Harry-Potter-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790325842630_d583f5335334ad04635418a1f720acb4.jpg",
+      "variants": [
+        {
+          "id": "12166",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12167",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9155",
+      "platform": "popmart",
+      "title": "Hirono × Harry Potter Series Figures",
+      "url": "https://www.popmart.com/us/products/9155/Hirono-×-Harry-Potter-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790325842630_d583f5335334ad04635418a1f720acb4.jpg",
+      "variants": [
+        {
+          "id": "12211",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9091",
       "platform": "popmart",
       "title": "Twinkle Twinkle Live the Ordinary Series Figures",
@@ -2795,7 +2849,7 @@
           "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2817,7 +2871,7 @@
           "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
