@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-09T02:21:39.887740Z",
+  "timestamp": "2026-10-09T09:21:47.993248Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -74,7 +74,7 @@
           "title": "Teletubbies ",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1032,7 +1032,7 @@
           "title": "THE MONSTERS",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1054,7 +1054,7 @@
           "title": "THE MONSTERS",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1807,7 +1807,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS × HELLO KITTY - Vinyl Plush Doll",
       "url": "https://www.popmart.com/us/products/5990/THE-MONSTERS-×-HELLO-KITTY---Vinyl-Plush-Doll",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1784254239607_323eef5581c3c09b17b8300311ba4ebb.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791536958927_13018fe03d3ea122bee4459893937eb5.jpg",
       "variants": [
         {
           "id": "8426",
@@ -1965,7 +1965,7 @@
           "title": "POP MART",
           "price": 279.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2128,7 +2128,7 @@
           "title": "POP MART",
           "price": 36.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2174,7 +2174,7 @@
       "platform": "popmart",
       "title": "THE MONSTERS - ANGEL IN CLOUDS Vinyl Face Doll",
       "url": "https://www.popmart.com/us/products/1607/THE-MONSTERS---ANGEL-IN-CLOUDS-Vinyl-Face-Doll",
-      "image_url": "https://prod-america-res.popmart.com/default/20241014_112618_141601____the-monsters-angel-in-clouds-vinyl-face-doll-designer-figurines-pop-mart-us-1_____1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20241014_112618_048289____the-monsters-angel-in-clouds-vinyl-face-doll-designer-figurines-pop-mart-us-scene-1_____1199x1200.jpg",
       "variants": [
         {
           "id": "2622",
@@ -2680,7 +2680,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2703,7 +2703,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3145,7 +3145,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3168,7 +3168,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3191,7 +3191,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3199,7 +3199,7 @@
           "title": "POP MART",
           "price": 251.86,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3245,7 +3245,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3299,7 +3299,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3721,7 +3721,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3798,7 +3798,7 @@
           "title": "POP MART",
           "price": 12.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3852,7 +3852,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3875,7 +3875,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3952,7 +3952,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4006,7 +4006,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
