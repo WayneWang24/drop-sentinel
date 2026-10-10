@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-10T00:46:22.454456Z",
+  "timestamp": "2026-10-10T06:31:43.086362Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -403,7 +403,7 @@
       "platform": "popmart",
       "title": "CRYBABY × Powerpuff Girls Series-Vinyl Face Plush Blind Box",
       "url": "https://www.popmart.com/us/products/1079/CRYBABY-×-Powerpuff-Girls-Series-Vinyl-Face-Plush-Blind-Box",
-      "image_url": "https://prod-america-res.popmart.com/default/20240423_155140_785761__1200x1200.jpg",
+      "image_url": "https://prod-america-res.popmart.com/default/20240423_155140_405713__1200x1200.jpg",
       "variants": [
         {
           "id": "1623",
@@ -1106,7 +1106,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1663,7 +1663,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1935,7 +1935,7 @@
           "title": "Peach Riot",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2537,7 +2537,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
