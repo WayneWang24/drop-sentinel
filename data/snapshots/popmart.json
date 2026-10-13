@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-13T01:52:44.457992Z",
+  "timestamp": "2026-10-13T08:41:15.301459Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1339,36 +1339,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_1972",
-      "platform": "popmart",
-      "title": "Hello Kitty and Friends Fall Asleep Series Figures",
-      "url": "https://www.popmart.com/us/products/1972/Hello-Kitty-and-Friends-Fall-Asleep-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20250106_183259_060718____scene_hello-kitty-and-friends-fall-asleep-series-figuress_blind-boxes_details_popmart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "3106",
-          "title": "Hello Kitty and Friends",
-          "price": 17.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "3107",
-          "title": "Hello Kitty and Friends",
-          "price": 161.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hello_kitty_and_friends"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_8963",
       "platform": "popmart",
       "title": "Jujutsu Kaisen The Culling Game Series Figures",
@@ -1395,36 +1365,6 @@
       "tags": [
         "new",
         "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_618",
-      "platform": "popmart",
-      "title": "Spy × Family Anya's Daily Life Series Figures",
-      "url": "https://www.popmart.com/us/products/618/Spy-×-Family-Anya's-Daily-Life-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20231120_095852_177288__1200x1200.jpg",
-      "variants": [
-        {
-          "id": "966",
-          "title": "Spy × Family",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "967",
-          "title": "Spy × Family",
-          "price": 119.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "spy_×_family"
       ],
       "created_at": null,
       "updated_at": null
@@ -2216,7 +2156,6 @@
         }
       ],
       "tags": [
-        "new",
         "pop_mart"
       ],
       "created_at": null,
@@ -2638,6 +2577,59 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9056",
+      "platform": "popmart",
+      "title": "Bikini Bottom Buddies - Ghost Fish Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9056/Bikini-Bottom-Buddies---Ghost-Fish-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790329816340_e82eee12bf9f3e77a5644fbcfce6a2e3.jpg",
+      "variants": [
+        {
+          "id": "12083",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_5222",
+      "platform": "popmart",
+      "title": "Overwatch Play of the Game Series Figures",
+      "url": "https://www.popmart.com/us/products/5222/Overwatch-Play-of-the-Game-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786003056940_c81e728d9d4c2f636f067f89cc14862c.jpg",
+      "variants": [
+        {
+          "id": "7481",
+          "title": "Overwatch",
+          "price": 20.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "7482",
+          "title": "Overwatch",
+          "price": 209.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "overwatch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9119",
       "platform": "popmart",
       "title": "Hirono × Harry Potter Series Figures",
@@ -2748,29 +2740,6 @@
           "id": "12086",
           "title": "POP MART",
           "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_9056",
-      "platform": "popmart",
-      "title": "Bikini Bottom Buddies - Ghost Fish Series Plush Pendant",
-      "url": "https://www.popmart.com/us/products/9056/Bikini-Bottom-Buddies---Ghost-Fish-Series-Plush-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790329816340_e82eee12bf9f3e77a5644fbcfce6a2e3.jpg",
-      "variants": [
-        {
-          "id": "12083",
-          "title": "POP MART",
-          "price": 19.99,
           "currency": "USD",
           "available": true,
           "sku": ""
