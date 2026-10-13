@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-13T08:41:15.301459Z",
+  "timestamp": "2026-10-13T16:25:59.935368Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -806,36 +806,6 @@
       ],
       "tags": [
         "teletubbies_"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_3944",
-      "platform": "popmart",
-      "title": "Hirono Monsters' Carnival Series Figures",
-      "url": "https://www.popmart.com/us/products/3944/Hirono-Monsters'-Carnival-Series-Figures",
-      "image_url": "https://prod-america-res.popmart.com/default/20251020_152756_596628____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
-      "variants": [
-        {
-          "id": "5858",
-          "title": "HIRONO",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "5859",
-          "title": "HIRONO",
-          "price": 119.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "hirono"
       ],
       "created_at": null,
       "updated_at": null
@@ -1712,6 +1682,36 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_3944",
+      "platform": "popmart",
+      "title": "Hirono Monsters' Carnival Series Figures",
+      "url": "https://www.popmart.com/us/products/3944/Hirono-Monsters'-Carnival-Series-Figures",
+      "image_url": "https://prod-america-res.popmart.com/default/20251020_152756_596628____5_hirono-monsters-carnival-series-figures_blind-boxes_details_pop-mart-us_____1200x1200.jpg",
+      "variants": [
+        {
+          "id": "5858",
+          "title": "HIRONO",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "5859",
+          "title": "HIRONO",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "hirono"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8687",
       "platform": "popmart",
       "title": "MEGA ROYAL MOLLY 100% Series 1",
@@ -1875,7 +1875,7 @@
           "title": "Peach Riot",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
