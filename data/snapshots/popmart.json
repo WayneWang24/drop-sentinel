@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-14T00:25:32.484994Z",
+  "timestamp": "2026-10-14T05:07:16.955552Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -328,7 +328,7 @@
           "title": "SKULLPANDA",
           "price": 179.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1867,7 +1867,7 @@
           "title": "Peach Riot",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1875,7 +1875,7 @@
           "title": "Peach Riot",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2476,7 +2476,7 @@
           "title": "POP ATTACH θ SKULLPANDA Off Mode Series",
           "price": 9.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
