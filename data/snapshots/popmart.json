@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-15T05:10:12.804653Z",
+  "timestamp": "2026-10-15T09:51:14.256413Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1221,7 +1221,7 @@
       "platform": "popmart",
       "title": "VALORANT Classic Agents Series Figures",
       "url": "https://www.popmart.com/us/products/8962/VALORANT-Classic-Agents-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964842908_1240019b910be774f1bfe0ca6279d489.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055198112_738b32f41aaf4ad72bc6001e02910ff9.jpg",
       "variants": [
         {
           "id": "11973",
@@ -1716,7 +1716,7 @@
       "platform": "popmart",
       "title": "MEGA ROYAL MOLLY 100% Series 1",
       "url": "https://www.popmart.com/us/products/8687/MEGA-ROYAL-MOLLY-100%-Series-1",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787305059849_602e781051064bd68ce1a40ee36689d7.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792054677946_ac00a65c488ced660bdb28e28311bd78.jpg",
       "variants": [
         {
           "id": "11624",
@@ -1769,7 +1769,7 @@
       "platform": "popmart",
       "title": "Zsiga Life is a Show Series MINI Action Figure",
       "url": "https://www.popmart.com/us/products/8960/Zsiga-Life-is-a-Show-Series-MINI-Action-Figure",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964791497_303a43a6dde5c3f102f1a9beb4857b56.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055322126_5e0ff9d0c7fb4a9f6f5833683b9c2f31.jpg",
       "variants": [
         {
           "id": "11970",
@@ -1800,7 +1800,7 @@
       "platform": "popmart",
       "title": "Twinkle Twinkle Farm Tales Series - Vinyl Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8601/Twinkle-Twinkle-Farm-Tales-Series---Vinyl-Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1786701223454_2f5f992203673dbdba307c9ab215635f.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792054462200_7bca8c0ea2f47da345f16dc027914e58.jpg",
       "variants": [
         {
           "id": "11510",
@@ -2520,7 +2520,7 @@
       "platform": "popmart",
       "title": "SpongeBob \"That Doesn't Make Sense\" Series Figures",
       "url": "https://www.popmart.com/us/products/8761/SpongeBob-\"That-Doesn't-Make-Sense\"-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1787905742891_459cdda86468c498116ba4d3dc068100.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055012559_faca71f86b1352de697248250952e0d0.jpg",
       "variants": [
         {
           "id": "11733",
@@ -2630,6 +2630,29 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9357",
+      "platform": "popmart",
+      "title": "Mini ZIMOMO Sloowy",
+      "url": "https://www.popmart.com/us/products/9357/Mini-ZIMOMO-Sloowy",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792053063666_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "12446",
+          "title": "POP MART",
+          "price": 43.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9119",
       "platform": "popmart",
       "title": "Hirono × Harry Potter Series Figures",
@@ -2672,7 +2695,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2695,7 +2718,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3107,7 +3130,7 @@
       "platform": "popmart",
       "title": "Zsiga Life is a Show Series MINI Action Figure",
       "url": "https://www.popmart.com/us/products/8982/Zsiga-Life-is-a-Show-Series-MINI-Action-Figure",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964791497_303a43a6dde5c3f102f1a9beb4857b56.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055322126_5e0ff9d0c7fb4a9f6f5833683b9c2f31.jpg",
       "variants": [
         {
           "id": "11998",
@@ -3130,14 +3153,14 @@
       "platform": "popmart",
       "title": "VALORANT Classic Agents Series Figures",
       "url": "https://www.popmart.com/us/products/8983/VALORANT-Classic-Agents-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789964842908_1240019b910be774f1bfe0ca6279d489.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055198112_738b32f41aaf4ad72bc6001e02910ff9.jpg",
       "variants": [
         {
           "id": "11999",
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3214,7 +3237,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3230,7 +3253,7 @@
       "platform": "popmart",
       "title": "POLAR Smudge Puff Series - Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8958/POLAR-Smudge-Puff-Series---Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789963938700_3af5d9e18d263a7df3098cae15f7d128.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055440171_781e97be6fad3d9e4437f4cec6a652fb.jpg",
       "variants": [
         {
           "id": "11967",
@@ -3261,14 +3284,14 @@
       "platform": "popmart",
       "title": "POLAR Smudge Puff Series - Plush Pendant Blind Box",
       "url": "https://www.popmart.com/us/products/8981/POLAR-Smudge-Puff-Series---Plush-Pendant-Blind-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789963938700_3af5d9e18d263a7df3098cae15f7d128.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055440171_781e97be6fad3d9e4437f4cec6a652fb.jpg",
       "variants": [
         {
           "id": "11997",
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3690,7 +3713,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3767,7 +3790,7 @@
           "title": "POP MART",
           "price": 12.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3821,7 +3844,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3844,7 +3867,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3921,7 +3944,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3975,7 +3998,7 @@
           "title": "POP MART",
           "price": 9.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
