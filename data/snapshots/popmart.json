@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-15T00:39:12.300206Z",
+  "timestamp": "2026-10-15T05:10:12.804653Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -268,7 +268,7 @@
           "title": "THE MONSTERS",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1190,7 +1190,7 @@
       "platform": "popmart",
       "title": "Twinkle Twinkle Live the Ordinary Series Figures",
       "url": "https://www.popmart.com/us/products/9061/Twinkle-Twinkle-Live-the-Ordinary-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790327253688_45a0bd2f4123458ca2c782ad23f1225b.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792032017175_c9a2081d46418d6c4660aac08c855b2d.jpg",
       "variants": [
         {
           "id": "12090",
@@ -1701,7 +1701,7 @@
           "title": "HIRONO",
           "price": 119.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2688,7 +2688,7 @@
       "platform": "popmart",
       "title": "Twinkle Twinkle Live the Ordinary Series Figures",
       "url": "https://www.popmart.com/us/products/9091/Twinkle-Twinkle-Live-the-Ordinary-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790327253688_45a0bd2f4123458ca2c782ad23f1225b.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792032017175_c9a2081d46418d6c4660aac08c855b2d.jpg",
       "variants": [
         {
           "id": "12126",
@@ -2718,7 +2718,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3982,98 +3982,6 @@
       "tags": [
         "new",
         "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8976",
-      "platform": "popmart",
-      "title": "$129+ GWP - DIMOO 9TH ANNIVERSARY Carpet",
-      "url": "https://www.popmart.com/us/products/8976/$129+-GWP---DIMOO-9TH-ANNIVERSARY-Carpet",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790046923099_17140f7d3f43dc413afa01d6121c0e7a.jpg",
-      "variants": [
-        {
-          "id": "11992",
-          "title": "DIMOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8977",
-      "platform": "popmart",
-      "title": "$129+ GWP - DIMOO 9TH ANNIVERSARY Carpet",
-      "url": "https://www.popmart.com/us/products/8977/$129+-GWP---DIMOO-9TH-ANNIVERSARY-Carpet",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790046923099_17140f7d3f43dc413afa01d6121c0e7a.jpg",
-      "variants": [
-        {
-          "id": "11993",
-          "title": "DIMOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8972",
-      "platform": "popmart",
-      "title": "$79+ GWP - DIMOO 9TH ANNIVERSARY Magnetic Bag Charm",
-      "url": "https://www.popmart.com/us/products/8972/$79+-GWP---DIMOO-9TH-ANNIVERSARY-Magnetic-Bag-Charm",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790307224322_ab86f10276db7a12bd09600919900741.jpg",
-      "variants": [
-        {
-          "id": "11988",
-          "title": "DIMOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8973",
-      "platform": "popmart",
-      "title": "$79+ GWP - DIMOO 9TH ANNIVERSARY Magnetic Bag Charm",
-      "url": "https://www.popmart.com/us/products/8973/$79+-GWP---DIMOO-9TH-ANNIVERSARY-Magnetic-Bag-Charm",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790307224322_ab86f10276db7a12bd09600919900741.jpg",
-      "variants": [
-        {
-          "id": "11989",
-          "title": "DIMOO",
-          "price": 0.0,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "dimoo"
       ],
       "created_at": null,
       "updated_at": null
