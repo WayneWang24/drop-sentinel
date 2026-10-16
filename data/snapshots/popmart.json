@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-16T07:06:12.645792Z",
+  "timestamp": "2026-10-16T12:21:56.974128Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1581,7 +1581,7 @@
           "title": "POP MART",
           "price": 179.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1701,7 +1701,7 @@
           "title": "HIRONO",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2226,7 +2226,7 @@
           "title": "Monster Hunter",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2234,7 +2234,7 @@
           "title": "Monster Hunter",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2625,6 +2625,121 @@
       ],
       "tags": [
         "overwatch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9158",
+      "platform": "popmart",
+      "title": "MEGA α SKULLPANDA 1000% Robert Wun-Aux étoiles",
+      "url": "https://www.popmart.com/us/products/9158/MEGA-α-SKULLPANDA-1000%-Robert-Wun-Aux-étoiles",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792138543814_b87bef7fc8f50eacf55b86ffc3b8fab5.jpg",
+      "variants": [
+        {
+          "id": "12214",
+          "title": "POP MART",
+          "price": 999.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9361",
+      "platform": "popmart",
+      "title": "$129+ GWP - WHY SO SERIOUS Series-Blanket",
+      "url": "https://www.popmart.com/us/products/9361/$129+-GWP---WHY-SO-SERIOUS-Series-Blanket",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792119877935_ac875ba573876368f8bd99a31c52bc21.jpg",
+      "variants": [
+        {
+          "id": "12450",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9362",
+      "platform": "popmart",
+      "title": "$129+ GWP - WHY SO SERIOUS Series-Blanket",
+      "url": "https://www.popmart.com/us/products/9362/$129+-GWP---WHY-SO-SERIOUS-Series-Blanket",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792119877935_ac875ba573876368f8bd99a31c52bc21.jpg",
+      "variants": [
+        {
+          "id": "12451",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9359",
+      "platform": "popmart",
+      "title": "$79+ GWP - WHY SO SERIOUS Series Finger decoration",
+      "url": "https://www.popmart.com/us/products/9359/$79+-GWP---WHY-SO-SERIOUS-Series-Finger-decoration",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792119289293_15bf2ac0a9e01e305258ddfe88c8b459.jpg",
+      "variants": [
+        {
+          "id": "12448",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9360",
+      "platform": "popmart",
+      "title": "$79+ GWP - WHY SO SERIOUS Series Finger decoration",
+      "url": "https://www.popmart.com/us/products/9360/$79+-GWP---WHY-SO-SERIOUS-Series-Finger-decoration",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792119289293_15bf2ac0a9e01e305258ddfe88c8b459.jpg",
+      "variants": [
+        {
+          "id": "12449",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -3396,7 +3511,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3419,7 +3534,7 @@
           "title": "POP MART",
           "price": 4.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -4478,7 +4593,7 @@
           "title": "POP MART",
           "price": 46.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
