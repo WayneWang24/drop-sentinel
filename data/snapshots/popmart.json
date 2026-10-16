@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-16T12:21:56.974128Z",
+  "timestamp": "2026-10-16T16:49:15.616502Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -800,7 +800,7 @@
           "title": "Teletubbies ",
           "price": 167.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -920,7 +920,7 @@
           "title": "Demon Slayer",
           "price": 251.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2527,7 +2527,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2779,7 +2779,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2787,7 +2787,7 @@
           "title": "POP MART",
           "price": 269.91,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3534,7 +3534,7 @@
           "title": "POP MART",
           "price": 4.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
