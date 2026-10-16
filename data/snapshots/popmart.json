@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-15T23:53:28.467080Z",
+  "timestamp": "2026-10-16T02:09:20.515165Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2630,6 +2630,661 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9357",
+      "platform": "popmart",
+      "title": "Mini ZIMOMO Sloowy",
+      "url": "https://www.popmart.com/us/products/9357/Mini-ZIMOMO-Sloowy",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792053063666_c4ca4238a0b923820dcc509a6f75849b.jpg",
+      "variants": [
+        {
+          "id": "12446",
+          "title": "POP MART",
+          "price": 43.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9167",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9167/THE-MONSTERS-CAT-MODE-ON-SERIES---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055596629_fc06ec4eb714918a17eea9ebb41b720c.jpg",
+      "variants": [
+        {
+          "id": "12228",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12229",
+          "title": "POP MART",
+          "price": 269.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9187",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9187/THE-MONSTERS-CAT-MODE-ON-SERIES---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055596629_fc06ec4eb714918a17eea9ebb41b720c.jpg",
+      "variants": [
+        {
+          "id": "12253",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9169",
+      "platform": "popmart",
+      "title": "Dip For Fun Series - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9169/Dip-For-Fun-Series---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791536832819_d754c451894852fe68cffd1c3189b56a.jpg",
+      "variants": [
+        {
+          "id": "12232",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12233",
+          "title": "POP MART",
+          "price": 242.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9189",
+      "platform": "popmart",
+      "title": "Dip For Fun Series - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9189/Dip-For-Fun-Series---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791536832819_d754c451894852fe68cffd1c3189b56a.jpg",
+      "variants": [
+        {
+          "id": "12255",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9161",
+      "platform": "popmart",
+      "title": "THE MONSTERS - DANCE WITH WIND Action Vinyl Doll",
+      "url": "https://www.popmart.com/us/products/9161/THE-MONSTERS---DANCE-WITH-WIND-Action-Vinyl-Doll",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792056241756_1116cdadd12eb8b390b822b569a07daa.jpg",
+      "variants": [
+        {
+          "id": "12219",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9170",
+      "platform": "popmart",
+      "title": "Dip For Fun Series -Squishy Charm Blind Box",
+      "url": "https://www.popmart.com/us/products/9170/Dip-For-Fun-Series--Squishy-Charm-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791537141890_418d15cef6022356a7824ceb2be8588a.jpg",
+      "variants": [
+        {
+          "id": "12234",
+          "title": "POP MART",
+          "price": 12.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12235",
+          "title": "POP MART",
+          "price": 77.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9190",
+      "platform": "popmart",
+      "title": "Dip For Fun Series -Squishy Charm Blind Box",
+      "url": "https://www.popmart.com/us/products/9190/Dip-For-Fun-Series--Squishy-Charm-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791537141890_418d15cef6022356a7824ceb2be8588a.jpg",
+      "variants": [
+        {
+          "id": "12256",
+          "title": "POP MART",
+          "price": 12.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9160",
+      "platform": "popmart",
+      "title": "POP MART Meowgical Charge Series - Plush Doll Display Bag",
+      "url": "https://www.popmart.com/us/products/9160/POP-MART-Meowgical-Charge-Series---Plush-Doll-Display-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791534554216_1794357caf787b516394357c326376c5.jpg",
+      "variants": [
+        {
+          "id": "12217",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12218",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9164",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9164/THE-MONSTERS-CAT-MODE-ON-SERIES---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791534042051_3bbadc7ef18e293563cb7cad1b729795.jpg",
+      "variants": [
+        {
+          "id": "12223",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12224",
+          "title": "POP MART",
+          "price": 107.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9185",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9185/THE-MONSTERS-CAT-MODE-ON-SERIES---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791534042051_3bbadc7ef18e293563cb7cad1b729795.jpg",
+      "variants": [
+        {
+          "id": "12251",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9163",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Magnetic Phone Holder Blind Box",
+      "url": "https://www.popmart.com/us/products/9163/THE-MONSTERS-CAT-MODE-ON-SERIES---Magnetic-Phone-Holder-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791535634493_55d19d4c2425cbd037778ca56553c768.jpg",
+      "variants": [
+        {
+          "id": "12221",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12222",
+          "title": "POP MART",
+          "price": 131.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9184",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Magnetic Phone Holder Blind Box",
+      "url": "https://www.popmart.com/us/products/9184/THE-MONSTERS-CAT-MODE-ON-SERIES---Magnetic-Phone-Holder-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791535634493_55d19d4c2425cbd037778ca56553c768.jpg",
+      "variants": [
+        {
+          "id": "12250",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9166",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Card Holder Blind Box",
+      "url": "https://www.popmart.com/us/products/9166/THE-MONSTERS-CAT-MODE-ON-SERIES---Card-Holder-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791536012674_3a39522613cfcc25b580d379bd744326.jpg",
+      "variants": [
+        {
+          "id": "12226",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12227",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9186",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Card Holder Blind Box",
+      "url": "https://www.popmart.com/us/products/9186/THE-MONSTERS-CAT-MODE-ON-SERIES---Card-Holder-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791536012674_3a39522613cfcc25b580d379bd744326.jpg",
+      "variants": [
+        {
+          "id": "12252",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9168",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/9168/THE-MONSTERS-CAT-MODE-ON-SERIES---Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791536577439_e9da063eee05049ffcf70f7040763815.jpg",
+      "variants": [
+        {
+          "id": "12230",
+          "title": "POP MART",
+          "price": 12.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12231",
+          "title": "POP MART",
+          "price": 77.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9188",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Fridge Magnet Blind Box",
+      "url": "https://www.popmart.com/us/products/9188/THE-MONSTERS-CAT-MODE-ON-SERIES---Fridge-Magnet-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791536577439_e9da063eee05049ffcf70f7040763815.jpg",
+      "variants": [
+        {
+          "id": "12254",
+          "title": "POP MART",
+          "price": 12.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9165",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Mug",
+      "url": "https://www.popmart.com/us/products/9165/THE-MONSTERS-CAT-MODE-ON-SERIES---Mug",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791535746167_64cabc4522dfa888caa27415009c4dc0.jpg",
+      "variants": [
+        {
+          "id": "12225",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9162",
+      "platform": "popmart",
+      "title": "THE MONSTERS CAT MODE ON SERIES - Insulated Cup",
+      "url": "https://www.popmart.com/us/products/9162/THE-MONSTERS-CAT-MODE-ON-SERIES---Insulated-Cup",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791534286701_f51d68757a2a95134132e783f729cb4b.jpg",
+      "variants": [
+        {
+          "id": "12220",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9171",
+      "platform": "popmart",
+      "title": "POP BEAN Dip For Fun Series",
+      "url": "https://www.popmart.com/us/products/9171/POP-BEAN-Dip-For-Fun-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791537264417_e894b98637a1cd5a14846edf248cd9b2.jpg",
+      "variants": [
+        {
+          "id": "12236",
+          "title": "POP MART",
+          "price": 3.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12237",
+          "title": "POP MART",
+          "price": 79.8,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9159",
+      "platform": "popmart",
+      "title": "Merodi Snack Time Series Figures",
+      "url": "https://www.popmart.com/us/products/9159/Merodi-Snack-Time-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055719102_824406a7c679562abe475d717211c09f.jpg",
+      "variants": [
+        {
+          "id": "12215",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12216",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9183",
+      "platform": "popmart",
+      "title": "Merodi Snack Time Series Figures",
+      "url": "https://www.popmart.com/us/products/9183/Merodi-Snack-Time-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792055719102_824406a7c679562abe475d717211c09f.jpg",
+      "variants": [
+        {
+          "id": "12249",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9175",
+      "platform": "popmart",
+      "title": "TYCOCO Original Figure",
+      "url": "https://www.popmart.com/us/products/9175/TYCOCO-Original-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791613841487_c4adb07461730c602070381035154316.jpg",
+      "variants": [
+        {
+          "id": "12241",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9174",
+      "platform": "popmart",
+      "title": "ZIMOMO Original Figure",
+      "url": "https://www.popmart.com/us/products/9174/ZIMOMO-Original-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791533054499_eaac6ab4327dbd9e53997f3015b5d62a.jpg",
+      "variants": [
+        {
+          "id": "12240",
+          "title": "POP MART",
+          "price": 169.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9173",
+      "platform": "popmart",
+      "title": "LABUBU Freckles Figure",
+      "url": "https://www.popmart.com/us/products/9173/LABUBU-Freckles-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791532848198_479e4e53641580c7d15fcb8c4714a7d4.jpg",
+      "variants": [
+        {
+          "id": "12239",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9119",
       "platform": "popmart",
       "title": "Hirono × Harry Potter Series Figures",
@@ -3114,7 +3769,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
