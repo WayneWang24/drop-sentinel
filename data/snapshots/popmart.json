@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-19T01:11:36.524907Z",
+  "timestamp": "2026-10-19T06:09:36.051133Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -500,7 +500,7 @@
           "title": "THE MONSTERS",
           "price": 251.86,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -710,7 +710,7 @@
           "title": "CRYBABY",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -860,7 +860,7 @@
           "title": "THE MONSTERS",
           "price": 251.86,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1401,7 +1401,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1573,7 +1573,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1693,7 +1693,7 @@
           "title": "HIRONO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -4278,7 +4278,7 @@
           "title": "POP MART",
           "price": 115.0,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
