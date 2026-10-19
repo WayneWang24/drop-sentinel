@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-19T06:09:36.051133Z",
+  "timestamp": "2026-10-19T13:03:09.454184Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2625,6 +2625,28 @@
       ],
       "tags": [
         "overwatch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9217",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9217/θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791597291536_e5efa307cb725a040cc9e250fb9580d6.jpg",
+      "variants": [
+        {
+          "id": "12293",
+          "title": "θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
