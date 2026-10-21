@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-21T05:59:47.734827Z",
+  "timestamp": "2026-10-21T11:19:42.273328Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1461,7 +1461,7 @@
           "title": "DIMOO",
           "price": 191.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4228,7 +4228,7 @@
           "title": "MOLLY",
           "price": 399.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
