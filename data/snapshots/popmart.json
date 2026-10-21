@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-21T16:00:24.834721Z",
+  "timestamp": "2026-10-21T19:58:11.318579Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2615,12 +2615,34 @@
           "title": "Overwatch",
           "price": 209.9,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
       "tags": [
         "overwatch"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8769",
+      "platform": "popmart",
+      "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+      "url": "https://www.popmart.com/us/products/8769/Employee-Imperfect-Mystery-Bag-|-Random-Items-|-Employee-Only",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792484963885_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "11742",
+          "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+          "price": 89.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
