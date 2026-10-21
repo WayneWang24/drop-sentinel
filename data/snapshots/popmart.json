@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-21T11:19:42.273328Z",
+  "timestamp": "2026-10-21T16:00:24.834721Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -358,7 +358,7 @@
           "title": "WHY SO SERIOUS",
           "price": 295.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
