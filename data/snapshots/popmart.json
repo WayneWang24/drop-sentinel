@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-21T23:00:31.135245Z",
+  "timestamp": "2026-10-22T01:21:06.530924Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1693,7 +1693,7 @@
           "title": "HIRONO",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1701,7 +1701,7 @@
           "title": "HIRONO",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2637,7 +2637,7 @@
           "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
           "price": 89.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3528,7 +3528,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3881,7 +3881,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
