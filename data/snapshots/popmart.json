@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-22T01:21:06.530924Z",
+  "timestamp": "2026-10-22T06:15:15.048062Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -268,7 +268,7 @@
           "title": "THE MONSTERS",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -500,7 +500,7 @@
           "title": "THE MONSTERS",
           "price": 251.86,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -860,7 +860,7 @@
           "title": "THE MONSTERS",
           "price": 251.86,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1461,7 +1461,7 @@
           "title": "DIMOO",
           "price": 191.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1581,7 +1581,7 @@
           "title": "POP MART",
           "price": 179.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1604,7 +1604,7 @@
           "title": "Hirono",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1612,7 +1612,7 @@
           "title": "Hirono",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2630,14 +2630,14 @@
       "platform": "popmart",
       "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
       "url": "https://www.popmart.com/us/products/8769/Employee-Imperfect-Mystery-Bag-|-Random-Items-|-Employee-Only",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792484963885_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792638967777_bf1456e755ce998599e03fcfa8b1317a.jpg",
       "variants": [
         {
           "id": "11742",
           "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
           "price": 89.0,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2650,13 +2650,13 @@
     {
       "id": "popmart_us_9217",
       "platform": "popmart",
-      "title": "θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/9217/θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
+      "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9217/【US-Exclusive】θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
       "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791597291536_e5efa307cb725a040cc9e250fb9580d6.jpg",
       "variants": [
         {
           "id": "12293",
-          "title": "θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+          "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
           "available": false,
