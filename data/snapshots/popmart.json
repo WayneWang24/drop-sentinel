@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-22T06:15:15.048062Z",
+  "timestamp": "2026-10-22T11:54:42.539484Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2648,28 +2648,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_9217",
-      "platform": "popmart",
-      "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/9217/【US-Exclusive】θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791597291536_e5efa307cb725a040cc9e250fb9580d6.jpg",
-      "variants": [
-        {
-          "id": "12293",
-          "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
-          "price": 39.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_9158",
       "platform": "popmart",
       "title": "MEGA α SKULLPANDA 1000% Robert Wun-Aux étoiles",
@@ -3612,6 +3590,50 @@
       "tags": [
         "new",
         "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9176",
+      "platform": "popmart",
+      "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+      "url": "https://www.popmart.com/us/products/9176/$199+-GWP---Spooky-Bakehouse-Series-Fruit-Fork",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792120086020_edd688b7319fc44a10bc0ce282d393a3.jpg",
+      "variants": [
+        {
+          "id": "12242",
+          "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9177",
+      "platform": "popmart",
+      "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+      "url": "https://www.popmart.com/us/products/9177/$199+-GWP---Spooky-Bakehouse-Series-Fruit-Fork",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792120086020_edd688b7319fc44a10bc0ce282d393a3.jpg",
+      "variants": [
+        {
+          "id": "12243",
+          "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
