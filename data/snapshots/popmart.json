@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-22T23:21:56.210996Z",
+  "timestamp": "2026-10-23T01:41:57.801742Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2626,6 +2626,305 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9421",
+      "platform": "popmart",
+      "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9421/【US-Exclusive】θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792636878326_588a7e3c034af2a98d1aa7a15796b4a5.jpg",
+      "variants": [
+        {
+          "id": "12528",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9299",
+      "platform": "popmart",
+      "title": "CRYBABY Crying Round n Round Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9299/CRYBABY-Crying-Round-n-Round-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792136676008_72b8dcf9ed1a4c03c262d4907dc546d0.jpg",
+      "variants": [
+        {
+          "id": "12385",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12386",
+          "title": "POP MART",
+          "price": 161.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9355",
+      "platform": "popmart",
+      "title": "CRYBABY Crying Round n Round Series - Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9355/CRYBABY-Crying-Round-n-Round-Series---Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792136676008_72b8dcf9ed1a4c03c262d4907dc546d0.jpg",
+      "variants": [
+        {
+          "id": "12444",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9300",
+      "platform": "popmart",
+      "title": "CRYBABY Crying Round n Round Series Figures",
+      "url": "https://www.popmart.com/us/products/9300/CRYBABY-Crying-Round-n-Round-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792138753969_049a58484c31df21cc122828e6c5a63a.jpg",
+      "variants": [
+        {
+          "id": "12387",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12388",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9356",
+      "platform": "popmart",
+      "title": "CRYBABY Crying Round n Round Series Figures",
+      "url": "https://www.popmart.com/us/products/9356/CRYBABY-Crying-Round-n-Round-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792138753969_049a58484c31df21cc122828e6c5a63a.jpg",
+      "variants": [
+        {
+          "id": "12445",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9307",
+      "platform": "popmart",
+      "title": "POP BEAN Hello Kitty and Friends Fried Shrimp Series",
+      "url": "https://www.popmart.com/us/products/9307/POP-BEAN-Hello-Kitty-and-Friends-Fried-Shrimp-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792140117239_dd4a7aa19bb2cb6bc05cc10e6ad11117.jpg",
+      "variants": [
+        {
+          "id": "12395",
+          "title": "POP MART",
+          "price": 4.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12396",
+          "title": "POP MART",
+          "price": 74.85,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9306",
+      "platform": "popmart",
+      "title": "THE MONSTERS Shake A Drink Gaming Handheld",
+      "url": "https://www.popmart.com/us/products/9306/THE-MONSTERS-Shake-A-Drink-Gaming-Handheld",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792139885885_60503222c569e0649cb37d96ab086e87.jpg",
+      "variants": [
+        {
+          "id": "12394",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9302",
+      "platform": "popmart",
+      "title": "Hirono Snowman Figurine",
+      "url": "https://www.popmart.com/us/products/9302/Hirono-Snowman-Figurine",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792139273832_2fe14cbe6691770b86465860d009c38a.jpg",
+      "variants": [
+        {
+          "id": "12390",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9301",
+      "platform": "popmart",
+      "title": "Hirono × Kodak Click Figure",
+      "url": "https://www.popmart.com/us/products/9301/Hirono-×-Kodak-Click-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792139171386_89ba55ff32f48ffaf3da08284f732bdd.jpg",
+      "variants": [
+        {
+          "id": "12389",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9305",
+      "platform": "popmart",
+      "title": "SKULLPANDA × ROBERT WUN The Innocence 1/6 Action Figure",
+      "url": "https://www.popmart.com/us/products/9305/SKULLPANDA-×-ROBERT-WUN-The-Innocence-1-6-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792139708304_902cef58a738d2fe68b81e7a5dd90a52.jpg",
+      "variants": [
+        {
+          "id": "12393",
+          "title": "POP MART",
+          "price": 189.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9304",
+      "platform": "popmart",
+      "title": "MEGA a SKULLPANDA 400% Robert Wun-Vestige d'astre",
+      "url": "https://www.popmart.com/us/products/9304/MEGA-a-SKULLPANDA-400%-Robert-Wun-Vestige-d'astre",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792139534625_7eac8cc01788ac6a36727e0fea54388f.jpg",
+      "variants": [
+        {
+          "id": "12392",
+          "title": "POP MART",
+          "price": 249.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9217",
+      "platform": "popmart",
+      "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9217/【US-Exclusive】θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791597291536_e5efa307cb725a040cc9e250fb9580d6.jpg",
+      "variants": [
+        {
+          "id": "12293",
+          "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_8769",
       "platform": "popmart",
       "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
@@ -3606,7 +3905,7 @@
           "title": "$199+ GWP - Spooky Bakehouse Series Fruit Fork",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
