@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-23T06:28:23.445815Z",
+  "timestamp": "2026-10-23T11:54:57.278817Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2626,6 +2626,29 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9303",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 400% Lustre of Liuli·Moonlight",
+      "url": "https://www.popmart.com/us/products/9303/MEGA-ROYAL-MOLLY-400%-Lustre-of-Liuli·Moonlight",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792726315280_a98dbfb0754927eb82bc4928afdb4c66.jpg",
+      "variants": [
+        {
+          "id": "12391",
+          "title": "POP MART",
+          "price": 2399.9,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9299",
       "platform": "popmart",
       "title": "CRYBABY Crying Round n Round Series - Vinyl Plush Pendant Blind Box",
@@ -3397,7 +3420,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3717,6 +3740,29 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9172",
+      "platform": "popmart",
+      "title": "THE MONSTERS 10th Aniversary Exhibition Limited Edition - Marker Set",
+      "url": "https://www.popmart.com/us/products/9172/THE-MONSTERS-10th-Aniversary-Exhibition-Limited-Edition---Marker-Set",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1791776318916_4609d0867b8a7c7b8159e12c7990d135.jpg",
+      "variants": [
+        {
+          "id": "12238",
+          "title": "POP MART",
+          "price": 36.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9119",
       "platform": "popmart",
       "title": "Hirono × Harry Potter Series Figures",
@@ -3736,7 +3782,7 @@
           "title": "POP MART",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
