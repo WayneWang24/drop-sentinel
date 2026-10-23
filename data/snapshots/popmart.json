@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-23T01:41:57.801742Z",
+  "timestamp": "2026-10-23T06:28:23.445815Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2626,29 +2626,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_9421",
-      "platform": "popmart",
-      "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
-      "url": "https://www.popmart.com/us/products/9421/【US-Exclusive】θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792636878326_588a7e3c034af2a98d1aa7a15796b4a5.jpg",
-      "variants": [
-        {
-          "id": "12528",
-          "title": "POP MART",
-          "price": 39.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_9299",
       "platform": "popmart",
       "title": "CRYBABY Crying Round n Round Series - Vinyl Plush Pendant Blind Box",
@@ -2744,6 +2721,29 @@
           "id": "12445",
           "title": "POP MART",
           "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9421",
+      "platform": "popmart",
+      "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9421/【US-Exclusive】θ-SKULLPANDA-Sunlight-Wanderer-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792636878326_588a7e3c034af2a98d1aa7a15796b4a5.jpg",
+      "variants": [
+        {
+          "id": "12528",
+          "title": "POP MART",
+          "price": 39.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -2891,7 +2891,7 @@
           "title": "POP MART",
           "price": 249.9,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2914,7 +2914,7 @@
           "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2981,7 +2981,7 @@
           "title": "POP MART",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
