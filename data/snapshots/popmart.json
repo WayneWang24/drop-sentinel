@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-23T11:54:57.278817Z",
+  "timestamp": "2026-10-23T16:05:24.236999Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2937,7 +2937,7 @@
           "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
