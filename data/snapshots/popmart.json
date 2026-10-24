@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-24T01:14:52.855662Z",
+  "timestamp": "2026-10-24T05:54:50.722671Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -52,7 +52,7 @@
           "title": "Teletubbies ",
           "price": 159.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1984,7 +1984,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2937,7 +2937,7 @@
           "title": "【US Exclusive】θ SKULLPANDA Sunlight Wanderer Plush Doll Pendant",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
