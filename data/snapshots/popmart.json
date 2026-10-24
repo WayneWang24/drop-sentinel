@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-24T13:49:13.215735Z",
+  "timestamp": "2026-10-24T17:05:08.722077Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1984,7 +1984,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3028,7 +3028,7 @@
           "title": "POP MART",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
