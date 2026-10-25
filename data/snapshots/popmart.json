@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-25T01:40:27.366338Z",
+  "timestamp": "2026-10-25T06:50:00.516079Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -44,7 +44,7 @@
           "title": "Teletubbies ",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -52,7 +52,7 @@
           "title": "Teletubbies ",
           "price": 159.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -710,7 +710,7 @@
           "title": "CRYBABY",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1984,7 +1984,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2615,7 +2615,7 @@
           "title": "Overwatch",
           "price": 209.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
