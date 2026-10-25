@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-25T06:50:00.516079Z",
+  "timestamp": "2026-10-25T12:11:54.336557Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -44,7 +44,7 @@
           "title": "Teletubbies ",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
