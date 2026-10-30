@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-10-30T00:55:18.401856Z",
+  "timestamp": "2026-10-30T06:36:57.981884Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1197,7 +1197,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1205,7 +1205,7 @@
           "title": "POP MART",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1588,7 +1588,7 @@
           "title": "Hirono",
           "price": 179.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2094,7 +2094,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2666,6 +2666,900 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9413",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series Figures",
+      "url": "https://www.popmart.com/us/products/9413/Peach-Riot-Sugar-Mode-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792745501045_e4923170e78f3ebb99bd7dfa27d82e2b.jpg",
+      "variants": [
+        {
+          "id": "12514",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12515",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9435",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series Figures",
+      "url": "https://www.popmart.com/us/products/9435/Peach-Riot-Sugar-Mode-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792745501045_e4923170e78f3ebb99bd7dfa27d82e2b.jpg",
+      "variants": [
+        {
+          "id": "12545",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9414",
+      "platform": "popmart",
+      "title": "Peach Riot × KPop Demon Hunters Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9414/Peach-Riot-×-KPop-Demon-Hunters-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792750931911_45c48cce2e2d7fbdea1afc51c7c6ad26.jpg",
+      "variants": [
+        {
+          "id": "12516",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12517",
+          "title": "POP MART",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9436",
+      "platform": "popmart",
+      "title": "Peach Riot × KPop Demon Hunters Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9436/Peach-Riot-×-KPop-Demon-Hunters-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792750931911_45c48cce2e2d7fbdea1afc51c7c6ad26.jpg",
+      "variants": [
+        {
+          "id": "12546",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9405",
+      "platform": "popmart",
+      "title": "Angry Molly [PLAY] Disney Princess Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9405/Angry-Molly-[PLAY]-Disney-Princess-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792742237287_a9e3ce38d919020f3ac119bf72183795.jpg",
+      "variants": [
+        {
+          "id": "12500",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12501",
+          "title": "POP MART",
+          "price": 175.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9429",
+      "platform": "popmart",
+      "title": "Angry Molly [PLAY] Disney Princess Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9429/Angry-Molly-[PLAY]-Disney-Princess-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792742237287_a9e3ce38d919020f3ac119bf72183795.jpg",
+      "variants": [
+        {
+          "id": "12539",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9418",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9418/RiboDiary-Forest-Gathering-Day-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792746921706_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+      "variants": [
+        {
+          "id": "12522",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12523",
+          "title": "POP MART",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9448",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9448/RiboDiary-Forest-Gathering-Day-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792746921706_51f8ba8bb40b10288601ff9b8472c7ec.jpg",
+      "variants": [
+        {
+          "id": "12560",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9420",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Figures",
+      "url": "https://www.popmart.com/us/products/9420/RiboDiary-Forest-Gathering-Day-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792746539280_fc4f4d6975933c8392acf314281f353e.jpg",
+      "variants": [
+        {
+          "id": "12526",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12527",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9451",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Figures",
+      "url": "https://www.popmart.com/us/products/9451/RiboDiary-Forest-Gathering-Day-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792746539280_fc4f4d6975933c8392acf314281f353e.jpg",
+      "variants": [
+        {
+          "id": "12564",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9406",
+      "platform": "popmart",
+      "title": "BABY MOLLY Disney Princess Series MINI Action Figure",
+      "url": "https://www.popmart.com/us/products/9406/BABY-MOLLY-Disney-Princess-Series-MINI-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792742712176_e275bb5bfa29500db8630a7f5a1e9828.jpg",
+      "variants": [
+        {
+          "id": "12502",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12503",
+          "title": "POP MART",
+          "price": 175.92,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9430",
+      "platform": "popmart",
+      "title": "BABY MOLLY Disney Princess Series MINI Action Figure",
+      "url": "https://www.popmart.com/us/products/9430/BABY-MOLLY-Disney-Princess-Series-MINI-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792742712176_e275bb5bfa29500db8630a7f5a1e9828.jpg",
+      "variants": [
+        {
+          "id": "12540",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9054",
+      "platform": "popmart",
+      "title": "1001MOONS The Moonlight Gathering Guide Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9054/1001MOONS-The-Moonlight-Gathering-Guide-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792741766114_fea0d0f1305745a63f197fb9512893f4.jpg",
+      "variants": [
+        {
+          "id": "12080",
+          "title": "POP MART",
+          "price": 24.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12081",
+          "title": "POP MART",
+          "price": 149.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9428",
+      "platform": "popmart",
+      "title": "1001MOONS The Moonlight Gathering Guide Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9428/1001MOONS-The-Moonlight-Gathering-Guide-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792741766114_fea0d0f1305745a63f197fb9512893f4.jpg",
+      "variants": [
+        {
+          "id": "12538",
+          "title": "POP MART",
+          "price": 24.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9408",
+      "platform": "popmart",
+      "title": "MOLLY Rapunzel 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/9408/MOLLY-Rapunzel-1-8-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792743297278_3bf070093da63d7abc27b7f313ea1fef.jpg",
+      "variants": [
+        {
+          "id": "12505",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9407",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 100% Lustre of Liuli · Golden Hour",
+      "url": "https://www.popmart.com/us/products/9407/MEGA-ROYAL-MOLLY-100%-Lustre-of-Liuli-·-Golden-Hour",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792743083555_4433e18c7f20f9519979843bd3b3b66e.jpg",
+      "variants": [
+        {
+          "id": "12504",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9410",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Earphone Case",
+      "url": "https://www.popmart.com/us/products/9410/Peach-Riot-Sugar-Mode-Series---Earphone-Case",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792744409530_8f77a461f039107f9d05084902b551ba.jpg",
+      "variants": [
+        {
+          "id": "12508",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12509",
+          "title": "POP MART",
+          "price": 59.97,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9432",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Earphone Case",
+      "url": "https://www.popmart.com/us/products/9432/Peach-Riot-Sugar-Mode-Series---Earphone-Case",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792744409530_8f77a461f039107f9d05084902b551ba.jpg",
+      "variants": [
+        {
+          "id": "12542",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9411",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Modular Bracelet",
+      "url": "https://www.popmart.com/us/products/9411/Peach-Riot-Sugar-Mode-Series---Modular-Bracelet",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792744740980_78302fc78f4747a2d00cb99867838416.jpg",
+      "variants": [
+        {
+          "id": "12510",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12511",
+          "title": "POP MART",
+          "price": 89.97,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9433",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Modular Bracelet",
+      "url": "https://www.popmart.com/us/products/9433/Peach-Riot-Sugar-Mode-Series---Modular-Bracelet",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792744740980_78302fc78f4747a2d00cb99867838416.jpg",
+      "variants": [
+        {
+          "id": "12543",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9412",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Card Holder",
+      "url": "https://www.popmart.com/us/products/9412/Peach-Riot-Sugar-Mode-Series---Card-Holder",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792745163665_65381545103ba4dcd3c802863e51e3c9.jpg",
+      "variants": [
+        {
+          "id": "12512",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12513",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9434",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Card Holder",
+      "url": "https://www.popmart.com/us/products/9434/Peach-Riot-Sugar-Mode-Series---Card-Holder",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792745163665_65381545103ba4dcd3c802863e51e3c9.jpg",
+      "variants": [
+        {
+          "id": "12544",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9409",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Short Lanyard Charm",
+      "url": "https://www.popmart.com/us/products/9409/Peach-Riot-Sugar-Mode-Series---Short-Lanyard-Charm",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792744113169_b0c9d9ab01fe30fbab67c368903890ed.jpg",
+      "variants": [
+        {
+          "id": "12506",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12507",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9431",
+      "platform": "popmart",
+      "title": "Peach Riot Sugar Mode Series - Short Lanyard Charm",
+      "url": "https://www.popmart.com/us/products/9431/Peach-Riot-Sugar-Mode-Series---Short-Lanyard-Charm",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792744113169_b0c9d9ab01fe30fbab67c368903890ed.jpg",
+      "variants": [
+        {
+          "id": "12541",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9417",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Plush Doll Bag - Bearibo",
+      "url": "https://www.popmart.com/us/products/9417/RiboDiary-Forest-Gathering-Day-Series-Plush-Doll-Bag---Bearibo",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792748501881_0d3776ad585b2d502b21b8082a771cc6.jpg",
+      "variants": [
+        {
+          "id": "12521",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9419",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Plush Mini Bag",
+      "url": "https://www.popmart.com/us/products/9419/RiboDiary-Forest-Gathering-Day-Series-Plush-Mini-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792749028694_a8a8f6672d5e3c6632dbd56692ce11d3.jpg",
+      "variants": [
+        {
+          "id": "12524",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12525",
+          "title": "POP MART",
+          "price": 167.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9449",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Plush Mini Bag",
+      "url": "https://www.popmart.com/us/products/9449/RiboDiary-Forest-Gathering-Day-Series-Plush-Mini-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792749028694_a8a8f6672d5e3c6632dbd56692ce11d3.jpg",
+      "variants": [
+        {
+          "id": "12561",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9415",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Backpack-Bearibo",
+      "url": "https://www.popmart.com/us/products/9415/RiboDiary-Forest-Gathering-Day-Series-Backpack-Bearibo",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792748282646_cda749c711a47282fca27bcf4fac79d2.jpg",
+      "variants": [
+        {
+          "id": "12518",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9416",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Hand Towel",
+      "url": "https://www.popmart.com/us/products/9416/RiboDiary-Forest-Gathering-Day-Series-Hand-Towel",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792748829574_677654b36831ae68aa2472ece5bc0ba2.jpg",
+      "variants": [
+        {
+          "id": "12519",
+          "title": "POP MART",
+          "price": 15.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12520",
+          "title": "POP MART",
+          "price": 95.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9447",
+      "platform": "popmart",
+      "title": "RiboDiary Forest Gathering Day Series Hand Towel",
+      "url": "https://www.popmart.com/us/products/9447/RiboDiary-Forest-Gathering-Day-Series-Hand-Towel",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792748829574_677654b36831ae68aa2472ece5bc0ba2.jpg",
+      "variants": [
+        {
+          "id": "12559",
+          "title": "POP MART",
+          "price": 15.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9439",
+      "platform": "popmart",
+      "title": "Molly 19th Anniversary Statue",
+      "url": "https://www.popmart.com/us/products/9439/Molly-19th-Anniversary-Statue",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792748571384_66640fea458f28649a98e5e9dffd5b68.jpg",
+      "variants": [
+        {
+          "id": "12550",
+          "title": "POP MART",
+          "price": 379.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12549",
+          "title": "POP MART",
+          "price": 399.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9438",
+      "platform": "popmart",
+      "title": "MOLLY IT XXL｜Art Toy",
+      "url": "https://www.popmart.com/us/products/9438/MOLLY-IT-XXL｜Art-Toy",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792748048889_9c0df4c40c0ffbb683c2061f4d5abb07.jpg",
+      "variants": [
+        {
+          "id": "12548",
+          "title": "POP MART",
+          "price": 449.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9440",
+      "platform": "popmart",
+      "title": "MOLLY The Endless Eden: Epilogue｜Art Toy",
+      "url": "https://www.popmart.com/us/products/9440/MOLLY-The-Endless-Eden:-Epilogue｜Art-Toy",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792748909412_84433914aad9b3337bea4671612021a9.jpg",
+      "variants": [
+        {
+          "id": "12551",
+          "title": "POP MART",
+          "price": 219.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9437",
+      "platform": "popmart",
+      "title": "MOLLY Chucky | Designer Toy",
+      "url": "https://www.popmart.com/us/products/9437/MOLLY-Chucky-|-Designer-Toy",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792747673966_80fec8992793e05c85aa43aa0bc62d59.jpg",
+      "variants": [
+        {
+          "id": "12547",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9303",
       "platform": "popmart",
       "title": "MEGA ROYAL MOLLY 400% Lustre of Liuli·Moonlight",
@@ -2984,7 +3878,7 @@
           "title": "POP MART",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3130,7 +4024,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -4319,7 +5213,7 @@
           "title": "POP MART",
           "price": 219.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4626,7 +5520,7 @@
           "title": "POP MART",
           "price": 12.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -4634,7 +5528,7 @@
           "title": "POP MART",
           "price": 51.96,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4888,7 +5782,7 @@
           "title": "POP MART",
           "price": 449.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -5134,7 +6028,7 @@
           "title": "POP MART",
           "price": 12.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
