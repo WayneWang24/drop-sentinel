@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-01T13:42:31.791415Z",
+  "timestamp": "2026-11-01T18:34:01.776181Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1166,7 +1166,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1174,7 +1174,7 @@
           "title": "POP MART",
           "price": 269.91,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1580,7 +1580,7 @@
           "title": "Hirono",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
