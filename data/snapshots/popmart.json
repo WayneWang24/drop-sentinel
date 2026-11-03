@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-03T01:14:38.796928Z",
+  "timestamp": "2026-11-03T07:55:20.472436Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -22,7 +22,7 @@
           "title": "DIMOO",
           "price": 239.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -418,7 +418,7 @@
           "title": "CRYBABY",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -912,7 +912,7 @@
           "title": "Demon Slayer",
           "price": 20.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -920,7 +920,7 @@
           "title": "Demon Slayer",
           "price": 251.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1525,7 +1525,7 @@
           "title": "POP MART",
           "price": 119.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3982,7 +3982,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5434,29 +5434,6 @@
           "id": "11876",
           "title": "POP MART",
           "price": 64.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8883",
-      "platform": "popmart",
-      "title": "Lucky Bag – Mini Treats",
-      "url": "https://www.popmart.com/us/products/8883/Lucky-Bag-–-Mini-Treats",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790259658626_89802df1914da25f6a3586ddf21e0871.jpg",
-      "variants": [
-        {
-          "id": "11875",
-          "title": "POP MART",
-          "price": 39.99,
           "currency": "USD",
           "available": false,
           "sku": ""
