@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-04T01:22:57.150194Z",
+  "timestamp": "2026-11-04T07:39:57.880874Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -350,7 +350,7 @@
           "title": "WHY SO SERIOUS",
           "price": 36.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -358,7 +358,7 @@
           "title": "WHY SO SERIOUS",
           "price": 295.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -642,7 +642,7 @@
           "title": "SpongeBob",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -650,7 +650,7 @@
           "title": "SpongeBob",
           "price": 107.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -800,7 +800,7 @@
           "title": "Teletubbies ",
           "price": 167.92,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1525,7 +1525,7 @@
           "title": "POP MART",
           "price": 119.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2083,7 +2083,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2091,7 +2091,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2666,7 +2666,7 @@
       "platform": "popmart",
       "title": "Peach Riot Sugar Mode Series Figures",
       "url": "https://www.popmart.com/us/products/9413/Peach-Riot-Sugar-Mode-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792745501045_e4923170e78f3ebb99bd7dfa27d82e2b.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793773547729_219d216acd8e41253c4ee0d8b60115b2.jpg",
       "variants": [
         {
           "id": "12514",
@@ -2697,7 +2697,7 @@
       "platform": "popmart",
       "title": "Peach Riot Sugar Mode Series Figures",
       "url": "https://www.popmart.com/us/products/9435/Peach-Riot-Sugar-Mode-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792745501045_e4923170e78f3ebb99bd7dfa27d82e2b.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793773547729_219d216acd8e41253c4ee0d8b60115b2.jpg",
       "variants": [
         {
           "id": "12545",
@@ -2990,7 +2990,7 @@
       "platform": "popmart",
       "title": "1001MOONS The Moonlight Gathering Guide Series Plush Doll Pendant",
       "url": "https://www.popmart.com/us/products/9054/1001MOONS-The-Moonlight-Gathering-Guide-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792741766114_fea0d0f1305745a63f197fb9512893f4.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793773690543_453081c7a38fd1d7259f13a0a7afcf69.jpg",
       "variants": [
         {
           "id": "12080",
@@ -3021,7 +3021,7 @@
       "platform": "popmart",
       "title": "1001MOONS The Moonlight Gathering Guide Series Plush Doll Pendant",
       "url": "https://www.popmart.com/us/products/9428/1001MOONS-The-Moonlight-Gathering-Guide-Series-Plush-Doll-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1792741766114_fea0d0f1305745a63f197fb9512893f4.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793773690543_453081c7a38fd1d7259f13a0a7afcf69.jpg",
       "variants": [
         {
           "id": "12538",
@@ -4843,7 +4843,7 @@
           "title": "POP MART",
           "price": 219.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
