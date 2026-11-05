@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-05T01:47:07.683663Z",
+  "timestamp": "2026-11-05T08:42:15.763951Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1525,7 +1525,7 @@
           "title": "POP MART",
           "price": 119.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2083,7 +2083,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2812,7 +2812,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3828,7 +3828,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -3982,7 +3982,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -5413,29 +5413,6 @@
           "price": 449.9,
           "currency": "USD",
           "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8884",
-      "platform": "popmart",
-      "title": "Lucky Bag – Deluxe Picks",
-      "url": "https://www.popmart.com/us/products/8884/Lucky-Bag-–-Deluxe-Picks",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1790259887289_4bcb2fbb4335e83c29963b69c472e078.jpg",
-      "variants": [
-        {
-          "id": "11876",
-          "title": "POP MART",
-          "price": 64.99,
-          "currency": "USD",
-          "available": false,
           "sku": ""
         }
       ],
