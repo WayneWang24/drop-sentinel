@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-05T08:42:15.763951Z",
+  "timestamp": "2026-11-05T16:50:43.328766Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -4843,7 +4843,7 @@
           "title": "POP MART",
           "price": 219.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
