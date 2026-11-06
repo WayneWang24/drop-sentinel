@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-05T22:26:45.732625Z",
+  "timestamp": "2026-11-06T02:39:57.235412Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2657,6 +2657,655 @@
       ],
       "tags": [
         "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9563",
+      "platform": "popmart",
+      "title": "DIMOO Mood Forecast Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9563/DIMOO-Mood-Forecast-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793349386868_637fe335475699d29a1bf80f84373353.jpg",
+      "variants": [
+        {
+          "id": "12707",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12708",
+          "title": "POP MART",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9580",
+      "platform": "popmart",
+      "title": "DIMOO Mood Forecast Series-Vinyl Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9580/DIMOO-Mood-Forecast-Series-Vinyl-Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793349386868_637fe335475699d29a1bf80f84373353.jpg",
+      "variants": [
+        {
+          "id": "12737",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9567",
+      "platform": "popmart",
+      "title": "PPULBATU with TOMORROW X TOGETHER STAR Series Vinyl Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9567/PPULBATU-with-TOMORROW-X-TOGETHER-STAR-Series-Vinyl-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793350762566_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
+      "variants": [
+        {
+          "id": "12713",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12714",
+          "title": "POP MART",
+          "price": 179.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9582",
+      "platform": "popmart",
+      "title": "PPULBATU with TOMORROW X TOGETHER STAR Series Vinyl Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9582/PPULBATU-with-TOMORROW-X-TOGETHER-STAR-Series-Vinyl-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793350762566_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
+      "variants": [
+        {
+          "id": "12739",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9562",
+      "platform": "popmart",
+      "title": "DIMOO‘s Flying Fantasia Series Figures",
+      "url": "https://www.popmart.com/us/products/9562/DIMOO‘s-Flying-Fantasia-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793348957005_c1a6fe4d68a4ada70417d1d6ef97412c.jpg",
+      "variants": [
+        {
+          "id": "12705",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12706",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9579",
+      "platform": "popmart",
+      "title": "DIMOO‘s Flying Fantasia Series Figures",
+      "url": "https://www.popmart.com/us/products/9579/DIMOO‘s-Flying-Fantasia-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793348957005_c1a6fe4d68a4ada70417d1d6ef97412c.jpg",
+      "variants": [
+        {
+          "id": "12736",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9565",
+      "platform": "popmart",
+      "title": "POLAR - Season 4 <Snow City Residents> Series Figures",
+      "url": "https://www.popmart.com/us/products/9565/POLAR---Season-4-<Snow-City-Residents>-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793349792162_0b2ea93cbd18d2361bc72c3c39e69a20.jpg",
+      "variants": [
+        {
+          "id": "12710",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12711",
+          "title": "POP MART",
+          "price": 263.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9581",
+      "platform": "popmart",
+      "title": "POLAR - Season 4 <Snow City Residents> Series Figures",
+      "url": "https://www.popmart.com/us/products/9581/POLAR---Season-4-<Snow-City-Residents>-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793349792162_0b2ea93cbd18d2361bc72c3c39e69a20.jpg",
+      "variants": [
+        {
+          "id": "12738",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9559",
+      "platform": "popmart",
+      "title": "DIMOO's Flying Fantasia Series-Car Fragrance Blind Box",
+      "url": "https://www.popmart.com/us/products/9559/DIMOO's-Flying-Fantasia-Series-Car-Fragrance-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793347879165_be7155d52cce3d503dbc715f7e9c4498.jpg",
+      "variants": [
+        {
+          "id": "12699",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12700",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9576",
+      "platform": "popmart",
+      "title": "DIMOO's Flying Fantasia Series-Car Fragrance Blind Box",
+      "url": "https://www.popmart.com/us/products/9576/DIMOO's-Flying-Fantasia-Series-Car-Fragrance-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793347879165_be7155d52cce3d503dbc715f7e9c4498.jpg",
+      "variants": [
+        {
+          "id": "12733",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9561",
+      "platform": "popmart",
+      "title": "DIMOO's Flying Fantasia Series-Electronic Lighting Blind Box",
+      "url": "https://www.popmart.com/us/products/9561/DIMOO's-Flying-Fantasia-Series-Electronic-Lighting-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793348798470_f11697fd8d7a8739bc00e669f792de1e.jpg",
+      "variants": [
+        {
+          "id": "12703",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12704",
+          "title": "POP MART",
+          "price": 167.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9578",
+      "platform": "popmart",
+      "title": "DIMOO's Flying Fantasia Series-Electronic Lighting Blind Box",
+      "url": "https://www.popmart.com/us/products/9578/DIMOO's-Flying-Fantasia-Series-Electronic-Lighting-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793348798470_f11697fd8d7a8739bc00e669f792de1e.jpg",
+      "variants": [
+        {
+          "id": "12735",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9560",
+      "platform": "popmart",
+      "title": "DIMOO's Flying Fantasia Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9560/DIMOO's-Flying-Fantasia-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793348555798_f515685689763498c920a265858b0be4.jpg",
+      "variants": [
+        {
+          "id": "12701",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12702",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9577",
+      "platform": "popmart",
+      "title": "DIMOO's Flying Fantasia Series - Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9577/DIMOO's-Flying-Fantasia-Series---Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793348555798_f515685689763498c920a265858b0be4.jpg",
+      "variants": [
+        {
+          "id": "12734",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9585",
+      "platform": "popmart",
+      "title": "DIMOO's Flying Fantasia Series - Earphone Case",
+      "url": "https://www.popmart.com/us/products/9585/DIMOO's-Flying-Fantasia-Series---Earphone-Case",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793348367451_df1c4c7aa3eb4e16d38540469e9cc0cb.jpg",
+      "variants": [
+        {
+          "id": "12742",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9558",
+      "platform": "popmart",
+      "title": "DIMOO Endless Longing for Flight 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/9558/DIMOO-Endless-Longing-for-Flight-1-8-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793347673985_f840c54ae384fd465637e1387562023f.jpg",
+      "variants": [
+        {
+          "id": "12698",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9557",
+      "platform": "popmart",
+      "title": "DIMOO WORLD Into the Dreamscape Series Figures",
+      "url": "https://www.popmart.com/us/products/9557/DIMOO-WORLD-Into-the-Dreamscape-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793347407978_7c272b80b275bd7faef05d75449c4e26.jpg",
+      "variants": [
+        {
+          "id": "12696",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12697",
+          "title": "POP MART",
+          "price": 59.97,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9575",
+      "platform": "popmart",
+      "title": "DIMOO WORLD Into the Dreamscape Series Figures",
+      "url": "https://www.popmart.com/us/products/9575/DIMOO-WORLD-Into-the-Dreamscape-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793347407978_7c272b80b275bd7faef05d75449c4e26.jpg",
+      "variants": [
+        {
+          "id": "12732",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9564",
+      "platform": "popmart",
+      "title": "Nyota Kitten Love Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9564/Nyota-Kitten-Love-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793349638848_b95ed11701f2a71c648ba6217fd46fcd.jpg",
+      "variants": [
+        {
+          "id": "12709",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9568",
+      "platform": "popmart",
+      "title": "PPULBATU with TOMORROW X TOGETHER STAR Series Phone Lanyard",
+      "url": "https://www.popmart.com/us/products/9568/PPULBATU-with-TOMORROW-X-TOGETHER-STAR-Series-Phone-Lanyard",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793351352554_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
+      "variants": [
+        {
+          "id": "12715",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12716",
+          "title": "POP MART",
+          "price": 89.95,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9583",
+      "platform": "popmart",
+      "title": "PPULBATU with TOMORROW X TOGETHER STAR Series Phone Lanyard",
+      "url": "https://www.popmart.com/us/products/9583/PPULBATU-with-TOMORROW-X-TOGETHER-STAR-Series-Phone-Lanyard",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793351352554_1679091c5a880faf6fb5e6087eb1b2dc.jpg",
+      "variants": [
+        {
+          "id": "12740",
+          "title": "POP MART",
+          "price": 17.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9566",
+      "platform": "popmart",
+      "title": "PPULBATU with TOMORROW X TOGETHER STAR Series Plush Bag",
+      "url": "https://www.popmart.com/us/products/9566/PPULBATU-with-TOMORROW-X-TOGETHER-STAR-Series-Plush-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793350250464_c81e728d9d4c2f636f067f89cc14862c.jpg",
+      "variants": [
+        {
+          "id": "12712",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9573",
+      "platform": "popmart",
+      "title": "Demon Slayer Mugen Train Arc Series Block Figures Mugen Train",
+      "url": "https://www.popmart.com/us/products/9573/Demon-Slayer-Mugen-Train-Arc-Series-Block-Figures-Mugen-Train",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793351976780_de6a60a58d5ccef0f3b81282eac4b3bb.jpg",
+      "variants": [
+        {
+          "id": "12726",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12723",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12724",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12725",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12727",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12722",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12721",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
