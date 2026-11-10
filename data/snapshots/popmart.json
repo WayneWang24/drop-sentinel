@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-09T20:08:39.075856Z",
+  "timestamp": "2026-11-10T02:42:56.893106Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2083,7 +2083,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3515,7 +3515,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5538,7 +5538,7 @@
           "title": "POP MART",
           "price": 189.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -6060,106 +6060,6 @@
           "id": "11831",
           "title": "POP MART",
           "price": 449.9,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8843",
-      "platform": "popmart",
-      "title": "The Attic of Oddities Series Figures",
-      "url": "https://www.popmart.com/us/products/8843/The-Attic-of-Oddities-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788508283312_b2dee9b05b698aee989c2a413fea33ef.jpg",
-      "variants": [
-        {
-          "id": "11832",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "11833",
-          "title": "POP MART",
-          "price": 179.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8867",
-      "platform": "popmart",
-      "title": "The Attic of Oddities Series Figures",
-      "url": "https://www.popmart.com/us/products/8867/The-Attic-of-Oddities-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788508283312_b2dee9b05b698aee989c2a413fea33ef.jpg",
-      "variants": [
-        {
-          "id": "11857",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8844",
-      "platform": "popmart",
-      "title": "Spooky Bakehouse Series - Labubu Cookie Mini Bag",
-      "url": "https://www.popmart.com/us/products/8844/Spooky-Bakehouse-Series---Labubu-Cookie-Mini-Bag",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788510574443_4a3372186408cfcbc0b2a536e7f36cf7.jpg",
-      "variants": [
-        {
-          "id": "11834",
-          "title": "POP MART",
-          "price": 27.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8845",
-      "platform": "popmart",
-      "title": "Spooky Bakehouse Series - Twinkle Twinkle Earphone Case",
-      "url": "https://www.popmart.com/us/products/8845/Spooky-Bakehouse-Series---Twinkle-Twinkle-Earphone-Case",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1788508836865_d3163e7c1d655ff3043c5060389fe33c.jpg",
-      "variants": [
-        {
-          "id": "11835",
-          "title": "POP MART",
-          "price": 21.99,
           "currency": "USD",
           "available": true,
           "sku": ""
