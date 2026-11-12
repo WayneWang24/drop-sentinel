@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-12T04:15:52.836201Z",
+  "timestamp": "2026-11-12T13:00:13.956866Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1890,7 +1890,7 @@
         {
           "id": "2192",
           "title": "DIMOO",
-          "price": 191.88,
+          "price": 95.94,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -2657,6 +2657,121 @@
       ],
       "tags": [
         "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9793",
+      "platform": "popmart",
+      "title": "$129+ GWP -  Twinkle Twinkle Deluxe Surprise",
+      "url": "https://www.popmart.com/us/products/9793/$129+-GWP----Twinkle-Twinkle-Deluxe-Surprise",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794455913967_752ddb4841007c70a5e331b9570e75f9.jpg",
+      "variants": [
+        {
+          "id": "13090",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9794",
+      "platform": "popmart",
+      "title": "$129+ GWP -  Twinkle Twinkle Deluxe Surprise",
+      "url": "https://www.popmart.com/us/products/9794/$129+-GWP----Twinkle-Twinkle-Deluxe-Surprise",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794455913967_752ddb4841007c70a5e331b9570e75f9.jpg",
+      "variants": [
+        {
+          "id": "13091",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9791",
+      "platform": "popmart",
+      "title": "$79+ GWP -  Twinkle Twinkle Little Gift",
+      "url": "https://www.popmart.com/us/products/9791/$79+-GWP----Twinkle-Twinkle-Little-Gift",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794455808382_991bedd8f7bf7c31b1eeca54a1450fce.jpg",
+      "variants": [
+        {
+          "id": "13088",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9792",
+      "platform": "popmart",
+      "title": "$79+ GWP -  Twinkle Twinkle Little Gift",
+      "url": "https://www.popmart.com/us/products/9792/$79+-GWP----Twinkle-Twinkle-Little-Gift",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794455808382_991bedd8f7bf7c31b1eeca54a1450fce.jpg",
+      "variants": [
+        {
+          "id": "13089",
+          "title": "POP MART",
+          "price": 0.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9790",
+      "platform": "popmart",
+      "title": "Twinkle Twinkle - Holiday Season Lucky Box",
+      "url": "https://www.popmart.com/us/products/9790/Twinkle-Twinkle---Holiday-Season-Lucky-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794465087275_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "13087",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -4147,7 +4262,7 @@
           "title": "POP MART",
           "price": 449.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
