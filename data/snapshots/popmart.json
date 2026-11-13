@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-13T01:28:19.932366Z",
+  "timestamp": "2026-11-13T08:27:58.824382Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2091,7 +2091,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2657,6 +2657,345 @@
       ],
       "tags": [
         "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9672",
+      "platform": "popmart",
+      "title": "Wishes Come True Series - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9672/Wishes-Come-True-Series---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793955840137_70e2f94a34f64b521b246e45cc61ccb3.jpg",
+      "variants": [
+        {
+          "id": "12876",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12877",
+          "title": "POP MART",
+          "price": 299.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9730",
+      "platform": "popmart",
+      "title": "Wishes Come True Series - Plush Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9730/Wishes-Come-True-Series---Plush-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793955840137_70e2f94a34f64b521b246e45cc61ccb3.jpg",
+      "variants": [
+        {
+          "id": "13009",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9670",
+      "platform": "popmart",
+      "title": "The Powerpuff Girls × DC Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9670/The-Powerpuff-Girls-×-DC-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793955033027_575c6c07bc5c34d14213a737b1bcbf59.jpg",
+      "variants": [
+        {
+          "id": "12872",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12873",
+          "title": "POP MART",
+          "price": 161.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9729",
+      "platform": "popmart",
+      "title": "The Powerpuff Girls × DC Series Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9729/The-Powerpuff-Girls-×-DC-Series-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793955033027_575c6c07bc5c34d14213a737b1bcbf59.jpg",
+      "variants": [
+        {
+          "id": "13008",
+          "title": "POP MART",
+          "price": 26.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9666",
+      "platform": "popmart",
+      "title": "Hirono × UV WWR Square Garden Patrol Figure",
+      "url": "https://www.popmart.com/us/products/9666/Hirono-×-UV-WWR-Square-Garden-Patrol-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793953339206_427ad1dfc3feab2fbbf259b4f00ce4b6.jpg",
+      "variants": [
+        {
+          "id": "12866",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9671",
+      "platform": "popmart",
+      "title": "POP BEAN Wishes Come True Series",
+      "url": "https://www.popmart.com/us/products/9671/POP-BEAN-Wishes-Come-True-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793955423041_1cf0ad839b06348e6ce7e924079be043.jpg",
+      "variants": [
+        {
+          "id": "12874",
+          "title": "POP MART",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12875",
+          "title": "POP MART",
+          "price": 59.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9669",
+      "platform": "popmart",
+      "title": "WHERE WISHES COME TRUE SERIES - Sachet Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9669/WHERE-WISHES-COME-TRUE-SERIES---Sachet-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793954572842_dc2cce8239af3963f44f4cf19a047c13.jpg",
+      "variants": [
+        {
+          "id": "12870",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12871",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9728",
+      "platform": "popmart",
+      "title": "WHERE WISHES COME TRUE SERIES - Sachet Pendant Blind Box",
+      "url": "https://www.popmart.com/us/products/9728/WHERE-WISHES-COME-TRUE-SERIES---Sachet-Pendant-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793954572842_dc2cce8239af3963f44f4cf19a047c13.jpg",
+      "variants": [
+        {
+          "id": "13007",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9667",
+      "platform": "popmart",
+      "title": "A Very Monsters Countdown Gift Box - Snowy Night Carnival",
+      "url": "https://www.popmart.com/us/products/9667/A-Very-Monsters-Countdown-Gift-Box---Snowy-Night-Carnival",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793953700228_310615a6972b41ce1f0b26d239180e3b.jpg",
+      "variants": [
+        {
+          "id": "12867",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9673",
+      "platform": "popmart",
+      "title": "Wishes Come True Series - Lucky Longcap Vinyl Plush Doll",
+      "url": "https://www.popmart.com/us/products/9673/Wishes-Come-True-Series---Lucky-Longcap-Vinyl-Plush-Doll",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793956317915_4339b512e8edc32b5fb96672bd6eeb45.jpg",
+      "variants": [
+        {
+          "id": "12878",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9665",
+      "platform": "popmart",
+      "title": "Hirono × UV WWR Lucky Bertie Figurine",
+      "url": "https://www.popmart.com/us/products/9665/Hirono-×-UV-WWR-Lucky-Bertie-Figurine",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793953027810_0c953110f1cbb0c6deb66963e3d3718b.jpg",
+      "variants": [
+        {
+          "id": "12865",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9668",
+      "platform": "popmart",
+      "title": "WHERE WISHES COME TRUE SERIES - Crystal Ball Blind Box",
+      "url": "https://www.popmart.com/us/products/9668/WHERE-WISHES-COME-TRUE-SERIES---Crystal-Ball-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793954191239_0e1e1113c9ddf9fd46df8bcb61aafa5a.jpg",
+      "variants": [
+        {
+          "id": "12868",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "12869",
+          "title": "POP MART",
+          "price": 131.94,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9727",
+      "platform": "popmart",
+      "title": "WHERE WISHES COME TRUE SERIES - Crystal Ball Blind Box",
+      "url": "https://www.popmart.com/us/products/9727/WHERE-WISHES-COME-TRUE-SERIES---Crystal-Ball-Blind-Box",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793954191239_0e1e1113c9ddf9fd46df8bcb61aafa5a.jpg",
+      "variants": [
+        {
+          "id": "13006",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -3291,7 +3630,7 @@
           "title": "POP MART",
           "price": 59.97,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3360,7 +3699,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -5922,7 +6261,7 @@
           "title": "POP MART",
           "price": 51.96,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
