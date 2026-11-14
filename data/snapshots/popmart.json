@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-14T02:21:47.830525Z",
+  "timestamp": "2026-11-14T09:10:55.078358Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -74,7 +74,7 @@
           "title": "Teletubbies ",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -96,7 +96,7 @@
           "title": "Disney",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1002,7 +1002,7 @@
           "title": "THE MONSTERS",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -1024,7 +1024,7 @@
           "title": "THE MONSTERS",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2758,7 +2758,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3622,7 +3622,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
