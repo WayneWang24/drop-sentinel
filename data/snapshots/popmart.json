@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-16T19:59:02.776580Z",
+  "timestamp": "2026-11-17T02:46:50.657239Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -972,7 +972,7 @@
           "title": "THE MONSTERS",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1866,7 +1866,6 @@
         }
       ],
       "tags": [
-        "new",
         "pop_mart"
       ],
       "created_at": null,
@@ -1892,7 +1891,7 @@
           "title": "DIMOO",
           "price": 95.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2247,7 +2246,6 @@
         }
       ],
       "tags": [
-        "new",
         "pop_mart"
       ],
       "created_at": null,
@@ -2657,6 +2655,1468 @@
       ],
       "tags": [
         "nyota"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9724",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER PANTS",
+      "url": "https://www.popmart.com/us/products/9724/HIRONO-LIVING-WILD-SHELTER-PANTS",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794559783084_47de9dc3f2ea6d7560264096eb9298cc.jpg",
+      "variants": [
+        {
+          "id": "13000",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13001",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13002",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9723",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER CARDIGAN",
+      "url": "https://www.popmart.com/us/products/9723/HIRONO-LIVING-WILD-SHELTER-CARDIGAN",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794559595806_88b7904558f27453acd29bb26b8247e3.jpg",
+      "variants": [
+        {
+          "id": "12999",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9722",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER EARTHENWARE REVERSIBLE COAT OFF-WHITE",
+      "url": "https://www.popmart.com/us/products/9722/HIRONO-LIVING-WILD-SHELTER-EARTHENWARE-REVERSIBLE-COAT-OFF-WHITE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794559461585_5f3e2a29cb39d0cac790f1a2594caee6.jpg",
+      "variants": [
+        {
+          "id": "12998",
+          "title": "POP MART",
+          "price": 219.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12997",
+          "title": "POP MART",
+          "price": 219.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9721",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD‑SHELTER SHORT‑SLEEVED SHIRT",
+      "url": "https://www.popmart.com/us/products/9721/HIRONO-LIVING-WILD‑SHELTER-SHORT‑SLEEVED-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794559168840_d87f8a76425831db336f3f9e691d1476.jpg",
+      "variants": [
+        {
+          "id": "12995",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12996",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13134",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9719",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER LONG SLEEVED SHIRT",
+      "url": "https://www.popmart.com/us/products/9719/HIRONO-LIVING-WILD-SHELTER-LONG-SLEEVED-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794558721784_6427e3374a8a21749c7c8ad1cb3ad4d1.jpg",
+      "variants": [
+        {
+          "id": "12993",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12992",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9717",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER SWEATSHIRT",
+      "url": "https://www.popmart.com/us/products/9717/HIRONO-LIVING-WILD-SHELTER-SWEATSHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794560113443_da7482e9bede512af8005326d4c2c738.jpg",
+      "variants": [
+        {
+          "id": "12989",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12988",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13138",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13139",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13137",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9714",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER T-SHIRT",
+      "url": "https://www.popmart.com/us/products/9714/HIRONO-LIVING-WILD-SHELTER-T-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794557769398_1283ca08005c57c590143c51b68dc009.jpg",
+      "variants": [
+        {
+          "id": "12984",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12985",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13131",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13132",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13133",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9713",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER EMBROIDERED WIDE-LEG JEANS",
+      "url": "https://www.popmart.com/us/products/9713/HIRONO-LIVING-WILD-SHELTER-EMBROIDERED-WIDE-LEG-JEANS",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794556540157_a12d081a97cc2714b08e2dd6b5a0f5ff.jpg",
+      "variants": [
+        {
+          "id": "12981",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12982",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12983",
+          "title": "POP MART",
+          "price": 159.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9712",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER EMBROIDERED DENIM JACKET",
+      "url": "https://www.popmart.com/us/products/9712/HIRONO-LIVING-WILD-SHELTER-EMBROIDERED-DENIM-JACKET",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794556381493_880f1a188dc4994b4ec3785de0e9f6d7.jpg",
+      "variants": [
+        {
+          "id": "12978",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12979",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12980",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9711",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER PATCHED LEISURE SHORTS KHAKI",
+      "url": "https://www.popmart.com/us/products/9711/HIRONO-LIVING-WILD-SHELTER-PATCHED-LEISURE-SHORTS-KHAKI",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794556229022_717480fae4edfa1ddf5210971fe07e68.jpg",
+      "variants": [
+        {
+          "id": "12975",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12976",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12977",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9710",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SHELTER PANTS",
+      "url": "https://www.popmart.com/us/products/9710/HIRONO-LIVING-WILD-SHELTER-PANTS",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794558365464_71e2a4c71d7f98d0c0f0c2b3e16c64da.jpg",
+      "variants": [
+        {
+          "id": "12974",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12973",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9709",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD - T-SHIRT",
+      "url": "https://www.popmart.com/us/products/9709/HIRONO-LIVING-WILD---T-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794558195256_e9f199e031c57269ef86d8ff0d8ae389.jpg",
+      "variants": [
+        {
+          "id": "12972",
+          "title": "POP MART",
+          "price": 69.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9705",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-SCRAPBOOK SWEATSHIRT WASHED BLACK",
+      "url": "https://www.popmart.com/us/products/9705/HIRONO-LIVING-WILD-SCRAPBOOK-SWEATSHIRT-WASHED-BLACK",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794554549933_cb45742e921a0e636bdfd775c297ace5.jpg",
+      "variants": [
+        {
+          "id": "12967",
+          "title": "POP MART",
+          "price": 109.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12968",
+          "title": "POP MART",
+          "price": 109.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9704",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-FREEDOM ISLAND WANDERER PATCHWORK STRIPED LONG-SLEEVE T-SHIRT",
+      "url": "https://www.popmart.com/us/products/9704/HIRONO-LIVING-WILD-FREEDOM-ISLAND-WANDERER-PATCHWORK-STRIPED-LONG-SLEEVE-T-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794554411238_cb45742e921a0e636bdfd775c297ace5.jpg",
+      "variants": [
+        {
+          "id": "12963",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12966",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12964",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12965",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9703",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-FREEDOM ISLAND WANDERER BULGARIAN STRIPED SHIRT",
+      "url": "https://www.popmart.com/us/products/9703/HIRONO-LIVING-WILD-FREEDOM-ISLAND-WANDERER-BULGARIAN-STRIPED-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794554281985_f586e02e42d10b5e57ffa18e884cc792.jpg",
+      "variants": [
+        {
+          "id": "12962",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12960",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12961",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12959",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9702",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-FREEDOM ISLAND WANDERER BULGARIAN SHIRT JACKET",
+      "url": "https://www.popmart.com/us/products/9702/HIRONO-LIVING-WILD-FREEDOM-ISLAND-WANDERER-BULGARIAN-SHIRT-JACKET",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794554162933_cb45742e921a0e636bdfd775c297ace5.jpg",
+      "variants": [
+        {
+          "id": "12955",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12957",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12958",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12956",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9701",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-FREEDOM ISLAND NAUTICAL DIRTY WASH APPLIQUE LONG-SLEEVE T-SHIRT",
+      "url": "https://www.popmart.com/us/products/9701/HIRONO-LIVING-WILD-FREEDOM-ISLAND-NAUTICAL-DIRTY-WASH-APPLIQUE-LONG-SLEEVE-T-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794554008965_cb45742e921a0e636bdfd775c297ace5.jpg",
+      "variants": [
+        {
+          "id": "12951",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12952",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12953",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12954",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9700",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-FREEDOM ISLAND NAUTICAL FLAG STRIPED SHORT-BRIM CAP",
+      "url": "https://www.popmart.com/us/products/9700/HIRONO-LIVING-WILD-FREEDOM-ISLAND-NAUTICAL-FLAG-STRIPED-SHORT-BRIM-CAP",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794555287398_3ac108a7c83ea6a85ebe65ae93256bb7.jpg",
+      "variants": [
+        {
+          "id": "12950",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9699",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-FREEDOM ISLAND NAUTICAL FLAG PATCHWORK SHORT-BRIM CAP BLUE",
+      "url": "https://www.popmart.com/us/products/9699/HIRONO-LIVING-WILD-FREEDOM-ISLAND-NAUTICAL-FLAG-PATCHWORK-SHORT-BRIM-CAP-BLUE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794555177264_7fb856a050e324574c8f3705acdd65bf.jpg",
+      "variants": [
+        {
+          "id": "12949",
+          "title": "POP MART",
+          "price": 49.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9697",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-VOYAGER EMBROIDERED SHORT-SLEEVE SHIRT",
+      "url": "https://www.popmart.com/us/products/9697/HIRONO-LIVING-WILD-VOYAGER-EMBROIDERED-SHORT-SLEEVE-SHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794553735029_af4f25806fc3311868a448891860856e.jpg",
+      "variants": [
+        {
+          "id": "12941",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13130",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12942",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12944",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13127",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13128",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13129",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12943",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9695",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD - VOYAGER WAVE-WAIST SHORTS",
+      "url": "https://www.popmart.com/us/products/9695/HIRONO-LIVING-WILD---VOYAGER-WAVE-WAIST-SHORTS",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794553027276_85e64c748105eb7b27356a361c7253e5.jpg",
+      "variants": [
+        {
+          "id": "12934",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12933",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12936",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13124",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13125",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13126",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12935",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13123",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9694",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD - FREEDOM ISLAND VOYAGER NAVY CAP",
+      "url": "https://www.popmart.com/us/products/9694/HIRONO-LIVING-WILD---FREEDOM-ISLAND-VOYAGER-NAVY-CAP",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794568727043_8b4100a094e94770f082654aa22d731d.jpg",
+      "variants": [
+        {
+          "id": "12932",
+          "title": "POP MART",
+          "price": 79.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9692",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD‑VOYAGER SLEEVELESS STRIPED TEE",
+      "url": "https://www.popmart.com/us/products/9692/HIRONO-LIVING-WILD‑VOYAGER-SLEEVELESS-STRIPED-TEE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794552795489_f18d464d8e7e0af0b54395bfc4ce260e.png",
+      "variants": [
+        {
+          "id": "12924",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12926",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12927",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13122",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13119",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13120",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12925",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13121",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9690",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD- VOYAGER STRIPED TEE",
+      "url": "https://www.popmart.com/us/products/9690/HIRONO-LIVING-WILD--VOYAGER-STRIPED-TEE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794552261221_d5fbde6b47fee1cb9fb2bb1464022668.png",
+      "variants": [
+        {
+          "id": "12918",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12919",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12920",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13116",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13117",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13118",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9688",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD‑VOYAGER STRIPED TEE",
+      "url": "https://www.popmart.com/us/products/9688/HIRONO-LIVING-WILD‑VOYAGER-STRIPED-TEE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794551465399_0e0a1f756ffe4826d061ba3437ceb766.png",
+      "variants": [
+        {
+          "id": "12912",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12913",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12911",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13114",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13112",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13113",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13115",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12910",
+          "title": "POP MART",
+          "price": 69.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9687",
+      "platform": "popmart",
+      "title": "Hirono Living Wild – Freedom Island Nautical Striped Shorts",
+      "url": "https://www.popmart.com/us/products/9687/Hirono-Living-Wild-–-Freedom-Island-Nautical-Striped-Shorts",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794551049450_ae917fcd3f4a78267428c22855a8ba68.png",
+      "variants": [
+        {
+          "id": "12908",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12906",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12907",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12909",
+          "title": "POP MART",
+          "price": 109.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9685",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD - FREEDOM ISLAND WASHED TEE",
+      "url": "https://www.popmart.com/us/products/9685/HIRONO-LIVING-WILD---FREEDOM-ISLAND-WASHED-TEE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794547274712_54b000464e476df7d5615b1ba8fafb12.png",
+      "variants": [
+        {
+          "id": "12900",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12901",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12898",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13108",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13109",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12899",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13110",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13111",
+          "title": "POP MART",
+          "price": 99.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9684",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD-FREEDOM ISLAND STORM LINEN LONG-SLEEVE TEE – SAND",
+      "url": "https://www.popmart.com/us/products/9684/HIRONO-LIVING-WILD-FREEDOM-ISLAND-STORM-LINEN-LONG-SLEEVE-TEE-–-SAND",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794546941999_209bcd0a1c20d4d851f1de6e0cca3c57.png",
+      "variants": [
+        {
+          "id": "12894",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12895",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12896",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12897",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9683",
+      "platform": "popmart",
+      "title": "HIRONO LIVING WILD SNOWFIELD LOG CABIN PATCHWORK CARGO PANTS",
+      "url": "https://www.popmart.com/us/products/9683/HIRONO-LIVING-WILD-SNOWFIELD-LOG-CABIN-PATCHWORK-CARGO-PANTS",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794546456723_46299125d32711f6fed474939fad98f3.jpg",
+      "variants": [
+        {
+          "id": "12892",
+          "title": "POP MART",
+          "price": 199.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12893",
+          "title": "POP MART",
+          "price": 239.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9679",
+      "platform": "popmart",
+      "title": "HIRONO × CLOT-YIN-YANG SWEATSHIRT",
+      "url": "https://www.popmart.com/us/products/9679/HIRONO-×-CLOT-YIN-YANG-SWEATSHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794554798905_aaad25c8a1e9e63dfd1a71679b244461.jpg",
+      "variants": [
+        {
+          "id": "12887",
+          "title": "POP MART",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12886",
+          "title": "POP MART",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9678",
+      "platform": "popmart",
+      "title": "HIRONO × CLOT-BASEBALL CAP",
+      "url": "https://www.popmart.com/us/products/9678/HIRONO-×-CLOT-BASEBALL-CAP",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794558057527_60e9348bba2e858a81d0f630f7c0b3fe.jpg",
+      "variants": [
+        {
+          "id": "12885",
+          "title": "POP MART",
+          "price": 81.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9676",
+      "platform": "popmart",
+      "title": "HIRONO × CLOT-NING NING SWEATSHIRT",
+      "url": "https://www.popmart.com/us/products/9676/HIRONO-×-CLOT-NING-NING-SWEATSHIRT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794538598105_cb45742e921a0e636bdfd775c297ace5.jpg",
+      "variants": [
+        {
+          "id": "12881",
+          "title": "POP MART",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "12882",
+          "title": "POP MART",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13106",
+          "title": "POP MART",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13107",
+          "title": "POP MART",
+          "price": 149.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9675",
+      "platform": "popmart",
+      "title": "HIRONO × CLOT-NING NING HOODIE HEATHER GREY",
+      "url": "https://www.popmart.com/us/products/9675/HIRONO-×-CLOT-NING-NING-HOODIE-HEATHER-GREY",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794537275918_df02f16379970d8c3b78cfde5f9af786.jpg",
+      "variants": [
+        {
+          "id": "12880",
+          "title": "POP MART",
+          "price": 269.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9674",
+      "platform": "popmart",
+      "title": "HIRONO × CLOT-KNITTED BEANIE",
+      "url": "https://www.popmart.com/us/products/9674/HIRONO-×-CLOT-KNITTED-BEANIE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794536362305_cb45742e921a0e636bdfd775c297ace5.jpg",
+      "variants": [
+        {
+          "id": "12879",
+          "title": "POP MART",
+          "price": 81.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -3097,7 +4557,7 @@
       "platform": "popmart",
       "title": "Twinkle Twinkle - Holiday Season Lucky Box",
       "url": "https://www.popmart.com/us/products/9790/Twinkle-Twinkle---Holiday-Season-Lucky-Box",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794465087275_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794881044406_bf1456e755ce998599e03fcfa8b1317a.jpg",
       "variants": [
         {
           "id": "13087",
@@ -5262,7 +6722,7 @@
           "title": "POP MART",
           "price": 3.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -5270,7 +6730,7 @@
           "title": "POP MART",
           "price": 79.8,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -6185,314 +7645,6 @@
           "price": 999.9,
           "currency": "USD",
           "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8895",
-      "platform": "popmart",
-      "title": "SKULLPANDA WHERE TIME DWELLS Series Figures",
-      "url": "https://www.popmart.com/us/products/8895/SKULLPANDA-WHERE-TIME-DWELLS-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789965051927_e1799bb6ed3a40f4bde18a9e1dd1f0bf.jpg",
-      "variants": [
-        {
-          "id": "11893",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8889",
-      "platform": "popmart",
-      "title": "SKULLPANDA WHERE TIME DWELLS Series Mini Bag - Mystic Veil",
-      "url": "https://www.popmart.com/us/products/8889/SKULLPANDA-WHERE-TIME-DWELLS-Series-Mini-Bag---Mystic-Veil",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789200715922_b2a36d811a22d239f26d50b39b6aba41.jpg",
-      "variants": [
-        {
-          "id": "11883",
-          "title": "POP MART",
-          "price": 27.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8888",
-      "platform": "popmart",
-      "title": "SKULLPANDA WHERE TIME DWELLS Series Fridge Magnet",
-      "url": "https://www.popmart.com/us/products/8888/SKULLPANDA-WHERE-TIME-DWELLS-Series-Fridge-Magnet",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789207871854_8fdd9a5a36db4b3d60abf48b4783bf63.jpg",
-      "variants": [
-        {
-          "id": "11881",
-          "title": "POP MART",
-          "price": 12.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        },
-        {
-          "id": "11882",
-          "title": "POP MART",
-          "price": 51.96,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8894",
-      "platform": "popmart",
-      "title": "SKULLPANDA WHERE TIME DWELLS Series Fridge Magnet",
-      "url": "https://www.popmart.com/us/products/8894/SKULLPANDA-WHERE-TIME-DWELLS-Series-Fridge-Magnet",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789207871854_8fdd9a5a36db4b3d60abf48b4783bf63.jpg",
-      "variants": [
-        {
-          "id": "11892",
-          "title": "POP MART",
-          "price": 12.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8891",
-      "platform": "popmart",
-      "title": "SKULLPANDA WHERE TIME DWELLS Series Phone Lanyard",
-      "url": "https://www.popmart.com/us/products/8891/SKULLPANDA-WHERE-TIME-DWELLS-Series-Phone-Lanyard",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789200439761_3650b199bdb81a9959379b121e9f12f7.jpg",
-      "variants": [
-        {
-          "id": "11886",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "11887",
-          "title": "POP MART",
-          "price": 119.94,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8896",
-      "platform": "popmart",
-      "title": "SKULLPANDA WHERE TIME DWELLS Series Phone Lanyard",
-      "url": "https://www.popmart.com/us/products/8896/SKULLPANDA-WHERE-TIME-DWELLS-Series-Phone-Lanyard",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789200439761_3650b199bdb81a9959379b121e9f12f7.jpg",
-      "variants": [
-        {
-          "id": "11894",
-          "title": "POP MART",
-          "price": 19.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8910",
-      "platform": "popmart",
-      "title": "DUCKOO In the Kitchen Series",
-      "url": "https://www.popmart.com/us/products/8910/DUCKOO-In-the-Kitchen-Series",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789201626733_c9f0f895fb98ab9159f51fd0297e236d.jpg",
-      "variants": [
-        {
-          "id": "11909",
-          "title": "POP MART",
-          "price": 17.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8909",
-      "platform": "popmart",
-      "title": "MEGA SPACE MOLLY DUCATI Vinyl Pendant",
-      "url": "https://www.popmart.com/us/products/8909/MEGA-SPACE-MOLLY-DUCATI-Vinyl-Pendant",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789202653276_7a1c35964aa09d01205befb834f2d082.jpg",
-      "variants": [
-        {
-          "id": "11908",
-          "title": "POP MART",
-          "price": 46.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8892",
-      "platform": "popmart",
-      "title": "Disney Zootopia POP CUBE-1 Series Figures",
-      "url": "https://www.popmart.com/us/products/8892/Disney-Zootopia-POP-CUBE-1-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789203028832_465ef4a2f01783a571b6e5b2a7152286.jpg",
-      "variants": [
-        {
-          "id": "11888",
-          "title": "POP MART",
-          "price": 9.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "11889",
-          "title": "POP MART",
-          "price": 89.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8897",
-      "platform": "popmart",
-      "title": "Disney Zootopia POP CUBE-1 Series Figures",
-      "url": "https://www.popmart.com/us/products/8897/Disney-Zootopia-POP-CUBE-1-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789203028832_465ef4a2f01783a571b6e5b2a7152286.jpg",
-      "variants": [
-        {
-          "id": "11895",
-          "title": "POP MART",
-          "price": 9.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8893",
-      "platform": "popmart",
-      "title": "Disney Zootopia POP CUBE-2 Series Figures",
-      "url": "https://www.popmart.com/us/products/8893/Disney-Zootopia-POP-CUBE-2-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789203374259_8c79e2861c1eaacd42830c871f89ef5c.jpg",
-      "variants": [
-        {
-          "id": "11890",
-          "title": "POP MART",
-          "price": 9.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        },
-        {
-          "id": "11891",
-          "title": "POP MART",
-          "price": 89.91,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
-      "id": "popmart_us_8898",
-      "platform": "popmart",
-      "title": "Disney Zootopia POP CUBE-2 Series Figures",
-      "url": "https://www.popmart.com/us/products/8898/Disney-Zootopia-POP-CUBE-2-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1789203374259_8c79e2861c1eaacd42830c871f89ef5c.jpg",
-      "variants": [
-        {
-          "id": "11896",
-          "title": "POP MART",
-          "price": 9.99,
-          "currency": "USD",
-          "available": true,
           "sku": ""
         }
       ],
