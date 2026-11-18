@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-18T01:58:46.189874Z",
+  "timestamp": "2026-11-18T09:44:58.505983Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1258,7 +1258,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2660,28 +2660,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_8769",
-      "platform": "popmart",
-      "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
-      "url": "https://www.popmart.com/us/products/8769/Employee-Imperfect-Mystery-Bag-|-Random-Items-|-Employee-Only",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794964465829_57a571c5aa287c800a74b1164115057a.png",
-      "variants": [
-        {
-          "id": "11742",
-          "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
-          "price": 89.0,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_9868",
       "platform": "popmart",
       "title": "$999+ GWP - Mystery MEGA 400% Grand Prize",
@@ -3137,7 +3115,7 @@
           "title": "POP MART",
           "price": 109.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3673,7 +3651,7 @@
       "platform": "popmart",
       "title": "HIRONO LIVING WILD-FREEDOM ISLAND STORM LINEN LONG-SLEEVE TEE – SAND",
       "url": "https://www.popmart.com/us/products/9684/HIRONO-LIVING-WILD-FREEDOM-ISLAND-STORM-LINEN-LONG-SLEEVE-TEE-–-SAND",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794546941999_209bcd0a1c20d4d851f1de6e0cca3c57.png",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794546941999_28a63fe4d716740efc5bfeef10a399d6.png",
       "variants": [
         {
           "id": "12894",
@@ -3836,7 +3814,7 @@
           "title": "POP MART",
           "price": 81.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3890,7 +3868,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3944,7 +3922,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4052,7 +4030,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4121,7 +4099,7 @@
           "title": "POP MART",
           "price": 129.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4344,7 +4322,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4452,7 +4430,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4506,7 +4484,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4631,7 +4609,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4685,7 +4663,7 @@
           "title": "POP MART",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4739,7 +4717,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4839,7 +4817,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4916,7 +4894,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4993,7 +4971,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5047,7 +5025,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5101,7 +5079,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5155,7 +5133,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5209,7 +5187,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5317,7 +5295,7 @@
           "title": "POP MART",
           "price": 24.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5471,7 +5449,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5525,7 +5503,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5579,7 +5557,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5656,7 +5634,7 @@
           "title": "POP MART",
           "price": 27.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5733,7 +5711,7 @@
           "title": "POP MART",
           "price": 15.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5879,7 +5857,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5902,7 +5880,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6117,7 +6095,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6140,7 +6118,7 @@
           "title": "POP MART",
           "price": 26.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6248,7 +6226,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6271,7 +6249,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6325,7 +6303,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6510,7 +6488,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6625,7 +6603,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6648,7 +6626,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6702,7 +6680,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6848,7 +6826,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6871,7 +6849,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6917,7 +6895,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6971,7 +6949,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
