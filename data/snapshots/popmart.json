@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-19T07:55:06.612560Z",
+  "timestamp": "2026-11-19T16:55:22.364985Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2082,7 +2082,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2660,6 +2660,52 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9879",
+      "platform": "popmart",
+      "title": "HOLIDAY GIFT SET: HIRONO",
+      "url": "https://www.popmart.com/us/products/9879/HOLIDAY-GIFT-SET:-HIRONO",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795082131475_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "13226",
+          "title": "POP MART",
+          "price": 280.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9877",
+      "platform": "popmart",
+      "title": "HOLIDAY GIFT SET: THE MONSTERS",
+      "url": "https://www.popmart.com/us/products/9877/HOLIDAY-GIFT-SET:-THE-MONSTERS",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795075079275_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "13224",
+          "title": "POP MART",
+          "price": 440.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9868",
       "platform": "popmart",
       "title": "$999+ GWP - Mystery MEGA 400% Grand Prize",
@@ -2787,7 +2833,7 @@
           "title": "POP MART",
           "price": 99.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2795,7 +2841,7 @@
           "title": "POP MART",
           "price": 99.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2849,7 +2895,7 @@
           "title": "POP MART",
           "price": 99.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2865,7 +2911,7 @@
           "title": "POP MART",
           "price": 99.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -4399,7 +4445,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -4786,7 +4832,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -4794,7 +4840,7 @@
           "title": "POP MART",
           "price": 59.97,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -5418,7 +5464,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -5426,7 +5472,7 @@
           "title": "POP MART",
           "price": 89.97,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -7110,7 +7156,7 @@
           "title": "POP MART",
           "price": 219.9,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
