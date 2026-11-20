@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-20T04:06:00.046793Z",
+  "timestamp": "2026-11-20T12:48:44.431114Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -320,7 +320,7 @@
           "title": "SKULLPANDA",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2090,7 +2090,7 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2478,7 +2478,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -3116,6 +3116,29 @@
           "id": "13226",
           "title": "POP MART",
           "price": 280.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9878",
+      "platform": "popmart",
+      "title": "HOLIDAY GIFT SET: PEACH RIOT",
+      "url": "https://www.popmart.com/us/products/9878/HOLIDAY-GIFT-SET:-PEACH-RIOT",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795160667424_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "13225",
+          "title": "POP MART",
+          "price": 249.0,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -4668,7 +4691,7 @@
           "title": "POP MART",
           "price": 0.0,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4737,7 +4760,7 @@
           "title": "POP MART",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
