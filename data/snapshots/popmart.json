@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-19T23:20:21.803279Z",
+  "timestamp": "2026-11-20T04:06:00.046793Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -642,7 +642,7 @@
           "title": "SpongeBob",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1258,7 +1258,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2082,7 +2082,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2660,6 +2660,452 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9776",
+      "platform": "popmart",
+      "title": "THE MONSTERS Secret Gallery Series Figures",
+      "url": "https://www.popmart.com/us/products/9776/THE-MONSTERS-Secret-Gallery-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794560992879_ae52a8f78f1d50c85f16d06bb671c114.jpg",
+      "variants": [
+        {
+          "id": "13067",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13068",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9785",
+      "platform": "popmart",
+      "title": "THE MONSTERS Secret Gallery Series Figures",
+      "url": "https://www.popmart.com/us/products/9785/THE-MONSTERS-Secret-Gallery-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794560992879_ae52a8f78f1d50c85f16d06bb671c114.jpg",
+      "variants": [
+        {
+          "id": "13082",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9774",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 100% Series 5",
+      "url": "https://www.popmart.com/us/products/9774/MEGA-SPACE-MOLLY-100%-Series-5",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794556537581_539875319b8474e42c8f42fdad37861a.jpg",
+      "variants": [
+        {
+          "id": "13063",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13064",
+          "title": "POP MART",
+          "price": 179.91,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9783",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY 100% Series 5",
+      "url": "https://www.popmart.com/us/products/9783/MEGA-SPACE-MOLLY-100%-Series-5",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794556537581_539875319b8474e42c8f42fdad37861a.jpg",
+      "variants": [
+        {
+          "id": "13080",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9775",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY Jon Burgerman Series Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9775/MEGA-SPACE-MOLLY-Jon-Burgerman-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794559221159_56639e1d64bde0fe79056dc02ba606a7.jpg",
+      "variants": [
+        {
+          "id": "13065",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13066",
+          "title": "POP MART",
+          "price": 239.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9784",
+      "platform": "popmart",
+      "title": "MEGA SPACE MOLLY Jon Burgerman Series Vinyl Plush Pendant",
+      "url": "https://www.popmart.com/us/products/9784/MEGA-SPACE-MOLLY-Jon-Burgerman-Series-Vinyl-Plush-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794559221159_56639e1d64bde0fe79056dc02ba606a7.jpg",
+      "variants": [
+        {
+          "id": "13081",
+          "title": "POP MART",
+          "price": 39.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9777",
+      "platform": "popmart",
+      "title": "Marvel Heroic Era Series Figures",
+      "url": "https://www.popmart.com/us/products/9777/Marvel-Heroic-Era-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794561597775_d9484b77048ee5c95373f0b2bbe75e83.jpg",
+      "variants": [
+        {
+          "id": "13069",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13070",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9786",
+      "platform": "popmart",
+      "title": "Marvel Heroic Era Series Figures",
+      "url": "https://www.popmart.com/us/products/9786/Marvel-Heroic-Era-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794561597775_d9484b77048ee5c95373f0b2bbe75e83.jpg",
+      "variants": [
+        {
+          "id": "13083",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9838",
+      "platform": "popmart",
+      "title": "Angry Molly \"20th Anniversary K Party\" Edition | Plush Toy",
+      "url": "https://www.popmart.com/us/products/9838/Angry-Molly-\"20th-Anniversary-K-Party\"-Edition-|-Plush-Toy",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794814793753_87de816cb46548a6494a1163384c0183.jpg",
+      "variants": [
+        {
+          "id": "13177",
+          "title": "POP MART",
+          "price": 27.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9830",
+      "platform": "popmart",
+      "title": "Angry Molly 20th Anniversary Edition Little Painter",
+      "url": "https://www.popmart.com/us/products/9830/Angry-Molly-20th-Anniversary-Edition-Little-Painter",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794812786919_87de816cb46548a6494a1163384c0183.jpg",
+      "variants": [
+        {
+          "id": "13169",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9832",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 400% 20th Anniversary",
+      "url": "https://www.popmart.com/us/products/9832/MEGA-ROYAL-MOLLY-400%-20th-Anniversary",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794813620882_87de816cb46548a6494a1163384c0183.jpg",
+      "variants": [
+        {
+          "id": "13171",
+          "title": "POP MART",
+          "price": 249.9,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9837",
+      "platform": "popmart",
+      "title": "MOLLY STELLAR GLOW FIGURINE",
+      "url": "https://www.popmart.com/us/products/9837/MOLLY-STELLAR-GLOW-FIGURINE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794814657953_87de816cb46548a6494a1163384c0183.jpg",
+      "variants": [
+        {
+          "id": "13176",
+          "title": "POP MART",
+          "price": 189.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9834",
+      "platform": "popmart",
+      "title": "MOLLY 20th Anniversary Statue - Time Will Tell \"Fortune Ahead\"",
+      "url": "https://www.popmart.com/us/products/9834/MOLLY-20th-Anniversary-Statue---Time-Will-Tell-\"Fortune-Ahead\"",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794813879627_87de816cb46548a6494a1163384c0183.jpg",
+      "variants": [
+        {
+          "id": "13173",
+          "title": "POP MART",
+          "price": 399.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9836",
+      "platform": "popmart",
+      "title": "MOLLY STARLIGHT GLOW FIGURINE",
+      "url": "https://www.popmart.com/us/products/9836/MOLLY-STARLIGHT-GLOW-FIGURINE",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794814528680_87de816cb46548a6494a1163384c0183.jpg",
+      "variants": [
+        {
+          "id": "13175",
+          "title": "POP MART",
+          "price": 189.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9831",
+      "platform": "popmart",
+      "title": "MEGA ROYAL MOLLY 100% 20th Anniversary",
+      "url": "https://www.popmart.com/us/products/9831/MEGA-ROYAL-MOLLY-100%-20th-Anniversary",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794813400870_a642cb2e2d9efdd130e183fa04282de9.jpg",
+      "variants": [
+        {
+          "id": "13170",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9835",
+      "platform": "popmart",
+      "title": "MOLLY 3rd Anniversary Statue \"Round Three\" K.O.",
+      "url": "https://www.popmart.com/us/products/9835/MOLLY-3rd-Anniversary-Statue-\"Round-Three\"-K.O.",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794814058793_87de816cb46548a6494a1163384c0183.jpg",
+      "variants": [
+        {
+          "id": "13174",
+          "title": "POP MART",
+          "price": 399.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9843",
+      "platform": "popmart",
+      "title": "MOLLY 20th Anniversary Exhibition Exclusive Paper Print - Fighting",
+      "url": "https://www.popmart.com/us/products/9843/MOLLY-20th-Anniversary-Exhibition-Exclusive-Paper-Print---Fighting",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794814387891_108c8b95945e32f51cfa3ac9801d08f6.jpg",
+      "variants": [
+        {
+          "id": "13182",
+          "title": "POP MART",
+          "price": 249.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9840",
+      "platform": "popmart",
+      "title": "MOLLY 20th Anniversary Exhibition Exclusive Paper Print - The Little Galaxy",
+      "url": "https://www.popmart.com/us/products/9840/MOLLY-20th-Anniversary-Exhibition-Exclusive-Paper-Print---The-Little-Galaxy",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794814227466_108c8b95945e32f51cfa3ac9801d08f6.jpg",
+      "variants": [
+        {
+          "id": "13179",
+          "title": "POP MART",
+          "price": 249.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9879",
       "platform": "popmart",
       "title": "HOLIDAY GIFT SET: HIRONO",
@@ -2841,7 +3287,7 @@
           "title": "POP MART",
           "price": 99.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2919,7 +3365,7 @@
           "title": "POP MART",
           "price": 99.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2958,7 +3404,7 @@
           "title": "POP MART",
           "price": 59.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -4222,7 +4668,7 @@
           "title": "POP MART",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -4268,7 +4714,7 @@
           "title": "POP MART",
           "price": 0.0,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -7233,7 +7679,7 @@
           "title": "MOLLY",
           "price": 399.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
