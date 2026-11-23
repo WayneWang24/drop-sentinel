@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-23T11:34:36.436833Z",
+  "timestamp": "2026-11-23T22:55:00.971087Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2478,7 +2478,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2531,7 +2531,7 @@
           "title": "Genshin Impact Academy's Light and Shadow Poetry Chibi Series Figures",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -4614,7 +4614,7 @@
           "title": "POP MART",
           "price": 129.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -5378,7 +5378,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -5625,7 +5625,7 @@
           "title": "POP MART",
           "price": 179.94,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -6941,7 +6941,7 @@
           "title": "POP MART",
           "price": 3.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
