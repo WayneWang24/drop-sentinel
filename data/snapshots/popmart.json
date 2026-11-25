@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-24T18:17:49.321161Z",
+  "timestamp": "2026-11-25T02:39:52.589090Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1565,7 +1565,7 @@
           "title": "POP MART",
           "price": 39.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2640,7 +2640,7 @@
           "title": "SKULLPANDA",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2648,12 +2648,34 @@
           "title": "SKULLPANDA",
           "price": 239.88,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_8769",
+      "platform": "popmart",
+      "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+      "url": "https://www.popmart.com/us/products/8769/Employee-Imperfect-Mystery-Bag-|-Random-Items-|-Employee-Only",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794969352170_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "11742",
+          "title": "Employee Imperfect Mystery Bag | Random Items | Employee Only",
+          "price": 89.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new"
       ],
       "created_at": null,
       "updated_at": null
@@ -2900,7 +2922,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -4992,7 +5014,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
