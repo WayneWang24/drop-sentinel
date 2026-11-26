@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-26T03:05:22.754512Z",
+  "timestamp": "2026-11-26T12:19:40.996449Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -642,7 +642,7 @@
           "title": "SpongeBob",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1472,7 +1472,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1858,29 +1858,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_9665",
-      "platform": "popmart",
-      "title": "Hirono × UV WWR Lucky Bertie Figurine",
-      "url": "https://www.popmart.com/us/products/9665/Hirono-×-UV-WWR-Lucky-Bertie-Figurine",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793953027810_0c953110f1cbb0c6deb66963e3d3718b.jpg",
-      "variants": [
-        {
-          "id": "12865",
-          "title": "POP MART",
-          "price": 129.99,
-          "currency": "USD",
-          "available": false,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_5990",
       "platform": "popmart",
       "title": "THE MONSTERS × HELLO KITTY - Vinyl Plush Doll",
@@ -1965,7 +1942,7 @@
           "title": "THE MONSTERS",
           "price": 199.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2270,7 +2247,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2654,6 +2631,29 @@
       ],
       "tags": [
         "skullpanda"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9666",
+      "platform": "popmart",
+      "title": "Hirono × UV WWR Square Garden Patrol Figure",
+      "url": "https://www.popmart.com/us/products/9666/Hirono-×-UV-WWR-Square-Garden-Patrol-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793953339206_427ad1dfc3feab2fbbf259b4f00ce4b6.jpg",
+      "variants": [
+        {
+          "id": "12866",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
       ],
       "created_at": null,
       "updated_at": null
@@ -4604,29 +4604,6 @@
       "updated_at": null
     },
     {
-      "id": "popmart_us_9666",
-      "platform": "popmart",
-      "title": "Hirono × UV WWR Square Garden Patrol Figure",
-      "url": "https://www.popmart.com/us/products/9666/Hirono-×-UV-WWR-Square-Garden-Patrol-Figure",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793953339206_427ad1dfc3feab2fbbf259b4f00ce4b6.jpg",
-      "variants": [
-        {
-          "id": "12866",
-          "title": "POP MART",
-          "price": 29.99,
-          "currency": "USD",
-          "available": true,
-          "sku": ""
-        }
-      ],
-      "tags": [
-        "new",
-        "pop_mart"
-      ],
-      "created_at": null,
-      "updated_at": null
-    },
-    {
       "id": "popmart_us_9671",
       "platform": "popmart",
       "title": "POP BEAN Wishes Come True Series",
@@ -4747,6 +4724,29 @@
           "price": 69.99,
           "currency": "USD",
           "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9665",
+      "platform": "popmart",
+      "title": "Hirono × UV WWR Lucky Bertie Figurine",
+      "url": "https://www.popmart.com/us/products/9665/Hirono-×-UV-WWR-Lucky-Bertie-Figurine",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1793953027810_0c953110f1cbb0c6deb66963e3d3718b.jpg",
+      "variants": [
+        {
+          "id": "12865",
+          "title": "POP MART",
+          "price": 129.99,
+          "currency": "USD",
+          "available": false,
           "sku": ""
         }
       ],
@@ -4906,8 +4906,8 @@
     {
       "id": "popmart_us_9790",
       "platform": "popmart",
-      "title": "Twinkle Twinkle - Holiday Season Lucky Box",
-      "url": "https://www.popmart.com/us/products/9790/Twinkle-Twinkle---Holiday-Season-Lucky-Box",
+      "title": "Holiday Season Lucky Box - 39.99",
+      "url": "https://www.popmart.com/us/products/9790/Holiday-Season-Lucky-Box---39.99",
       "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1794881044406_bf1456e755ce998599e03fcfa8b1317a.jpg",
       "variants": [
         {
@@ -6741,7 +6741,7 @@
           "title": "POP MART",
           "price": 21.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -6926,7 +6926,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -7295,7 +7295,7 @@
           "title": "POP MART",
           "price": 4.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -7326,7 +7326,7 @@
           "title": "POP MART",
           "price": 49.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
