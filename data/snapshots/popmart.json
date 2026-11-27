@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-26T21:46:31.142050Z",
+  "timestamp": "2026-11-27T03:52:16.123280Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -2247,7 +2247,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2255,7 +2255,7 @@
           "title": "POP MART",
           "price": 89.95,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -2529,7 +2529,7 @@
           "title": "Nyota",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2646,6 +2646,438 @@
           "id": "12866",
           "title": "POP MART",
           "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9865",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA WHO'S ONLINE? Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9865/θ-SKULLPANDA-WHO'S-ONLINE?-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795400224257_c54ced171f95864377a9f9bce599c471.jpg",
+      "variants": [
+        {
+          "id": "13209",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13210",
+          "title": "POP MART",
+          "price": 239.92,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9875",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA WHO'S ONLINE? Series Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9875/θ-SKULLPANDA-WHO'S-ONLINE?-Series-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795400224257_c54ced171f95864377a9f9bce599c471.jpg",
+      "variants": [
+        {
+          "id": "13222",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9863",
+      "platform": "popmart",
+      "title": "SKULLPANDA CONNECTING NOW Series Figures",
+      "url": "https://www.popmart.com/us/products/9863/SKULLPANDA-CONNECTING-NOW-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795593960705_0887ef13aba68791e3f6cc353c3e90cd.jpg",
+      "variants": [
+        {
+          "id": "13206",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13207",
+          "title": "POP MART",
+          "price": 239.88,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9874",
+      "platform": "popmart",
+      "title": "SKULLPANDA CONNECTING NOW Series Figures",
+      "url": "https://www.popmart.com/us/products/9874/SKULLPANDA-CONNECTING-NOW-Series-Figures",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795593960705_0887ef13aba68791e3f6cc353c3e90cd.jpg",
+      "variants": [
+        {
+          "id": "13221",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9860",
+      "platform": "popmart",
+      "title": "IVE Fall into Sweetness Series Vinyl Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9860/IVE-Fall-into-Sweetness-Series-Vinyl-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795166276127_246184075eaf31652f59ae9cfb0a3e3a.jpg",
+      "variants": [
+        {
+          "id": "13200",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13201",
+          "title": "POP MART",
+          "price": 179.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9871",
+      "platform": "popmart",
+      "title": "IVE Fall into Sweetness Series Vinyl Plush Doll Pendant",
+      "url": "https://www.popmart.com/us/products/9871/IVE-Fall-into-Sweetness-Series-Vinyl-Plush-Doll-Pendant",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795166276127_246184075eaf31652f59ae9cfb0a3e3a.jpg",
+      "variants": [
+        {
+          "id": "13218",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9862",
+      "platform": "popmart",
+      "title": "Peach Riot The Powerpuff Girls Series 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/9862/Peach-Riot-The-Powerpuff-Girls-Series-1-8-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795161826104_8ab22ba104564d96ebe89090a673a727.jpg",
+      "variants": [
+        {
+          "id": "13204",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "13205",
+          "title": "POP MART",
+          "price": 179.97,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9873",
+      "platform": "popmart",
+      "title": "Peach Riot The Powerpuff Girls Series 1/8 Action Figure",
+      "url": "https://www.popmart.com/us/products/9873/Peach-Riot-The-Powerpuff-Girls-Series-1-8-Action-Figure",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795161826104_8ab22ba104564d96ebe89090a673a727.jpg",
+      "variants": [
+        {
+          "id": "13220",
+          "title": "POP MART",
+          "price": 59.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9867",
+      "platform": "popmart",
+      "title": "POP BEAN SKULLPANDA CONNECTING NOW Series",
+      "url": "https://www.popmart.com/us/products/9867/POP-BEAN-SKULLPANDA-CONNECTING-NOW-Series",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795160950354_d81bb1f99d8661c512e45f18acc884cb.jpg",
+      "variants": [
+        {
+          "id": "13213",
+          "title": "POP MART",
+          "price": 4.99,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        },
+        {
+          "id": "13214",
+          "title": "POP MART",
+          "price": 59.88,
+          "currency": "USD",
+          "available": false,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9866",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA WHO'S ONLINE? Series Plush Mini Bag",
+      "url": "https://www.popmart.com/us/products/9866/θ-SKULLPANDA-WHO'S-ONLINE?-Series-Plush-Mini-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795163246502_82ace8aceffa907af83046d4a303c35d.jpg",
+      "variants": [
+        {
+          "id": "13211",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13212",
+          "title": "POP MART",
+          "price": 131.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9876",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA WHO'S ONLINE? Series Plush Mini Bag",
+      "url": "https://www.popmart.com/us/products/9876/θ-SKULLPANDA-WHO'S-ONLINE?-Series-Plush-Mini-Bag",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795163246502_82ace8aceffa907af83046d4a303c35d.jpg",
+      "variants": [
+        {
+          "id": "13223",
+          "title": "POP MART",
+          "price": 21.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9864",
+      "platform": "popmart",
+      "title": "θ SKULLPANDA WHO'S ONLINE? Series Change Purse",
+      "url": "https://www.popmart.com/us/products/9864/θ-SKULLPANDA-WHO'S-ONLINE?-Series-Change-Purse",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795162586312_8586eff201b5f50290ad85e148b1fb3e.jpg",
+      "variants": [
+        {
+          "id": "13208",
+          "title": "POP MART",
+          "price": 29.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9861",
+      "platform": "popmart",
+      "title": "IVE Fall into Sweetness Series Phone Charm",
+      "url": "https://www.popmart.com/us/products/9861/IVE-Fall-into-Sweetness-Series-Phone-Charm",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795161175102_05901eaa12375d1c78fafa153a8473b9.jpg",
+      "variants": [
+        {
+          "id": "13202",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13203",
+          "title": "POP MART",
+          "price": 119.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9872",
+      "platform": "popmart",
+      "title": "IVE Fall into Sweetness Series Phone Charm",
+      "url": "https://www.popmart.com/us/products/9872/IVE-Fall-into-Sweetness-Series-Phone-Charm",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795161175102_05901eaa12375d1c78fafa153a8473b9.jpg",
+      "variants": [
+        {
+          "id": "13219",
+          "title": "POP MART",
+          "price": 19.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9859",
+      "platform": "popmart",
+      "title": "IVE Fall into Sweetness Series Hair Clip Set",
+      "url": "https://www.popmart.com/us/products/9859/IVE-Fall-into-Sweetness-Series-Hair-Clip-Set",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795160928097_a9ae6105f4734ab0f5f5738892ac25d4.jpg",
+      "variants": [
+        {
+          "id": "13198",
+          "title": "POP MART",
+          "price": 15.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        },
+        {
+          "id": "13199",
+          "title": "POP MART",
+          "price": 95.94,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9870",
+      "platform": "popmart",
+      "title": "IVE Fall into Sweetness Series Hair Clip Set",
+      "url": "https://www.popmart.com/us/products/9870/IVE-Fall-into-Sweetness-Series-Hair-Clip-Set",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795160928097_a9ae6105f4734ab0f5f5738892ac25d4.jpg",
+      "variants": [
+        {
+          "id": "13217",
+          "title": "POP MART",
+          "price": 15.99,
           "currency": "USD",
           "available": true,
           "sku": ""
@@ -6010,7 +6442,7 @@
           "title": "POP MART",
           "price": 99.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
