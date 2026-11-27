@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-27T13:18:24.977348Z",
+  "timestamp": "2026-11-27T22:10:44.249948Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1166,7 +1166,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2529,7 +2529,7 @@
           "title": "Nyota",
           "price": 19.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2716,7 +2716,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -2724,7 +2724,7 @@
           "title": "POP MART",
           "price": 239.92,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3624,7 +3624,7 @@
           "title": "POP MART",
           "price": 129.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3647,7 +3647,7 @@
           "title": "POP MART",
           "price": 219.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -3655,7 +3655,7 @@
           "title": "POP MART",
           "price": 219.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         }
       ],
@@ -3827,7 +3827,7 @@
           "title": "POP MART",
           "price": 79.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
