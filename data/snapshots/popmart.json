@@ -1,6 +1,6 @@
 {
   "platform": "popmart",
-  "timestamp": "2026-11-27T03:52:16.123280Z",
+  "timestamp": "2026-11-27T13:18:24.977348Z",
   "products": [
     {
       "id": "popmart_us_2064",
@@ -1321,7 +1321,7 @@
           "title": "POP MART",
           "price": 19.99,
           "currency": "USD",
-          "available": true,
+          "available": false,
           "sku": ""
         },
         {
@@ -1472,7 +1472,7 @@
           "title": "POP MART",
           "price": 29.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -1480,7 +1480,7 @@
           "title": "POP MART",
           "price": 179.94,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -1942,7 +1942,7 @@
           "title": "THE MONSTERS",
           "price": 199.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2247,7 +2247,7 @@
           "title": "POP MART",
           "price": 17.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         },
         {
@@ -2255,7 +2255,7 @@
           "title": "POP MART",
           "price": 89.95,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
@@ -2659,6 +2659,52 @@
       "updated_at": null
     },
     {
+      "id": "popmart_us_9986",
+      "platform": "popmart",
+      "title": "HOLIDAY GIFT SET LITE: THE MONSTERS",
+      "url": "https://www.popmart.com/us/products/9986/HOLIDAY-GIFT-SET-LITE:-THE-MONSTERS",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795764135482_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "13355",
+          "title": "POP MART",
+          "price": 170.0,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "popmart_us_9979",
+      "platform": "popmart",
+      "title": "Holiday Season Lucky Box - 44.99",
+      "url": "https://www.popmart.com/us/products/9979/Holiday-Season-Lucky-Box---44.99",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795687183184_bf1456e755ce998599e03fcfa8b1317a.jpg",
+      "variants": [
+        {
+          "id": "13348",
+          "title": "POP MART",
+          "price": 44.99,
+          "currency": "USD",
+          "available": true,
+          "sku": ""
+        }
+      ],
+      "tags": [
+        "new",
+        "pop_mart"
+      ],
+      "created_at": null,
+      "updated_at": null
+    },
+    {
       "id": "popmart_us_9865",
       "platform": "popmart",
       "title": "θ SKULLPANDA WHO'S ONLINE? Series Plush Doll Pendant",
@@ -2717,7 +2763,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA CONNECTING NOW Series Figures",
       "url": "https://www.popmart.com/us/products/9863/SKULLPANDA-CONNECTING-NOW-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795593960705_0887ef13aba68791e3f6cc353c3e90cd.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795769818690_644aae4f6f4b1d67bfd13722e5ee8538.jpg",
       "variants": [
         {
           "id": "13206",
@@ -2748,7 +2794,7 @@
       "platform": "popmart",
       "title": "SKULLPANDA CONNECTING NOW Series Figures",
       "url": "https://www.popmart.com/us/products/9874/SKULLPANDA-CONNECTING-NOW-Series-Figures",
-      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795593960705_0887ef13aba68791e3f6cc353c3e90cd.jpg",
+      "image_url": "https://prod-global-biz.popmart.com/globalAdmin/1795769818690_644aae4f6f4b1d67bfd13722e5ee8538.jpg",
       "variants": [
         {
           "id": "13221",
@@ -6180,7 +6226,7 @@
           "title": "POP MART",
           "price": 79.99,
           "currency": "USD",
-          "available": false,
+          "available": true,
           "sku": ""
         }
       ],
